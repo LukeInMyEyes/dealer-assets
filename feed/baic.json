@@ -1,0 +1,337 @@
+{
+  "key": "baic",
+  "name": "BAIC",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "b30",
+      "name": "B30",
+      "brand": "BAIC",
+      "brand_key": "baic",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+      "source_url": "https://www.baic.co.za/models/b30",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-2.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Elite Adventure 1.5T",
+          "slug": "elite-adventure-1-5t",
+          "price_incl": 519900,
+          "price_excl": 452087,
+          "price_display": "R519 900",
+          "monthly_estimate": 10029,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "138",
+            "torque_nm": "305",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "8.06",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "7 years / 200 000 km",
+            "service_plan": "7 years / 90 000 km"
+          },
+          "mm_code": "056-19-150"
+        },
+        {
+          "name": "Premium Adventure 1.5T",
+          "slug": "premium-adventure-1-5t",
+          "price_incl": 549900,
+          "price_excl": 478174,
+          "price_display": "R549 900",
+          "monthly_estimate": 10608,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "138",
+            "torque_nm": "305",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "8.06",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "7 years / 200 000 km",
+            "service_plan": "7 years / 90 000 km"
+          },
+          "mm_code": "056-19-160"
+        },
+        {
+          "name": "Elite Adventure HEV",
+          "slug": "elite-adventure-hev",
+          "price_incl": 639900,
+          "price_excl": 556435,
+          "price_display": "R639 900",
+          "monthly_estimate": 12344,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "246",
+            "torque_nm": "550",
+            "fuel_type": "Hybrid",
+            "transmission": "DHT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "5.85",
+            "seats": "5",
+            "warranty": "7 years / 200 000 km",
+            "service_plan": "7 years / 90 000 km"
+          },
+          "mm_code": "056-19-200"
+        },
+        {
+          "name": "Premium Adventure HEV AWD",
+          "slug": "premium-adventure-hev-awd",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "301",
+            "torque_nm": "685",
+            "fuel_type": "Hybrid",
+            "transmission": "DHT",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.45",
+            "seats": "5",
+            "warranty": "7 years / 200 000 km",
+            "service_plan": "7 years / 90 000 km"
+          },
+          "mm_code": "056-19-220"
+        }
+      ],
+      "price_from": 519900,
+      "price_to": 689900,
+      "price_range": "R519 900 – R689 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 4
+    },
+    {
+      "slug": "b40-plus",
+      "name": "B40 Plus",
+      "brand": "BAIC",
+      "brand_key": "baic",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/hero.jpg",
+      "source_url": "https://www.baic.co.za/models/b40",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/hero.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/interior-2.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/action.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0T Honor Edition 8AT",
+          "slug": "2-0t-honor-edition-8at",
+          "price_incl": 699500,
+          "price_excl": 608261,
+          "price_display": "R699 500",
+          "monthly_estimate": 13494,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "165",
+            "torque_nm": "380",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "seats": "5",
+            "warranty": "5 years / 120 000 km"
+          },
+          "mm_code": "056-20-271"
+        }
+      ],
+      "price_from": 699500,
+      "price_to": 699500,
+      "price_range": "R699 500",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 1
+    },
+    {
+      "slug": "x55-plus",
+      "name": "X55 Plus",
+      "brand": "BAIC",
+      "brand_key": "baic",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/hero.jpg",
+      "source_url": "https://www.baic.co.za/models/x55",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/hero.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/interior-2.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/tech-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/detail-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Plus 1.5T Dynamic",
+          "slug": "plus-1-5t-dynamic",
+          "price_incl": 429900,
+          "price_excl": 373826,
+          "price_display": "R429 900",
+          "monthly_estimate": 8293,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "138",
+            "torque_nm": "305",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.7",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km",
+            "service_plan": "5 years / 60 000 km"
+          },
+          "mm_code": "056-17-150"
+        },
+        {
+          "name": "Plus 1.5T Elite",
+          "slug": "plus-1-5t-elite",
+          "price_incl": 469900,
+          "price_excl": 408609,
+          "price_display": "R469 900",
+          "monthly_estimate": 9065,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "138",
+            "torque_nm": "305",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.7",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km",
+            "service_plan": "5 years / 60 000 km"
+          },
+          "mm_code": "056-17-160"
+        },
+        {
+          "name": "Plus 1.5T Premium",
+          "slug": "plus-1-5t-premium",
+          "price_incl": 509900,
+          "price_excl": 443391,
+          "price_display": "R509 900",
+          "monthly_estimate": 9837,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "138",
+            "torque_nm": "305",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.7",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km",
+            "service_plan": "5 years / 60 000 km"
+          },
+          "mm_code": "056-17-170"
+        },
+        {
+          "name": "Plus 1.5T Premium 2T",
+          "slug": "plus-1-5t-premium-2t",
+          "price_incl": 514900,
+          "price_excl": 447739,
+          "price_display": "R514 900",
+          "monthly_estimate": 9933,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "138",
+            "torque_nm": "305",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.7",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km",
+            "service_plan": "5 years / 60 000 km"
+          },
+          "mm_code": "056-17-170"
+        }
+      ],
+      "price_from": 429900,
+      "price_to": 514900,
+      "price_range": "R429 900 – R514 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 4
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 3,
+  "price_from": 429900,
+  "price_to": 699500
+}

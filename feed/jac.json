@@ -1,0 +1,382 @@
+{
+  "key": "jac",
+  "name": "JAC",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "t6",
+      "name": "T6",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://img-ik.cars.co.za/specimages/jac_t6_1p1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/JAC/T6/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jac_t6_1p1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/01/T6-Sc-front-480x480.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2022/02/JAC-T6-Back-Axle-480x175.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2022/03/JAC-Motors.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/jac_t6_1p1_3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0T CTi S/C 4x2 Comfort",
+          "slug": "2-0t-cti-s-c-4x2-comfort",
+          "price_incl": 299900,
+          "price_excl": 260783,
+          "price_display": "R299 900",
+          "monthly_estimate": 5785,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "102",
+            "torque_nm": "320",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "6.9",
+            "co2_gkm": "176",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "2.0T CTi S/C 4x2 Lux",
+          "slug": "2-0t-cti-s-c-4x2-lux",
+          "price_incl": 314900,
+          "price_excl": 273826,
+          "price_display": "R314 900",
+          "monthly_estimate": 6075,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "102",
+            "torque_nm": "320",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "6.9",
+            "co2_gkm": "176",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 299900,
+      "price_to": 314900,
+      "price_range": "R299 900 – R314 900",
+      "body_type": "Single Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "t8",
+      "name": "T8",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://img-ik.cars.co.za/specimages/jac_t8_1fd5_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/JAC/T8/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jac_t8_1fd5_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/jac_t8_1fd5_1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/jac_t8_1fd5_3.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/jac_t8_1fd5_4.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/jac_t8_1fd5_2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0CTI D/C Comfort",
+          "slug": "2-0cti-d-c-comfort",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "104",
+            "torque_nm": "320",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "199",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "2.0CTI D/C Lux",
+          "slug": "2-0cti-d-c-lux",
+          "price_incl": 399900,
+          "price_excl": 347739,
+          "price_display": "R399 900",
+          "monthly_estimate": 7715,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "104",
+            "torque_nm": "320",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "199",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "2.0CTI D/C 4WD Lux",
+          "slug": "2-0cti-d-c-4wd-lux",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "104",
+            "torque_nm": "320",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "199",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 449900,
+      "price_range": "R349 900 – R449 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "t9",
+      "name": "T9",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://img-ik.cars.co.za/specimages/jact9_1d5_1.jpg",
+      "source_url": "https://jacmotors.co.za/jac-t9-double-cab/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jact9_1d5_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jact9_1d5_2.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jact9_1d5_3.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jact9_1d5_4.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jact9_1d5_5.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0 CTi D/C Lux 4x2",
+          "slug": "2-0-cti-d-c-lux-4x2",
+          "price_incl": 549900,
+          "price_excl": 478174,
+          "price_display": "R549 900",
+          "monthly_estimate": 10608,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "125",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "223",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0 CTi D/C Super Lux 4x2",
+          "slug": "2-0-cti-d-c-super-lux-4x2",
+          "price_incl": 599900,
+          "price_excl": 521652,
+          "price_display": "R599 900",
+          "monthly_estimate": 11573,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "125",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "223",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0 CTi D/C Lux 4x4",
+          "slug": "2-0-cti-d-c-lux-4x4",
+          "price_incl": 609900,
+          "price_excl": 530348,
+          "price_display": "R609 900",
+          "monthly_estimate": 11766,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "125",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "223",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0 CTi D/C Hunter 4x2",
+          "slug": "2-0-cti-d-c-hunter-4x2",
+          "price_incl": 629900,
+          "price_excl": 547739,
+          "price_display": "R629 900",
+          "monthly_estimate": 12151,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "125",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "223",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0 CTi D/C Super Lux 4x4",
+          "slug": "2-0-cti-d-c-super-lux-4x4",
+          "price_incl": 659900,
+          "price_excl": 573826,
+          "price_display": "R659 900",
+          "monthly_estimate": 12730,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "125",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "223",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0 CTi D/C Hunter 4x4",
+          "slug": "2-0-cti-d-c-hunter-4x4",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "1999cc",
+            "power_kw": "125",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "223",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        }
+      ],
+      "price_from": 549900,
+      "price_to": 689900,
+      "price_range": "R549 900 – R689 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 6
+    }
+  ],
+  "total_variants": 11,
+  "model_count": 3,
+  "price_from": 299900,
+  "price_to": 689900
+}

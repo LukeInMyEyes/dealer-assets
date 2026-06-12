@@ -1,0 +1,291 @@
+{
+  "key": "jeep",
+  "name": "Jeep",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "gladiator",
+      "name": "Gladiator",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "https://img-ik.cars.co.za/specimages/jeepglad1d2_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Jeep/Gladiator/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jeepglad1d2_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "Rubicon 3.6L 4x4 D-Cab PU AT",
+          "slug": "rubicon-3-6l-4x4-d-cab-pu-at",
+          "price_incl": 1399900,
+          "price_excl": 1217304,
+          "price_display": "R1 399 900",
+          "monthly_estimate": 27006,
+          "specs": {
+            "engine_capacity": "3 604",
+            "power_kw": "209",
+            "torque_nm": "347",
+            "fuel_type": "petrol",
+            "transmission": "8-speed automatic",
+            "drivetrain": "AWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "12.3",
+            "co2_gkm": "288",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "100 000km",
+            "service_plan": "5yr/100 000 Kmkm"
+          },
+          "dimensions": {
+            "length_mm": "5 591mm",
+            "width_mm": "1 894",
+            "height_mm": "1 909mm",
+            "wheelbase_mm": "3 488",
+            "ground_clearance_mm": "282"
+          }
+        }
+      ],
+      "price_from": 1399900,
+      "price_to": 1399900,
+      "price_range": "R1 399 900",
+      "body_type": "Double Cab",
+      "fuel_type": "petrol",
+      "variant_count": 1
+    },
+    {
+      "slug": "grand-cherokee",
+      "name": "Grand Cherokee",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "https://img-ik.cars.co.za/specimages/jeepgran5e2_1.jpg",
+      "source_url": "https://www.jeep.com/za/jeep-grand-cherokee/plug-in.html",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jeepgran5e2_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "3.6 Limited 4x4 8-sp AT",
+          "slug": "3-6-limited-4x4-8-sp-at",
+          "price_incl": 1426989,
+          "price_excl": 1240860,
+          "price_display": "R1 426 989",
+          "monthly_estimate": 27528,
+          "specs": {
+            "engine_capacity": "3600cc",
+            "power_kw": "210",
+            "torque_nm": "344",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "9.9",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "3.6 Overland 4x4 8-sp AT",
+          "slug": "3-6-overland-4x4-8-sp-at",
+          "price_incl": 1651304,
+          "price_excl": 1435917,
+          "price_display": "R1 651 304",
+          "monthly_estimate": 31856,
+          "specs": {
+            "engine_capacity": "3600cc",
+            "power_kw": "210",
+            "torque_nm": "344",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "9.9",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "3.6 Summit Reserve 4x4 8-sp AT",
+          "slug": "3-6-summit-reserve-4x4-8-sp-at",
+          "price_incl": 1881709,
+          "price_excl": 1636269,
+          "price_display": "R1 881 709",
+          "monthly_estimate": 36300,
+          "specs": {
+            "engine_capacity": "3600cc",
+            "power_kw": "210",
+            "torque_nm": "344",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "9.9",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "L 3.6 Limited 4x4 8-sp AT",
+          "slug": "l-3-6-limited-4x4-8-sp-at",
+          "price_incl": 1447289,
+          "price_excl": 1258512,
+          "price_display": "R1 447 289",
+          "monthly_estimate": 27920,
+          "specs": {
+            "engine_capacity": "3600cc",
+            "power_kw": "210",
+            "torque_nm": "344",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "9.9",
+            "seats": "7",
+            "airbags": "8",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "L 3.6 Overland 4x4 8-sp AT",
+          "slug": "l-3-6-overland-4x4-8-sp-at",
+          "price_incl": 1671604,
+          "price_excl": 1453569,
+          "price_display": "R1 671 604",
+          "monthly_estimate": 32247,
+          "specs": {
+            "engine_capacity": "3600cc",
+            "power_kw": "210",
+            "torque_nm": "344",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "9.9",
+            "seats": "7",
+            "airbags": "8",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "L 3.6 Summit Reserve 4x4 8-sp AT",
+          "slug": "l-3-6-summit-reserve-4x4-8-sp-at",
+          "price_incl": 1853900,
+          "price_excl": 1612087,
+          "price_display": "R1 853 900",
+          "monthly_estimate": 35764,
+          "specs": {
+            "engine_capacity": "3600cc",
+            "power_kw": "210",
+            "torque_nm": "344",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "9.9",
+            "seats": "7",
+            "airbags": "8",
+            "warranty": "5 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 1426989,
+      "price_to": 1881709,
+      "price_range": "R1 426 989 – R1 881 709",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 6
+    },
+    {
+      "slug": "wrangler",
+      "name": "Wrangler",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "https://img-ik.cars.co.za/specimages/jeepwran3fe2_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Jeep/Wrangler/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/jeepwran3fe2_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "Rubicon",
+          "slug": "rubicon",
+          "price_incl": 1299900,
+          "price_excl": 1130348,
+          "price_display": "R1 299 900",
+          "monthly_estimate": 25077,
+          "specs": {
+            "engine_capacity": "1 995",
+            "power_kw": "200",
+            "torque_nm": "400",
+            "fuel_type": "petrol",
+            "transmission": "8-speed automatic",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "11.9",
+            "co2_gkm": "278",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "100 000km",
+            "service_plan": "5yr/100 000 Kmkm"
+          },
+          "dimensions": {
+            "length_mm": "4 882mm",
+            "height_mm": "1 848mm",
+            "wheelbase_mm": "3 008",
+            "ground_clearance_mm": "252"
+          }
+        },
+        {
+          "name": "Sport",
+          "slug": "sport",
+          "price_incl": 1199900,
+          "price_excl": 1043391,
+          "price_display": "R1 199 900",
+          "monthly_estimate": 23147,
+          "specs": {
+            "engine_capacity": "1 995",
+            "power_kw": "209",
+            "torque_nm": "347",
+            "fuel_type": "petrol",
+            "transmission": "8-speed automatic",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "airbags": "4",
+            "warranty": "100 000km",
+            "service_plan": "5yr/100 000 Kmkm"
+          },
+          "dimensions": {
+            "length_mm": "4 882mm",
+            "height_mm": "1 891mm",
+            "wheelbase_mm": "3 008",
+            "ground_clearance_mm": "232"
+          }
+        }
+      ],
+      "price_from": 1199900,
+      "price_to": 1299900,
+      "price_range": "R1 199 900 – R1 299 900",
+      "body_type": "SUV",
+      "fuel_type": "petrol",
+      "variant_count": 2
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 3,
+  "price_from": 1199900,
+  "price_to": 1881709
+}

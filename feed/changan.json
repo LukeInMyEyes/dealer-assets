@@ -1,0 +1,510 @@
+{
+  "key": "changan",
+  "name": "Changan",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "alsvin",
+      "name": "Alsvin",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://img-ik.cars.co.za/specimages/chanalsv1s1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Changan/Alsvin/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/chanalsv1s1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34front-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34back-1920w.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Interior-Front-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.4 CS",
+          "slug": "1-4-cs",
+          "price_incl": 238000,
+          "price_excl": 206957,
+          "price_display": "R238 000",
+          "monthly_estimate": 4591,
+          "specs": {
+            "engine_capacity": "1400cc",
+            "power_kw": "74",
+            "torque_nm": "135",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Sedan",
+            "fuel_consumption_l100km": "5.8",
+            "co2_gkm": "137",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "1.5 CE",
+          "slug": "1-5-ce",
+          "price_incl": 271200,
+          "price_excl": 235826,
+          "price_display": "R271 200",
+          "monthly_estimate": 5232,
+          "specs": {
+            "engine_capacity": "1500cc",
+            "power_kw": "78",
+            "torque_nm": "145",
+            "fuel_type": "Petrol",
+            "transmission": "automated dual-clutch",
+            "drivetrain": "FWD",
+            "body_type": "Sedan",
+            "fuel_consumption_l100km": "6.9",
+            "co2_gkm": "163",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 238000,
+      "price_to": 271200,
+      "price_range": "R238 000 – R271 200",
+      "body_type": "Sedan",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "cs75-pro",
+      "name": "CS75 Pro",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://img-ik.cars.co.za/specimages/chancs75_1e1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Changan/CS75-Pro/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/chancs75_1e1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/ext-Hero-new-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chancs75_1e1_2.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Int-7-detail-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-a2373a56-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5T CE 5-seater",
+          "slug": "1-5t-ce-5-seater",
+          "price_incl": 474900,
+          "price_excl": 412957,
+          "price_display": "R474 900",
+          "monthly_estimate": 9161,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "automated dual-clutch",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "177",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "1.5T CE 7-seater",
+          "slug": "1-5t-ce-7-seater",
+          "price_incl": 499900,
+          "price_excl": 434696,
+          "price_display": "R499 900",
+          "monthly_estimate": 9644,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "automated dual-clutch",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "177",
+            "seats": "7",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "1.5T CS 5-seater",
+          "slug": "1-5t-cs-5-seater",
+          "price_incl": 429900,
+          "price_excl": 373826,
+          "price_display": "R429 900",
+          "monthly_estimate": 8293,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "automated dual-clutch",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "177",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "1.5T CS 7-seater",
+          "slug": "1-5t-cs-7-seater",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "automated dual-clutch",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "177",
+            "seats": "7",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 429900,
+      "price_to": 499900,
+      "price_range": "R429 900 – R499 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 4
+    },
+    {
+      "slug": "deepal-s07",
+      "name": "Deepal S07",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://img-ik.cars.co.za/specimages/deeps07_1e1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Changan/Deepal-S07/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/deeps07_1e1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/EXT-HERO-2-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/deeps07_1e1_2.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/int-2d-1920w.jpeg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Banner-1450x650-f95ff617-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "S07 L",
+          "slug": "s07-l",
+          "price_incl": 995900,
+          "price_excl": 866000,
+          "price_display": "R995 900",
+          "monthly_estimate": 19212,
+          "specs": {
+            "engine_capacity": "1499cc (range extender)",
+            "power_kw": "160",
+            "torque_nm": "320",
+            "fuel_type": "REEV (Range Extended EV)",
+            "transmission": "electric",
+            "drivetrain": "RWD",
+            "body_type": "SUV",
+            "co2_gkm": "0",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 995900,
+      "price_to": 995900,
+      "price_range": "R995 900",
+      "body_type": "SUV",
+      "fuel_type": "REEV (Range Extended EV)",
+      "variant_count": 1
+    },
+    {
+      "slug": "hunter",
+      "name": "Hunter",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://img-ik.cars.co.za/specimages/chanhunt1d1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Changan/Hunter/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/chanhunt1d1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/3-Exterior-Banner-1080x1600-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanhunt1d1_2.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/5-Interior-Banner-1450x650-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Banner-1450x650-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0 2WD MT",
+          "slug": "2-0-2wd-mt",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "197",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "2.0 4WD AT",
+          "slug": "2-0-4wd-at",
+          "price_incl": 569900,
+          "price_excl": 495565,
+          "price_display": "R569 900",
+          "monthly_estimate": 10994,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.1",
+            "co2_gkm": "239",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "4WD REEV",
+          "slug": "4wd-reev",
+          "price_incl": 799900,
+          "price_excl": 695565,
+          "price_display": "R799 900",
+          "monthly_estimate": 15431,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "200",
+            "torque_nm": "470",
+            "fuel_type": "REEV (Range Extended EV)",
+            "transmission": "electric",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "8.5",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 449900,
+      "price_to": 799900,
+      "price_range": "R449 900 – R799 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "uni-s",
+      "name": "Uni-S",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://img-ik.cars.co.za/specimages/chanuni-s1e1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Changan/Uni-S/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/chanuni-s1e1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_3.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_4.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5T CS",
+          "slug": "1-5t-cs",
+          "price_incl": 389900,
+          "price_excl": 339043,
+          "price_display": "R389 900",
+          "monthly_estimate": 7522,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "Automatic (DCT)",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.0",
+            "co2_gkm": "179",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "1.5T CL",
+          "slug": "1-5t-cl",
+          "price_incl": 429900,
+          "price_excl": 373826,
+          "price_display": "R429 900",
+          "monthly_estimate": 8293,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "Automatic (DCT)",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.0",
+            "co2_gkm": "179",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "1.5T CE",
+          "slug": "1-5t-ce",
+          "price_incl": 469900,
+          "price_excl": 408609,
+          "price_display": "R469 900",
+          "monthly_estimate": 9065,
+          "specs": {
+            "engine_capacity": "1499cc",
+            "power_kw": "138",
+            "torque_nm": "300",
+            "fuel_type": "Petrol",
+            "transmission": "Automatic (DCT)",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.0",
+            "co2_gkm": "179",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 389900,
+      "price_to": 469900,
+      "price_range": "R389 900 – R469 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 3
+    }
+  ],
+  "total_variants": 13,
+  "model_count": 5,
+  "price_from": 238000,
+  "price_to": 995900
+}

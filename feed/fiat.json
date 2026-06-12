@@ -1,0 +1,115 @@
+{
+  "key": "fiat",
+  "name": "Fiat",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "500",
+      "name": "500",
+      "brand": "Fiat",
+      "brand_key": "fiat",
+      "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/16/2017_Fiat_500_Anniversario_1.2_Front.jpg",
+      "source_url": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/2017_Fiat_500_Anniversario_1.2_Front.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2021_Fiat_500_Dolcevita_%2B_MHEV.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/2017_Fiat_500_Anniversario_1.2_Rear.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Osaka_Motor_Show_2019_%28256%29_-_FIAT_500_1.2_POP_%28ABA-31212%29.jpg",
+          "type": "Interior",
+          "priority": 4
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.2 Style 3-dr AT",
+          "slug": "1-2-style-3-dr-at",
+          "price_incl": 351900,
+          "price_excl": 306000,
+          "price_display": "R351 900",
+          "monthly_estimate": 6789,
+          "specs": {
+            "engine_capacity": "1200cc",
+            "power_kw": "51",
+            "torque_nm": "102",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Automatic",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.8",
+            "co2_gkm": "109",
+            "seats": "4",
+            "airbags": "7",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.2L",
+          "slug": "1-2l",
+          "price_incl": 308900,
+          "price_excl": 268609,
+          "price_display": "R308 900",
+          "monthly_estimate": 5959,
+          "specs": {
+            "engine_capacity": "1200cc",
+            "power_kw": "51",
+            "torque_nm": "102",
+            "fuel_type": "Petrol",
+            "transmission": "Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.8",
+            "co2_gkm": "109",
+            "seats": "4",
+            "airbags": "7",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.2L STYLE",
+          "slug": "1-2l-style",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {
+            "engine_capacity": "1200cc",
+            "power_kw": "51",
+            "torque_nm": "102",
+            "fuel_type": "Petrol",
+            "transmission": "Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.8",
+            "co2_gkm": "109",
+            "seats": "4",
+            "airbags": "7",
+            "warranty": "5 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 308900,
+      "price_to": 351900,
+      "price_range": "R308 900 – R351 900",
+      "body_type": "Hatchback",
+      "fuel_type": "Petrol",
+      "variant_count": 3
+    }
+  ],
+  "total_variants": 3,
+  "model_count": 1,
+  "price_from": 308900,
+  "price_to": 351900
+}

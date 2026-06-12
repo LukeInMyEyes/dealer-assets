@@ -1,0 +1,241 @@
+{
+  "key": "peugeot",
+  "name": "Peugeot",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "2008",
+      "name": "2008",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://img-ik.cars.co.za/specimages/peug2008_2fe1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Peugeot/2008/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/peug2008_2fe1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Peugeot_2008_in_Vertigo_Blue%2C_front_left%2C_06-08-2025.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2020_Peugeot_2008_Allure_Rear.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Peugeot_2008_B_Sindelfingen_2020_IMG_2379.jpg",
+          "type": "Interior",
+          "priority": 4
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.2T Allure A/T",
+          "slug": "1-2t-allure-a-t",
+          "price_incl": 519900,
+          "price_excl": 452087,
+          "price_display": "R519 900",
+          "monthly_estimate": 10029,
+          "specs": {
+            "engine_capacity": "1200cc",
+            "power_kw": "96",
+            "torque_nm": "230",
+            "fuel_type": "Petrol",
+            "transmission": "Automatic",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.5",
+            "co2_gkm": "148",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.2T GT A/T",
+          "slug": "1-2t-gt-a-t",
+          "price_incl": 577900,
+          "price_excl": 502522,
+          "price_display": "R577 900",
+          "monthly_estimate": 11148,
+          "specs": {
+            "engine_capacity": "1200cc",
+            "power_kw": "96",
+            "torque_nm": "230",
+            "fuel_type": "Petrol",
+            "transmission": "Automatic",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.5",
+            "co2_gkm": "148",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 519900,
+      "price_to": 577900,
+      "price_range": "R519 900 – R577 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "landtrek",
+      "name": "Landtrek",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://img-ik.cars.co.za/specimages/peugland1d5_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Peugeot/Landtrek/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/peugland1d5_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peugeot_Landtrek_1.9d_Turbo_Active_2023.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peugeot_Landtrek_002.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Peugeot_Landtrek_001.jpg",
+          "type": "Interior",
+          "priority": 4
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.9TD D/C 4Action 4x4",
+          "slug": "1-9td-d-c-4action-4x4",
+          "price_incl": 745500,
+          "price_excl": 648261,
+          "price_display": "R745 500",
+          "monthly_estimate": 14382,
+          "specs": {
+            "engine_capacity": "1896cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.1",
+            "co2_gkm": "239",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.9TD D/C Active 4x4",
+          "slug": "1-9td-d-c-active-4x4",
+          "price_incl": 545900,
+          "price_excl": 474696,
+          "price_display": "R545 900",
+          "monthly_estimate": 10531,
+          "specs": {
+            "engine_capacity": "1896cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "197",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.9TD D/C Allure",
+          "slug": "1-9td-d-c-allure",
+          "price_incl": 653900,
+          "price_excl": 568609,
+          "price_display": "R653 900",
+          "monthly_estimate": 12614,
+          "specs": {
+            "engine_capacity": "1896cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "8.9",
+            "co2_gkm": "235",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.9TD D/C Professional",
+          "slug": "1-9td-d-c-professional",
+          "price_incl": 454900,
+          "price_excl": 395565,
+          "price_display": "R454 900",
+          "monthly_estimate": 8776,
+          "specs": {
+            "engine_capacity": "1896cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.1",
+            "co2_gkm": "186",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.9TD S/C Professional",
+          "slug": "1-9td-s-c-professional",
+          "price_incl": 388900,
+          "price_excl": 338174,
+          "price_display": "R388 900",
+          "monthly_estimate": 7502,
+          "specs": {
+            "engine_capacity": "1896cc",
+            "power_kw": "110",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "RWD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "215",
+            "seats": "2",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 388900,
+      "price_to": 745500,
+      "price_range": "R388 900 – R745 500",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 5
+    }
+  ],
+  "total_variants": 7,
+  "model_count": 2,
+  "price_from": 388900,
+  "price_to": 745500
+}

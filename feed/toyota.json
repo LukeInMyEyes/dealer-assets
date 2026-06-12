@@ -1,0 +1,3866 @@
+{
+  "key": "toyota",
+  "name": "Toyota",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "bz4x",
+      "name": "bZ4X",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/bz4x/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/bZ4X/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/bz4x/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "BEV AWD",
+          "slug": "bev-awd",
+          "price_incl": 1182800,
+          "price_excl": 1028522,
+          "price_display": "R1 182 800",
+          "monthly_estimate": 22818,
+          "specs": {
+            "power_kw": "255",
+            "torque_nm": "438",
+            "fuel_type": "Electric",
+            "transmission": "Single-speed Automatic",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "seats": "5",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 90 000 km (8-year / 160 000 km battery warranty)"
+          }
+        }
+      ],
+      "price_from": 1182800,
+      "price_to": 1182800,
+      "price_range": "R1 182 800",
+      "body_type": "SUV",
+      "fuel_type": "Electric",
+      "variant_count": 1
+    },
+    {
+      "slug": "coaster",
+      "name": "Coaster",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/coaster/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/coaster",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/coaster/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "4.0D 23-seater Bus 5MT LWB",
+          "slug": "4-0d-23-seater-bus-5mt-lwb",
+          "price_incl": 1129600,
+          "price_excl": 982261,
+          "price_display": "R1 129 600",
+          "monthly_estimate": 21791,
+          "specs": {
+            "engine_capacity": "4009 cc",
+            "power_kw": "100 kW",
+            "torque_nm": "353 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Bus",
+            "seats": "23",
+            "airbags": "1",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 60 000 km"
+          }
+        },
+        {
+          "name": "2.8D GL 23-seater Bus 6AT",
+          "slug": "2-8d-gl-23-seater-bus-6at",
+          "price_incl": 1207600,
+          "price_excl": 1050087,
+          "price_display": "R1 207 600",
+          "monthly_estimate": 23296,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "110 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Bus",
+            "seats": "23",
+            "airbags": "1",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 60 000 km"
+          }
+        }
+      ],
+      "price_from": 1129600,
+      "price_to": 1207600,
+      "price_range": "R1 129 600 – R1 207 600",
+      "body_type": "Bus",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "corolla",
+      "name": "Corolla",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Corolla/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.8 Hybrid XS CVT",
+          "slug": "1-8-hybrid-xs-cvt",
+          "price_incl": 590200,
+          "price_excl": 513217,
+          "price_display": "R590 200",
+          "monthly_estimate": 11386,
+          "specs": {
+            "engine_capacity": "1798 cc",
+            "power_kw": "103 kW",
+            "torque_nm": "142 Nm",
+            "fuel_type": "Hybrid",
+            "transmission": "e-CVT",
+            "drivetrain": "FWD",
+            "body_type": "Sedan",
+            "fuel_consumption_l100km": "3.9",
+            "co2_gkm": "89",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "1.8 Hybrid XR CVT",
+          "slug": "1-8-hybrid-xr-cvt",
+          "price_incl": 630700,
+          "price_excl": 548435,
+          "price_display": "R630 700",
+          "monthly_estimate": 12167,
+          "specs": {
+            "engine_capacity": "1798 cc",
+            "power_kw": "103 kW",
+            "torque_nm": "142 Nm",
+            "fuel_type": "Hybrid",
+            "transmission": "e-CVT",
+            "drivetrain": "FWD",
+            "body_type": "Sedan",
+            "fuel_consumption_l100km": "4.0",
+            "co2_gkm": "91",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        }
+      ],
+      "price_from": 590200,
+      "price_to": 630700,
+      "price_range": "R590 200 – R630 700",
+      "body_type": "Sedan",
+      "fuel_type": "Hybrid",
+      "variant_count": 2
+    },
+    {
+      "slug": "corolla-cross",
+      "name": "Corolla Cross",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Corolla-Cross/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-cross/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.8 Xi CVT",
+          "slug": "1-8-xi-cvt",
+          "price_incl": 420700,
+          "price_excl": 365826,
+          "price_display": "R420 700",
+          "monthly_estimate": 8116,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "103",
+            "torque_nm": "172",
+            "fuel_type": "Petrol",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.8",
+            "co2_gkm": "154",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.8 XS CVT",
+          "slug": "1-8-xs-cvt",
+          "price_incl": 458400,
+          "price_excl": 398609,
+          "price_display": "R458 400",
+          "monthly_estimate": 8843,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "103",
+            "torque_nm": "172",
+            "fuel_type": "Petrol",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.8",
+            "co2_gkm": "154",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.8 HEV XS CVT",
+          "slug": "1-8-hev-xs-cvt",
+          "price_incl": 501100,
+          "price_excl": 435739,
+          "price_display": "R501 100",
+          "monthly_estimate": 9667,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "90",
+            "torque_nm": "142",
+            "fuel_type": "Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "4.3",
+            "co2_gkm": "98",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km; hybrid battery warranty 8 years / 195 000 km"
+          }
+        },
+        {
+          "name": "1.8 XR CVT",
+          "slug": "1-8-xr-cvt",
+          "price_incl": 508200,
+          "price_excl": 441913,
+          "price_display": "R508 200",
+          "monthly_estimate": 9804,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "103",
+            "torque_nm": "172",
+            "fuel_type": "Petrol",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.8",
+            "co2_gkm": "154",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.8 GR-Sport CVT",
+          "slug": "1-8-gr-sport-cvt",
+          "price_incl": 527000,
+          "price_excl": 458261,
+          "price_display": "R527 000",
+          "monthly_estimate": 10166,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "103",
+            "torque_nm": "172",
+            "fuel_type": "Petrol",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.8",
+            "co2_gkm": "154",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.8 HEV XR CVT",
+          "slug": "1-8-hev-xr-cvt",
+          "price_incl": 552400,
+          "price_excl": 480348,
+          "price_display": "R552 400",
+          "monthly_estimate": 10656,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "90",
+            "torque_nm": "142",
+            "fuel_type": "Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "4.3",
+            "co2_gkm": "98",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km; hybrid battery warranty 8 years / 195 000 km"
+          }
+        },
+        {
+          "name": "1.8 HEV GR-Sport CVT",
+          "slug": "1-8-hev-gr-sport-cvt",
+          "price_incl": 569700,
+          "price_excl": 495391,
+          "price_display": "R569 700",
+          "monthly_estimate": 10990,
+          "specs": {
+            "engine_capacity": "1798cc",
+            "power_kw": "90",
+            "torque_nm": "142",
+            "fuel_type": "Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "4.3",
+            "co2_gkm": "98",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km; hybrid battery warranty 8 years / 195 000 km"
+          }
+        }
+      ],
+      "price_from": 420700,
+      "price_to": 569700,
+      "price_range": "R420 700 – R569 700",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 7
+    },
+    {
+      "slug": "corolla-hatch",
+      "name": "Corolla Hatch",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Corolla-Hatch/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/corolla-hatch/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.8 Hybrid XS CVT",
+          "slug": "1-8-hybrid-xs-cvt",
+          "price_incl": 601100,
+          "price_excl": 522696,
+          "price_display": "R601 100",
+          "monthly_estimate": 11596,
+          "specs": {
+            "engine_capacity": "1798 cc",
+            "power_kw": "103 kW",
+            "torque_nm": "142 Nm",
+            "fuel_type": "Hybrid",
+            "transmission": "e-CVT",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.0",
+            "co2_gkm": "93",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "1.8 Hybrid XR CVT",
+          "slug": "1-8-hybrid-xr-cvt",
+          "price_incl": 649600,
+          "price_excl": 564870,
+          "price_display": "R649 600",
+          "monthly_estimate": 12532,
+          "specs": {
+            "engine_capacity": "1798 cc",
+            "power_kw": "103 kW",
+            "torque_nm": "142 Nm",
+            "fuel_type": "Hybrid",
+            "transmission": "e-CVT",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.0",
+            "co2_gkm": "93",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "2.0 XR CVT",
+          "slug": "2-0-xr-cvt",
+          "price_incl": 614100,
+          "price_excl": 534000,
+          "price_display": "R614 100",
+          "monthly_estimate": 11847,
+          "specs": {
+            "engine_capacity": "1987 cc",
+            "power_kw": "125 kW",
+            "torque_nm": "203 Nm",
+            "fuel_type": "Petrol",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "6.0",
+            "co2_gkm": "140",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        }
+      ],
+      "price_from": 601100,
+      "price_to": 649600,
+      "price_range": "R601 100 – R649 600",
+      "body_type": "Hatchback",
+      "fuel_type": "Hybrid",
+      "variant_count": 3
+    },
+    {
+      "slug": "fortuner",
+      "name": "Fortuner",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Fortuner/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/fortuner/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.4 GD-6 Raised Body Manual",
+          "slug": "2-4-gd-6-raised-body-manual",
+          "price_incl": 685900,
+          "price_excl": 596435,
+          "price_display": "R685 900",
+          "monthly_estimate": 13232,
+          "specs": {
+            "engine_capacity": "2393 cc",
+            "power_kw": "110 kW",
+            "torque_nm": "400 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.8",
+            "co2_gkm": "179",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 Raised Body Auto",
+          "slug": "2-4-gd-6-raised-body-auto",
+          "price_incl": 712900,
+          "price_excl": 619913,
+          "price_display": "R712 900",
+          "monthly_estimate": 13753,
+          "specs": {
+            "engine_capacity": "2393 cc",
+            "power_kw": "110 kW",
+            "torque_nm": "400 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.2",
+            "co2_gkm": "189",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 4x4 Auto",
+          "slug": "2-4-gd-6-4x4-auto",
+          "price_incl": 746500,
+          "price_excl": 649130,
+          "price_display": "R746 500",
+          "monthly_estimate": 14401,
+          "specs": {
+            "engine_capacity": "2393 cc",
+            "power_kw": "110 kW",
+            "torque_nm": "400 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Raised Body Auto",
+          "slug": "2-8-gd-6-raised-body-auto",
+          "price_incl": 834700,
+          "price_excl": 725826,
+          "price_display": "R834 700",
+          "monthly_estimate": 16102,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "201",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 48V Raised Body Auto",
+          "slug": "2-8-gd-6-48v-raised-body-auto",
+          "price_incl": 843100,
+          "price_excl": 733130,
+          "price_display": "R843 100",
+          "monthly_estimate": 16264,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "198",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 VX Raised Body Auto",
+          "slug": "2-8-gd-6-vx-raised-body-auto",
+          "price_incl": 879600,
+          "price_excl": 764870,
+          "price_display": "R879 600",
+          "monthly_estimate": 16969,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "201",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 48V VX Raised Body Auto",
+          "slug": "2-8-gd-6-48v-vx-raised-body-auto",
+          "price_incl": 888100,
+          "price_excl": 772261,
+          "price_display": "R888 100",
+          "monthly_estimate": 17132,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "198",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 4x4 Auto",
+          "slug": "2-8-gd-6-4x4-auto",
+          "price_incl": 916800,
+          "price_excl": 797217,
+          "price_display": "R916 800",
+          "monthly_estimate": 17686,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "207",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 48V 4x4 Auto",
+          "slug": "2-8-gd-6-48v-4x4-auto",
+          "price_incl": 927800,
+          "price_excl": 806783,
+          "price_display": "R927 800",
+          "monthly_estimate": 17898,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.7",
+            "co2_gkm": "204",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 4x4 VX Auto",
+          "slug": "2-8-gd-6-4x4-vx-auto",
+          "price_incl": 960400,
+          "price_excl": 835130,
+          "price_display": "R960 400",
+          "monthly_estimate": 18527,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "207",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 48V 4x4 VX Auto",
+          "slug": "2-8-gd-6-48v-4x4-vx-auto",
+          "price_incl": 971400,
+          "price_excl": 844696,
+          "price_display": "R971 400",
+          "monthly_estimate": 18739,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "150 kW",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.7",
+            "co2_gkm": "204",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 4x4 GR-Sport Auto",
+          "slug": "2-8-gd-6-4x4-gr-sport-auto",
+          "price_incl": 1009000,
+          "price_excl": 877391,
+          "price_display": "R1 009 000",
+          "monthly_estimate": 19465,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "165 kW",
+            "torque_nm": "550 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "209",
+            "seats": "7",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 685900,
+      "price_to": 1009000,
+      "price_range": "R685 900 – R1 009 000",
+      "body_type": "SUV",
+      "fuel_type": "Diesel",
+      "variant_count": 12
+    },
+    {
+      "slug": "gr-corolla",
+      "name": "GR Corolla",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/GR-Corolla/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-corolla/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.6T GR-Four Circuit",
+          "slug": "1-6t-gr-four-circuit",
+          "price_incl": 995100,
+          "price_excl": 865304,
+          "price_display": "R995 100",
+          "monthly_estimate": 19197,
+          "specs": {
+            "engine_capacity": "1618cc",
+            "power_kw": "210",
+            "torque_nm": "400",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Manual",
+            "drivetrain": "AWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "8.4",
+            "co2_gkm": "193",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "1.6T GR-Four Circuit GR-DAT",
+          "slug": "1-6t-gr-four-circuit-gr-dat",
+          "price_incl": 1020800,
+          "price_excl": 887652,
+          "price_display": "R1 020 800",
+          "monthly_estimate": 19692,
+          "specs": {
+            "engine_capacity": "1618cc",
+            "power_kw": "210",
+            "torque_nm": "400",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic (GR-DAT)",
+            "drivetrain": "AWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "9.5",
+            "co2_gkm": "217",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 995100,
+      "price_to": 1020800,
+      "price_range": "R995 100 – R1 020 800",
+      "body_type": "Hatchback",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "gr-supra",
+      "name": "GR Supra",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/gr-supra",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "3.0T manual",
+          "slug": "3-0t-manual",
+          "price_incl": 1524800,
+          "price_excl": 1325913,
+          "price_display": "R1 524 800",
+          "monthly_estimate": 29415,
+          "specs": {
+            "engine_capacity": "2998cc",
+            "power_kw": "285",
+            "torque_nm": "500",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Coupe",
+            "fuel_consumption_l100km": "8.9",
+            "co2_gkm": "203",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 90 000 km"
+          }
+        },
+        {
+          "name": "3.0T auto",
+          "slug": "3-0t-auto",
+          "price_incl": 1561600,
+          "price_excl": 1357913,
+          "price_display": "R1 561 600",
+          "monthly_estimate": 30125,
+          "specs": {
+            "engine_capacity": "2998cc",
+            "power_kw": "250",
+            "torque_nm": "500",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Coupe",
+            "fuel_consumption_l100km": "7.7",
+            "co2_gkm": "176",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 1524800,
+      "price_to": 1561600,
+      "price_range": "R1 524 800 – R1 561 600",
+      "body_type": "Coupe",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "gr-yaris",
+      "name": "GR Yaris",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/GR-Yaris/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-yaris/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GR Yaris 1.6T GR-Four Rally Manual",
+          "slug": "gr-yaris-1-6t-gr-four-rally-manual",
+          "price_incl": 951600,
+          "price_excl": 827478,
+          "price_display": "R951 600",
+          "monthly_estimate": 18357,
+          "specs": {
+            "engine_capacity": "1618cc",
+            "power_kw": "210",
+            "torque_nm": "400",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Manual",
+            "drivetrain": "AWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "186",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "GR Yaris 1.6T GR-Four Rally Auto (GR-DAT)",
+          "slug": "gr-yaris-1-6t-gr-four-rally-auto-gr-dat",
+          "price_incl": 981000,
+          "price_excl": 853043,
+          "price_display": "R981 000",
+          "monthly_estimate": 18925,
+          "specs": {
+            "engine_capacity": "1618cc",
+            "power_kw": "210",
+            "torque_nm": "400",
+            "fuel_type": "Petrol",
+            "transmission": "8-speed Automatic (GR-DAT)",
+            "drivetrain": "AWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "9.1",
+            "co2_gkm": "206",
+            "seats": "5",
+            "airbags": "8",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 951600,
+      "price_to": 981000,
+      "price_range": "R951 600 – R981 000",
+      "body_type": "Hatchback",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "gr86",
+      "name": "GR86",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/GR86/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr86/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.4 Manual",
+          "slug": "2-4-manual",
+          "price_incl": 900700,
+          "price_excl": 783217,
+          "price_display": "R900 700",
+          "monthly_estimate": 17376,
+          "specs": {
+            "engine_capacity": "2387cc",
+            "power_kw": "174",
+            "torque_nm": "250",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Coupe",
+            "fuel_consumption_l100km": "9.5",
+            "co2_gkm": "217",
+            "seats": "4",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 6 years"
+          }
+        },
+        {
+          "name": "2.4 Auto",
+          "slug": "2-4-auto",
+          "price_incl": 927300,
+          "price_excl": 806348,
+          "price_display": "R927 300",
+          "monthly_estimate": 17889,
+          "specs": {
+            "engine_capacity": "2387cc",
+            "power_kw": "174",
+            "torque_nm": "250",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Coupe",
+            "fuel_consumption_l100km": "8.8",
+            "co2_gkm": "217",
+            "seats": "4",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "6 services / 6 years"
+          }
+        }
+      ],
+      "price_from": 900700,
+      "price_to": 927300,
+      "price_range": "R900 700 – R927 300",
+      "body_type": "Coupe",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "hiace",
+      "name": "Hiace",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hiace/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Hiace/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hiace/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.8 GD-6 panel van",
+          "slug": "2-8-gd-6-panel-van",
+          "price_incl": 755500,
+          "price_excl": 656957,
+          "price_display": "R755 500",
+          "monthly_estimate": 14574,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "115 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "216",
+            "seats": "3",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 crew van",
+          "slug": "2-8-gd-6-crew-van",
+          "price_incl": 789900,
+          "price_excl": 686870,
+          "price_display": "R789 900",
+          "monthly_estimate": 15238,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "115 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "216",
+            "seats": "6",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 755500,
+      "price_to": 789900,
+      "price_range": "R755 500 – R789 900",
+      "body_type": "Panel Van",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "hiace-sesfikile",
+      "name": "Hiace Ses'fikile",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hiace-sesfikile/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/hiace-sesfikile",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hiace-sesfikile/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.7 Ses'fikile 16-seater",
+          "slug": "2-7-ses-fikile-16-seater",
+          "price_incl": 549300,
+          "price_excl": 477652,
+          "price_display": "R549 300",
+          "monthly_estimate": 10597,
+          "specs": {
+            "engine_capacity": "2694cc",
+            "power_kw": "111",
+            "torque_nm": "241",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Minibus",
+            "fuel_consumption_l100km": "14.3",
+            "co2_gkm": "330",
+            "seats": "16",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 60 000 km"
+          }
+        },
+        {
+          "name": "2.5 D-4D Ses'fikile 16-seater",
+          "slug": "2-5-d-4d-ses-fikile-16-seater",
+          "price_incl": 583600,
+          "price_excl": 507478,
+          "price_display": "R583 600",
+          "monthly_estimate": 11258,
+          "specs": {
+            "engine_capacity": "2494cc",
+            "power_kw": "75",
+            "torque_nm": "260",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Minibus",
+            "fuel_consumption_l100km": "8.4",
+            "co2_gkm": "222",
+            "seats": "16",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 60 000 km"
+          }
+        }
+      ],
+      "price_from": 549300,
+      "price_to": 583600,
+      "price_range": "R549 300 – R583 600",
+      "body_type": "Minibus",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "hilux-double-cab",
+      "name": "Hilux Double Cab",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/hilux",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-double-cab/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.4GD-6 Double Cab SR",
+          "slug": "2-4gd-6-double-cab-sr",
+          "price_incl": 583500,
+          "price_excl": 507391,
+          "price_display": "R583 500",
+          "monthly_estimate": 11256,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.1",
+            "co2_gkm": "187",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4GD-6 Double Cab Raider Manual",
+          "slug": "2-4gd-6-double-cab-raider-manual",
+          "price_incl": 624900,
+          "price_excl": 543391,
+          "price_display": "R624 900",
+          "monthly_estimate": 12055,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.1",
+            "co2_gkm": "187",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 Double Cab SRX Auto",
+          "slug": "2-8gd-6-double-cab-srx-auto",
+          "price_incl": 658500,
+          "price_excl": 572609,
+          "price_display": "R658 500",
+          "monthly_estimate": 12703,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4GD-6 Double Cab 4x4 SR",
+          "slug": "2-4gd-6-double-cab-4x4-sr",
+          "price_incl": 671100,
+          "price_excl": 583565,
+          "price_display": "R671 100",
+          "monthly_estimate": 12946,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4GD-6 Double Cab 4x4 Raider Manual",
+          "slug": "2-4gd-6-double-cab-4x4-raider-manual",
+          "price_incl": 698500,
+          "price_excl": 607391,
+          "price_display": "R698 500",
+          "monthly_estimate": 13475,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4GD-6 Double Cab 4x4 Raider Auto",
+          "slug": "2-4gd-6-double-cab-4x4-raider-auto",
+          "price_incl": 730700,
+          "price_excl": 635391,
+          "price_display": "R730 700",
+          "monthly_estimate": 14096,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.7",
+            "co2_gkm": "203",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 Double Cab SRX 4x4 Auto",
+          "slug": "2-8gd-6-double-cab-srx-4x4-auto",
+          "price_incl": 746100,
+          "price_excl": 648783,
+          "price_display": "R746 100",
+          "monthly_estimate": 14393,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 Double Cab Raider 4x4 Auto",
+          "slug": "2-8gd-6-double-cab-raider-4x4-auto",
+          "price_incl": 892900,
+          "price_excl": 776435,
+          "price_display": "R892 900",
+          "monthly_estimate": 17225,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 Double Cab Legend Auto",
+          "slug": "2-8gd-6-double-cab-legend-auto",
+          "price_incl": 945500,
+          "price_excl": 822174,
+          "price_display": "R945 500",
+          "monthly_estimate": 18240,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "197",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 Double Cab Legend 4x4 Auto",
+          "slug": "2-8gd-6-double-cab-legend-4x4-auto",
+          "price_incl": 999900,
+          "price_excl": 869478,
+          "price_display": "R999 900",
+          "monthly_estimate": 19289,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.5",
+            "co2_gkm": "197",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 Double Cab 4x4 GR-Sport",
+          "slug": "2-8gd-6-double-cab-4x4-gr-sport",
+          "price_incl": 999000,
+          "price_excl": 868696,
+          "price_display": "R999 000",
+          "monthly_estimate": 19272,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "165",
+            "torque_nm": "550",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "8.7",
+            "co2_gkm": "228",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "4.0 V6 Double Cab 4x4 Legend RS Auto",
+          "slug": "4-0-v6-double-cab-4x4-legend-rs-auto",
+          "price_incl": 1018800,
+          "price_excl": 885913,
+          "price_display": "R1 018 800",
+          "monthly_estimate": 19654,
+          "specs": {
+            "engine_capacity": "3956cc",
+            "power_kw": "175",
+            "torque_nm": "376",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "11.5",
+            "co2_gkm": "268",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 583500,
+      "price_to": 1018800,
+      "price_range": "R583 500 – R1 018 800",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 12
+    },
+    {
+      "slug": "hilux-single-cab",
+      "name": "Hilux Single Cab",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/hilux",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-single-cab/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0 VVTi Single Cab S (Aircon) 5MT",
+          "slug": "2-0-vvti-single-cab-s-aircon-5mt",
+          "price_incl": 379700,
+          "price_excl": 330174,
+          "price_display": "R379 700",
+          "monthly_estimate": 7325,
+          "specs": {
+            "engine_capacity": "1998cc",
+            "power_kw": "102",
+            "torque_nm": "183",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "8.3",
+            "co2_gkm": "194",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 60 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD Single Cab Chassis Cab 5MT",
+          "slug": "2-4-gd-single-cab-chassis-cab-5mt",
+          "price_incl": 400000,
+          "price_excl": 347826,
+          "price_display": "R400 000",
+          "monthly_estimate": 7716,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "343",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.0",
+            "co2_gkm": "184",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 60 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD Single Cab S (Aircon) 5MT",
+          "slug": "2-4-gd-single-cab-s-aircon-5mt",
+          "price_incl": 426300,
+          "price_excl": 370696,
+          "price_display": "R426 300",
+          "monthly_estimate": 8224,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "343",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.0",
+            "co2_gkm": "184",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 60 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD Single Cab Flat Deck 5MT",
+          "slug": "2-4-gd-single-cab-flat-deck-5mt",
+          "price_incl": 440100,
+          "price_excl": 382696,
+          "price_display": "R440 100",
+          "monthly_estimate": 8490,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "343",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.0",
+            "co2_gkm": "184",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 60 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 RB SR Single Cab 6MT",
+          "slug": "2-4-gd-6-rb-sr-single-cab-6mt",
+          "price_incl": 513000,
+          "price_excl": 446087,
+          "price_display": "R513 000",
+          "monthly_estimate": 9896,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.3",
+            "co2_gkm": "192",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 RB Raider Single Cab 6MT",
+          "slug": "2-4-gd-6-rb-raider-single-cab-6mt",
+          "price_incl": 553800,
+          "price_excl": 481565,
+          "price_display": "R553 800",
+          "monthly_estimate": 10683,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.3",
+            "co2_gkm": "192",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 Single Cab Chassis Cab 4x4 6MT",
+          "slug": "2-4-gd-6-single-cab-chassis-cab-4x4-6mt",
+          "price_incl": 569200,
+          "price_excl": 494957,
+          "price_display": "R569 200",
+          "monthly_estimate": 10981,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "207",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 SR Single Cab 4x4 6MT",
+          "slug": "2-4-gd-6-sr-single-cab-4x4-6mt",
+          "price_incl": 589600,
+          "price_excl": 512696,
+          "price_display": "R589 600",
+          "monthly_estimate": 11374,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "207",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 Single Cab Flat Deck 4x4 6MT",
+          "slug": "2-4-gd-6-single-cab-flat-deck-4x4-6mt",
+          "price_incl": 607600,
+          "price_excl": 528348,
+          "price_display": "R607 600",
+          "monthly_estimate": 11721,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "207",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 Raider Single Cab 4x4 6MT",
+          "slug": "2-4-gd-6-raider-single-cab-4x4-6mt",
+          "price_incl": 636300,
+          "price_excl": 553304,
+          "price_display": "R636 300",
+          "monthly_estimate": 12275,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "207",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 379700,
+      "price_to": 636300,
+      "price_range": "R379 700 – R636 300",
+      "body_type": "Single Cab",
+      "fuel_type": "Petrol",
+      "variant_count": 10
+    },
+    {
+      "slug": "hilux-xtra-cab",
+      "name": "Hilux Xtra Cab",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/hilux",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/hilux-xtra-cab/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.4 GD-6 RB SR Xtra Cab 6MT",
+          "slug": "2-4-gd-6-rb-sr-xtra-cab-6mt",
+          "price_incl": 545200,
+          "price_excl": 474087,
+          "price_display": "R545 200",
+          "monthly_estimate": 10518,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "2WD",
+            "body_type": "Xtra Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.4 GD-6 RB Raider Xtra Cab 6AT",
+          "slug": "2-4-gd-6-rb-raider-xtra-cab-6at",
+          "price_incl": 574500,
+          "price_excl": 499565,
+          "price_display": "R574 500",
+          "monthly_estimate": 11083,
+          "specs": {
+            "engine_capacity": "2393cc",
+            "power_kw": "110",
+            "torque_nm": "400",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Xtra Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Xtra Cab Raider X 6AT 4x2",
+          "slug": "2-8-gd-6-xtra-cab-raider-x-6at-4x2",
+          "price_incl": 751800,
+          "price_excl": 653739,
+          "price_display": "R751 800",
+          "monthly_estimate": 14503,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "2WD",
+            "body_type": "Xtra Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "200",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Xtra Cab Raider X 6AT 4x4",
+          "slug": "2-8-gd-6-xtra-cab-raider-x-6at-4x4",
+          "price_incl": 842200,
+          "price_excl": 732348,
+          "price_display": "R842 200",
+          "monthly_estimate": 16247,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Xtra Cab",
+            "fuel_consumption_l100km": "8.0",
+            "co2_gkm": "210",
+            "seats": "2",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 545200,
+      "price_to": 842200,
+      "price_range": "R545 200 – R842 200",
+      "body_type": "Xtra Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 4
+    },
+    {
+      "slug": "land-cruiser-300",
+      "name": "Land Cruiser 300",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Land-Cruiser-300/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-300/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "3.3D GX-R",
+          "slug": "3-3d-gx-r",
+          "price_incl": 1581000,
+          "price_excl": 1374783,
+          "price_display": "R1 581 000",
+          "monthly_estimate": 30499,
+          "specs": {
+            "engine_capacity": "3346cc",
+            "power_kw": "227 kW",
+            "torque_nm": "700 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "10-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "8.9",
+            "co2_gkm": "235",
+            "seats": "7",
+            "airbags": "10",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "3.3D ZX",
+          "slug": "3-3d-zx",
+          "price_incl": 2129100,
+          "price_excl": 1851391,
+          "price_display": "R2 129 100",
+          "monthly_estimate": 41073,
+          "specs": {
+            "engine_capacity": "3346cc",
+            "power_kw": "227 kW",
+            "torque_nm": "700 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "10-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "8.9",
+            "co2_gkm": "235",
+            "seats": "7",
+            "airbags": "10",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "3.5T ZX",
+          "slug": "3-5t-zx",
+          "price_incl": 2169600,
+          "price_excl": 1886609,
+          "price_display": "R2 169 600",
+          "monthly_estimate": 41854,
+          "specs": {
+            "engine_capacity": "3445cc",
+            "power_kw": "305 kW",
+            "torque_nm": "650 Nm",
+            "fuel_type": "Petrol",
+            "transmission": "10-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "12.1",
+            "co2_gkm": "280",
+            "seats": "7",
+            "airbags": "10",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "3.3D GR-Sport",
+          "slug": "3-3d-gr-sport",
+          "price_incl": 2188200,
+          "price_excl": 1902783,
+          "price_display": "R2 188 200",
+          "monthly_estimate": 42213,
+          "specs": {
+            "engine_capacity": "3346cc",
+            "power_kw": "227 kW",
+            "torque_nm": "700 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "10-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "8.9",
+            "co2_gkm": "235",
+            "seats": "7",
+            "airbags": "10",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "3.5T GR-Sport",
+          "slug": "3-5t-gr-sport",
+          "price_incl": 2225200,
+          "price_excl": 1934957,
+          "price_display": "R2 225 200",
+          "monthly_estimate": 42927,
+          "specs": {
+            "engine_capacity": "3445cc",
+            "power_kw": "305 kW",
+            "torque_nm": "650 Nm",
+            "fuel_type": "Petrol",
+            "transmission": "10-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "12.1",
+            "co2_gkm": "280",
+            "seats": "7",
+            "airbags": "10",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 1581000,
+      "price_to": 2225200,
+      "price_range": "R1 581 000 – R2 225 200",
+      "body_type": "SUV",
+      "fuel_type": "Diesel",
+      "variant_count": 5
+    },
+    {
+      "slug": "land-cruiser-76",
+      "name": "Land Cruiser 76",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-76/jellybean.png",
+      "source_url": "https://www.toyota.co.za/vehicles/land-cruiser-76",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-76/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.8GD-6 station wagon LX manual",
+          "slug": "2-8gd-6-station-wagon-lx-manual",
+          "price_incl": 1065300,
+          "price_excl": 926348,
+          "price_display": "R1 065 300",
+          "monthly_estimate": 20551,
+          "specs": {
+            "engine_capacity": "2.8L Turbodiesel",
+            "power_kw": "150",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Wagon",
+            "fuel_consumption_l100km": "7.7",
+            "co2_gkm": "204",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 station wagon LX auto",
+          "slug": "2-8gd-6-station-wagon-lx-auto",
+          "price_incl": 1098400,
+          "price_excl": 955130,
+          "price_display": "R1 098 400",
+          "monthly_estimate": 21189,
+          "specs": {
+            "engine_capacity": "2.8L Turbodiesel",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Wagon",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "201",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD-6 station wagon VX",
+          "slug": "2-8gd-6-station-wagon-vx",
+          "price_incl": 1199000,
+          "price_excl": 1042609,
+          "price_display": "R1 199 000",
+          "monthly_estimate": 23130,
+          "specs": {
+            "engine_capacity": "2.8L Turbodiesel",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Wagon",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "201",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 1065300,
+      "price_to": 1199000,
+      "price_range": "R1 065 300 – R1 199 000",
+      "body_type": "Wagon",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "land-cruiser-79",
+      "name": "Land Cruiser 79",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-79/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Land-Cruiser-79/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-79/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "4.0 V6 Single Cab 5MT",
+          "slug": "4-0-v6-single-cab-5mt",
+          "price_incl": 840900,
+          "price_excl": 731217,
+          "price_display": "R840 900",
+          "monthly_estimate": 16222,
+          "specs": {
+            "engine_capacity": "3956cc",
+            "power_kw": "170",
+            "torque_nm": "360",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "14.4",
+            "co2_gkm": "335",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Single Cab 6MT",
+          "slug": "2-8-gd-6-single-cab-6mt",
+          "price_incl": 974300,
+          "price_excl": 847217,
+          "price_display": "R974 300",
+          "monthly_estimate": 18795,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.6",
+            "co2_gkm": "199",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Single Cab 6AT",
+          "slug": "2-8-gd-6-single-cab-6at",
+          "price_incl": 1007600,
+          "price_excl": 876174,
+          "price_display": "R1 007 600",
+          "monthly_estimate": 19438,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "7.7",
+            "co2_gkm": "202",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "4.0 V6 Double Cab 5MT",
+          "slug": "4-0-v6-double-cab-5mt",
+          "price_incl": 949800,
+          "price_excl": 825913,
+          "price_display": "R949 800",
+          "monthly_estimate": 18323,
+          "specs": {
+            "engine_capacity": "3956cc",
+            "power_kw": "170",
+            "torque_nm": "360",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "14.4",
+            "co2_gkm": "335",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Double Cab 6MT",
+          "slug": "2-8-gd-6-double-cab-6mt",
+          "price_incl": 1078000,
+          "price_excl": 937391,
+          "price_display": "R1 078 000",
+          "monthly_estimate": 20796,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "co2_gkm": "205",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 GD-6 Double Cab 6AT",
+          "slug": "2-8-gd-6-double-cab-6at",
+          "price_incl": 1108400,
+          "price_excl": 963826,
+          "price_display": "R1 108 400",
+          "monthly_estimate": 21382,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "208",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 840900,
+      "price_to": 1108400,
+      "price_range": "R840 900 – R1 108 400",
+      "body_type": "Single Cab",
+      "fuel_type": "Petrol",
+      "variant_count": 6
+    },
+    {
+      "slug": "land-cruiser-fj",
+      "name": "Land Cruiser FJ",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Land-Cruiser-FJ/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-fj/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.7 4x4 GX",
+          "slug": "2-7-4x4-gx",
+          "price_incl": 714000,
+          "price_excl": 620870,
+          "price_display": "R714 000",
+          "monthly_estimate": 13774,
+          "specs": {
+            "engine_capacity": "2.7L",
+            "power_kw": "122",
+            "torque_nm": "245",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "10.7",
+            "seats": "5",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.7 4x4 VX",
+          "slug": "2-7-4x4-vx",
+          "price_incl": 761400,
+          "price_excl": 662087,
+          "price_display": "R761 400",
+          "monthly_estimate": 14688,
+          "specs": {
+            "engine_capacity": "2.7L",
+            "power_kw": "122",
+            "torque_nm": "245",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "10.7",
+            "seats": "5",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 714000,
+      "price_to": 761400,
+      "price_range": "R714 000 – R761 400",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "land-cruiser-prado",
+      "name": "Land Cruiser Prado",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-prado/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Land-Cruiser-Prado/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/land-cruiser-prado/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.8GD TX",
+          "slug": "2-8gd-tx",
+          "price_incl": 1355600,
+          "price_excl": 1178783,
+          "price_display": "R1 355 600",
+          "monthly_estimate": 26151,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "209",
+            "seats": "7",
+            "airbags": "9",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD VX-R",
+          "slug": "2-8gd-vx-r",
+          "price_incl": 1515200,
+          "price_excl": 1317565,
+          "price_display": "R1 515 200",
+          "monthly_estimate": 29230,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "209",
+            "seats": "7",
+            "airbags": "9",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8GD VX-L",
+          "slug": "2-8gd-vx-l",
+          "price_incl": 1528400,
+          "price_excl": 1329043,
+          "price_display": "R1 528 400",
+          "monthly_estimate": 29485,
+          "specs": {
+            "engine_capacity": "2755cc",
+            "power_kw": "150",
+            "torque_nm": "500",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "7.9",
+            "co2_gkm": "209",
+            "seats": "7",
+            "airbags": "9",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 1355600,
+      "price_to": 1528400,
+      "price_range": "R1 355 600 – R1 528 400",
+      "body_type": "SUV",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "quantum-bus",
+      "name": "Quantum Bus",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Quantum/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-bus/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.8 LWB bus 11-seater GL",
+          "slug": "2-8-lwb-bus-11-seater-gl",
+          "price_incl": 854200,
+          "price_excl": 742783,
+          "price_display": "R854 200",
+          "monthly_estimate": 16479,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "130 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Bus",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "216",
+            "seats": "11",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 SLWB bus 14-seater GL Manual",
+          "slug": "2-8-slwb-bus-14-seater-gl-manual",
+          "price_incl": 873400,
+          "price_excl": 759478,
+          "price_display": "R873 400",
+          "monthly_estimate": 16849,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "130 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Bus",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "216",
+            "seats": "14",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 SLWB bus 14-seater GL Auto",
+          "slug": "2-8-slwb-bus-14-seater-gl-auto",
+          "price_incl": 893700,
+          "price_excl": 777130,
+          "price_display": "R893 700",
+          "monthly_estimate": 17241,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "115 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Bus",
+            "fuel_consumption_l100km": "8.4",
+            "co2_gkm": "221",
+            "seats": "14",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 LWB bus 9-seater VX Premium Auto",
+          "slug": "2-8-lwb-bus-9-seater-vx-premium-auto",
+          "price_incl": 1269700,
+          "price_excl": 1104087,
+          "price_display": "R1 269 700",
+          "monthly_estimate": 24494,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "115 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Bus",
+            "fuel_consumption_l100km": "8.7",
+            "co2_gkm": "229",
+            "seats": "9",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 854200,
+      "price_to": 1269700,
+      "price_range": "R854 200 – R1 269 700",
+      "body_type": "Bus",
+      "fuel_type": "Diesel",
+      "variant_count": 4
+    },
+    {
+      "slug": "quantum-panel-van",
+      "name": "Quantum Panel Van",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Quantum/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/quantum-panel-van/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.8 LWB panel van Auto",
+          "slug": "2-8-lwb-panel-van-auto",
+          "price_incl": 754400,
+          "price_excl": 656000,
+          "price_display": "R754 400",
+          "monthly_estimate": 14553,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "115 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van",
+            "fuel_consumption_l100km": "8.4",
+            "co2_gkm": "221",
+            "seats": "3",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 LWB crew cab Auto",
+          "slug": "2-8-lwb-crew-cab-auto",
+          "price_incl": 767600,
+          "price_excl": 667478,
+          "price_display": "R767 600",
+          "monthly_estimate": 14808,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "115 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van",
+            "fuel_consumption_l100km": "8.4",
+            "co2_gkm": "221",
+            "seats": "6",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        },
+        {
+          "name": "2.8 SLWB panel van Manual",
+          "slug": "2-8-slwb-panel-van-manual",
+          "price_incl": 793500,
+          "price_excl": 690000,
+          "price_display": "R793 500",
+          "monthly_estimate": 15308,
+          "specs": {
+            "engine_capacity": "2755 cc",
+            "power_kw": "130 kW",
+            "torque_nm": "420 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van",
+            "fuel_consumption_l100km": "8.2",
+            "co2_gkm": "216",
+            "seats": "3",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "9 services / 90 000 km"
+          }
+        }
+      ],
+      "price_from": 754400,
+      "price_to": 793500,
+      "price_range": "R754 400 – R793 500",
+      "body_type": "Panel Van",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "rav4",
+      "name": "RAV4",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/RAV4/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rav4/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.5 HEV GX E-Four",
+          "slug": "2-5-hev-gx-e-four",
+          "price_incl": 770500,
+          "price_excl": 670000,
+          "price_display": "R770 500",
+          "monthly_estimate": 14864,
+          "specs": {
+            "engine_capacity": "2487cc",
+            "power_kw": "176",
+            "torque_nm": "221",
+            "fuel_type": "Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "4.5",
+            "co2_gkm": "102",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "2.0 VX",
+          "slug": "2-0-vx",
+          "price_incl": 799900,
+          "price_excl": 695565,
+          "price_display": "R799 900",
+          "monthly_estimate": 15431,
+          "specs": {
+            "engine_capacity": "1987cc",
+            "power_kw": "127",
+            "torque_nm": "203",
+            "fuel_type": "Petrol",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.3",
+            "co2_gkm": "144",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "2.5 HEV VX E-Four",
+          "slug": "2-5-hev-vx-e-four",
+          "price_incl": 927800,
+          "price_excl": 806783,
+          "price_display": "R927 800",
+          "monthly_estimate": 17898,
+          "specs": {
+            "engine_capacity": "2487cc",
+            "power_kw": "176",
+            "torque_nm": "221",
+            "fuel_type": "Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "4.5",
+            "co2_gkm": "102",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "2.5 HEV GR-Sport E-Four",
+          "slug": "2-5-hev-gr-sport-e-four",
+          "price_incl": 941800,
+          "price_excl": 818957,
+          "price_display": "R941 800",
+          "monthly_estimate": 18168,
+          "specs": {
+            "engine_capacity": "2487cc",
+            "power_kw": "176",
+            "torque_nm": "221",
+            "fuel_type": "Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "4.7",
+            "co2_gkm": "107",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "2.5 PHEV GR-Sport E-Four",
+          "slug": "2-5-phev-gr-sport-e-four",
+          "price_incl": 1043900,
+          "price_excl": 907739,
+          "price_display": "R1 043 900",
+          "monthly_estimate": 20138,
+          "specs": {
+            "engine_capacity": "2487cc",
+            "power_kw": "225",
+            "torque_nm": "221",
+            "fuel_type": "Plug-in Hybrid",
+            "transmission": "CVT",
+            "drivetrain": "AWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "1.1",
+            "co2_gkm": "25",
+            "seats": "5",
+            "airbags": "7",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        }
+      ],
+      "price_from": 770500,
+      "price_to": 1043900,
+      "price_range": "R770 500 – R1 043 900",
+      "body_type": "SUV",
+      "fuel_type": "Hybrid",
+      "variant_count": 5
+    },
+    {
+      "slug": "rumion",
+      "name": "Rumion",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Rumion/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/rumion/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5 S",
+          "slug": "1-5-s",
+          "price_incl": 311000,
+          "price_excl": 270435,
+          "price_display": "R311 000",
+          "monthly_estimate": 6000,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77kW",
+            "torque_nm": "138Nm",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed manual",
+            "drivetrain": "FWD",
+            "body_type": "MPV",
+            "fuel_consumption_l100km": "6.2",
+            "co2_gkm": "146",
+            "seats": "7",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "1.5 SX manual",
+          "slug": "1-5-sx-manual",
+          "price_incl": 357300,
+          "price_excl": 310696,
+          "price_display": "R357 300",
+          "monthly_estimate": 6893,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77kW",
+            "torque_nm": "138Nm",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed manual",
+            "drivetrain": "FWD",
+            "body_type": "MPV",
+            "fuel_consumption_l100km": "6.2",
+            "co2_gkm": "146",
+            "seats": "7",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "1.5 SX auto",
+          "slug": "1-5-sx-auto",
+          "price_incl": 377100,
+          "price_excl": 327913,
+          "price_display": "R377 100",
+          "monthly_estimate": 7275,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77kW",
+            "torque_nm": "138Nm",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed automatic",
+            "drivetrain": "FWD",
+            "body_type": "MPV",
+            "fuel_consumption_l100km": "6.2",
+            "co2_gkm": "147",
+            "seats": "7",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "1.5 TX manual",
+          "slug": "1-5-tx-manual",
+          "price_incl": 386800,
+          "price_excl": 336348,
+          "price_display": "R386 800",
+          "monthly_estimate": 7462,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77kW",
+            "torque_nm": "138Nm",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed manual",
+            "drivetrain": "FWD",
+            "body_type": "MPV",
+            "fuel_consumption_l100km": "6.2",
+            "co2_gkm": "146",
+            "seats": "7",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        },
+        {
+          "name": "1.5 TX auto",
+          "slug": "1-5-tx-auto",
+          "price_incl": 407600,
+          "price_excl": 354435,
+          "price_display": "R407 600",
+          "monthly_estimate": 7863,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77kW",
+            "torque_nm": "138Nm",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed automatic",
+            "drivetrain": "FWD",
+            "body_type": "MPV",
+            "fuel_consumption_l100km": "6.2",
+            "co2_gkm": "147",
+            "seats": "7",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "3 services / 45 000 km"
+          }
+        }
+      ],
+      "price_from": 311000,
+      "price_to": 407600,
+      "price_range": "R311 000 – R407 600",
+      "body_type": "MPV",
+      "fuel_type": "Petrol",
+      "variant_count": 5
+    },
+    {
+      "slug": "starlet",
+      "name": "Starlet",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Starlet/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5 Xi",
+          "slug": "1-5-xi",
+          "price_incl": 271000,
+          "price_excl": 235652,
+          "price_display": "R271 000",
+          "monthly_estimate": 5228,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "5.4",
+            "co2_gkm": "127",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XS manual",
+          "slug": "1-5-xs-manual",
+          "price_incl": 278700,
+          "price_excl": 242348,
+          "price_display": "R278 700",
+          "monthly_estimate": 5376,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "5.4",
+            "co2_gkm": "127",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XS auto",
+          "slug": "1-5-xs-auto",
+          "price_incl": 300900,
+          "price_excl": 261652,
+          "price_display": "R300 900",
+          "monthly_estimate": 5805,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed Automatic",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "5.7",
+            "co2_gkm": "134",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XR manual",
+          "slug": "1-5-xr-manual",
+          "price_incl": 310700,
+          "price_excl": 270174,
+          "price_display": "R310 700",
+          "monthly_estimate": 5994,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "5.4",
+            "co2_gkm": "127",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XR auto",
+          "slug": "1-5-xr-auto",
+          "price_incl": 330900,
+          "price_excl": 287739,
+          "price_display": "R330 900",
+          "monthly_estimate": 6383,
+          "specs": {
+            "engine_capacity": "1462cc",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed Automatic",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "5.7",
+            "co2_gkm": "134",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        }
+      ],
+      "price_from": 271000,
+      "price_to": 330900,
+      "price_range": "R271 000 – R330 900",
+      "body_type": "Hatchback",
+      "fuel_type": "Petrol",
+      "variant_count": 5
+    },
+    {
+      "slug": "starlet-cross",
+      "name": "Starlet Cross",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet-cross/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Starlet-Cross/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/starlet-cross/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5 XS",
+          "slug": "1-5-xs",
+          "price_incl": 307900,
+          "price_excl": 267739,
+          "price_display": "R307 900",
+          "monthly_estimate": 5940,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "5.6",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XS Auto",
+          "slug": "1-5-xs-auto",
+          "price_incl": 342900,
+          "price_excl": 298174,
+          "price_display": "R342 900",
+          "monthly_estimate": 6615,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed Automatic",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "5.8",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XR",
+          "slug": "1-5-xr",
+          "price_incl": 362800,
+          "price_excl": 315478,
+          "price_display": "R362 800",
+          "monthly_estimate": 6999,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "5.6",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XR Auto",
+          "slug": "1-5-xr-auto",
+          "price_incl": 383800,
+          "price_excl": 333739,
+          "price_display": "R383 800",
+          "monthly_estimate": 7404,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed Automatic",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "5.8",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 services / 60 000 km"
+          }
+        }
+      ],
+      "price_from": 307900,
+      "price_to": 383800,
+      "price_range": "R307 900 – R383 800",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 4
+    },
+    {
+      "slug": "urban-cruiser",
+      "name": "Urban Cruiser",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/urban-cruiser/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Urban-Cruiser/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/urban-cruiser/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5 XS",
+          "slug": "1-5-xs",
+          "price_incl": 342700,
+          "price_excl": 298000,
+          "price_display": "R342 700",
+          "monthly_estimate": 6611,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.1",
+            "seats": "5",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 years / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XR",
+          "slug": "1-5-xr",
+          "price_incl": 360200,
+          "price_excl": 313217,
+          "price_display": "R360 200",
+          "monthly_estimate": 6949,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.1",
+            "seats": "5",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 years / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5 XR Auto",
+          "slug": "1-5-xr-auto",
+          "price_incl": 373800,
+          "price_excl": 325043,
+          "price_display": "R373 800",
+          "monthly_estimate": 7211,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "77",
+            "torque_nm": "138",
+            "fuel_type": "Petrol",
+            "transmission": "4-speed Automatic",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.1",
+            "seats": "5",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "4 years / 60 000 km"
+          }
+        }
+      ],
+      "price_from": 342700,
+      "price_to": 373800,
+      "price_range": "R342 700 – R373 800",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 3
+    },
+    {
+      "slug": "vitz",
+      "name": "Vitz",
+      "brand": "Toyota",
+      "brand_key": "toyota",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/jellybean.png",
+      "source_url": "https://www.cars.co.za/newcars/Toyota/Vitz/",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/jellybean.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/vitz/lifestyle-3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.0",
+          "slug": "1-0",
+          "price_incl": 180600,
+          "price_excl": 157043,
+          "price_display": "R180 600",
+          "monthly_estimate": 3484,
+          "specs": {
+            "engine_capacity": "996cc",
+            "power_kw": "49",
+            "torque_nm": "89",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.4",
+            "co2_gkm": "104",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "2 years / 30 000 km"
+          }
+        },
+        {
+          "name": "1.0 XR Manual",
+          "slug": "1-0-xr-manual",
+          "price_incl": 212000,
+          "price_excl": 184348,
+          "price_display": "R212 000",
+          "monthly_estimate": 4090,
+          "specs": {
+            "engine_capacity": "996cc",
+            "power_kw": "49",
+            "torque_nm": "89",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.4",
+            "co2_gkm": "104",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "2 years / 30 000 km"
+          }
+        },
+        {
+          "name": "1.0 XR Auto",
+          "slug": "1-0-xr-auto",
+          "price_incl": 227100,
+          "price_excl": 197478,
+          "price_display": "R227 100",
+          "monthly_estimate": 4381,
+          "specs": {
+            "engine_capacity": "996cc",
+            "power_kw": "49",
+            "torque_nm": "89",
+            "fuel_type": "Petrol",
+            "transmission": "CVT Automatic",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "4.2",
+            "co2_gkm": "99",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km",
+            "service_plan": "2 years / 30 000 km"
+          }
+        }
+      ],
+      "price_from": 180600,
+      "price_to": 227100,
+      "price_range": "R180 600 – R227 100",
+      "body_type": "Hatchback",
+      "fuel_type": "Petrol",
+      "variant_count": 3
+    }
+  ],
+  "total_variants": 116,
+  "model_count": 28,
+  "price_from": 180600,
+  "price_to": 2225200
+}

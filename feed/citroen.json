@@ -1,0 +1,219 @@
+{
+  "key": "citroen",
+  "name": "Citroen",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "c3",
+      "name": "C3",
+      "brand": "Citroen",
+      "brand_key": "citroen",
+      "hero_image": "https://img-ik.cars.co.za/specimages/citrc3_4h10_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Citroen/C3/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/citrc3_4h10_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2019_Citro%C3%ABn_C3_in_Cumulus_Grey%2C_front_left%2C_06-08-2025.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Citro%C3%ABn_C3_SHINE_%28ABA-B6HN01%29_rear.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Citro%C3%ABn_C3_-_wn%C4%99trze_%28MSP17%29.jpg",
+          "type": "Interior",
+          "priority": 4
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.2 MAX MT",
+          "slug": "1-2-max-mt",
+          "price_incl": 269500,
+          "price_excl": 234348,
+          "price_display": "R269 500",
+          "monthly_estimate": 5199,
+          "specs": {
+            "engine_capacity": "1199cc",
+            "power_kw": "81",
+            "torque_nm": "205",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Hatchback",
+            "fuel_consumption_l100km": "6.3",
+            "co2_gkm": "149",
+            "seats": "5"
+          }
+        },
+        {
+          "name": "1.2 MAX Turbo AT",
+          "slug": "1-2-max-turbo-at",
+          "price_incl": 311500,
+          "price_excl": 270870,
+          "price_display": "R311 500",
+          "monthly_estimate": 6009,
+          "specs": {
+            "engine_capacity": "1199cc",
+            "power_kw": "81",
+            "torque_nm": "205",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Automatic",
+            "body_type": "Hatchback"
+          }
+        }
+      ],
+      "price_from": 269500,
+      "price_to": 311500,
+      "price_range": "R269 500 – R311 500",
+      "body_type": "Hatchback",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "c3-aircross",
+      "name": "C3 Aircross",
+      "brand": "Citroen",
+      "brand_key": "citroen",
+      "hero_image": "https://img-ik.cars.co.za/specimages/citrairc_1e1_1.jpg",
+      "source_url": "",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/citrairc_1e1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Citro%C3%ABn_C3_Aircross_%282024%29_DSC_0591.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Citro%C3%ABn_C3_Aircross_%282024%29_DSC_9300.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Citro%C3%ABn_C3_Aircross_%282024%29_Auto_Zuerich_2024_DSC_6646.jpg",
+          "type": "Interior",
+          "priority": 4
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.2 PLUS MT",
+          "slug": "1-2-plus-mt",
+          "price_incl": 294500,
+          "price_excl": 256087,
+          "price_display": "R294 500",
+          "monthly_estimate": 5681,
+          "specs": {
+            "engine_capacity": "1199cc",
+            "power_kw": "61",
+            "torque_nm": "115",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "body_type": "SUV"
+          }
+        },
+        {
+          "name": "MAX Turbo AT (5-seater)",
+          "slug": "max-turbo-at-5-seater",
+          "price_incl": 378900,
+          "price_excl": 329478,
+          "price_display": "R378 900",
+          "monthly_estimate": 7309,
+          "specs": {
+            "engine_capacity": "1199cc",
+            "power_kw": "81",
+            "torque_nm": "205",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Automatic",
+            "body_type": "SUV"
+          }
+        },
+        {
+          "name": "MAX Turbo AT (7-seater)",
+          "slug": "max-turbo-at-7-seater",
+          "price_incl": 388900,
+          "price_excl": 338174,
+          "price_display": "R388 900",
+          "monthly_estimate": 7502,
+          "specs": {
+            "engine_capacity": "1199cc",
+            "power_kw": "81",
+            "torque_nm": "205",
+            "fuel_type": "Petrol",
+            "transmission": "6-speed Automatic",
+            "body_type": "SUV"
+          }
+        }
+      ],
+      "price_from": 294500,
+      "price_to": 388900,
+      "price_range": "R294 500 – R388 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 3
+    },
+    {
+      "slug": "c3-hola-panel-van",
+      "name": "C3 Hola Panel Van",
+      "brand": "Citroen",
+      "brand_key": "citroen",
+      "hero_image": "",
+      "source_url": "https://www.citroen.co.za/",
+      "images": [],
+      "variants": [
+        {
+          "name": "1.2 Hola 5MT",
+          "slug": "1-2-hola-5mt",
+          "price_incl": 242500,
+          "price_excl": 210870,
+          "price_display": "R242 500",
+          "monthly_estimate": 4678,
+          "specs": {
+            "engine_capacity": "1199cc",
+            "power_kw": "60",
+            "torque_nm": "115",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "FWD",
+            "body_type": "Panel Van",
+            "fuel_consumption_l100km": "5.6",
+            "co2_gkm": "133",
+            "seats": "2",
+            "airbags": "6",
+            "warranty": "5 years / 100 000 km",
+            "service_plan": "2 years / 30 000 km (optional)"
+          },
+          "dimensions": {
+            "length_mm": "3981",
+            "width_mm": "1733",
+            "height_mm": "1599",
+            "wheelbase_mm": "2540",
+            "ground_clearance_mm": "180",
+            "kerb_weight_kg": "1030"
+          }
+        }
+      ],
+      "price_from": 242500,
+      "price_to": 242500,
+      "price_range": "R242 500",
+      "body_type": "Panel Van",
+      "fuel_type": "Petrol",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 6,
+  "model_count": 3,
+  "price_from": 242500,
+  "price_to": 388900
+}

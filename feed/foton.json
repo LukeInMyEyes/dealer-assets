@@ -1,0 +1,600 @@
+{
+  "key": "foton",
+  "name": "Foton",
+  "updated_at": "2026-06-12T11:57:51",
+  "models": [
+    {
+      "slug": "asambe",
+      "name": "Asambe",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://img-ik.cars.co.za/specimages/fotoasam2e1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Foton/Asambe/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/fotoasam2e1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-South-Africa-Asambe-Taxi-16-Seat-Hero-New-2.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fotoasam2e1_2.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-16-Seat-Interior-Slider-1-New.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fotoasam2e1_3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.4i Taxi 16-seater",
+          "slug": "2-4i-taxi-16-seater",
+          "price_incl": 439900,
+          "price_excl": 382522,
+          "price_display": "R439 900",
+          "monthly_estimate": 8486,
+          "specs": {
+            "engine_capacity": "2400cc",
+            "power_kw": "100",
+            "torque_nm": "200",
+            "fuel_type": "Petrol",
+            "transmission": "5-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Minibus",
+            "fuel_consumption_l100km": "12.0",
+            "co2_gkm": "219",
+            "seats": "16",
+            "airbags": "2",
+            "warranty": "2 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.8D Taxi 16-seater",
+          "slug": "2-8d-taxi-16-seater",
+          "price_incl": 499900,
+          "price_excl": 434696,
+          "price_display": "R499 900",
+          "monthly_estimate": 9644,
+          "specs": {
+            "engine_capacity": "2771cc",
+            "power_kw": "96",
+            "torque_nm": "280",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Minibus",
+            "fuel_consumption_l100km": "8.9",
+            "co2_gkm": "168",
+            "seats": "16",
+            "airbags": "2",
+            "warranty": "2 years / 200 000 km"
+          }
+        }
+      ],
+      "price_from": 439900,
+      "price_to": 499900,
+      "price_range": "R439 900 – R499 900",
+      "body_type": "Minibus",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "tunland-g7",
+      "name": "Tunland G7",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://img-ik.cars.co.za/specimages/fototunl_2p1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-G7/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/fototunl_2p1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-South-Africa-Tunland-G7-Double-Cab-Hero.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Details.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-South-Africa-Tunland-G7-Hero-Int-1.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Offroad.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0TD D/C 4x4 Limited",
+          "slug": "2-0td-d-c-4x4-limited",
+          "price_incl": 584900,
+          "price_excl": 508609,
+          "price_display": "R584 900",
+          "monthly_estimate": 11283,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / unlimited km"
+          }
+        },
+        {
+          "name": "2.0TD D/C 4x4 TLX",
+          "slug": "2-0td-d-c-4x4-tlx",
+          "price_incl": 559900,
+          "price_excl": 486870,
+          "price_display": "R559 900",
+          "monthly_estimate": 10801,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / unlimited km"
+          }
+        },
+        {
+          "name": "2.0TD D/C TL AT",
+          "slug": "2-0td-d-c-tl-at",
+          "price_incl": 469900,
+          "price_excl": 408609,
+          "price_display": "R469 900",
+          "monthly_estimate": 9065,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / unlimited km"
+          }
+        },
+        {
+          "name": "2.0TD D/C TL MT",
+          "slug": "2-0td-d-c-tl-mt",
+          "price_incl": 399900,
+          "price_excl": 347739,
+          "price_display": "R399 900",
+          "monthly_estimate": 7715,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / unlimited km"
+          }
+        },
+        {
+          "name": "2.0TD D/C TLX",
+          "slug": "2-0td-d-c-tlx",
+          "price_incl": 499900,
+          "price_excl": 434696,
+          "price_display": "R499 900",
+          "monthly_estimate": 9644,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / unlimited km"
+          }
+        },
+        {
+          "name": "2.0TD S/C 4x4 TLX",
+          "slug": "2-0td-s-c-4x4-tlx",
+          "price_incl": 419900,
+          "price_excl": 365130,
+          "price_display": "R419 900",
+          "monthly_estimate": 8100,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "4WD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km"
+          }
+        },
+        {
+          "name": "2.0TD S/C Hi Rider",
+          "slug": "2-0td-s-c-hi-rider",
+          "price_incl": 329900,
+          "price_excl": 286870,
+          "price_display": "R329 900",
+          "monthly_estimate": 6364,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "120",
+            "torque_nm": "390",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed Manual",
+            "drivetrain": "RWD",
+            "body_type": "Single Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "2",
+            "airbags": "2",
+            "warranty": "3 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 329900,
+      "price_to": 584900,
+      "price_range": "R329 900 – R584 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 7
+    },
+    {
+      "slug": "tunland-v7",
+      "name": "Tunland V7",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://img-ik.cars.co.za/specimages/fototunv7_2d1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-V7/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/fototunv7_2d1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Double-Cab-Hero.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Design-Details-1.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Hero-Int-1.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fototunv7_2d1_3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0TD D/C 4x4 VLX",
+          "slug": "2-0td-d-c-4x4-vlx",
+          "price_incl": 765900,
+          "price_excl": 666000,
+          "price_display": "R765 900",
+          "monthly_estimate": 14775,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "120",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "10.8",
+            "co2_gkm": "265",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0TD D/C VLX",
+          "slug": "2-0td-d-c-vlx",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "120",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        }
+      ],
+      "price_from": 689900,
+      "price_to": 765900,
+      "price_range": "R689 900 – R765 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "tunland-v9",
+      "name": "Tunland V9",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://img-ik.cars.co.za/specimages/fototunv9_2d1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-V9/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/fototunv9_2d1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Double-Cab-Hero.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Design-Details-1.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Hero-Int-1.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fototunv9_2d1_3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0TD D/C 4x4 LTD",
+          "slug": "2-0td-d-c-4x4-ltd",
+          "price_incl": 799900,
+          "price_excl": 695565,
+          "price_display": "R799 900",
+          "monthly_estimate": 15431,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "120",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "4WD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "10.8",
+            "co2_gkm": "265",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0TD D/C VLX",
+          "slug": "2-0td-d-c-vlx",
+          "price_incl": 725900,
+          "price_excl": 631217,
+          "price_display": "R725 900",
+          "monthly_estimate": 14003,
+          "specs": {
+            "engine_capacity": "2000cc",
+            "power_kw": "120",
+            "torque_nm": "450",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "9.0",
+            "co2_gkm": "220",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 200 000 km"
+          }
+        }
+      ],
+      "price_from": 725900,
+      "price_to": 799900,
+      "price_range": "R725 900 – R799 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "view",
+      "name": "View",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://img-ik.cars.co.za/specimages/fotoview2v1_1.jpg",
+      "source_url": "https://www.cars.co.za/newcars/Foton/View/",
+      "images": [
+        {
+          "url": "https://img-ik.cars.co.za/specimages/fotoview2v1_1.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/07/Foton-South-Africa-Commercial-View-Shuttlebus-Minibus-15-Seat-Hero-2.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Commercial-View-Shuttlebus-Minibus-Design-Details-1.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-View-Shuttlebus-Minibus-Interior-Slider-1.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fotoview2v1_3.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0TDI C2 Transor AT",
+          "slug": "2-0tdi-c2-transor-at",
+          "price_incl": 469900,
+          "price_excl": 408609,
+          "price_display": "R469 900",
+          "monthly_estimate": 9065,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "101",
+            "torque_nm": "330",
+            "fuel_type": "Diesel",
+            "transmission": "Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van / Bus",
+            "fuel_consumption_l100km": "12.0",
+            "co2_gkm": "219",
+            "seats": "3",
+            "airbags": "2",
+            "warranty": "2 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0TDI C2 Transor MT",
+          "slug": "2-0tdi-c2-transor-mt",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "101",
+            "torque_nm": "330",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van / Bus",
+            "fuel_consumption_l100km": "12.0",
+            "co2_gkm": "219",
+            "seats": "3",
+            "airbags": "2",
+            "warranty": "2 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0TDI CS2 Royal Saloon AT",
+          "slug": "2-0tdi-cs2-royal-saloon-at",
+          "price_incl": 599900,
+          "price_excl": 521652,
+          "price_display": "R599 900",
+          "monthly_estimate": 11573,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "101",
+            "torque_nm": "330",
+            "fuel_type": "Diesel",
+            "transmission": "Automatic",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van / Bus",
+            "fuel_consumption_l100km": "12.0",
+            "co2_gkm": "219",
+            "seats": "15",
+            "airbags": "2",
+            "warranty": "2 years / 200 000 km"
+          }
+        },
+        {
+          "name": "2.0TDI CS2 Royal Saloon MT",
+          "slug": "2-0tdi-cs2-royal-saloon-mt",
+          "price_incl": 569900,
+          "price_excl": 495565,
+          "price_display": "R569 900",
+          "monthly_estimate": 10994,
+          "specs": {
+            "engine_capacity": "1996cc",
+            "power_kw": "101",
+            "torque_nm": "330",
+            "fuel_type": "Diesel",
+            "transmission": "Manual",
+            "drivetrain": "RWD",
+            "body_type": "Panel Van / Bus",
+            "fuel_consumption_l100km": "12.0",
+            "co2_gkm": "219",
+            "seats": "15",
+            "airbags": "2",
+            "warranty": "2 years / 200 000 km"
+          }
+        }
+      ],
+      "price_from": 449900,
+      "price_to": 599900,
+      "price_range": "R449 900 – R599 900",
+      "body_type": "Panel Van / Bus",
+      "fuel_type": "Diesel",
+      "variant_count": 4
+    }
+  ],
+  "total_variants": 17,
+  "model_count": 5,
+  "price_from": 329900,
+  "price_to": 799900
+}
