@@ -1,38 +1,38 @@
 {
   "key": "changan",
   "name": "Changan",
-  "updated_at": "2026-06-13T05:17:08",
+  "updated_at": "2026-06-13T05:25:54",
   "models": [
     {
       "slug": "alsvin",
       "name": "Alsvin",
       "brand": "Changan",
       "brand_key": "changan",
-      "hero_image": "https://img-ik.cars.co.za/specimages/chanalsv1s1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/jellybean.jpg",
       "source_url": "https://www.cars.co.za/newcars/Changan/Alsvin/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/chanalsv1s1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/jellybean.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34front-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/exteriorfront-1.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34back-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/exteriorrear-1.jpg",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Interior-Front-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/interior-1.jpg",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/lifestyle-1.jpg",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -95,31 +95,26 @@
       "name": "CS75 Pro",
       "brand": "Changan",
       "brand_key": "changan",
-      "hero_image": "https://img-ik.cars.co.za/specimages/chancs75_1e1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/jellybean.jpg",
       "source_url": "https://www.cars.co.za/newcars/Changan/CS75-Pro/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/chancs75_1e1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/jellybean.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/ext-Hero-new-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/exteriorfront-1.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chancs75_1e1_2.jpg",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Int-7-detail-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/interior-1.jpg",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-a2373a56-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/lifestyle-1.jpg",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -226,31 +221,26 @@
       "name": "Deepal S07",
       "brand": "Changan",
       "brand_key": "changan",
-      "hero_image": "https://img-ik.cars.co.za/specimages/deeps07_1e1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/jellybean.jpg",
       "source_url": "https://www.cars.co.za/newcars/Changan/Deepal-S07/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/deeps07_1e1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/jellybean.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/EXT-HERO-2-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/exteriorfront-1.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/deeps07_1e1_2.jpg",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/int-2d-1920w.jpeg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/interior-1.jpeg",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Banner-1450x650-f95ff617-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/lifestyle-1.jpg",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -290,31 +280,31 @@
       "name": "Hunter",
       "brand": "Changan",
       "brand_key": "changan",
-      "hero_image": "https://img-ik.cars.co.za/specimages/chanhunt1d1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/jellybean.jpg",
       "source_url": "https://www.cars.co.za/newcars/Changan/Hunter/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/chanhunt1d1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/jellybean.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/3-Exterior-Banner-1080x1600-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/exteriorfront-1.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanhunt1d1_2.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/exteriorrear-1.jpg",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/5-Interior-Banner-1450x650-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/interior-1.jpg",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://lirp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Banner-1450x650-1920w.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/lifestyle-1.jpg",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -398,31 +388,31 @@
       "name": "Uni-S",
       "brand": "Changan",
       "brand_key": "changan",
-      "hero_image": "https://img-ik.cars.co.za/specimages/chanuni-s1e1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/jellybean.jpg",
       "source_url": "https://www.cars.co.za/newcars/Changan/Uni-S/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/chanuni-s1e1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/jellybean.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/exteriorfront-1.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_3.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/exteriorrear-1.jpg",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_4.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/interior-1.jpg",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/chanuni-s1e1_2.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/lifestyle-1.jpg",
           "type": "Lifestyle",
           "priority": 5
         }

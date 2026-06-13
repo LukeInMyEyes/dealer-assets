@@ -1,40 +1,35 @@
 {
   "key": "foton",
   "name": "Foton",
-  "updated_at": "2026-06-13T05:17:08",
+  "updated_at": "2026-06-13T05:25:54",
   "models": [
     {
       "slug": "asambe",
       "name": "Asambe",
       "brand": "Foton",
       "brand_key": "foton",
-      "hero_image": "https://img-ik.cars.co.za/specimages/fotoasam2e1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/jellybean.webp",
       "source_url": "https://www.cars.co.za/newcars/Foton/Asambe/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/fotoasam2e1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/jellybean.webp",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-South-Africa-Asambe-Taxi-16-Seat-Hero-New-2.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/exteriorfront-1.webp",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fotoasam2e1_2.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/exteriorrear-1.webp",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-16-Seat-Interior-Slider-1-New.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/interior-1.webp",
           "type": "Interior",
           "priority": 4
-        },
-        {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fotoasam2e1_3.jpg",
-          "type": "Lifestyle",
-          "priority": 5
         }
       ],
       "variants": [
@@ -95,31 +90,26 @@
       "name": "Tunland G7",
       "brand": "Foton",
       "brand_key": "foton",
-      "hero_image": "https://img-ik.cars.co.za/specimages/fototunl_2p1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/jellybean.webp",
       "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-G7/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/fototunl_2p1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/jellybean.webp",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-South-Africa-Tunland-G7-Double-Cab-Hero.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/exteriorfront-1.webp",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Details.webp",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-South-Africa-Tunland-G7-Hero-Int-1.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/interior-1.webp",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Offroad.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/lifestyle-1.webp",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -292,31 +282,26 @@
       "name": "Tunland V7",
       "brand": "Foton",
       "brand_key": "foton",
-      "hero_image": "https://img-ik.cars.co.za/specimages/fototunv7_2d1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/jellybean.webp",
       "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-V7/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/fototunv7_2d1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/jellybean.webp",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Double-Cab-Hero.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/exteriorfront-1.webp",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Design-Details-1.webp",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Hero-Int-1.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/interior-1.webp",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fototunv7_2d1_3.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/lifestyle-1.webp",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -379,31 +364,26 @@
       "name": "Tunland V9",
       "brand": "Foton",
       "brand_key": "foton",
-      "hero_image": "https://img-ik.cars.co.za/specimages/fototunv9_2d1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/jellybean.webp",
       "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-V9/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/fototunv9_2d1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/jellybean.webp",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Double-Cab-Hero.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/exteriorfront-1.webp",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Design-Details-1.webp",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Hero-Int-1.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/interior-1.webp",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fototunv9_2d1_3.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/lifestyle-1.webp",
           "type": "Lifestyle",
           "priority": 5
         }
@@ -466,33 +446,28 @@
       "name": "View",
       "brand": "Foton",
       "brand_key": "foton",
-      "hero_image": "https://img-ik.cars.co.za/specimages/fotoview2v1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/jellybean.webp",
       "source_url": "https://www.cars.co.za/newcars/Foton/View/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/fotoview2v1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/jellybean.webp",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/07/Foton-South-Africa-Commercial-View-Shuttlebus-Minibus-15-Seat-Hero-2.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/exteriorfront-1.webp",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Commercial-View-Shuttlebus-Minibus-Design-Details-1.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/exteriorrear-1.webp",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-View-Shuttlebus-Minibus-Interior-Slider-1.webp",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/interior-1.webp",
           "type": "Interior",
           "priority": 4
-        },
-        {
-          "url": "https://img-ik.cars.co.za/specimages/tr:n-stock_large/fotoview2v1_3.jpg",
-          "type": "Lifestyle",
-          "priority": 5
         }
       ],
       "variants": [
