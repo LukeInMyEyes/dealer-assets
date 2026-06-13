@@ -1,7 +1,7 @@
 {
   "key": "citroen",
   "name": "Citroen",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-06-13T05:46:21",
   "models": [
     {
       "slug": "c3",
@@ -207,6 +207,7 @@
             "co2_gkm": "133",
             "seats": "2",
             "airbags": "6",
+            "fuel_tank_l": "45",
             "warranty": "5 years / 100 000 km",
             "service_plan": "2 years / 30 000 km (optional)"
           },

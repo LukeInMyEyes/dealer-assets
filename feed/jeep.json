@@ -1,7 +1,7 @@
 {
   "key": "jeep",
   "name": "Jeep",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-06-13T05:46:21",
   "models": [
     {
       "slug": "gladiator",
@@ -52,6 +52,7 @@
             "co2_gkm": "288",
             "seats": "5",
             "airbags": "6",
+            "fuel_tank_l": "83",
             "warranty": "100 000km",
             "service_plan": "5yr/100 000 Kmkm"
           },
@@ -284,6 +285,7 @@
             "co2_gkm": "278",
             "seats": "5",
             "airbags": "4",
+            "fuel_tank_l": "81",
             "warranty": "100 000km",
             "service_plan": "5yr/100 000 Kmkm"
           },
@@ -310,6 +312,7 @@
             "drivetrain": "AWD",
             "body_type": "SUV",
             "airbags": "4",
+            "fuel_tank_l": "81",
             "warranty": "100 000km",
             "service_plan": "5yr/100 000 Kmkm"
           },

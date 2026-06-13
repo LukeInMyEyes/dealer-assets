@@ -1,0 +1,2972 @@
+{
+  "dealer": "midbay",
+  "dealer_name": "Midbay Motors Group",
+  "dealership_id": "MIDBAY",
+  "generated": "2026-06-13T05:46:21",
+  "brands": [
+    {
+      "key": "peugeot",
+      "name": "Peugeot",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "2008",
+          "name": "2008",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/2008/hero-lifestyle.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Peugeot/2008/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/2008/hero-lifestyle.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/2008/side-profile.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2T Allure A/T",
+              "slug": "1-2t-allure-a-t",
+              "price_incl": 519900,
+              "price_excl": 452087,
+              "price_display": "R519 900",
+              "monthly_estimate": 10029,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.5",
+                "co2_gkm": "148",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2T GT A/T",
+              "slug": "1-2t-gt-a-t",
+              "price_incl": 577900,
+              "price_excl": 502522,
+              "price_display": "R577 900",
+              "monthly_estimate": 11148,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.5",
+                "co2_gkm": "148",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 519900,
+          "price_to": 577900,
+          "price_range": "R519 900 – R577 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "landtrek",
+          "name": "Landtrek",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/landtrek/allure.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Peugeot/Landtrek/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/landtrek/allure.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/landtrek/professional-sc.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/peugeot/landtrek/4action.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.9TD D/C 4Action 4x4",
+              "slug": "1-9td-d-c-4action-4x4",
+              "price_incl": 745500,
+              "price_excl": 648261,
+              "price_display": "R745 500",
+              "monthly_estimate": 14382,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.1",
+                "co2_gkm": "239",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD D/C Active 4x4",
+              "slug": "1-9td-d-c-active-4x4",
+              "price_incl": 545900,
+              "price_excl": 474696,
+              "price_display": "R545 900",
+              "monthly_estimate": 10531,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.5",
+                "co2_gkm": "197",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD D/C Allure",
+              "slug": "1-9td-d-c-allure",
+              "price_incl": 653900,
+              "price_excl": 568609,
+              "price_display": "R653 900",
+              "monthly_estimate": 12614,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "8.9",
+                "co2_gkm": "235",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD D/C Professional",
+              "slug": "1-9td-d-c-professional",
+              "price_incl": 454900,
+              "price_excl": 395565,
+              "price_display": "R454 900",
+              "monthly_estimate": 8776,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.1",
+                "co2_gkm": "186",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD S/C Professional",
+              "slug": "1-9td-s-c-professional",
+              "price_incl": 388900,
+              "price_excl": 338174,
+              "price_display": "R388 900",
+              "monthly_estimate": 7502,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "RWD",
+                "body_type": "Single Cab",
+                "fuel_consumption_l100km": "8.2",
+                "co2_gkm": "215",
+                "seats": "2",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 388900,
+          "price_to": 745500,
+          "price_range": "R388 900 – R745 500",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 5
+        }
+      ],
+      "total_variants": 7,
+      "model_count": 2,
+      "price_from": 388900,
+      "price_to": 745500
+    },
+    {
+      "key": "jeep",
+      "name": "Jeep",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "gladiator",
+          "name": "Gladiator",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/gladiator/hero.avif",
+          "source_url": "https://www.cars.co.za/newcars/Jeep/Gladiator/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/gladiator/hero.avif",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/gladiator/gladiator-068.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/gladiator/gladiator-052.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/gladiator/transport.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Rubicon 3.6L 4x4 D-Cab PU AT",
+              "slug": "rubicon-3-6l-4x4-d-cab-pu-at",
+              "price_incl": 1399900,
+              "price_excl": 1217304,
+              "price_display": "R1 399 900",
+              "monthly_estimate": 27006,
+              "specs": {
+                "engine_capacity": "3 604",
+                "power_kw": "209",
+                "torque_nm": "347",
+                "fuel_type": "petrol",
+                "transmission": "8-speed automatic",
+                "drivetrain": "AWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "12.3",
+                "co2_gkm": "288",
+                "seats": "5",
+                "airbags": "6",
+                "fuel_tank_l": "83",
+                "warranty": "100 000km",
+                "service_plan": "5yr/100 000 Kmkm"
+              },
+              "dimensions": {
+                "length_mm": "5 591mm",
+                "width_mm": "1 894",
+                "height_mm": "1 909mm",
+                "wheelbase_mm": "3 488",
+                "ground_clearance_mm": "282"
+              }
+            }
+          ],
+          "price_from": 1399900,
+          "price_to": 1399900,
+          "price_range": "R1 399 900",
+          "body_type": "Double Cab",
+          "fuel_type": "petrol",
+          "variant_count": 1
+        },
+        {
+          "slug": "grand-cherokee",
+          "name": "Grand Cherokee",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/grand-cherokee/hero-5seat.avif",
+          "source_url": "https://www.jeep.com/za/jeep-grand-cherokee/plug-in.html",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/grand-cherokee/hero-5seat.avif",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/grand-cherokee/summit-reserve-grey.avif",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/grand-cherokee/4xe-limited.avif",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/grand-cherokee/interior.avif",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "3.6 Limited 4x4 8-sp AT",
+              "slug": "3-6-limited-4x4-8-sp-at",
+              "price_incl": 1426989,
+              "price_excl": 1240860,
+              "price_display": "R1 426 989",
+              "monthly_estimate": 27528,
+              "specs": {
+                "engine_capacity": "3600cc",
+                "power_kw": "210",
+                "torque_nm": "344",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.9",
+                "seats": "5",
+                "airbags": "8",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "3.6 Overland 4x4 8-sp AT",
+              "slug": "3-6-overland-4x4-8-sp-at",
+              "price_incl": 1651304,
+              "price_excl": 1435917,
+              "price_display": "R1 651 304",
+              "monthly_estimate": 31856,
+              "specs": {
+                "engine_capacity": "3600cc",
+                "power_kw": "210",
+                "torque_nm": "344",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.9",
+                "seats": "5",
+                "airbags": "8",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "3.6 Summit Reserve 4x4 8-sp AT",
+              "slug": "3-6-summit-reserve-4x4-8-sp-at",
+              "price_incl": 1881709,
+              "price_excl": 1636269,
+              "price_display": "R1 881 709",
+              "monthly_estimate": 36300,
+              "specs": {
+                "engine_capacity": "3600cc",
+                "power_kw": "210",
+                "torque_nm": "344",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.9",
+                "seats": "5",
+                "airbags": "8",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "L 3.6 Limited 4x4 8-sp AT",
+              "slug": "l-3-6-limited-4x4-8-sp-at",
+              "price_incl": 1447289,
+              "price_excl": 1258512,
+              "price_display": "R1 447 289",
+              "monthly_estimate": 27920,
+              "specs": {
+                "engine_capacity": "3600cc",
+                "power_kw": "210",
+                "torque_nm": "344",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.9",
+                "seats": "7",
+                "airbags": "8",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "L 3.6 Overland 4x4 8-sp AT",
+              "slug": "l-3-6-overland-4x4-8-sp-at",
+              "price_incl": 1671604,
+              "price_excl": 1453569,
+              "price_display": "R1 671 604",
+              "monthly_estimate": 32247,
+              "specs": {
+                "engine_capacity": "3600cc",
+                "power_kw": "210",
+                "torque_nm": "344",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.9",
+                "seats": "7",
+                "airbags": "8",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "L 3.6 Summit Reserve 4x4 8-sp AT",
+              "slug": "l-3-6-summit-reserve-4x4-8-sp-at",
+              "price_incl": 1853900,
+              "price_excl": 1612087,
+              "price_display": "R1 853 900",
+              "monthly_estimate": 35764,
+              "specs": {
+                "engine_capacity": "3600cc",
+                "power_kw": "210",
+                "torque_nm": "344",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.9",
+                "seats": "7",
+                "airbags": "8",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 1426989,
+          "price_to": 1881709,
+          "price_range": "R1 426 989 – R1 881 709",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 6
+        },
+        {
+          "slug": "wrangler",
+          "name": "Wrangler",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/wrangler/hero.avif",
+          "source_url": "https://www.cars.co.za/newcars/Jeep/Wrangler/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/wrangler/hero.avif",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/wrangler/rubicon-white.avif",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/wrangler/sahara-black.avif",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jeep/wrangler/lifestyle-action.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Rubicon",
+              "slug": "rubicon",
+              "price_incl": 1299900,
+              "price_excl": 1130348,
+              "price_display": "R1 299 900",
+              "monthly_estimate": 25077,
+              "specs": {
+                "engine_capacity": "1 995",
+                "power_kw": "200",
+                "torque_nm": "400",
+                "fuel_type": "petrol",
+                "transmission": "8-speed automatic",
+                "drivetrain": "AWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "11.9",
+                "co2_gkm": "278",
+                "seats": "5",
+                "airbags": "4",
+                "fuel_tank_l": "81",
+                "warranty": "100 000km",
+                "service_plan": "5yr/100 000 Kmkm"
+              },
+              "dimensions": {
+                "length_mm": "4 882mm",
+                "height_mm": "1 848mm",
+                "wheelbase_mm": "3 008",
+                "ground_clearance_mm": "252"
+              }
+            },
+            {
+              "name": "Sport",
+              "slug": "sport",
+              "price_incl": 1199900,
+              "price_excl": 1043391,
+              "price_display": "R1 199 900",
+              "monthly_estimate": 23147,
+              "specs": {
+                "engine_capacity": "1 995",
+                "power_kw": "209",
+                "torque_nm": "347",
+                "fuel_type": "petrol",
+                "transmission": "8-speed automatic",
+                "drivetrain": "AWD",
+                "body_type": "SUV",
+                "airbags": "4",
+                "fuel_tank_l": "81",
+                "warranty": "100 000km",
+                "service_plan": "5yr/100 000 Kmkm"
+              },
+              "dimensions": {
+                "length_mm": "4 882mm",
+                "height_mm": "1 891mm",
+                "wheelbase_mm": "3 008",
+                "ground_clearance_mm": "232"
+              }
+            }
+          ],
+          "price_from": 1199900,
+          "price_to": 1299900,
+          "price_range": "R1 199 900 – R1 299 900",
+          "body_type": "SUV",
+          "fuel_type": "petrol",
+          "variant_count": 2
+        }
+      ],
+      "total_variants": 9,
+      "model_count": 3,
+      "price_from": 1199900,
+      "price_to": 1881709
+    },
+    {
+      "key": "citroen",
+      "name": "Citroen",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "c3",
+          "name": "C3",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/studio-red.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Citroen/C3/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/studio-red.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/extra.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/driving-mountain.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 MAX MT",
+              "slug": "1-2-max-mt",
+              "price_incl": 269500,
+              "price_excl": 234348,
+              "price_display": "R269 500",
+              "monthly_estimate": 5199,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "149",
+                "seats": "5"
+              }
+            },
+            {
+              "name": "1.2 MAX Turbo AT",
+              "slug": "1-2-max-turbo-at",
+              "price_incl": 311500,
+              "price_excl": 270870,
+              "price_display": "R311 500",
+              "monthly_estimate": 6009,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Automatic",
+                "body_type": "Hatchback"
+              }
+            }
+          ],
+          "price_from": 269500,
+          "price_to": 311500,
+          "price_range": "R269 500 – R311 500",
+          "body_type": "Hatchback",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "c3-aircross",
+          "name": "C3 Aircross",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/sunset-mountains.jpg",
+          "source_url": "",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/sunset-mountains.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/lake-reflection.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/forest.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 PLUS MT",
+              "slug": "1-2-plus-mt",
+              "price_incl": 294500,
+              "price_excl": 256087,
+              "price_display": "R294 500",
+              "monthly_estimate": 5681,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "61",
+                "torque_nm": "115",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Manual",
+                "body_type": "SUV"
+              }
+            },
+            {
+              "name": "MAX Turbo AT (5-seater)",
+              "slug": "max-turbo-at-5-seater",
+              "price_incl": 378900,
+              "price_excl": 329478,
+              "price_display": "R378 900",
+              "monthly_estimate": 7309,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Automatic",
+                "body_type": "SUV"
+              }
+            },
+            {
+              "name": "MAX Turbo AT (7-seater)",
+              "slug": "max-turbo-at-7-seater",
+              "price_incl": 388900,
+              "price_excl": 338174,
+              "price_display": "R388 900",
+              "monthly_estimate": 7502,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Automatic",
+                "body_type": "SUV"
+              }
+            }
+          ],
+          "price_from": 294500,
+          "price_to": 388900,
+          "price_range": "R294 500 – R388 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        },
+        {
+          "slug": "c3-hola-panel-van",
+          "name": "C3 Hola Panel Van",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/studio-front.jpg",
+          "source_url": "https://www.citroen.co.za/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/studio-front.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/side-profile.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/cargo-loaded.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/interior.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/load-bay.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 Hola 5MT",
+              "slug": "1-2-hola-5mt",
+              "price_incl": 242500,
+              "price_excl": 210870,
+              "price_display": "R242 500",
+              "monthly_estimate": 4678,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "60",
+                "torque_nm": "115",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Panel Van",
+                "fuel_consumption_l100km": "5.6",
+                "co2_gkm": "133",
+                "seats": "2",
+                "airbags": "6",
+                "fuel_tank_l": "45",
+                "warranty": "5 years / 100 000 km",
+                "service_plan": "2 years / 30 000 km (optional)"
+              },
+              "dimensions": {
+                "length_mm": "3981",
+                "width_mm": "1733",
+                "height_mm": "1599",
+                "wheelbase_mm": "2540",
+                "ground_clearance_mm": "180",
+                "kerb_weight_kg": "1030"
+              }
+            }
+          ],
+          "price_from": 242500,
+          "price_to": 242500,
+          "price_range": "R242 500",
+          "body_type": "Panel Van",
+          "fuel_type": "Petrol",
+          "variant_count": 1
+        }
+      ],
+      "total_variants": 6,
+      "model_count": 3,
+      "price_from": 242500,
+      "price_to": 388900
+    },
+    {
+      "key": "opel",
+      "name": "Opel",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "corsa",
+          "name": "Corsa",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/front.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Opel/Corsa/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/front.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/rear.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/interior.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 Edition 74kW 5-dr",
+              "slug": "1-2-edition-74kw-5-dr",
+              "price_incl": 404900,
+              "price_excl": 352087,
+              "price_display": "R404 900",
+              "monthly_estimate": 7811,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "74",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2 GS Line 96kW 5-dr AT",
+              "slug": "1-2-gs-line-96kw-5-dr-at",
+              "price_incl": 479900,
+              "price_excl": 417304,
+              "price_display": "R479 900",
+              "monthly_estimate": 9258,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "143",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2 Lite 74kW 5-dr",
+              "slug": "1-2-lite-74kw-5-dr",
+              "price_incl": 379500,
+              "price_excl": 330000,
+              "price_display": "R379 500",
+              "monthly_estimate": 7321,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "74",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 379500,
+          "price_to": 479900,
+          "price_range": "R379 500 – R479 900",
+          "body_type": "Hatchback",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        },
+        {
+          "slug": "grandland",
+          "name": "Grandland",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/hero-city.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Opel/Grandland/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/hero-city.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/side.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/rear.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/interior.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "Edition 1.6T AT",
+              "slug": "edition-1-6t-at",
+              "price_incl": 739900,
+              "price_excl": 643391,
+              "price_display": "R739 900",
+              "monthly_estimate": 14274,
+              "specs": {
+                "engine_capacity": "1600cc",
+                "power_kw": "134",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "162",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "GS Line 1.6T AT",
+              "slug": "gs-line-1-6t-at",
+              "price_incl": 789900,
+              "price_excl": 686870,
+              "price_display": "R789 900",
+              "monthly_estimate": 15238,
+              "specs": {
+                "engine_capacity": "1600cc",
+                "power_kw": "134",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "162",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 739900,
+          "price_to": 789900,
+          "price_range": "R739 900 – R789 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "mokka",
+          "name": "Mokka",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/mokka/studio-teal.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Opel/Mokka/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/mokka/studio-teal.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/mokka/white-driveway.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2T Edition",
+              "slug": "1-2t-edition",
+              "price_incl": 504900,
+              "price_excl": 439043,
+              "price_display": "R504 900",
+              "monthly_estimate": 9740,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.1",
+                "co2_gkm": "139",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2T GS Line",
+              "slug": "1-2t-gs-line",
+              "price_incl": 564900,
+              "price_excl": 491217,
+              "price_display": "R564 900",
+              "monthly_estimate": 10898,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.1",
+                "co2_gkm": "139",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 504900,
+          "price_to": 564900,
+          "price_range": "R504 900 – R564 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        }
+      ],
+      "total_variants": 7,
+      "model_count": 3,
+      "price_from": 379500,
+      "price_to": 789900
+    },
+    {
+      "key": "fiat",
+      "name": "Fiat",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "500",
+          "name": "500",
+          "brand": "Fiat",
+          "brand_key": "fiat",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/hero-amalfi.jpg",
+          "source_url": "",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/hero-amalfi.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/cab-lookout.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/cab-cover.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 Style 3-dr AT",
+              "slug": "1-2-style-3-dr-at",
+              "price_incl": 351900,
+              "price_excl": 306000,
+              "price_display": "R351 900",
+              "monthly_estimate": 6789,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "51",
+                "torque_nm": "102",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "4.8",
+                "co2_gkm": "109",
+                "seats": "4",
+                "airbags": "7",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2L",
+              "slug": "1-2l",
+              "price_incl": 308900,
+              "price_excl": 268609,
+              "price_display": "R308 900",
+              "monthly_estimate": 5959,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "51",
+                "torque_nm": "102",
+                "fuel_type": "Petrol",
+                "transmission": "Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "4.8",
+                "co2_gkm": "109",
+                "seats": "4",
+                "airbags": "7",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2L STYLE",
+              "slug": "1-2l-style",
+              "price_incl": 349900,
+              "price_excl": 304261,
+              "price_display": "R349 900",
+              "monthly_estimate": 6750,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "51",
+                "torque_nm": "102",
+                "fuel_type": "Petrol",
+                "transmission": "Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "4.8",
+                "co2_gkm": "109",
+                "seats": "4",
+                "airbags": "7",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 308900,
+          "price_to": 351900,
+          "price_range": "R308 900 – R351 900",
+          "body_type": "Hatchback",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        }
+      ],
+      "total_variants": 3,
+      "model_count": 1,
+      "price_from": 308900,
+      "price_to": 351900
+    },
+    {
+      "key": "baic",
+      "name": "BAIC",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "b30",
+          "name": "B30",
+          "brand": "BAIC",
+          "brand_key": "baic",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+          "source_url": "https://www.baic.co.za/models/b30",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-2.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-2.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Elite Adventure 1.5T",
+              "slug": "elite-adventure-1-5t",
+              "price_incl": 519900,
+              "price_excl": 452087,
+              "price_display": "R519 900",
+              "monthly_estimate": 10029,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "138",
+                "torque_nm": "305",
+                "fuel_type": "Petrol",
+                "transmission": "7-speed DCT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "8.06",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "7 years / 200 000 km",
+                "service_plan": "7 years / 90 000 km"
+              },
+              "mm_code": "056-19-150"
+            },
+            {
+              "name": "Premium Adventure 1.5T",
+              "slug": "premium-adventure-1-5t",
+              "price_incl": 549900,
+              "price_excl": 478174,
+              "price_display": "R549 900",
+              "monthly_estimate": 10608,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "138",
+                "torque_nm": "305",
+                "fuel_type": "Petrol",
+                "transmission": "7-speed DCT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "8.06",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "7 years / 200 000 km",
+                "service_plan": "7 years / 90 000 km"
+              },
+              "mm_code": "056-19-160"
+            },
+            {
+              "name": "Elite Adventure HEV",
+              "slug": "elite-adventure-hev",
+              "price_incl": 639900,
+              "price_excl": 556435,
+              "price_display": "R639 900",
+              "monthly_estimate": 12344,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "246",
+                "torque_nm": "550",
+                "fuel_type": "Hybrid",
+                "transmission": "DHT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "5.85",
+                "seats": "5",
+                "warranty": "7 years / 200 000 km",
+                "service_plan": "7 years / 90 000 km"
+              },
+              "mm_code": "056-19-200"
+            },
+            {
+              "name": "Premium Adventure HEV AWD",
+              "slug": "premium-adventure-hev-awd",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "301",
+                "torque_nm": "685",
+                "fuel_type": "Hybrid",
+                "transmission": "DHT",
+                "drivetrain": "AWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.45",
+                "seats": "5",
+                "warranty": "7 years / 200 000 km",
+                "service_plan": "7 years / 90 000 km"
+              },
+              "mm_code": "056-19-220"
+            }
+          ],
+          "price_from": 519900,
+          "price_to": 689900,
+          "price_range": "R519 900 – R689 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 4
+        },
+        {
+          "slug": "b40-plus",
+          "name": "B40 Plus",
+          "brand": "BAIC",
+          "brand_key": "baic",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/hero.jpg",
+          "source_url": "https://www.baic.co.za/models/b40",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/hero.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/interior-2.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b40-plus/action.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0T Honor Edition 8AT",
+              "slug": "2-0t-honor-edition-8at",
+              "price_incl": 699500,
+              "price_excl": 608261,
+              "price_display": "R699 500",
+              "monthly_estimate": 13494,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "165",
+                "torque_nm": "380",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "SUV",
+                "seats": "5",
+                "warranty": "5 years / 120 000 km"
+              },
+              "mm_code": "056-20-271"
+            }
+          ],
+          "price_from": 699500,
+          "price_to": 699500,
+          "price_range": "R699 500",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 1
+        },
+        {
+          "slug": "x55-plus",
+          "name": "X55 Plus",
+          "brand": "BAIC",
+          "brand_key": "baic",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/hero.jpg",
+          "source_url": "https://www.baic.co.za/models/x55",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/hero.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/interior-2.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/tech-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/x55-plus/detail-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Plus 1.5T Dynamic",
+              "slug": "plus-1-5t-dynamic",
+              "price_incl": 429900,
+              "price_excl": 373826,
+              "price_display": "R429 900",
+              "monthly_estimate": 8293,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "138",
+                "torque_nm": "305",
+                "fuel_type": "Petrol",
+                "transmission": "7-speed DCT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.7",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km",
+                "service_plan": "5 years / 60 000 km"
+              },
+              "mm_code": "056-17-150"
+            },
+            {
+              "name": "Plus 1.5T Elite",
+              "slug": "plus-1-5t-elite",
+              "price_incl": 469900,
+              "price_excl": 408609,
+              "price_display": "R469 900",
+              "monthly_estimate": 9065,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "138",
+                "torque_nm": "305",
+                "fuel_type": "Petrol",
+                "transmission": "7-speed DCT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.7",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km",
+                "service_plan": "5 years / 60 000 km"
+              },
+              "mm_code": "056-17-160"
+            },
+            {
+              "name": "Plus 1.5T Premium",
+              "slug": "plus-1-5t-premium",
+              "price_incl": 509900,
+              "price_excl": 443391,
+              "price_display": "R509 900",
+              "monthly_estimate": 9837,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "138",
+                "torque_nm": "305",
+                "fuel_type": "Petrol",
+                "transmission": "7-speed DCT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.7",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km",
+                "service_plan": "5 years / 60 000 km"
+              },
+              "mm_code": "056-17-170"
+            },
+            {
+              "name": "Plus 1.5T Premium 2T",
+              "slug": "plus-1-5t-premium-2t",
+              "price_incl": 514900,
+              "price_excl": 447739,
+              "price_display": "R514 900",
+              "monthly_estimate": 9933,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "138",
+                "torque_nm": "305",
+                "fuel_type": "Petrol",
+                "transmission": "7-speed DCT",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.7",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km",
+                "service_plan": "5 years / 60 000 km"
+              },
+              "mm_code": "056-17-170"
+            }
+          ],
+          "price_from": 429900,
+          "price_to": 514900,
+          "price_range": "R429 900 – R514 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 4
+        }
+      ],
+      "total_variants": 9,
+      "model_count": 3,
+      "price_from": 429900,
+      "price_to": 699500
+    },
+    {
+      "key": "changan",
+      "name": "Changan",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "alsvin",
+          "name": "Alsvin",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/jellybean.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Changan/Alsvin/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/jellybean.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/exteriorfront-1.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/exteriorrear-1.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/alsvin/lifestyle-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.4 CS",
+              "slug": "1-4-cs",
+              "price_incl": 238000,
+              "price_excl": 206957,
+              "price_display": "R238 000",
+              "monthly_estimate": 4591,
+              "specs": {
+                "engine_capacity": "1400cc",
+                "power_kw": "74",
+                "torque_nm": "135",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Sedan",
+                "fuel_consumption_l100km": "5.8",
+                "co2_gkm": "137",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "1.5 CE",
+              "slug": "1-5-ce",
+              "price_incl": 271200,
+              "price_excl": 235826,
+              "price_display": "R271 200",
+              "monthly_estimate": 5232,
+              "specs": {
+                "engine_capacity": "1500cc",
+                "power_kw": "78",
+                "torque_nm": "145",
+                "fuel_type": "Petrol",
+                "transmission": "automated dual-clutch",
+                "drivetrain": "FWD",
+                "body_type": "Sedan",
+                "fuel_consumption_l100km": "6.9",
+                "co2_gkm": "163",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            }
+          ],
+          "price_from": 238000,
+          "price_to": 271200,
+          "price_range": "R238 000 – R271 200",
+          "body_type": "Sedan",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "cs75-pro",
+          "name": "CS75 Pro",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/jellybean.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Changan/CS75-Pro/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/jellybean.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/exteriorfront-1.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/cs75-pro/lifestyle-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.5T CE 5-seater",
+              "slug": "1-5t-ce-5-seater",
+              "price_incl": 474900,
+              "price_excl": 412957,
+              "price_display": "R474 900",
+              "monthly_estimate": 9161,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "automated dual-clutch",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.5",
+                "co2_gkm": "177",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "1.5T CE 7-seater",
+              "slug": "1-5t-ce-7-seater",
+              "price_incl": 499900,
+              "price_excl": 434696,
+              "price_display": "R499 900",
+              "monthly_estimate": 9644,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "automated dual-clutch",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.5",
+                "co2_gkm": "177",
+                "seats": "7",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "1.5T CS 5-seater",
+              "slug": "1-5t-cs-5-seater",
+              "price_incl": 429900,
+              "price_excl": 373826,
+              "price_display": "R429 900",
+              "monthly_estimate": 8293,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "automated dual-clutch",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.5",
+                "co2_gkm": "177",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "1.5T CS 7-seater",
+              "slug": "1-5t-cs-7-seater",
+              "price_incl": 449900,
+              "price_excl": 391217,
+              "price_display": "R449 900",
+              "monthly_estimate": 8679,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "automated dual-clutch",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.5",
+                "co2_gkm": "177",
+                "seats": "7",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            }
+          ],
+          "price_from": 429900,
+          "price_to": 499900,
+          "price_range": "R429 900 – R499 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 4
+        },
+        {
+          "slug": "deepal-s07",
+          "name": "Deepal S07",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/jellybean.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Changan/Deepal-S07/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/jellybean.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/exteriorfront-1.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/interior-1.jpeg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/deepal-s07/lifestyle-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "S07 L",
+              "slug": "s07-l",
+              "price_incl": 995900,
+              "price_excl": 866000,
+              "price_display": "R995 900",
+              "monthly_estimate": 19212,
+              "specs": {
+                "engine_capacity": "1499cc (range extender)",
+                "power_kw": "160",
+                "torque_nm": "320",
+                "fuel_type": "REEV (Range Extended EV)",
+                "transmission": "electric",
+                "drivetrain": "RWD",
+                "body_type": "SUV",
+                "co2_gkm": "0",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km"
+              }
+            }
+          ],
+          "price_from": 995900,
+          "price_to": 995900,
+          "price_range": "R995 900",
+          "body_type": "SUV",
+          "fuel_type": "REEV (Range Extended EV)",
+          "variant_count": 1
+        },
+        {
+          "slug": "hunter",
+          "name": "Hunter",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/jellybean.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Changan/Hunter/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/jellybean.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/exteriorfront-1.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/exteriorrear-1.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/hunter/lifestyle-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0 2WD MT",
+              "slug": "2-0-2wd-mt",
+              "price_incl": 449900,
+              "price_excl": 391217,
+              "price_display": "R449 900",
+              "monthly_estimate": 8679,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "2WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "197",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "2.0 4WD AT",
+              "slug": "2-0-4wd-at",
+              "price_incl": 569900,
+              "price_excl": 495565,
+              "price_display": "R569 900",
+              "monthly_estimate": 10994,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.1",
+                "co2_gkm": "239",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "4WD REEV",
+              "slug": "4wd-reev",
+              "price_incl": 799900,
+              "price_excl": 695565,
+              "price_display": "R799 900",
+              "monthly_estimate": 15431,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "200",
+                "torque_nm": "470",
+                "fuel_type": "REEV (Range Extended EV)",
+                "transmission": "electric",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "8.5",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km"
+              }
+            }
+          ],
+          "price_from": 449900,
+          "price_to": 799900,
+          "price_range": "R449 900 – R799 900",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 3
+        },
+        {
+          "slug": "uni-s",
+          "name": "Uni-S",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/jellybean.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Changan/Uni-S/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/jellybean.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/exteriorfront-1.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/exteriorrear-1.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/interior-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/changan/uni-s/lifestyle-1.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.5T CS",
+              "slug": "1-5t-cs",
+              "price_incl": 389900,
+              "price_excl": 339043,
+              "price_display": "R389 900",
+              "monthly_estimate": 7522,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic (DCT)",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "179",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "1.5T CL",
+              "slug": "1-5t-cl",
+              "price_incl": 429900,
+              "price_excl": 373826,
+              "price_display": "R429 900",
+              "monthly_estimate": 8293,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic (DCT)",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "179",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "1.5T CE",
+              "slug": "1-5t-ce",
+              "price_incl": 469900,
+              "price_excl": 408609,
+              "price_display": "R469 900",
+              "monthly_estimate": 9065,
+              "specs": {
+                "engine_capacity": "1499cc",
+                "power_kw": "138",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic (DCT)",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "179",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 150 000 km"
+              }
+            }
+          ],
+          "price_from": 389900,
+          "price_to": 469900,
+          "price_range": "R389 900 – R469 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        }
+      ],
+      "total_variants": 13,
+      "model_count": 5,
+      "price_from": 238000,
+      "price_to": 995900
+    },
+    {
+      "key": "jac",
+      "name": "JAC",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "t6",
+          "name": "T6",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t6/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/JAC/T6/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t6/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t6/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t6/exteriorrear-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t6/lifestyle-1.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0T CTi S/C 4x2 Comfort",
+              "slug": "2-0t-cti-s-c-4x2-comfort",
+              "price_incl": 299900,
+              "price_excl": 260783,
+              "price_display": "R299 900",
+              "monthly_estimate": 5785,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "102",
+                "torque_nm": "320",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Single Cab",
+                "fuel_consumption_l100km": "6.9",
+                "co2_gkm": "176",
+                "seats": "2",
+                "airbags": "2",
+                "warranty": "5 years / 150 000 km"
+              }
+            },
+            {
+              "name": "2.0T CTi S/C 4x2 Lux",
+              "slug": "2-0t-cti-s-c-4x2-lux",
+              "price_incl": 314900,
+              "price_excl": 273826,
+              "price_display": "R314 900",
+              "monthly_estimate": 6075,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "102",
+                "torque_nm": "320",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Single Cab",
+                "fuel_consumption_l100km": "6.9",
+                "co2_gkm": "176",
+                "seats": "2",
+                "airbags": "2",
+                "warranty": "5 years / 150 000 km"
+              }
+            }
+          ],
+          "price_from": 299900,
+          "price_to": 314900,
+          "price_range": "R299 900 – R314 900",
+          "body_type": "Single Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 2
+        },
+        {
+          "slug": "t8",
+          "name": "T8",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t8/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/JAC/T8/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t8/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t8/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t8/exteriorrear-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t8/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t8/lifestyle-1.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0CTI D/C Comfort",
+              "slug": "2-0cti-d-c-comfort",
+              "price_incl": 349900,
+              "price_excl": 304261,
+              "price_display": "R349 900",
+              "monthly_estimate": 6750,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "104",
+                "torque_nm": "320",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "2WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "199",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "2.0CTI D/C Lux",
+              "slug": "2-0cti-d-c-lux",
+              "price_incl": 399900,
+              "price_excl": 347739,
+              "price_display": "R399 900",
+              "monthly_estimate": 7715,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "104",
+                "torque_nm": "320",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "2WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "199",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "2.0CTI D/C 4WD Lux",
+              "slug": "2-0cti-d-c-4wd-lux",
+              "price_incl": 449900,
+              "price_excl": 391217,
+              "price_display": "R449 900",
+              "monthly_estimate": 8679,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "104",
+                "torque_nm": "320",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "199",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 349900,
+          "price_to": 449900,
+          "price_range": "R349 900 – R449 900",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 3
+        },
+        {
+          "slug": "t9",
+          "name": "T9",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t9/jellybean.webp",
+          "source_url": "https://jacmotors.co.za/jac-t9-double-cab/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t9/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t9/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t9/exteriorrear-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t9/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jac/t9/lifestyle-1.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0 CTi D/C Lux 4x2",
+              "slug": "2-0-cti-d-c-lux-4x2",
+              "price_incl": 549900,
+              "price_excl": 478174,
+              "price_display": "R549 900",
+              "monthly_estimate": 10608,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "125",
+                "torque_nm": "410",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "2WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "223",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0 CTi D/C Super Lux 4x2",
+              "slug": "2-0-cti-d-c-super-lux-4x2",
+              "price_incl": 599900,
+              "price_excl": 521652,
+              "price_display": "R599 900",
+              "monthly_estimate": 11573,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "125",
+                "torque_nm": "410",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "2WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "223",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0 CTi D/C Lux 4x4",
+              "slug": "2-0-cti-d-c-lux-4x4",
+              "price_incl": 609900,
+              "price_excl": 530348,
+              "price_display": "R609 900",
+              "monthly_estimate": 11766,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "125",
+                "torque_nm": "410",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "223",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0 CTi D/C Hunter 4x2",
+              "slug": "2-0-cti-d-c-hunter-4x2",
+              "price_incl": 629900,
+              "price_excl": 547739,
+              "price_display": "R629 900",
+              "monthly_estimate": 12151,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "125",
+                "torque_nm": "410",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "2WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "223",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0 CTi D/C Super Lux 4x4",
+              "slug": "2-0-cti-d-c-super-lux-4x4",
+              "price_incl": 659900,
+              "price_excl": 573826,
+              "price_display": "R659 900",
+              "monthly_estimate": 12730,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "125",
+                "torque_nm": "410",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "223",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0 CTi D/C Hunter 4x4",
+              "slug": "2-0-cti-d-c-hunter-4x4",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "1999cc",
+                "power_kw": "125",
+                "torque_nm": "410",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.8",
+                "co2_gkm": "223",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            }
+          ],
+          "price_from": 549900,
+          "price_to": 689900,
+          "price_range": "R549 900 – R689 900",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 6
+        }
+      ],
+      "total_variants": 11,
+      "model_count": 3,
+      "price_from": 299900,
+      "price_to": 689900
+    },
+    {
+      "key": "foton",
+      "name": "Foton",
+      "updated_at": "2026-06-13T05:46:21",
+      "models": [
+        {
+          "slug": "asambe",
+          "name": "Asambe",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/Foton/Asambe/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/exteriorrear-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/asambe/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.4i Taxi 16-seater",
+              "slug": "2-4i-taxi-16-seater",
+              "price_incl": 439900,
+              "price_excl": 382522,
+              "price_display": "R439 900",
+              "monthly_estimate": 8486,
+              "specs": {
+                "engine_capacity": "2400cc",
+                "power_kw": "100",
+                "torque_nm": "200",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Minibus",
+                "fuel_consumption_l100km": "12.0",
+                "co2_gkm": "219",
+                "seats": "16",
+                "airbags": "2",
+                "warranty": "2 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.8D Taxi 16-seater",
+              "slug": "2-8d-taxi-16-seater",
+              "price_incl": 499900,
+              "price_excl": 434696,
+              "price_display": "R499 900",
+              "monthly_estimate": 9644,
+              "specs": {
+                "engine_capacity": "2771cc",
+                "power_kw": "96",
+                "torque_nm": "280",
+                "fuel_type": "Diesel",
+                "transmission": "5-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Minibus",
+                "fuel_consumption_l100km": "8.9",
+                "co2_gkm": "168",
+                "seats": "16",
+                "airbags": "2",
+                "warranty": "2 years / 200 000 km"
+              }
+            }
+          ],
+          "price_from": 439900,
+          "price_to": 499900,
+          "price_range": "R439 900 – R499 900",
+          "body_type": "Minibus",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "tunland-g7",
+          "name": "Tunland G7",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-G7/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-g7/lifestyle-1.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0TD D/C 4x4 Limited",
+              "slug": "2-0td-d-c-4x4-limited",
+              "price_incl": 584900,
+              "price_excl": 508609,
+              "price_display": "R584 900",
+              "monthly_estimate": 11283,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / unlimited km"
+              }
+            },
+            {
+              "name": "2.0TD D/C 4x4 TLX",
+              "slug": "2-0td-d-c-4x4-tlx",
+              "price_incl": 559900,
+              "price_excl": 486870,
+              "price_display": "R559 900",
+              "monthly_estimate": 10801,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / unlimited km"
+              }
+            },
+            {
+              "name": "2.0TD D/C TL AT",
+              "slug": "2-0td-d-c-tl-at",
+              "price_incl": 469900,
+              "price_excl": 408609,
+              "price_display": "R469 900",
+              "monthly_estimate": 9065,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / unlimited km"
+              }
+            },
+            {
+              "name": "2.0TD D/C TL MT",
+              "slug": "2-0td-d-c-tl-mt",
+              "price_incl": 399900,
+              "price_excl": 347739,
+              "price_display": "R399 900",
+              "monthly_estimate": 7715,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / unlimited km"
+              }
+            },
+            {
+              "name": "2.0TD D/C TLX",
+              "slug": "2-0td-d-c-tlx",
+              "price_incl": 499900,
+              "price_excl": 434696,
+              "price_display": "R499 900",
+              "monthly_estimate": 9644,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "2",
+                "warranty": "5 years / unlimited km"
+              }
+            },
+            {
+              "name": "2.0TD S/C 4x4 TLX",
+              "slug": "2-0td-s-c-4x4-tlx",
+              "price_incl": 419900,
+              "price_excl": 365130,
+              "price_display": "R419 900",
+              "monthly_estimate": 8100,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "4WD",
+                "body_type": "Single Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "2",
+                "airbags": "2",
+                "warranty": "3 years / 100 000 km"
+              }
+            },
+            {
+              "name": "2.0TD S/C Hi Rider",
+              "slug": "2-0td-s-c-hi-rider",
+              "price_incl": 329900,
+              "price_excl": 286870,
+              "price_display": "R329 900",
+              "monthly_estimate": 6364,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "120",
+                "torque_nm": "390",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Single Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "2",
+                "airbags": "2",
+                "warranty": "3 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 329900,
+          "price_to": 584900,
+          "price_range": "R329 900 – R584 900",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 7
+        },
+        {
+          "slug": "tunland-v7",
+          "name": "Tunland V7",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-V7/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v7/lifestyle-1.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0TD D/C 4x4 VLX",
+              "slug": "2-0td-d-c-4x4-vlx",
+              "price_incl": 765900,
+              "price_excl": 666000,
+              "price_display": "R765 900",
+              "monthly_estimate": 14775,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "120",
+                "torque_nm": "450",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "10.8",
+                "co2_gkm": "265",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0TD D/C VLX",
+              "slug": "2-0td-d-c-vlx",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "120",
+                "torque_nm": "450",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            }
+          ],
+          "price_from": 689900,
+          "price_to": 765900,
+          "price_range": "R689 900 – R765 900",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 2
+        },
+        {
+          "slug": "tunland-v9",
+          "name": "Tunland V9",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/Foton/Tunland-V9/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/tunland-v9/lifestyle-1.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0TD D/C 4x4 LTD",
+              "slug": "2-0td-d-c-4x4-ltd",
+              "price_incl": 799900,
+              "price_excl": 695565,
+              "price_display": "R799 900",
+              "monthly_estimate": 15431,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "120",
+                "torque_nm": "450",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "10.8",
+                "co2_gkm": "265",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0TD D/C VLX",
+              "slug": "2-0td-d-c-vlx",
+              "price_incl": 725900,
+              "price_excl": 631217,
+              "price_display": "R725 900",
+              "monthly_estimate": 14003,
+              "specs": {
+                "engine_capacity": "2000cc",
+                "power_kw": "120",
+                "torque_nm": "450",
+                "fuel_type": "Diesel",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.0",
+                "co2_gkm": "220",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 200 000 km"
+              }
+            }
+          ],
+          "price_from": 725900,
+          "price_to": 799900,
+          "price_range": "R725 900 – R799 900",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 2
+        },
+        {
+          "slug": "view",
+          "name": "View",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/jellybean.webp",
+          "source_url": "https://www.cars.co.za/newcars/Foton/View/",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/jellybean.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/exteriorfront-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/exteriorrear-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/foton/view/interior-1.webp",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "2.0TDI C2 Transor AT",
+              "slug": "2-0tdi-c2-transor-at",
+              "price_incl": 469900,
+              "price_excl": 408609,
+              "price_display": "R469 900",
+              "monthly_estimate": 9065,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "101",
+                "torque_nm": "330",
+                "fuel_type": "Diesel",
+                "transmission": "Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Panel Van / Bus",
+                "fuel_consumption_l100km": "12.0",
+                "co2_gkm": "219",
+                "seats": "3",
+                "airbags": "2",
+                "warranty": "2 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0TDI C2 Transor MT",
+              "slug": "2-0tdi-c2-transor-mt",
+              "price_incl": 449900,
+              "price_excl": 391217,
+              "price_display": "R449 900",
+              "monthly_estimate": 8679,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "101",
+                "torque_nm": "330",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "RWD",
+                "body_type": "Panel Van / Bus",
+                "fuel_consumption_l100km": "12.0",
+                "co2_gkm": "219",
+                "seats": "3",
+                "airbags": "2",
+                "warranty": "2 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0TDI CS2 Royal Saloon AT",
+              "slug": "2-0tdi-cs2-royal-saloon-at",
+              "price_incl": 599900,
+              "price_excl": 521652,
+              "price_display": "R599 900",
+              "monthly_estimate": 11573,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "101",
+                "torque_nm": "330",
+                "fuel_type": "Diesel",
+                "transmission": "Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Panel Van / Bus",
+                "fuel_consumption_l100km": "12.0",
+                "co2_gkm": "219",
+                "seats": "15",
+                "airbags": "2",
+                "warranty": "2 years / 200 000 km"
+              }
+            },
+            {
+              "name": "2.0TDI CS2 Royal Saloon MT",
+              "slug": "2-0tdi-cs2-royal-saloon-mt",
+              "price_incl": 569900,
+              "price_excl": 495565,
+              "price_display": "R569 900",
+              "monthly_estimate": 10994,
+              "specs": {
+                "engine_capacity": "1996cc",
+                "power_kw": "101",
+                "torque_nm": "330",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "RWD",
+                "body_type": "Panel Van / Bus",
+                "fuel_consumption_l100km": "12.0",
+                "co2_gkm": "219",
+                "seats": "15",
+                "airbags": "2",
+                "warranty": "2 years / 200 000 km"
+              }
+            }
+          ],
+          "price_from": 449900,
+          "price_to": 599900,
+          "price_range": "R449 900 – R599 900",
+          "body_type": "Panel Van / Bus",
+          "fuel_type": "Diesel",
+          "variant_count": 4
+        }
+      ],
+      "total_variants": 17,
+      "model_count": 5,
+      "price_from": 329900,
+      "price_to": 799900
+    }
+  ],
+  "total_models": 28,
+  "total_vehicles": 82,
+  "price_from": 238000,
+  "price_to": 1881709
+}

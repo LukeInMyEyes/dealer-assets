@@ -1,0 +1,1044 @@
+{
+  "dealer": "emond_rbay",
+  "dealer_name": "Emond Auto (RBAY Stellantis)",
+  "dealership_id": "EMOND",
+  "generated": "2026-05-27T21:07:31",
+  "brands": [
+    {
+      "key": "peugeot",
+      "name": "Peugeot",
+      "updated_at": "2026-05-27T21:07:31",
+      "models": [
+        {
+          "slug": "2008",
+          "name": "2008",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://img-ik.cars.co.za/specimages/peug2008_2fe1_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Peugeot/2008/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/peug2008_2fe1_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Peugeot_2008_in_Vertigo_Blue%2C_front_left%2C_06-08-2025.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2020_Peugeot_2008_Allure_Rear.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Peugeot_2008_B_Sindelfingen_2020_IMG_2379.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2T Allure A/T",
+              "slug": "1-2t-allure-a-t",
+              "price_incl": 519900,
+              "price_excl": 452087,
+              "price_display": "R519 900",
+              "monthly_estimate": 10029,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.5",
+                "co2_gkm": "148",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2T GT A/T",
+              "slug": "1-2t-gt-a-t",
+              "price_incl": 577900,
+              "price_excl": 502522,
+              "price_display": "R577 900",
+              "monthly_estimate": 11148,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.5",
+                "co2_gkm": "148",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 519900,
+          "price_to": 577900,
+          "price_range": "R519 900 – R577 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "landtrek",
+          "name": "Landtrek",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://img-ik.cars.co.za/specimages/peugland1d5_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Peugeot/Landtrek/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/peugland1d5_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peugeot_Landtrek_1.9d_Turbo_Active_2023.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Peugeot_Landtrek_002.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Peugeot_Landtrek_001.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.9TD D/C 4Action 4x4",
+              "slug": "1-9td-d-c-4action-4x4",
+              "price_incl": 745500,
+              "price_excl": 648261,
+              "price_display": "R745 500",
+              "monthly_estimate": 14382,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Automatic",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "9.1",
+                "co2_gkm": "239",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD D/C Active 4x4",
+              "slug": "1-9td-d-c-active-4x4",
+              "price_incl": 545900,
+              "price_excl": 474696,
+              "price_display": "R545 900",
+              "monthly_estimate": 10531,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "4WD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.5",
+                "co2_gkm": "197",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD D/C Allure",
+              "slug": "1-9td-d-c-allure",
+              "price_incl": 653900,
+              "price_excl": 568609,
+              "price_display": "R653 900",
+              "monthly_estimate": 12614,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Automatic",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "8.9",
+                "co2_gkm": "235",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD D/C Professional",
+              "slug": "1-9td-d-c-professional",
+              "price_incl": 454900,
+              "price_excl": 395565,
+              "price_display": "R454 900",
+              "monthly_estimate": 8776,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "6-speed Manual",
+                "drivetrain": "RWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "7.1",
+                "co2_gkm": "186",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.9TD S/C Professional",
+              "slug": "1-9td-s-c-professional",
+              "price_incl": 388900,
+              "price_excl": 338174,
+              "price_display": "R388 900",
+              "monthly_estimate": 7502,
+              "specs": {
+                "engine_capacity": "1896cc",
+                "power_kw": "110",
+                "torque_nm": "350",
+                "fuel_type": "Diesel",
+                "transmission": "Manual",
+                "drivetrain": "RWD",
+                "body_type": "Single Cab",
+                "fuel_consumption_l100km": "8.2",
+                "co2_gkm": "215",
+                "seats": "2",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 388900,
+          "price_to": 745500,
+          "price_range": "R388 900 – R745 500",
+          "body_type": "Double Cab",
+          "fuel_type": "Diesel",
+          "variant_count": 5
+        }
+      ],
+      "total_variants": 7,
+      "model_count": 2,
+      "price_from": 388900,
+      "price_to": 745500
+    },
+    {
+      "key": "jeep",
+      "name": "Jeep",
+      "updated_at": "2026-05-27T21:07:31",
+      "models": [
+        {
+          "slug": "gladiator",
+          "name": "Gladiator",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "https://img-ik.cars.co.za/specimages/jeepwran3fe2_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Jeep/Gladiator/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/jeepwran3fe2_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/2024_Jeep_Wrangler%2C_front_NYIAS_2023.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/2024_Jeep_Wrangler%2C_rear_NYIAS_2023.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/2023_Jeep_Wrangler_Unlimited_interior.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Rubicon 3.6L 4x4 D-Cab PU AT",
+              "slug": "rubicon-3-6l-4x4-d-cab-pu-at",
+              "price_incl": 1399900,
+              "price_excl": 1217304,
+              "price_display": "R1 399 900",
+              "monthly_estimate": 27006,
+              "specs": {
+                "engine_capacity": "3 604",
+                "power_kw": "209",
+                "torque_nm": "347",
+                "fuel_type": "petrol",
+                "transmission": "8-speed automatic",
+                "drivetrain": "AWD",
+                "body_type": "Double Cab",
+                "fuel_consumption_l100km": "12.3",
+                "co2_gkm": "288",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "100 000km",
+                "service_plan": "5yr/100 000 Kmkm"
+              },
+              "dimensions": {
+                "length_mm": "5 591mm",
+                "width_mm": "1 894",
+                "height_mm": "1 909mm",
+                "wheelbase_mm": "3 488",
+                "ground_clearance_mm": "282"
+              }
+            }
+          ],
+          "price_from": 1399900,
+          "price_to": 1399900,
+          "price_range": "R1 399 900",
+          "body_type": "Double Cab",
+          "fuel_type": "petrol",
+          "variant_count": 1
+        },
+        {
+          "slug": "wrangler",
+          "name": "Wrangler",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "https://img-ik.cars.co.za/specimages/jeepwran3fe2_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Jeep/Wrangler/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/jeepwran3fe2_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/2024_Jeep_Wrangler%2C_front_NYIAS_2023.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/2024_Jeep_Wrangler%2C_rear_NYIAS_2023.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/2023_Jeep_Wrangler_Unlimited_interior.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Rubicon",
+              "slug": "rubicon",
+              "price_incl": 1299900,
+              "price_excl": 1130348,
+              "price_display": "R1 299 900",
+              "monthly_estimate": 25077,
+              "specs": {
+                "engine_capacity": "1 995",
+                "power_kw": "200",
+                "torque_nm": "400",
+                "fuel_type": "petrol",
+                "transmission": "8-speed automatic",
+                "drivetrain": "AWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "11.9",
+                "co2_gkm": "278",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "100 000km",
+                "service_plan": "5yr/100 000 Kmkm"
+              },
+              "dimensions": {
+                "length_mm": "4 882mm",
+                "height_mm": "1 848mm",
+                "wheelbase_mm": "3 008",
+                "ground_clearance_mm": "252"
+              }
+            },
+            {
+              "name": "Sport",
+              "slug": "sport",
+              "price_incl": 1199900,
+              "price_excl": 1043391,
+              "price_display": "R1 199 900",
+              "monthly_estimate": 23147,
+              "specs": {
+                "engine_capacity": "1 995",
+                "power_kw": "209",
+                "torque_nm": "347",
+                "fuel_type": "petrol",
+                "transmission": "8-speed automatic",
+                "drivetrain": "AWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "9.7",
+                "co2_gkm": "224",
+                "seats": "5",
+                "airbags": "4",
+                "warranty": "100 000km",
+                "service_plan": "5yr/100 000 Kmkm"
+              },
+              "dimensions": {
+                "length_mm": "4 882mm",
+                "height_mm": "1 891mm",
+                "wheelbase_mm": "3 008",
+                "ground_clearance_mm": "232"
+              }
+            }
+          ],
+          "price_from": 1199900,
+          "price_to": 1299900,
+          "price_range": "R1 199 900 – R1 299 900",
+          "body_type": "SUV",
+          "fuel_type": "petrol",
+          "variant_count": 2
+        }
+      ],
+      "total_variants": 3,
+      "model_count": 2,
+      "price_from": 1199900,
+      "price_to": 1399900
+    },
+    {
+      "key": "citroen",
+      "name": "Citroen",
+      "updated_at": "2026-05-27T21:07:31",
+      "models": [
+        {
+          "slug": "c3",
+          "name": "C3",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://img-ik.cars.co.za/specimages/citrc3_4h10_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Citroen/C3/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/citrc3_4h10_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2019_Citro%C3%ABn_C3_in_Cumulus_Grey%2C_front_left%2C_06-08-2025.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Citro%C3%ABn_C3_SHINE_%28ABA-B6HN01%29_rear.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Citro%C3%ABn_C3_-_wn%C4%99trze_%28MSP17%29.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 MAX MT",
+              "slug": "1-2-max-mt",
+              "price_incl": 269500,
+              "price_excl": 234348,
+              "price_display": "R269 500",
+              "monthly_estimate": 5199,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "149",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2 MAX Turbo AT",
+              "slug": "1-2-max-turbo-at",
+              "price_incl": 311500,
+              "price_excl": 270870,
+              "price_display": "R311 500",
+              "monthly_estimate": 6009,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "143",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 269500,
+          "price_to": 311500,
+          "price_range": "R269 500 – R311 500",
+          "body_type": "Hatchback",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "c3-aircross",
+          "name": "C3 Aircross",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://img-ik.cars.co.za/specimages/citrairc_1e1_1.jpg",
+          "source_url": "https://www.citroen.co.za/models/new-c3-aircross-suv.html",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/citrairc_1e1_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Citro%C3%ABn_C3_Aircross_%282024%29_DSC_0591.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Citro%C3%ABn_C3_Aircross_%282024%29_DSC_9300.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Citro%C3%ABn_C3_Aircross_%282024%29_Auto_Zuerich_2024_DSC_6646.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 PLUS MT",
+              "slug": "1-2-plus-mt",
+              "price_incl": 294500,
+              "price_excl": 256087,
+              "price_display": "R294 500",
+              "monthly_estimate": 5681,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "61",
+                "torque_nm": "115",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.2",
+                "co2_gkm": "140",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km",
+                "service_plan": "4 years / 60 000 km"
+              },
+              "dimensions": {
+                "length_mm": "4323",
+                "width_mm": "1796",
+                "height_mm": "1654",
+                "wheelbase_mm": "2671",
+                "ground_clearance_mm": "200"
+              }
+            },
+            {
+              "name": "MAX 1.2T AT (5-seater)",
+              "slug": "max-1-2t-at-5-seater",
+              "price_incl": 378900,
+              "price_excl": 329478,
+              "price_display": "R378 900",
+              "monthly_estimate": 7309,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "143",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km",
+                "service_plan": "4 years / 60 000 km"
+              },
+              "dimensions": {
+                "length_mm": "4323",
+                "width_mm": "1796",
+                "height_mm": "1654",
+                "wheelbase_mm": "2671",
+                "ground_clearance_mm": "200"
+              }
+            },
+            {
+              "name": "MAX 1.2T AT (7-seater)",
+              "slug": "max-1-2t-at-7-seater",
+              "price_incl": 388900,
+              "price_excl": 338174,
+              "price_display": "R388 900",
+              "monthly_estimate": 7502,
+              "specs": {
+                "engine_capacity": "1199cc",
+                "power_kw": "81",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "143",
+                "seats": "7",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km",
+                "service_plan": "4 years / 60 000 km"
+              },
+              "dimensions": {
+                "length_mm": "4323",
+                "width_mm": "1796",
+                "height_mm": "1654",
+                "wheelbase_mm": "2671",
+                "ground_clearance_mm": "200"
+              }
+            }
+          ],
+          "price_from": 294500,
+          "price_to": 388900,
+          "price_range": "R294 500 – R388 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        }
+      ],
+      "total_variants": 5,
+      "model_count": 2,
+      "price_from": 269500,
+      "price_to": 388900
+    },
+    {
+      "key": "opel",
+      "name": "Opel",
+      "updated_at": "2026-05-27T21:07:31",
+      "models": [
+        {
+          "slug": "corsa",
+          "name": "Corsa",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://img-ik.cars.co.za/specimages/opelcors5fh3_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Opel/Corsa/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/opelcors5fh3_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Opel_Corsa_F_Rear.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 Edition 74kW 5-dr",
+              "slug": "1-2-edition-74kw-5-dr",
+              "price_incl": 404900,
+              "price_excl": 352087,
+              "price_display": "R404 900",
+              "monthly_estimate": 7811,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "74",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2 GS Line 96kW 5-dr AT",
+              "slug": "1-2-gs-line-96kw-5-dr-at",
+              "price_incl": 479900,
+              "price_excl": 417304,
+              "price_display": "R479 900",
+              "monthly_estimate": 9258,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "6.3",
+                "co2_gkm": "143",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2 Lite 74kW 5-dr",
+              "slug": "1-2-lite-74kw-5-dr",
+              "price_incl": 379500,
+              "price_excl": 330000,
+              "price_display": "R379 500",
+              "monthly_estimate": 7321,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "74",
+                "torque_nm": "205",
+                "fuel_type": "Petrol",
+                "transmission": "6-speed Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 379500,
+          "price_to": 479900,
+          "price_range": "R379 500 – R479 900",
+          "body_type": "Hatchback",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        },
+        {
+          "slug": "grandland",
+          "name": "Grandland",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://img-ik.cars.co.za/specimages/opelgran2fe2_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Opel/Grandland/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/opelgran2fe2_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Opel_Grandland_B_IAA_2025_DSC_2116.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Opel_Grandland_B_IAA_2025_DSC_2113.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Opel_Grandland_B_MHEV_Auto_Zuerich_2024_DSC_6705.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "Edition 1.6T AT",
+              "slug": "edition-1-6t-at",
+              "price_incl": 739900,
+              "price_excl": 643391,
+              "price_display": "R739 900",
+              "monthly_estimate": 14274,
+              "specs": {
+                "engine_capacity": "1600cc",
+                "power_kw": "134",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "162",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "GS Line 1.6T AT",
+              "slug": "gs-line-1-6t-at",
+              "price_incl": 789900,
+              "price_excl": 686870,
+              "price_display": "R789 900",
+              "monthly_estimate": 15238,
+              "specs": {
+                "engine_capacity": "1600cc",
+                "power_kw": "134",
+                "torque_nm": "300",
+                "fuel_type": "Petrol",
+                "transmission": "Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "7.0",
+                "co2_gkm": "162",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 739900,
+          "price_to": 789900,
+          "price_range": "R739 900 – R789 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        },
+        {
+          "slug": "mokka",
+          "name": "Mokka",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://img-ik.cars.co.za/specimages/opelmokk2fe1_1.jpg",
+          "source_url": "https://www.cars.co.za/newcars/Opel/Mokka/",
+          "images": [
+            {
+              "url": "https://img-ik.cars.co.za/specimages/opelmokk2fe1_1.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Opel_Mokka_B_IMG_4457.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Opel_Mokka_B_IMG_4458.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Opel-mokka-gs-line-innen-1.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2T Edition",
+              "slug": "1-2t-edition",
+              "price_incl": 504900,
+              "price_excl": 439043,
+              "price_display": "R504 900",
+              "monthly_estimate": 9740,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.1",
+                "co2_gkm": "139",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2T GS Line",
+              "slug": "1-2t-gs-line",
+              "price_incl": 564900,
+              "price_excl": 491217,
+              "price_display": "R564 900",
+              "monthly_estimate": 10898,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "96",
+                "torque_nm": "230",
+                "fuel_type": "Petrol",
+                "transmission": "8-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "SUV",
+                "fuel_consumption_l100km": "6.1",
+                "co2_gkm": "139",
+                "seats": "5",
+                "airbags": "6",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 504900,
+          "price_to": 564900,
+          "price_range": "R504 900 – R564 900",
+          "body_type": "SUV",
+          "fuel_type": "Petrol",
+          "variant_count": 2
+        }
+      ],
+      "total_variants": 7,
+      "model_count": 3,
+      "price_from": 379500,
+      "price_to": 789900
+    },
+    {
+      "key": "fiat",
+      "name": "Fiat",
+      "updated_at": "2026-05-27T21:07:31",
+      "models": [
+        {
+          "slug": "500",
+          "name": "500",
+          "brand": "Fiat",
+          "brand_key": "fiat",
+          "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/16/2017_Fiat_500_Anniversario_1.2_Front.jpg",
+          "source_url": "",
+          "images": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/2017_Fiat_500_Anniversario_1.2_Front.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2021_Fiat_500_Dolcevita_%2B_MHEV.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/2017_Fiat_500_Anniversario_1.2_Rear.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Osaka_Motor_Show_2019_%28256%29_-_FIAT_500_1.2_POP_%28ABA-31212%29.jpg",
+              "type": "Interior",
+              "priority": 4
+            }
+          ],
+          "variants": [
+            {
+              "name": "1.2 Style 3-dr AT",
+              "slug": "1-2-style-3-dr-at",
+              "price_incl": 351900,
+              "price_excl": 306000,
+              "price_display": "R351 900",
+              "monthly_estimate": 6789,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "51",
+                "torque_nm": "102",
+                "fuel_type": "Petrol",
+                "transmission": "5-speed Automatic",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "4.8",
+                "co2_gkm": "109",
+                "seats": "4",
+                "airbags": "7",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2L",
+              "slug": "1-2l",
+              "price_incl": 308900,
+              "price_excl": 268609,
+              "price_display": "R308 900",
+              "monthly_estimate": 5959,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "51",
+                "torque_nm": "102",
+                "fuel_type": "Petrol",
+                "transmission": "Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "4.8",
+                "co2_gkm": "109",
+                "seats": "4",
+                "airbags": "7",
+                "warranty": "5 years / 100 000 km"
+              }
+            },
+            {
+              "name": "1.2L STYLE",
+              "slug": "1-2l-style",
+              "price_incl": 349900,
+              "price_excl": 304261,
+              "price_display": "R349 900",
+              "monthly_estimate": 6750,
+              "specs": {
+                "engine_capacity": "1200cc",
+                "power_kw": "51",
+                "torque_nm": "102",
+                "fuel_type": "Petrol",
+                "transmission": "Manual",
+                "drivetrain": "FWD",
+                "body_type": "Hatchback",
+                "fuel_consumption_l100km": "4.8",
+                "co2_gkm": "109",
+                "seats": "4",
+                "airbags": "7",
+                "warranty": "5 years / 100 000 km"
+              }
+            }
+          ],
+          "price_from": 308900,
+          "price_to": 351900,
+          "price_range": "R308 900 – R351 900",
+          "body_type": "Hatchback",
+          "fuel_type": "Petrol",
+          "variant_count": 3
+        }
+      ],
+      "total_variants": 3,
+      "model_count": 1,
+      "price_from": 308900,
+      "price_to": 351900
+    }
+  ],
+  "total_models": 10,
+  "total_vehicles": 25,
+  "price_from": 269500,
+  "price_to": 1399900
+}
