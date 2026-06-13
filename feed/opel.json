@@ -1,30 +1,30 @@
 {
   "key": "opel",
   "name": "Opel",
-  "updated_at": "2026-06-12T11:57:51",
+  "updated_at": "2026-06-13T05:17:08",
   "models": [
     {
       "slug": "corsa",
       "name": "Corsa",
       "brand": "Opel",
       "brand_key": "opel",
-      "hero_image": "https://img-ik.cars.co.za/specimages/opelcors5fh3_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/front.jpg",
       "source_url": "https://www.cars.co.za/newcars/Opel/Corsa/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/opelcors5fh3_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/front.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg",
-          "type": "ExteriorFront",
-          "priority": 2
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Opel_Corsa_F_Rear.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/rear.jpg",
           "type": "ExteriorRear",
           "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/corsa/interior.jpg",
+          "type": "Interior",
+          "priority": 4
         }
       ],
       "variants": [
@@ -103,26 +103,26 @@
       "name": "Grandland",
       "brand": "Opel",
       "brand_key": "opel",
-      "hero_image": "https://img-ik.cars.co.za/specimages/opelgran2fe2_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/hero-city.jpg",
       "source_url": "https://www.cars.co.za/newcars/Opel/Grandland/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/opelgran2fe2_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/hero-city.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Opel_Grandland_B_IAA_2025_DSC_2116.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/side.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Opel_Grandland_B_IAA_2025_DSC_2113.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/rear.jpg",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Opel_Grandland_B_MHEV_Auto_Zuerich_2024_DSC_6705.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/grandland/interior.jpg",
           "type": "Interior",
           "priority": 4
         }
@@ -185,28 +185,18 @@
       "name": "Mokka",
       "brand": "Opel",
       "brand_key": "opel",
-      "hero_image": "https://img-ik.cars.co.za/specimages/opelmokk2fe1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/mokka/studio-teal.jpg",
       "source_url": "https://www.cars.co.za/newcars/Opel/Mokka/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/opelmokk2fe1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/mokka/studio-teal.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Opel_Mokka_B_IMG_4457.jpg",
-          "type": "ExteriorFront",
-          "priority": 2
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Opel_Mokka_B_IMG_4458.jpg",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Opel-mokka-gs-line-innen-1.jpg",
-          "type": "Interior",
-          "priority": 4
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/opel/mokka/white-driveway.jpg",
+          "type": "Lifestyle",
+          "priority": 5
         }
       ],
       "variants": [

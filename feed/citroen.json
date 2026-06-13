@@ -1,35 +1,30 @@
 {
   "key": "citroen",
   "name": "Citroen",
-  "updated_at": "2026-06-12T11:57:51",
+  "updated_at": "2026-06-13T05:17:08",
   "models": [
     {
       "slug": "c3",
       "name": "C3",
       "brand": "Citroen",
       "brand_key": "citroen",
-      "hero_image": "https://img-ik.cars.co.za/specimages/citrc3_4h10_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/studio-red.jpg",
       "source_url": "https://www.cars.co.za/newcars/Citroen/C3/",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/citrc3_4h10_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/studio-red.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2019_Citro%C3%ABn_C3_in_Cumulus_Grey%2C_front_left%2C_06-08-2025.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/extra.jpg",
           "type": "ExteriorFront",
           "priority": 2
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Citro%C3%ABn_C3_SHINE_%28ABA-B6HN01%29_rear.jpg",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Citro%C3%ABn_C3_-_wn%C4%99trze_%28MSP17%29.jpg",
-          "type": "Interior",
-          "priority": 4
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3/driving-mountain.jpg",
+          "type": "Lifestyle",
+          "priority": 5
         }
       ],
       "variants": [
@@ -82,28 +77,23 @@
       "name": "C3 Aircross",
       "brand": "Citroen",
       "brand_key": "citroen",
-      "hero_image": "https://img-ik.cars.co.za/specimages/citrairc_1e1_1.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/sunset-mountains.jpg",
       "source_url": "",
       "images": [
         {
-          "url": "https://img-ik.cars.co.za/specimages/citrairc_1e1_1.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/sunset-mountains.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Citro%C3%ABn_C3_Aircross_%282024%29_DSC_0591.jpg",
-          "type": "ExteriorFront",
-          "priority": 2
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Citro%C3%ABn_C3_Aircross_%282024%29_DSC_9300.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/lake-reflection.jpg",
           "type": "ExteriorRear",
           "priority": 3
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Citro%C3%ABn_C3_Aircross_%282024%29_Auto_Zuerich_2024_DSC_6646.jpg",
-          "type": "Interior",
-          "priority": 4
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/c3-aircross/forest.jpg",
+          "type": "Lifestyle",
+          "priority": 5
         }
       ],
       "variants": [
@@ -168,9 +158,35 @@
       "name": "C3 Hola Panel Van",
       "brand": "Citroen",
       "brand_key": "citroen",
-      "hero_image": "",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/studio-front.jpg",
       "source_url": "https://www.citroen.co.za/",
-      "images": [],
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/studio-front.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/side-profile.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/cargo-loaded.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/interior.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/citroen/hola/load-bay.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
       "variants": [
         {
           "name": "1.2 Hola 5MT",

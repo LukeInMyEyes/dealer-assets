@@ -1,35 +1,30 @@
 {
   "key": "fiat",
   "name": "Fiat",
-  "updated_at": "2026-06-12T11:57:51",
+  "updated_at": "2026-06-13T05:17:08",
   "models": [
     {
       "slug": "500",
       "name": "500",
       "brand": "Fiat",
       "brand_key": "fiat",
-      "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/16/2017_Fiat_500_Anniversario_1.2_Front.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/hero-amalfi.jpg",
       "source_url": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/2017_Fiat_500_Anniversario_1.2_Front.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/hero-amalfi.jpg",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2021_Fiat_500_Dolcevita_%2B_MHEV.jpg",
-          "type": "ExteriorFront",
-          "priority": 2
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/2017_Fiat_500_Anniversario_1.2_Rear.jpg",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Osaka_Motor_Show_2019_%28256%29_-_FIAT_500_1.2_POP_%28ABA-31212%29.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/cab-lookout.jpg",
           "type": "Interior",
           "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/fiat/500/cab-cover.jpg",
+          "type": "Lifestyle",
+          "priority": 5
         }
       ],
       "variants": [
