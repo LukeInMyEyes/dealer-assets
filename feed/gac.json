@@ -1,7 +1,7 @@
 {
   "key": "gac",
   "name": "GAC",
-  "updated_at": "2026-07-29T13:19:22",
+  "updated_at": "2026-07-29T13:21:29",
   "models": [
     {
       "slug": "emkoo",
@@ -130,11 +130,11 @@
       "name": "GS3 EMZOOM",
       "brand": "GAC",
       "brand_key": "gac",
-      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/jellybean.jpg",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/jellybean-v2.jpg",
       "source_url": "https://www.gacmotorza.co.za/model/emzoom",
       "images": [
         {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/jellybean.jpg",
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/jellybean-v2.jpg",
           "type": "Jellybean",
           "priority": 1
         },
