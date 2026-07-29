@@ -2,12 +2,12 @@
   "dealer": "gac-jmc-zululand",
   "dealer_name": "Quality Cars, GAC & JMC Zululand",
   "dealership_id": "GACJMCZULU",
-  "generated": "2026-07-29T12:57:01",
+  "generated": "2026-07-29T13:19:22",
   "brands": [
     {
       "key": "gac",
       "name": "GAC",
-      "updated_at": "2026-07-29T12:57:01",
+      "updated_at": "2026-07-29T13:19:22",
       "models": [
         {
           "slug": "emkoo",
@@ -44,6 +44,11 @@
             },
             {
               "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/lifestyle-2.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/hero-dusk.jpg",
               "type": "Lifestyle",
               "priority": 5
             }
@@ -364,7 +369,7 @@
     {
       "key": "jmc",
       "name": "JMC",
-      "updated_at": "2026-07-29T12:57:01",
+      "updated_at": "2026-07-29T13:19:22",
       "models": [
         {
           "slug": "carrying-plus",
