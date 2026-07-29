@@ -1,0 +1,387 @@
+{
+  "key": "jmc",
+  "name": "JMC",
+  "updated_at": "2026-07-29T11:13:31",
+  "models": [
+    {
+      "slug": "carrying-plus",
+      "name": "Carrying Plus",
+      "brand": "JMC",
+      "brand_key": "jmc",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/carrying-plus/jellybean.jpg",
+      "source_url": "https://jmcsouthafrica.co.za/models/carrying-plus.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/carrying-plus/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/carrying-plus/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/carrying-plus/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/carrying-plus/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/carrying-plus/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Chassis Cab",
+          "slug": "chassis-cab",
+          "price_incl": 344900,
+          "price_excl": 299913,
+          "price_display": "R344 900",
+          "monthly_estimate": 6654,
+          "specs": {
+            "engine_capacity": "2771cc",
+            "power_kw": "68",
+            "torque_nm": "210",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed MT (5F/1R)",
+            "drivetrain": "4x2",
+            "body_type": "Truck",
+            "fuel_consumption_l100km": "8.0",
+            "seats": "3",
+            "fuel_tank_l": "83",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "Dropside",
+          "slug": "dropside",
+          "price_incl": 399900,
+          "price_excl": 347739,
+          "price_display": "R399 900",
+          "monthly_estimate": 7715,
+          "specs": {
+            "engine_capacity": "2771cc",
+            "power_kw": "68",
+            "torque_nm": "210",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed MT (5F/1R)",
+            "drivetrain": "4x2",
+            "body_type": "Truck",
+            "fuel_consumption_l100km": "8.0",
+            "seats": "3",
+            "fuel_tank_l": "83",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "Box Van",
+          "slug": "box-van",
+          "price_incl": 419900,
+          "price_excl": 365130,
+          "price_display": "R419 900",
+          "monthly_estimate": 8100,
+          "specs": {
+            "engine_capacity": "2771cc",
+            "power_kw": "68",
+            "torque_nm": "210",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed MT (5F/1R)",
+            "drivetrain": "4x2",
+            "body_type": "Truck",
+            "fuel_consumption_l100km": "8.0",
+            "seats": "3",
+            "fuel_tank_l": "83",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 344900,
+      "price_to": 419900,
+      "price_range": "R344 900 – R419 900",
+      "body_type": "Truck",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "new-vigus",
+      "name": "New Vigus",
+      "brand": "JMC",
+      "brand_key": "jmc",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/jellybean.jpg",
+      "source_url": "https://jmcsouthafrica.co.za/models/new-vigus.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/new-vigus/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Double Cab 4x2 MT GL",
+          "slug": "double-cab-4x2-mt-gl",
+          "price_incl": 399900,
+          "price_excl": 347739,
+          "price_display": "R399 900",
+          "monthly_estimate": 7715,
+          "specs": {
+            "engine_capacity": "2498cc",
+            "power_kw": "123",
+            "torque_nm": "410",
+            "fuel_type": "Diesel",
+            "transmission": "6-speed MT",
+            "drivetrain": "4x2",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.0",
+            "seats": "5",
+            "airbags": "2",
+            "fuel_tank_l": "75",
+            "warranty": "5 years / 200 000 km",
+            "service_plan": "4 years / 65 000 km"
+          }
+        },
+        {
+          "name": "Double Cab 4x2 AT GL",
+          "slug": "double-cab-4x2-at-gl",
+          "price_incl": 459900,
+          "price_excl": 399913,
+          "price_display": "R459 900",
+          "monthly_estimate": 8872,
+          "specs": {
+            "engine_capacity": "2498cc",
+            "power_kw": "123",
+            "torque_nm": "430",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed AT",
+            "drivetrain": "4x2",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.0",
+            "seats": "5",
+            "airbags": "4",
+            "fuel_tank_l": "75",
+            "warranty": "5 years / 200 000 km",
+            "service_plan": "4 years / 65 000 km"
+          }
+        },
+        {
+          "name": "Double Cab 4x4 AT GL",
+          "slug": "double-cab-4x4-at-gl",
+          "price_incl": 499900,
+          "price_excl": 434696,
+          "price_display": "R499 900",
+          "monthly_estimate": 9644,
+          "specs": {
+            "engine_capacity": "2498cc",
+            "power_kw": "123",
+            "torque_nm": "430",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed AT",
+            "drivetrain": "4x4",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.0",
+            "seats": "5",
+            "airbags": "4",
+            "fuel_tank_l": "75",
+            "warranty": "5 years / 200 000 km",
+            "service_plan": "4 years / 65 000 km"
+          }
+        }
+      ],
+      "price_from": 399900,
+      "price_to": 499900,
+      "price_range": "R399 900 – R499 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 3
+    },
+    {
+      "slug": "vigus-dc",
+      "name": "Vigus DC",
+      "brand": "JMC",
+      "brand_key": "jmc",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-dc/jellybean.jpg",
+      "source_url": "https://jmcsouthafrica.co.za/models/vigus-plus.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-dc/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-dc/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-dc/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-dc/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-dc/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Vigus 2.0D 4x2 D/C",
+          "slug": "vigus-2-0d-4x2-d-c",
+          "price_incl": 439900,
+          "price_excl": 382522,
+          "price_display": "R439 900",
+          "monthly_estimate": 8486,
+          "specs": {
+            "engine_capacity": "2.0L",
+            "power_kw": "104",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed AT",
+            "drivetrain": "4x2",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "seats": "5",
+            "airbags": "2",
+            "fuel_tank_l": "64",
+            "warranty": "5 years / 100 000 km",
+            "service_plan": "3 years / 50 000 km"
+          }
+        },
+        {
+          "name": "Vigus 2.0D 4x4 D/C",
+          "slug": "vigus-2-0d-4x4-d-c",
+          "price_incl": 499900,
+          "price_excl": 434696,
+          "price_display": "R499 900",
+          "monthly_estimate": 9644,
+          "specs": {
+            "engine_capacity": "2.0L",
+            "power_kw": "104",
+            "torque_nm": "350",
+            "fuel_type": "Diesel",
+            "transmission": "8-speed AT",
+            "drivetrain": "4x4",
+            "body_type": "Double Cab",
+            "fuel_consumption_l100km": "7.8",
+            "seats": "5",
+            "airbags": "2",
+            "fuel_tank_l": "64",
+            "warranty": "5 years / 100 000 km",
+            "service_plan": "3 years / 50 000 km"
+          }
+        }
+      ],
+      "price_from": 439900,
+      "price_to": 499900,
+      "price_range": "R439 900 – R499 900",
+      "body_type": "Double Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "vigus-sc",
+      "name": "Vigus SC",
+      "brand": "JMC",
+      "brand_key": "jmc",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-sc/jellybean.jpg",
+      "source_url": "https://jmcsouthafrica.co.za/models/vigus-sc.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-sc/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-sc/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-sc/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-sc/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/jmc/vigus-sc/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Vigus 2.4D 4x2 S/C",
+          "slug": "vigus-2-4d-4x2-s-c",
+          "price_incl": 299900,
+          "price_excl": 260783,
+          "price_display": "R299 900",
+          "monthly_estimate": 5785,
+          "specs": {
+            "engine_capacity": "2.4L",
+            "power_kw": "103",
+            "torque_nm": "310",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed MT",
+            "drivetrain": "4x2",
+            "body_type": "Single Cab",
+            "airbags": "1 (passenger airbag optional)",
+            "fuel_tank_l": "64",
+            "warranty": "5 years / 100 000 km",
+            "service_plan": "Optional (3 years / 50 000 km)"
+          }
+        }
+      ],
+      "price_from": 299900,
+      "price_to": 299900,
+      "price_range": "R299 900",
+      "body_type": "Single Cab",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 4,
+  "price_from": 299900,
+  "price_to": 499900
+}

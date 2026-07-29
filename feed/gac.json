@@ -1,0 +1,347 @@
+{
+  "key": "gac",
+  "name": "GAC",
+  "updated_at": "2026-07-29T11:13:31",
+  "models": [
+    {
+      "slug": "emkoo",
+      "name": "EMKOO",
+      "brand": "GAC",
+      "brand_key": "gac",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/jellybean.jpg",
+      "source_url": "https://www.gacmotorza.co.za/model/emkoo",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emkoo/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5T GDI Executive Collection",
+          "slug": "1-5t-gdi-executive-collection",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.4",
+            "seats": "5",
+            "airbags": "6",
+            "fuel_tank_l": "55",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.5T GDI Executive",
+          "slug": "1-5t-gdi-executive",
+          "price_incl": 519900,
+          "price_excl": 452087,
+          "price_display": "R519 900",
+          "monthly_estimate": 10029,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.4",
+            "seats": "5",
+            "airbags": "6",
+            "fuel_tank_l": "55",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "5 years / 100 000 km"
+          }
+        },
+        {
+          "name": "1.5T GDI Executive Plus",
+          "slug": "1-5t-gdi-executive-plus",
+          "price_incl": 559900,
+          "price_excl": 486870,
+          "price_display": "R559 900",
+          "monthly_estimate": 10801,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.4",
+            "seats": "5",
+            "airbags": "6",
+            "fuel_tank_l": "55",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "5 years / 100 000 km"
+          }
+        }
+      ],
+      "price_from": 449900,
+      "price_to": 559900,
+      "price_range": "R449 900 – R559 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 3
+    },
+    {
+      "slug": "emzoom",
+      "name": "GS3 EMZOOM",
+      "brand": "GAC",
+      "brand_key": "gac",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/jellybean.jpg",
+      "source_url": "https://www.gacmotorza.co.za/model/emzoom",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/emzoom/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5L T Nova",
+          "slug": "1-5l-t-nova",
+          "price_incl": 359900,
+          "price_excl": 312957,
+          "price_display": "R359 900",
+          "monthly_estimate": 6943,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.2",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "2 years / 30 000 km"
+          }
+        },
+        {
+          "name": "1.5L T Comfort Collection",
+          "slug": "1-5l-t-comfort-collection",
+          "price_incl": 359900,
+          "price_excl": 312957,
+          "price_display": "R359 900",
+          "monthly_estimate": 6943,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.2",
+            "seats": "5",
+            "airbags": "2",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "2 years / 30 000 km"
+          }
+        },
+        {
+          "name": "1.5L T Executive Collection",
+          "slug": "1-5l-t-executive-collection",
+          "price_incl": 379900,
+          "price_excl": 330348,
+          "price_display": "R379 900",
+          "monthly_estimate": 7329,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.2",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "5 years / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5L T Executive",
+          "slug": "1-5l-t-executive",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.2",
+            "seats": "5",
+            "airbags": "4",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "5 years / 60 000 km"
+          }
+        },
+        {
+          "name": "1.5L T R-Style",
+          "slug": "1-5l-t-r-style",
+          "price_incl": 499900,
+          "price_excl": 434696,
+          "price_display": "R499 900",
+          "monthly_estimate": 9644,
+          "specs": {
+            "engine_capacity": "1497cc",
+            "power_kw": "130",
+            "torque_nm": "270",
+            "fuel_type": "Petrol",
+            "transmission": "7-speed DCT",
+            "drivetrain": "FWD",
+            "body_type": "SUV",
+            "fuel_consumption_l100km": "6.2",
+            "seats": "5",
+            "airbags": "6",
+            "warranty": "5 years / 150 000 km + lifetime engine warranty",
+            "service_plan": "5 years / 60 000 km"
+          }
+        }
+      ],
+      "price_from": 359900,
+      "price_to": 499900,
+      "price_range": "R359 900 – R499 900",
+      "body_type": "SUV",
+      "fuel_type": "Petrol",
+      "variant_count": 5
+    },
+    {
+      "slug": "m8",
+      "name": "M8",
+      "brand": "GAC",
+      "brand_key": "gac",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/m8/jellybean.jpg",
+      "source_url": "https://www.gacmotorza.co.za/model/m8",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/m8/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/m8/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/m8/interior-2.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/m8/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/gac/m8/lifestyle-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "2.0T PHEV Master",
+          "slug": "2-0t-phev-master",
+          "price_incl": 1499900,
+          "price_excl": 1304261,
+          "price_display": "R1 499 900",
+          "monthly_estimate": 28935,
+          "specs": {
+            "engine_capacity": "2.0L turbo PHEV",
+            "power_kw": "274",
+            "torque_nm": "630",
+            "fuel_type": "Petrol plug-in hybrid",
+            "transmission": "8-speed automatic",
+            "drivetrain": "FWD",
+            "body_type": "MPV",
+            "fuel_consumption_l100km": "8.8",
+            "seats": "7",
+            "airbags": "7",
+            "fuel_tank_l": "56",
+            "warranty": "5 years / 150 000 km + 8 years / 150 000 km EV battery",
+            "service_plan": "5 years / 100 000 km maintenance plan"
+          }
+        }
+      ],
+      "price_from": 1499900,
+      "price_to": 1499900,
+      "price_range": "R1 499 900",
+      "body_type": "MPV",
+      "fuel_type": "Petrol plug-in hybrid",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 3,
+  "price_from": 359900,
+  "price_to": 1499900
+}
