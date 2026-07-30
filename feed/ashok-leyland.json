@@ -1,0 +1,223 @@
+{
+  "key": "ashok-leyland",
+  "name": "ASHOK-LEYLAND",
+  "updated_at": "2026-07-30T12:15:58",
+  "models": [
+    {
+      "slug": "dost",
+      "name": "Dost",
+      "brand": "ASHOK-LEYLAND",
+      "brand_key": "ashok-leyland",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/jellybean.jpg",
+      "source_url": "https://etglashokleyland.com/dost.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Dost 1.5 TDCR Fixed-Side Deck",
+          "slug": "dost-1-5-tdcr-fixed-side-deck",
+          "price_incl": 179900,
+          "price_excl": 156435,
+          "price_display": "R179 900",
+          "monthly_estimate": 3470,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "44",
+            "torque_nm": "158",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed manual",
+            "drivetrain": "4x2",
+            "body_type": "Fixed-Side Deck",
+            "fuel_consumption_l100km": "6.1",
+            "seats": "2",
+            "fuel_tank_l": "40",
+            "warranty": "5 years / 150 000 km"
+          }
+        },
+        {
+          "name": "Dost 1.5 TDCR Drop-Side Deck",
+          "slug": "dost-1-5-tdcr-drop-side-deck",
+          "price_incl": 179900,
+          "price_excl": 156435,
+          "price_display": "R179 900",
+          "monthly_estimate": 3470,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "44",
+            "torque_nm": "158",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed manual",
+            "drivetrain": "4x2",
+            "body_type": "Drop-Side Deck",
+            "fuel_consumption_l100km": "6.1",
+            "seats": "2",
+            "fuel_tank_l": "40",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 179900,
+      "price_to": 179900,
+      "price_range": "R179 900",
+      "body_type": "Fixed-Side Deck",
+      "fuel_type": "Diesel",
+      "variant_count": 2
+    },
+    {
+      "slug": "partner",
+      "name": "Partner",
+      "brand": "ASHOK-LEYLAND",
+      "brand_key": "ashok-leyland",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/jellybean.jpg",
+      "source_url": "https://etglashokleyland.com/partner.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Partner 3.0 DDTi Drop-Side Deck",
+          "slug": "partner-3-0-ddti-drop-side-deck",
+          "price_incl": 389900,
+          "price_excl": 339043,
+          "price_display": "R389 900",
+          "monthly_estimate": 7522,
+          "specs": {
+            "engine_capacity": "3.0L",
+            "power_kw": "103",
+            "torque_nm": "360",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed manual",
+            "drivetrain": "4x2",
+            "body_type": "Drop-Side Deck",
+            "seats": "3",
+            "fuel_tank_l": "90",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 389900,
+      "price_to": 389900,
+      "price_range": "R389 900",
+      "body_type": "Drop-Side Deck",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    },
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "brand": "ASHOK-LEYLAND",
+      "brand_key": "ashok-leyland",
+      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/jellybean.jpg",
+      "source_url": "https://etglashokleyland.com/phoenix.html",
+      "images": [
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/jellybean.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/exteriorfront-1.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/exteriorrear-1.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/interior-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/lifestyle-1.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Phoenix 1.5 TDCR Drop-Side Deck",
+          "slug": "phoenix-1-5-tdcr-drop-side-deck",
+          "price_incl": 279900,
+          "price_excl": 243391,
+          "price_display": "R279 900",
+          "monthly_estimate": 5400,
+          "specs": {
+            "engine_capacity": "1.5L",
+            "power_kw": "59",
+            "torque_nm": "190",
+            "fuel_type": "Diesel",
+            "transmission": "5-speed manual",
+            "drivetrain": "4x2",
+            "body_type": "Drop-Side Deck",
+            "fuel_consumption_l100km": "7.7",
+            "seats": "3",
+            "fuel_tank_l": "50",
+            "warranty": "5 years / 150 000 km"
+          }
+        }
+      ],
+      "price_from": 279900,
+      "price_to": 279900,
+      "price_range": "R279 900",
+      "body_type": "Drop-Side Deck",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 4,
+  "model_count": 3,
+  "price_from": 179900,
+  "price_to": 389900
+}
