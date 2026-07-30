@@ -1,12 +1,12 @@
 {
   "key": "ashok-leyland",
-  "name": "ASHOK-LEYLAND",
-  "updated_at": "2026-07-30T12:15:58",
+  "name": "Ashok Leyland",
+  "updated_at": "2026-07-30T15:50:22",
   "models": [
     {
       "slug": "dost",
       "name": "Dost",
-      "brand": "ASHOK-LEYLAND",
+      "brand": "Ashok Leyland",
       "brand_key": "ashok-leyland",
       "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/dost/jellybean.jpg",
       "source_url": "https://etglashokleyland.com/dost.html",
@@ -91,7 +91,7 @@
     {
       "slug": "partner",
       "name": "Partner",
-      "brand": "ASHOK-LEYLAND",
+      "brand": "Ashok Leyland",
       "brand_key": "ashok-leyland",
       "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/partner/jellybean.jpg",
       "source_url": "https://etglashokleyland.com/partner.html",
@@ -154,7 +154,7 @@
     {
       "slug": "phoenix",
       "name": "Phoenix",
-      "brand": "ASHOK-LEYLAND",
+      "brand": "Ashok Leyland",
       "brand_key": "ashok-leyland",
       "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/ashok-leyland/phoenix/jellybean.jpg",
       "source_url": "https://etglashokleyland.com/phoenix.html",
