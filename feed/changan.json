@@ -41,9 +41,9 @@
         {
           "name": "1.4 CS",
           "slug": "1-4-cs",
-          "price_incl": 238000,
-          "price_excl": 206957,
-          "price_display": "R238 000",
+          "price_incl": 249900,
+          "price_excl": 217304,
+          "price_display": "R249 900",
           "monthly_estimate": 4591,
           "specs": {
             "engine_capacity": "1400cc",
@@ -63,9 +63,9 @@
         {
           "name": "1.5 CE",
           "slug": "1-5-ce",
-          "price_incl": 271200,
-          "price_excl": 235826,
-          "price_display": "R271 200",
+          "price_incl": 289900,
+          "price_excl": 252087,
+          "price_display": "R289 900",
           "monthly_estimate": 5232,
           "specs": {
             "engine_capacity": "1500cc",
@@ -123,9 +123,9 @@
         {
           "name": "1.5T CE 5-seater",
           "slug": "1-5t-ce-5-seater",
-          "price_incl": 474900,
-          "price_excl": 412957,
-          "price_display": "R474 900",
+          "price_incl": 489900,
+          "price_excl": 426000,
+          "price_display": "R489 900",
           "monthly_estimate": 9161,
           "specs": {
             "engine_capacity": "1499cc",
@@ -167,9 +167,9 @@
         {
           "name": "1.5T CS 5-seater",
           "slug": "1-5t-cs-5-seater",
-          "price_incl": 429900,
-          "price_excl": 373826,
-          "price_display": "R429 900",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
           "monthly_estimate": 8293,
           "specs": {
             "engine_capacity": "1499cc",
@@ -189,9 +189,9 @@
         {
           "name": "1.5T CS 7-seater",
           "slug": "1-5t-cs-7-seater",
-          "price_incl": 449900,
-          "price_excl": 391217,
-          "price_display": "R449 900",
+          "price_incl": 469900,
+          "price_excl": 408609,
+          "price_display": "R469 900",
           "monthly_estimate": 8679,
           "specs": {
             "engine_capacity": "1499cc",
