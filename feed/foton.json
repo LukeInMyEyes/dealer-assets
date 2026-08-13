@@ -118,9 +118,9 @@
         {
           "name": "2.0TD D/C 4x4 Limited",
           "slug": "2-0td-d-c-4x4-limited",
-          "price_incl": 584900,
-          "price_excl": 508609,
-          "price_display": "R584 900",
+          "price_incl": 599900,
+          "price_excl": 521652,
+          "price_display": "R599 900",
           "monthly_estimate": 11283,
           "specs": {
             "engine_capacity": "1996cc",
@@ -271,7 +271,7 @@
         }
       ],
       "price_from": 329900,
-      "price_to": 584900,
+      "price_to": 599900,
       "price_range": "R329 900 – R584 900",
       "body_type": "Double Cab",
       "fuel_type": "Diesel",
@@ -566,6 +566,52 @@
       "body_type": "Panel Van / Bus",
       "fuel_type": "Diesel",
       "variant_count": 4
+    },
+    {
+      "slug": "miler-lite",
+      "name": "Miler Lite",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "source_url": "https://fotonsa.co.za/new-models/miler-lite/",
+      "variants": [
+        {
+          "name": "Standard",
+          "slug": "standard",
+          "price_incl": 309900,
+          "price_display": "R309 900",
+          "specs": {
+            "body_type": "Light Commercial",
+            "fuel_type": "Diesel",
+            "engine_capacity": "2.0",
+            "power_kw": "92",
+            "torque_nm": "320",
+            "transmission": "5-Speed Manual",
+            "warranty": "150 000km"
+          },
+          "dimensions": {}
+        },
+        {
+          "name": "Aircon & Dual Airbags",
+          "slug": "aircon-and-dual-airbags",
+          "price_incl": 339900,
+          "price_display": "R339 900",
+          "specs": {
+            "body_type": "Light Commercial",
+            "fuel_type": "Diesel",
+            "engine_capacity": "2.0",
+            "power_kw": "92",
+            "torque_nm": "320",
+            "transmission": "5-Speed Manual",
+            "warranty": "150 000km"
+          },
+          "dimensions": {}
+        }
+      ],
+      "price_from": 309900,
+      "price_to": 339900,
+      "body_type": "Light Commercial",
+      "fuel_type": "Diesel",
+      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2026/05/Foton-SA-Miler-Lite-Commercial-LDV-Hero-Ext-Mobile-1.webp"
     }
   ],
   "total_variants": 17,
