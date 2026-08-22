@@ -2,12 +2,12 @@
   "dealer": "midbay",
   "dealer_name": "Midbay Motors Group",
   "dealership_id": "MIDBAY",
-  "generated": "2026-06-13T05:46:21",
+  "generated": "2026-07-30T15:50:22",
   "brands": [
     {
       "key": "peugeot",
       "name": "Peugeot",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "2008",
@@ -233,7 +233,7 @@
     {
       "key": "jeep",
       "name": "Jeep",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "gladiator",
@@ -572,7 +572,7 @@
     {
       "key": "citroen",
       "name": "Citroen",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "c3",
@@ -808,7 +808,7 @@
     {
       "key": "opel",
       "name": "Opel",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "corsa",
@@ -1068,7 +1068,7 @@
     {
       "key": "fiat",
       "name": "Fiat",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "500",
@@ -1178,7 +1178,7 @@
     {
       "key": "baic",
       "name": "BAIC",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "b30",
@@ -1515,7 +1515,7 @@
     {
       "key": "changan",
       "name": "Changan",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "alsvin",
@@ -2015,7 +2015,7 @@
     {
       "key": "jac",
       "name": "JAC",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "t6",
@@ -2392,7 +2392,7 @@
     {
       "key": "foton",
       "name": "Foton",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "asambe",

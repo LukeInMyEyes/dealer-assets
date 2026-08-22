@@ -2,12 +2,12 @@
   "dealer": "east-toyota",
   "dealer_name": "East Toyota Eshowe",
   "dealership_id": "EASTTOYOTA",
-  "generated": "2026-06-13T05:46:21",
+  "generated": "2026-07-30T15:50:22",
   "brands": [
     {
       "key": "toyota",
       "name": "Toyota",
-      "updated_at": "2026-06-13T05:46:21",
+      "updated_at": "2026-07-30T15:50:22",
       "models": [
         {
           "slug": "bz4x",

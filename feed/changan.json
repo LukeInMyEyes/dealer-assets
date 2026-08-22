@@ -1,7 +1,7 @@
 {
   "key": "changan",
   "name": "Changan",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-07-30T15:50:22",
   "models": [
     {
       "slug": "alsvin",
@@ -362,7 +362,7 @@
           "price_display": "R799 900",
           "monthly_estimate": 15431,
           "specs": {
-            "engine_capacity": "1999cc (range extender)",
+            "engine_capacity": "1499cc",
             "power_kw": "200",
             "torque_nm": "470",
             "fuel_type": "REEV (Range Extended EV)",

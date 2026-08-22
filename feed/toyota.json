@@ -1,7 +1,7 @@
 {
   "key": "toyota",
   "name": "Toyota",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-07-30T15:50:22",
   "models": [
     {
       "slug": "bz4x",
@@ -39,8 +39,8 @@
         }
       ],
       "price_from": 1182800,
-      "price_to": 1182800,
-      "price_range": "R1 182 800",
+      "price_to": 1317700,
+      "price_range": "R1 182 800 – R1 317 700",
       "body_type": "SUV",
       "fuel_type": "Electric",
       "variant_count": 1
@@ -63,10 +63,10 @@
         {
           "name": "4.0D 23-seater Bus 5MT LWB",
           "slug": "4-0d-23-seater-bus-5mt-lwb",
-          "price_incl": 1129600,
-          "price_excl": 982261,
-          "price_display": "R1 129 600",
-          "monthly_estimate": 21791,
+          "price_incl": 1140900,
+          "price_excl": 992087,
+          "price_display": "R1 140 900",
+          "monthly_estimate": 22009,
           "specs": {
             "engine_capacity": "4009 cc",
             "power_kw": "100 kW",
@@ -84,10 +84,10 @@
         {
           "name": "2.8D GL 23-seater Bus 6AT",
           "slug": "2-8d-gl-23-seater-bus-6at",
-          "price_incl": 1207600,
-          "price_excl": 1050087,
-          "price_display": "R1 207 600",
-          "monthly_estimate": 23296,
+          "price_incl": 1219700,
+          "price_excl": 1060609,
+          "price_display": "R1 219 700",
+          "monthly_estimate": 20884,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "110 kW",
@@ -100,12 +100,13 @@
             "airbags": "1",
             "warranty": "3 years / 100 000 km",
             "service_plan": "6 services / 60 000 km"
-          }
+          },
+          "mm_code": "74H"
         }
       ],
-      "price_from": 1129600,
-      "price_to": 1207600,
-      "price_range": "R1 129 600 – R1 207 600",
+      "price_from": 1140900,
+      "price_to": 1219700,
+      "price_range": "R1 140 900 – R1 219 700",
       "body_type": "Bus",
       "fuel_type": "Diesel",
       "variant_count": 2
@@ -181,10 +182,10 @@
         {
           "name": "1.8 Hybrid XR CVT",
           "slug": "1-8-hybrid-xr-cvt",
-          "price_incl": 630700,
-          "price_excl": 548435,
-          "price_display": "R630 700",
-          "monthly_estimate": 12167,
+          "price_incl": 590200,
+          "price_excl": 513217,
+          "price_display": "R590 200",
+          "monthly_estimate": 10151,
           "specs": {
             "engine_capacity": "1798 cc",
             "power_kw": "103 kW",
@@ -199,12 +200,13 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "66O"
         }
       ],
       "price_from": 590200,
-      "price_to": 630700,
-      "price_range": "R590 200 – R630 700",
+      "price_to": 590200,
+      "price_range": "R590 200",
       "body_type": "Sedan",
       "fuel_type": "Hybrid",
       "variant_count": 2
@@ -257,10 +259,10 @@
         {
           "name": "1.8 Xi CVT",
           "slug": "1-8-xi-cvt",
-          "price_incl": 420700,
-          "price_excl": 365826,
-          "price_display": "R420 700",
-          "monthly_estimate": 8116,
+          "price_incl": 424900,
+          "price_excl": 369478,
+          "price_display": "R424 900",
+          "monthly_estimate": 7333,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "103",
@@ -275,15 +277,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "P40"
         },
         {
           "name": "1.8 XS CVT",
           "slug": "1-8-xs-cvt",
-          "price_incl": 458400,
-          "price_excl": 398609,
-          "price_display": "R458 400",
-          "monthly_estimate": 8843,
+          "price_incl": 463000,
+          "price_excl": 402609,
+          "price_display": "R463 000",
+          "monthly_estimate": 7983,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "103",
@@ -298,15 +301,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "P41"
         },
         {
           "name": "1.8 HEV XS CVT",
           "slug": "1-8-hev-xs-cvt",
-          "price_incl": 501100,
-          "price_excl": 435739,
-          "price_display": "R501 100",
-          "monthly_estimate": 9667,
+          "price_incl": 506100,
+          "price_excl": 440087,
+          "price_display": "R506 100",
+          "monthly_estimate": 8718,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "90",
@@ -321,15 +325,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km; hybrid battery warranty 8 years / 195 000 km"
-          }
+          },
+          "mm_code": "P42"
         },
         {
           "name": "1.8 XR CVT",
           "slug": "1-8-xr-cvt",
-          "price_incl": 508200,
-          "price_excl": 441913,
-          "price_display": "R508 200",
-          "monthly_estimate": 9804,
+          "price_incl": 513300,
+          "price_excl": 446348,
+          "price_display": "R513 300",
+          "monthly_estimate": 8840,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "103",
@@ -344,15 +349,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "P43"
         },
         {
           "name": "1.8 GR-Sport CVT",
           "slug": "1-8-gr-sport-cvt",
-          "price_incl": 527000,
-          "price_excl": 458261,
-          "price_display": "R527 000",
-          "monthly_estimate": 10166,
+          "price_incl": 532300,
+          "price_excl": 462870,
+          "price_display": "R532 300",
+          "monthly_estimate": 9164,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "103",
@@ -367,15 +373,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "P45"
         },
         {
           "name": "1.8 HEV XR CVT",
           "slug": "1-8-hev-xr-cvt",
-          "price_incl": 552400,
-          "price_excl": 480348,
-          "price_display": "R552 400",
-          "monthly_estimate": 10656,
+          "price_incl": 557900,
+          "price_excl": 485130,
+          "price_display": "R557 900",
+          "monthly_estimate": 9601,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "90",
@@ -390,15 +397,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km; hybrid battery warranty 8 years / 195 000 km"
-          }
+          },
+          "mm_code": "P44"
         },
         {
           "name": "1.8 HEV GR-Sport CVT",
           "slug": "1-8-hev-gr-sport-cvt",
-          "price_incl": 569700,
-          "price_excl": 495391,
-          "price_display": "R569 700",
-          "monthly_estimate": 10990,
+          "price_incl": 575400,
+          "price_excl": 500348,
+          "price_display": "R575 400",
+          "monthly_estimate": 9899,
           "specs": {
             "engine_capacity": "1798cc",
             "power_kw": "90",
@@ -413,12 +421,13 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km; hybrid battery warranty 8 years / 195 000 km"
-          }
+          },
+          "mm_code": "P46"
         }
       ],
-      "price_from": 420700,
-      "price_to": 569700,
-      "price_range": "R420 700 – R569 700",
+      "price_from": 424900,
+      "price_to": 575400,
+      "price_range": "R424 900 – R575 400",
       "body_type": "SUV",
       "fuel_type": "Petrol",
       "variant_count": 7
@@ -494,10 +503,10 @@
         {
           "name": "1.8 Hybrid XR CVT",
           "slug": "1-8-hybrid-xr-cvt",
-          "price_incl": 649600,
-          "price_excl": 564870,
-          "price_display": "R649 600",
-          "monthly_estimate": 12532,
+          "price_incl": 601100,
+          "price_excl": 522696,
+          "price_display": "R601 100",
+          "monthly_estimate": 10337,
           "specs": {
             "engine_capacity": "1798 cc",
             "power_kw": "103 kW",
@@ -512,7 +521,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "42L"
         },
         {
           "name": "2.0 XR CVT",
@@ -539,8 +549,8 @@
         }
       ],
       "price_from": 601100,
-      "price_to": 649600,
-      "price_range": "R601 100 – R649 600",
+      "price_to": 601100,
+      "price_range": "R601 100",
       "body_type": "Hatchback",
       "fuel_type": "Hybrid",
       "variant_count": 3
@@ -593,10 +603,10 @@
         {
           "name": "2.4 GD-6 Raised Body Manual",
           "slug": "2-4-gd-6-raised-body-manual",
-          "price_incl": 685900,
-          "price_excl": 596435,
-          "price_display": "R685 900",
-          "monthly_estimate": 13232,
+          "price_incl": 692800,
+          "price_excl": 602435,
+          "price_display": "R692 800",
+          "monthly_estimate": 11901,
           "specs": {
             "engine_capacity": "2393 cc",
             "power_kw": "110 kW",
@@ -611,15 +621,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7Q"
         },
         {
           "name": "2.4 GD-6 Raised Body Auto",
           "slug": "2-4-gd-6-raised-body-auto",
-          "price_incl": 712900,
-          "price_excl": 619913,
-          "price_display": "R712 900",
-          "monthly_estimate": 13753,
+          "price_incl": 720000,
+          "price_excl": 626087,
+          "price_display": "R720 000",
+          "monthly_estimate": 12364,
           "specs": {
             "engine_capacity": "2393 cc",
             "power_kw": "110 kW",
@@ -634,15 +645,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7R"
         },
         {
           "name": "2.4 GD-6 4x4 Auto",
           "slug": "2-4-gd-6-4x4-auto",
-          "price_incl": 746500,
-          "price_excl": 649130,
-          "price_display": "R746 500",
-          "monthly_estimate": 14401,
+          "price_incl": 754000,
+          "price_excl": 655652,
+          "price_display": "R754 000",
+          "monthly_estimate": 12944,
           "specs": {
             "engine_capacity": "2393 cc",
             "power_kw": "110 kW",
@@ -657,15 +669,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7S"
         },
         {
           "name": "2.8 GD-6 Raised Body Auto",
           "slug": "2-8-gd-6-raised-body-auto",
-          "price_incl": 834700,
-          "price_excl": 725826,
-          "price_display": "R834 700",
-          "monthly_estimate": 16102,
+          "price_incl": 843000,
+          "price_excl": 733043,
+          "price_display": "R843 000",
+          "monthly_estimate": 14461,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -680,15 +693,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7T"
         },
         {
           "name": "2.8 GD-6 48V Raised Body Auto",
           "slug": "2-8-gd-6-48v-raised-body-auto",
-          "price_incl": 843100,
-          "price_excl": 733130,
-          "price_display": "R843 100",
-          "monthly_estimate": 16264,
+          "price_incl": 851500,
+          "price_excl": 740435,
+          "price_display": "R851 500",
+          "monthly_estimate": 14606,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -703,15 +717,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7V"
         },
         {
           "name": "2.8 GD-6 VX Raised Body Auto",
           "slug": "2-8-gd-6-vx-raised-body-auto",
-          "price_incl": 879600,
-          "price_excl": 764870,
-          "price_display": "R879 600",
-          "monthly_estimate": 16969,
+          "price_incl": 888400,
+          "price_excl": 772522,
+          "price_display": "R888 400",
+          "monthly_estimate": 15235,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -726,15 +741,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A8C"
         },
         {
           "name": "2.8 GD-6 48V VX Raised Body Auto",
           "slug": "2-8-gd-6-48v-vx-raised-body-auto",
-          "price_incl": 888100,
-          "price_excl": 772261,
-          "price_display": "R888 100",
-          "monthly_estimate": 17132,
+          "price_incl": 897000,
+          "price_excl": 780000,
+          "price_display": "R897 000",
+          "monthly_estimate": 15382,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -749,15 +765,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A8E"
         },
         {
           "name": "2.8 GD-6 4x4 Auto",
           "slug": "2-8-gd-6-4x4-auto",
-          "price_incl": 916800,
-          "price_excl": 797217,
-          "price_display": "R916 800",
-          "monthly_estimate": 17686,
+          "price_incl": 926000,
+          "price_excl": 805217,
+          "price_display": "R926 000",
+          "monthly_estimate": 15876,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -772,15 +789,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7X"
         },
         {
           "name": "2.8 GD-6 48V 4x4 Auto",
           "slug": "2-8-gd-6-48v-4x4-auto",
-          "price_incl": 927800,
-          "price_excl": 806783,
-          "price_display": "R927 800",
-          "monthly_estimate": 17898,
+          "price_incl": 937100,
+          "price_excl": 814870,
+          "price_display": "R937 100",
+          "monthly_estimate": 16066,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -795,15 +813,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A8A"
         },
         {
           "name": "2.8 GD-6 4x4 VX Auto",
           "slug": "2-8-gd-6-4x4-vx-auto",
-          "price_incl": 960400,
-          "price_excl": 835130,
-          "price_display": "R960 400",
-          "monthly_estimate": 18527,
+          "price_incl": 970000,
+          "price_excl": 843478,
+          "price_display": "R970 000",
+          "monthly_estimate": 16627,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -818,15 +837,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A8G"
         },
         {
           "name": "2.8 GD-6 48V 4x4 VX Auto",
           "slug": "2-8-gd-6-48v-4x4-vx-auto",
-          "price_incl": 971400,
-          "price_excl": 844696,
-          "price_display": "R971 400",
-          "monthly_estimate": 18739,
+          "price_incl": 981100,
+          "price_excl": 853130,
+          "price_display": "R981 100",
+          "monthly_estimate": 16816,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "150 kW",
@@ -841,15 +861,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A8J"
         },
         {
           "name": "2.8 GD-6 4x4 GR-Sport Auto",
           "slug": "2-8-gd-6-4x4-gr-sport-auto",
-          "price_incl": 1009000,
-          "price_excl": 877391,
-          "price_display": "R1 009 000",
-          "monthly_estimate": 19465,
+          "price_incl": 1019100,
+          "price_excl": 886174,
+          "price_display": "R1 019 100",
+          "monthly_estimate": 17464,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "165 kW",
@@ -864,12 +885,13 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A8L"
         }
       ],
-      "price_from": 685900,
-      "price_to": 1009000,
-      "price_range": "R685 900 – R1 009 000",
+      "price_from": 692800,
+      "price_to": 1019100,
+      "price_range": "R692 800 – R1 019 100",
       "body_type": "SUV",
       "fuel_type": "Diesel",
       "variant_count": 12
@@ -922,10 +944,10 @@
         {
           "name": "1.6T GR-Four Circuit",
           "slug": "1-6t-gr-four-circuit",
-          "price_incl": 995100,
-          "price_excl": 865304,
-          "price_display": "R995 100",
-          "monthly_estimate": 19197,
+          "price_incl": 1005100,
+          "price_excl": 874000,
+          "price_display": "R1 005 100",
+          "monthly_estimate": 17225,
           "specs": {
             "engine_capacity": "1618cc",
             "power_kw": "210",
@@ -940,15 +962,16 @@
             "airbags": "8",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "N49"
         },
         {
           "name": "1.6T GR-Four Circuit GR-DAT",
           "slug": "1-6t-gr-four-circuit-gr-dat",
-          "price_incl": 1020800,
-          "price_excl": 887652,
-          "price_display": "R1 020 800",
-          "monthly_estimate": 19692,
+          "price_incl": 1031000,
+          "price_excl": 896522,
+          "price_display": "R1 031 000",
+          "monthly_estimate": 17667,
           "specs": {
             "engine_capacity": "1618cc",
             "power_kw": "210",
@@ -963,107 +986,14 @@
             "airbags": "8",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "N50"
         }
       ],
-      "price_from": 995100,
-      "price_to": 1020800,
-      "price_range": "R995 100 – R1 020 800",
+      "price_from": 1005100,
+      "price_to": 1031000,
+      "price_range": "R1 005 100 – R1 031 000",
       "body_type": "Hatchback",
-      "fuel_type": "Petrol",
-      "variant_count": 2
-    },
-    {
-      "slug": "gr-supra",
-      "name": "GR Supra",
-      "brand": "Toyota",
-      "brand_key": "toyota",
-      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/jellybean.png",
-      "source_url": "https://www.toyota.co.za/vehicles/gr-supra",
-      "images": [
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/jellybean.png",
-          "type": "Jellybean",
-          "priority": 1
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/exteriorfront-1.jpg",
-          "type": "ExteriorFront",
-          "priority": 2
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/exteriorrear-1.jpg",
-          "type": "ExteriorRear",
-          "priority": 3
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/interior-1.jpg",
-          "type": "Interior",
-          "priority": 4
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/lifestyle-1.jpg",
-          "type": "Lifestyle",
-          "priority": 5
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/toyota/gr-supra/lifestyle-2.jpg",
-          "type": "Lifestyle",
-          "priority": 5
-        }
-      ],
-      "variants": [
-        {
-          "name": "3.0T manual",
-          "slug": "3-0t-manual",
-          "price_incl": 1524800,
-          "price_excl": 1325913,
-          "price_display": "R1 524 800",
-          "monthly_estimate": 29415,
-          "specs": {
-            "engine_capacity": "2998cc",
-            "power_kw": "285",
-            "torque_nm": "500",
-            "fuel_type": "Petrol",
-            "transmission": "6-speed Manual",
-            "drivetrain": "RWD",
-            "body_type": "Coupe",
-            "fuel_consumption_l100km": "8.9",
-            "co2_gkm": "203",
-            "seats": "2",
-            "airbags": "7",
-            "warranty": "3 years / 100 000 km",
-            "service_plan": "6 services / 90 000 km"
-          }
-        },
-        {
-          "name": "3.0T auto",
-          "slug": "3-0t-auto",
-          "price_incl": 1561600,
-          "price_excl": 1357913,
-          "price_display": "R1 561 600",
-          "monthly_estimate": 30125,
-          "specs": {
-            "engine_capacity": "2998cc",
-            "power_kw": "250",
-            "torque_nm": "500",
-            "fuel_type": "Petrol",
-            "transmission": "8-speed Automatic",
-            "drivetrain": "RWD",
-            "body_type": "Coupe",
-            "fuel_consumption_l100km": "7.7",
-            "co2_gkm": "176",
-            "seats": "2",
-            "airbags": "7",
-            "warranty": "3 years / 100 000 km",
-            "service_plan": "6 services / 90 000 km"
-          }
-        }
-      ],
-      "price_from": 1524800,
-      "price_to": 1561600,
-      "price_range": "R1 524 800 – R1 561 600",
-      "body_type": "Coupe",
       "fuel_type": "Petrol",
       "variant_count": 2
     },
@@ -1118,7 +1048,7 @@
           "price_incl": 951600,
           "price_excl": 827478,
           "price_display": "R951 600",
-          "monthly_estimate": 18357,
+          "monthly_estimate": 16313,
           "specs": {
             "engine_capacity": "1618cc",
             "power_kw": "210",
@@ -1133,7 +1063,8 @@
             "airbags": "8",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "48X"
         },
         {
           "name": "GR Yaris 1.6T GR-Four Rally Auto (GR-DAT)",
@@ -1141,7 +1072,7 @@
           "price_incl": 981000,
           "price_excl": 853043,
           "price_display": "R981 000",
-          "monthly_estimate": 18925,
+          "monthly_estimate": 16814,
           "specs": {
             "engine_capacity": "1618cc",
             "power_kw": "210",
@@ -1156,7 +1087,8 @@
             "airbags": "8",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "48Y"
         }
       ],
       "price_from": 951600,
@@ -1217,7 +1149,7 @@
           "price_incl": 900700,
           "price_excl": 783217,
           "price_display": "R900 700",
-          "monthly_estimate": 17376,
+          "monthly_estimate": 15445,
           "specs": {
             "engine_capacity": "2387cc",
             "power_kw": "174",
@@ -1232,7 +1164,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "6 services / 6 years"
-          }
+          },
+          "mm_code": "85F"
         },
         {
           "name": "2.4 Auto",
@@ -1240,7 +1173,7 @@
           "price_incl": 927300,
           "price_excl": 806348,
           "price_display": "R927 300",
-          "monthly_estimate": 17889,
+          "monthly_estimate": 15899,
           "specs": {
             "engine_capacity": "2387cc",
             "power_kw": "174",
@@ -1255,7 +1188,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "6 services / 6 years"
-          }
+          },
+          "mm_code": "85G"
         }
       ],
       "price_from": 900700,
@@ -1281,58 +1215,30 @@
       ],
       "variants": [
         {
-          "name": "2.8 GD-6 panel van",
-          "slug": "2-8-gd-6-panel-van",
-          "price_incl": 755500,
-          "price_excl": 656957,
-          "price_display": "R755 500",
-          "monthly_estimate": 14574,
+          "name": "2.5D GL 14-Seater",
+          "slug": "2-5d-gl-14-seater",
+          "price_incl": 763100,
+          "price_excl": 663565,
+          "price_display": "R763 100",
+          "monthly_estimate": 13099,
           "specs": {
-            "engine_capacity": "2755 cc",
-            "power_kw": "115 kW",
-            "torque_nm": "420 Nm",
+            "engine_capacity": "2500cc",
             "fuel_type": "Diesel",
-            "transmission": "6-speed Manual",
+            "transmission": "Manual 5-speed",
             "drivetrain": "RWD",
-            "body_type": "Panel Van",
-            "fuel_consumption_l100km": "8.2",
-            "co2_gkm": "216",
-            "seats": "3",
-            "airbags": "2",
-            "warranty": "3 years / 100 000 km",
-            "service_plan": "9 services / 90 000 km"
-          }
-        },
-        {
-          "name": "2.8 GD-6 crew van",
-          "slug": "2-8-gd-6-crew-van",
-          "price_incl": 789900,
-          "price_excl": 686870,
-          "price_display": "R789 900",
-          "monthly_estimate": 15238,
-          "specs": {
-            "engine_capacity": "2755 cc",
-            "power_kw": "115 kW",
-            "torque_nm": "420 Nm",
-            "fuel_type": "Diesel",
-            "transmission": "6-speed Manual",
-            "drivetrain": "RWD",
-            "body_type": "Panel Van",
-            "fuel_consumption_l100km": "8.2",
-            "co2_gkm": "216",
-            "seats": "6",
-            "airbags": "2",
-            "warranty": "3 years / 100 000 km",
-            "service_plan": "9 services / 90 000 km"
-          }
+            "body_type": "Bus",
+            "seats": "14",
+            "warranty": "3 years / 100 000 km"
+          },
+          "mm_code": "55X"
         }
       ],
-      "price_from": 755500,
-      "price_to": 789900,
-      "price_range": "R755 500 – R789 900",
-      "body_type": "Panel Van",
+      "price_from": 763100,
+      "price_to": 763100,
+      "price_range": "R763 100",
+      "body_type": "Bus",
       "fuel_type": "Diesel",
-      "variant_count": 2
+      "variant_count": 1
     },
     {
       "slug": "hiace-sesfikile",
@@ -1397,8 +1303,8 @@
         }
       ],
       "price_from": 549300,
-      "price_to": 583600,
-      "price_range": "R549 300 – R583 600",
+      "price_to": 767112,
+      "price_range": "R549 300 – R767 112",
       "body_type": "Minibus",
       "fuel_type": "Petrol",
       "variant_count": 2
@@ -1454,7 +1360,7 @@
           "price_incl": 583500,
           "price_excl": 507391,
           "price_display": "R583 500",
-          "monthly_estimate": 11256,
+          "monthly_estimate": 10037,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1469,7 +1375,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7E"
         },
         {
           "name": "2.4GD-6 Double Cab Raider Manual",
@@ -1477,7 +1384,7 @@
           "price_incl": 624900,
           "price_excl": 543391,
           "price_display": "R624 900",
-          "monthly_estimate": 12055,
+          "monthly_estimate": 10743,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1492,15 +1399,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7A"
         },
         {
           "name": "2.8GD-6 Double Cab SRX Auto",
           "slug": "2-8gd-6-double-cab-srx-auto",
-          "price_incl": 658500,
-          "price_excl": 572609,
-          "price_display": "R658 500",
-          "monthly_estimate": 12703,
+          "price_incl": 752900,
+          "price_excl": 654696,
+          "price_display": "R752 900",
+          "monthly_estimate": 12925,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -1515,7 +1423,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1F"
         },
         {
           "name": "2.4GD-6 Double Cab 4x4 SR",
@@ -1523,7 +1432,7 @@
           "price_incl": 671100,
           "price_excl": 583565,
           "price_display": "R671 100",
-          "monthly_estimate": 12946,
+          "monthly_estimate": 11531,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1538,7 +1447,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7F"
         },
         {
           "name": "2.4GD-6 Double Cab 4x4 Raider Manual",
@@ -1546,7 +1456,7 @@
           "price_incl": 698500,
           "price_excl": 607391,
           "price_display": "R698 500",
-          "monthly_estimate": 13475,
+          "monthly_estimate": 11998,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1561,7 +1471,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7C"
         },
         {
           "name": "2.4GD-6 Double Cab 4x4 Raider Auto",
@@ -1569,7 +1480,7 @@
           "price_incl": 730700,
           "price_excl": 635391,
           "price_display": "R730 700",
-          "monthly_estimate": 14096,
+          "monthly_estimate": 12547,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1584,15 +1495,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A7D"
         },
         {
           "name": "2.8GD-6 Double Cab SRX 4x4 Auto",
           "slug": "2-8gd-6-double-cab-srx-4x4-auto",
-          "price_incl": 746100,
-          "price_excl": 648783,
-          "price_display": "R746 100",
-          "monthly_estimate": 14393,
+          "price_incl": 752900,
+          "price_excl": 654696,
+          "price_display": "R752 900",
+          "monthly_estimate": 12925,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -1607,7 +1519,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1F"
         },
         {
           "name": "2.8GD-6 Double Cab Raider 4x4 Auto",
@@ -1615,7 +1528,7 @@
           "price_incl": 892900,
           "price_excl": 776435,
           "price_display": "R892 900",
-          "monthly_estimate": 17225,
+          "monthly_estimate": 15312,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -1630,15 +1543,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1H"
         },
         {
           "name": "2.8GD-6 Double Cab Legend Auto",
           "slug": "2-8gd-6-double-cab-legend-auto",
-          "price_incl": 945500,
-          "price_excl": 822174,
-          "price_display": "R945 500",
-          "monthly_estimate": 18240,
+          "price_incl": 999900,
+          "price_excl": 869478,
+          "price_display": "R999 900",
+          "monthly_estimate": 17136,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -1653,7 +1567,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1K"
         },
         {
           "name": "2.8GD-6 Double Cab Legend 4x4 Auto",
@@ -1661,7 +1576,7 @@
           "price_incl": 999900,
           "price_excl": 869478,
           "price_display": "R999 900",
-          "monthly_estimate": 19289,
+          "monthly_estimate": 17136,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -1676,7 +1591,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1K"
         },
         {
           "name": "2.8GD-6 Double Cab 4x4 GR-Sport",
@@ -1726,8 +1642,8 @@
         }
       ],
       "price_from": 583500,
-      "price_to": 1018800,
-      "price_range": "R583 500 – R1 018 800",
+      "price_to": 999900,
+      "price_range": "R583 500 – R999 900",
       "body_type": "Double Cab",
       "fuel_type": "Diesel",
       "variant_count": 12
@@ -1783,7 +1699,7 @@
           "price_incl": 379700,
           "price_excl": 330174,
           "price_display": "R379 700",
-          "monthly_estimate": 7325,
+          "monthly_estimate": 6563,
           "specs": {
             "engine_capacity": "1998cc",
             "power_kw": "102",
@@ -1798,7 +1714,8 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 60 000 km"
-          }
+          },
+          "mm_code": "A6C"
         },
         {
           "name": "2.4 GD Single Cab Chassis Cab 5MT",
@@ -1829,7 +1746,7 @@
           "price_incl": 426300,
           "price_excl": 370696,
           "price_display": "R426 300",
-          "monthly_estimate": 8224,
+          "monthly_estimate": 7357,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1844,7 +1761,8 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 60 000 km"
-          }
+          },
+          "mm_code": "A6E"
         },
         {
           "name": "2.4 GD Single Cab Flat Deck 5MT",
@@ -1875,7 +1793,7 @@
           "price_incl": 513000,
           "price_excl": 446087,
           "price_display": "R513 000",
-          "monthly_estimate": 9896,
+          "monthly_estimate": 8835,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1890,7 +1808,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6K"
         },
         {
           "name": "2.4 GD-6 RB Raider Single Cab 6MT",
@@ -1898,7 +1817,7 @@
           "price_incl": 553800,
           "price_excl": 481565,
           "price_display": "R553 800",
-          "monthly_estimate": 10683,
+          "monthly_estimate": 9531,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1913,15 +1832,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6F"
         },
         {
           "name": "2.4 GD-6 Single Cab Chassis Cab 4x4 6MT",
           "slug": "2-4-gd-6-single-cab-chassis-cab-4x4-6mt",
-          "price_incl": 569200,
-          "price_excl": 494957,
-          "price_display": "R569 200",
-          "monthly_estimate": 10981,
+          "price_incl": 636300,
+          "price_excl": 553304,
+          "price_display": "R636 300",
+          "monthly_estimate": 10937,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1936,7 +1856,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6H"
         },
         {
           "name": "2.4 GD-6 SR Single Cab 4x4 6MT",
@@ -1944,7 +1865,7 @@
           "price_incl": 589600,
           "price_excl": 512696,
           "price_display": "R589 600",
-          "monthly_estimate": 11374,
+          "monthly_estimate": 10141,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1959,15 +1880,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6L"
         },
         {
           "name": "2.4 GD-6 Single Cab Flat Deck 4x4 6MT",
           "slug": "2-4-gd-6-single-cab-flat-deck-4x4-6mt",
-          "price_incl": 607600,
-          "price_excl": 528348,
-          "price_display": "R607 600",
-          "monthly_estimate": 11721,
+          "price_incl": 636300,
+          "price_excl": 553304,
+          "price_display": "R636 300",
+          "monthly_estimate": 10937,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -1982,7 +1904,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6H"
         },
         {
           "name": "2.4 GD-6 Raider Single Cab 4x4 6MT",
@@ -1990,7 +1913,7 @@
           "price_incl": 636300,
           "price_excl": 553304,
           "price_display": "R636 300",
-          "monthly_estimate": 12275,
+          "monthly_estimate": 10937,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -2005,12 +1928,13 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6H"
         }
       ],
       "price_from": 379700,
-      "price_to": 636300,
-      "price_range": "R379 700 – R636 300",
+      "price_to": 663800,
+      "price_range": "R379 700 – R663 800",
       "body_type": "Single Cab",
       "fuel_type": "Petrol",
       "variant_count": 10
@@ -2063,10 +1987,10 @@
         {
           "name": "2.4 GD-6 RB SR Xtra Cab 6MT",
           "slug": "2-4-gd-6-rb-sr-xtra-cab-6mt",
-          "price_incl": 545200,
-          "price_excl": 474087,
-          "price_display": "R545 200",
-          "monthly_estimate": 10518,
+          "price_incl": 574500,
+          "price_excl": 499565,
+          "price_display": "R574 500",
+          "monthly_estimate": 9884,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -2081,7 +2005,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6P"
         },
         {
           "name": "2.4 GD-6 RB Raider Xtra Cab 6AT",
@@ -2089,7 +2014,7 @@
           "price_incl": 574500,
           "price_excl": 499565,
           "price_display": "R574 500",
-          "monthly_estimate": 11083,
+          "monthly_estimate": 9884,
           "specs": {
             "engine_capacity": "2393cc",
             "power_kw": "110",
@@ -2104,15 +2029,16 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "A6P"
         },
         {
           "name": "2.8 GD-6 Xtra Cab Raider X 6AT 4x2",
           "slug": "2-8-gd-6-xtra-cab-raider-x-6at-4x2",
-          "price_incl": 751800,
-          "price_excl": 653739,
-          "price_display": "R751 800",
-          "monthly_estimate": 14503,
+          "price_incl": 842200,
+          "price_excl": 732348,
+          "price_display": "R842 200",
+          "monthly_estimate": 14448,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2127,7 +2053,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1D"
         },
         {
           "name": "2.8 GD-6 Xtra Cab Raider X 6AT 4x4",
@@ -2135,7 +2062,7 @@
           "price_incl": 842200,
           "price_excl": 732348,
           "price_display": "R842 200",
-          "monthly_estimate": 16247,
+          "monthly_estimate": 14448,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2150,12 +2077,13 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "B1D"
         }
       ],
-      "price_from": 545200,
+      "price_from": 574500,
       "price_to": 842200,
-      "price_range": "R545 200 – R842 200",
+      "price_range": "R574 500 – R842 200",
       "body_type": "Xtra Cab",
       "fuel_type": "Diesel",
       "variant_count": 4
@@ -2208,10 +2136,10 @@
         {
           "name": "3.3D GX-R",
           "slug": "3-3d-gx-r",
-          "price_incl": 1581000,
-          "price_excl": 1374783,
-          "price_display": "R1 581 000",
-          "monthly_estimate": 30499,
+          "price_incl": 1596800,
+          "price_excl": 1388522,
+          "price_display": "R1 596 800",
+          "monthly_estimate": 27313,
           "specs": {
             "engine_capacity": "3346cc",
             "power_kw": "227 kW",
@@ -2226,15 +2154,16 @@
             "airbags": "10",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "73X"
         },
         {
           "name": "3.3D ZX",
           "slug": "3-3d-zx",
-          "price_incl": 2129100,
-          "price_excl": 1851391,
-          "price_display": "R2 129 100",
-          "monthly_estimate": 41073,
+          "price_incl": 2150400,
+          "price_excl": 1869913,
+          "price_display": "R2 150 400",
+          "monthly_estimate": 36751,
           "specs": {
             "engine_capacity": "3346cc",
             "power_kw": "227 kW",
@@ -2249,15 +2178,16 @@
             "airbags": "10",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "94B"
         },
         {
           "name": "3.5T ZX",
           "slug": "3-5t-zx",
-          "price_incl": 2169600,
-          "price_excl": 1886609,
-          "price_display": "R2 169 600",
-          "monthly_estimate": 41854,
+          "price_incl": 2191300,
+          "price_excl": 1905478,
+          "price_display": "R2 191 300",
+          "monthly_estimate": 37449,
           "specs": {
             "engine_capacity": "3445cc",
             "power_kw": "305 kW",
@@ -2272,15 +2202,16 @@
             "airbags": "10",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "94C"
         },
         {
           "name": "3.3D GR-Sport",
           "slug": "3-3d-gr-sport",
-          "price_incl": 2188200,
-          "price_excl": 1902783,
-          "price_display": "R2 188 200",
-          "monthly_estimate": 42213,
+          "price_incl": 2210100,
+          "price_excl": 1921826,
+          "price_display": "R2 210 100",
+          "monthly_estimate": 37769,
           "specs": {
             "engine_capacity": "3346cc",
             "power_kw": "227 kW",
@@ -2295,15 +2226,16 @@
             "airbags": "10",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "94D"
         },
         {
           "name": "3.5T GR-Sport",
           "slug": "3-5t-gr-sport",
-          "price_incl": 2225200,
-          "price_excl": 1934957,
-          "price_display": "R2 225 200",
-          "monthly_estimate": 42927,
+          "price_incl": 2247500,
+          "price_excl": 1954348,
+          "price_display": "R2 247 500",
+          "monthly_estimate": 38407,
           "specs": {
             "engine_capacity": "3445cc",
             "power_kw": "305 kW",
@@ -2318,12 +2250,13 @@
             "airbags": "10",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "94F"
         }
       ],
-      "price_from": 1581000,
-      "price_to": 2225200,
-      "price_range": "R1 581 000 – R2 225 200",
+      "price_from": 1596800,
+      "price_to": 2343800,
+      "price_range": "R1 596 800 – R2 343 800",
       "body_type": "SUV",
       "fuel_type": "Diesel",
       "variant_count": 5
@@ -2346,10 +2279,10 @@
         {
           "name": "2.8GD-6 station wagon LX manual",
           "slug": "2-8gd-6-station-wagon-lx-manual",
-          "price_incl": 1065300,
-          "price_excl": 926348,
-          "price_display": "R1 065 300",
-          "monthly_estimate": 20551,
+          "price_incl": 1076000,
+          "price_excl": 935652,
+          "price_display": "R1 076 000",
+          "monthly_estimate": 18434,
           "specs": {
             "engine_capacity": "2.8L Turbodiesel",
             "power_kw": "150",
@@ -2364,15 +2297,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "70J"
         },
         {
           "name": "2.8GD-6 station wagon LX auto",
           "slug": "2-8gd-6-station-wagon-lx-auto",
-          "price_incl": 1098400,
-          "price_excl": 955130,
-          "price_display": "R1 098 400",
-          "monthly_estimate": 21189,
+          "price_incl": 1109400,
+          "price_excl": 964696,
+          "price_display": "R1 109 400",
+          "monthly_estimate": 19003,
           "specs": {
             "engine_capacity": "2.8L Turbodiesel",
             "power_kw": "150",
@@ -2387,15 +2321,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "70I"
         },
         {
           "name": "2.8GD-6 station wagon VX",
           "slug": "2-8gd-6-station-wagon-vx",
-          "price_incl": 1199000,
-          "price_excl": 1042609,
-          "price_display": "R1 199 000",
-          "monthly_estimate": 23130,
+          "price_incl": 1211000,
+          "price_excl": 1053043,
+          "price_display": "R1 211 000",
+          "monthly_estimate": 20735,
           "specs": {
             "engine_capacity": "2.8L Turbodiesel",
             "power_kw": "150",
@@ -2410,12 +2345,13 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "70K"
         }
       ],
-      "price_from": 1065300,
-      "price_to": 1199000,
-      "price_range": "R1 065 300 – R1 199 000",
+      "price_from": 998700,
+      "price_to": 1211000,
+      "price_range": "R998 700 – R1 211 000",
       "body_type": "Wagon",
       "fuel_type": "Diesel",
       "variant_count": 3
@@ -2438,10 +2374,10 @@
         {
           "name": "4.0 V6 Single Cab 5MT",
           "slug": "4-0-v6-single-cab-5mt",
-          "price_incl": 840900,
-          "price_excl": 731217,
-          "price_display": "R840 900",
-          "monthly_estimate": 16222,
+          "price_incl": 849300,
+          "price_excl": 738522,
+          "price_display": "R849 300",
+          "monthly_estimate": 14569,
           "specs": {
             "engine_capacity": "3956cc",
             "power_kw": "170",
@@ -2456,15 +2392,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "71R"
         },
         {
           "name": "2.8 GD-6 Single Cab 6MT",
           "slug": "2-8-gd-6-single-cab-6mt",
-          "price_incl": 974300,
-          "price_excl": 847217,
-          "price_display": "R974 300",
-          "monthly_estimate": 18795,
+          "price_incl": 984000,
+          "price_excl": 855652,
+          "price_display": "R984 000",
+          "monthly_estimate": 16865,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2479,15 +2416,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "71U"
         },
         {
           "name": "2.8 GD-6 Single Cab 6AT",
           "slug": "2-8-gd-6-single-cab-6at",
-          "price_incl": 1007600,
-          "price_excl": 876174,
-          "price_display": "R1 007 600",
-          "monthly_estimate": 19438,
+          "price_incl": 1017700,
+          "price_excl": 884957,
+          "price_display": "R1 017 700",
+          "monthly_estimate": 17440,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2502,15 +2440,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "71T"
         },
         {
           "name": "4.0 V6 Double Cab 5MT",
           "slug": "4-0-v6-double-cab-5mt",
-          "price_incl": 949800,
-          "price_excl": 825913,
-          "price_display": "R949 800",
-          "monthly_estimate": 18323,
+          "price_incl": 959300,
+          "price_excl": 834174,
+          "price_display": "R959 300",
+          "monthly_estimate": 16444,
           "specs": {
             "engine_capacity": "3956cc",
             "power_kw": "170",
@@ -2525,15 +2464,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "71V"
         },
         {
           "name": "2.8 GD-6 Double Cab 6MT",
           "slug": "2-8-gd-6-double-cab-6mt",
-          "price_incl": 1078000,
-          "price_excl": 937391,
-          "price_display": "R1 078 000",
-          "monthly_estimate": 20796,
+          "price_incl": 1088800,
+          "price_excl": 946783,
+          "price_display": "R1 088 800",
+          "monthly_estimate": 18652,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2548,15 +2488,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "71Y"
         },
         {
           "name": "2.8 GD-6 Double Cab 6AT",
           "slug": "2-8-gd-6-double-cab-6at",
-          "price_incl": 1108400,
-          "price_excl": 963826,
-          "price_display": "R1 108 400",
-          "monthly_estimate": 21382,
+          "price_incl": 1119500,
+          "price_excl": 973478,
+          "price_display": "R1 119 500",
+          "monthly_estimate": 19175,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2571,12 +2512,13 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "71X"
         }
       ],
-      "price_from": 840900,
-      "price_to": 1108400,
-      "price_range": "R840 900 – R1 108 400",
+      "price_from": 849300,
+      "price_to": 1119500,
+      "price_range": "R849 300 – R1 119 500",
       "body_type": "Single Cab",
       "fuel_type": "Petrol",
       "variant_count": 6
@@ -2694,10 +2636,10 @@
         {
           "name": "2.8GD TX",
           "slug": "2-8gd-tx",
-          "price_incl": 1355600,
-          "price_excl": 1178783,
-          "price_display": "R1 355 600",
-          "monthly_estimate": 26151,
+          "price_incl": 1369200,
+          "price_excl": 1190609,
+          "price_display": "R1 369 200",
+          "monthly_estimate": 23433,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2712,15 +2654,16 @@
             "airbags": "9",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "27T"
         },
         {
           "name": "2.8GD VX-R",
           "slug": "2-8gd-vx-r",
-          "price_incl": 1515200,
-          "price_excl": 1317565,
-          "price_display": "R1 515 200",
-          "monthly_estimate": 29230,
+          "price_incl": 1530400,
+          "price_excl": 1330783,
+          "price_display": "R1 530 400",
+          "monthly_estimate": 26181,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2735,15 +2678,16 @@
             "airbags": "9",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "27U"
         },
         {
           "name": "2.8GD VX-L",
           "slug": "2-8gd-vx-l",
-          "price_incl": 1528400,
-          "price_excl": 1329043,
-          "price_display": "R1 528 400",
-          "monthly_estimate": 29485,
+          "price_incl": 1543700,
+          "price_excl": 1342348,
+          "price_display": "R1 543 700",
+          "monthly_estimate": 26408,
           "specs": {
             "engine_capacity": "2755cc",
             "power_kw": "150",
@@ -2758,12 +2702,13 @@
             "airbags": "9",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "27W"
         }
       ],
-      "price_from": 1355600,
-      "price_to": 1528400,
-      "price_range": "R1 355 600 – R1 528 400",
+      "price_from": 1369200,
+      "price_to": 1543700,
+      "price_range": "R1 369 200 – R1 543 700",
       "body_type": "SUV",
       "fuel_type": "Diesel",
       "variant_count": 3
@@ -2816,10 +2761,10 @@
         {
           "name": "2.8 LWB bus 11-seater GL",
           "slug": "2-8-lwb-bus-11-seater-gl",
-          "price_incl": 854200,
-          "price_excl": 742783,
-          "price_display": "R854 200",
-          "monthly_estimate": 16479,
+          "price_incl": 862700,
+          "price_excl": 750174,
+          "price_display": "R862 700",
+          "monthly_estimate": 14797,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "130 kW",
@@ -2834,15 +2779,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "MC5"
         },
         {
           "name": "2.8 SLWB bus 14-seater GL Manual",
           "slug": "2-8-slwb-bus-14-seater-gl-manual",
-          "price_incl": 873400,
-          "price_excl": 759478,
-          "price_display": "R873 400",
-          "monthly_estimate": 16849,
+          "price_incl": 882100,
+          "price_excl": 767043,
+          "price_display": "R882 100",
+          "monthly_estimate": 15128,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "130 kW",
@@ -2857,15 +2803,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "MA5"
         },
         {
           "name": "2.8 SLWB bus 14-seater GL Auto",
           "slug": "2-8-slwb-bus-14-seater-gl-auto",
-          "price_incl": 893700,
-          "price_excl": 777130,
-          "price_display": "R893 700",
-          "monthly_estimate": 17241,
+          "price_incl": 902600,
+          "price_excl": 784870,
+          "price_display": "R902 600",
+          "monthly_estimate": 15478,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "115 kW",
@@ -2880,15 +2827,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "MB5"
         },
         {
           "name": "2.8 LWB bus 9-seater VX Premium Auto",
           "slug": "2-8-lwb-bus-9-seater-vx-premium-auto",
-          "price_incl": 1269700,
-          "price_excl": 1104087,
-          "price_display": "R1 269 700",
-          "monthly_estimate": 24494,
+          "price_incl": 1282400,
+          "price_excl": 1115130,
+          "price_display": "R1 282 400",
+          "monthly_estimate": 24739,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "115 kW",
@@ -2906,9 +2854,9 @@
           }
         }
       ],
-      "price_from": 854200,
-      "price_to": 1269700,
-      "price_range": "R854 200 – R1 269 700",
+      "price_from": 862700,
+      "price_to": 1282400,
+      "price_range": "R862 700 – R1 282 400",
       "body_type": "Bus",
       "fuel_type": "Diesel",
       "variant_count": 4
@@ -2964,7 +2912,7 @@
           "price_incl": 754400,
           "price_excl": 656000,
           "price_display": "R754 400",
-          "monthly_estimate": 14553,
+          "monthly_estimate": 12951,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "115 kW",
@@ -2979,7 +2927,8 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "MF7"
         },
         {
           "name": "2.8 LWB crew cab Auto",
@@ -2987,7 +2936,7 @@
           "price_incl": 767600,
           "price_excl": 667478,
           "price_display": "R767 600",
-          "monthly_estimate": 14808,
+          "monthly_estimate": 13176,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "115 kW",
@@ -3002,7 +2951,8 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "MH7"
         },
         {
           "name": "2.8 SLWB panel van Manual",
@@ -3010,7 +2960,7 @@
           "price_incl": 793500,
           "price_excl": 690000,
           "price_display": "R793 500",
-          "monthly_estimate": 15308,
+          "monthly_estimate": 13617,
           "specs": {
             "engine_capacity": "2755 cc",
             "power_kw": "130 kW",
@@ -3025,7 +2975,8 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "9 services / 90 000 km"
-          }
+          },
+          "mm_code": "MG6"
         }
       ],
       "price_from": 754400,
@@ -3086,7 +3037,7 @@
           "price_incl": 770500,
           "price_excl": 670000,
           "price_display": "R770 500",
-          "monthly_estimate": 14864,
+          "monthly_estimate": 13225,
           "specs": {
             "engine_capacity": "2487cc",
             "power_kw": "176",
@@ -3101,7 +3052,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "58B"
         },
         {
           "name": "2.0 VX",
@@ -3109,7 +3061,7 @@
           "price_incl": 799900,
           "price_excl": 695565,
           "price_display": "R799 900",
-          "monthly_estimate": 15431,
+          "monthly_estimate": 13727,
           "specs": {
             "engine_capacity": "1987cc",
             "power_kw": "127",
@@ -3124,7 +3076,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "58C"
         },
         {
           "name": "2.5 HEV VX E-Four",
@@ -3132,7 +3085,7 @@
           "price_incl": 927800,
           "price_excl": 806783,
           "price_display": "R927 800",
-          "monthly_estimate": 17898,
+          "monthly_estimate": 15907,
           "specs": {
             "engine_capacity": "2487cc",
             "power_kw": "176",
@@ -3147,7 +3100,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "58D"
         },
         {
           "name": "2.5 HEV GR-Sport E-Four",
@@ -3155,7 +3109,7 @@
           "price_incl": 941800,
           "price_excl": 818957,
           "price_display": "R941 800",
-          "monthly_estimate": 18168,
+          "monthly_estimate": 16146,
           "specs": {
             "engine_capacity": "2487cc",
             "power_kw": "176",
@@ -3170,7 +3124,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "58E"
         },
         {
           "name": "2.5 PHEV GR-Sport E-Four",
@@ -3178,7 +3133,7 @@
           "price_incl": 1043900,
           "price_excl": 907739,
           "price_display": "R1 043 900",
-          "monthly_estimate": 20138,
+          "monthly_estimate": 17887,
           "specs": {
             "engine_capacity": "2487cc",
             "power_kw": "225",
@@ -3193,7 +3148,8 @@
             "airbags": "7",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "58F"
         }
       ],
       "price_from": 770500,
@@ -3251,10 +3207,10 @@
         {
           "name": "1.5 S",
           "slug": "1-5-s",
-          "price_incl": 311000,
-          "price_excl": 270435,
-          "price_display": "R311 000",
-          "monthly_estimate": 6000,
+          "price_incl": 314100,
+          "price_excl": 273130,
+          "price_display": "R314 100",
+          "monthly_estimate": 5444,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77kW",
@@ -3269,15 +3225,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "0E5"
         },
         {
           "name": "1.5 SX manual",
           "slug": "1-5-sx-manual",
-          "price_incl": 357300,
-          "price_excl": 310696,
-          "price_display": "R357 300",
-          "monthly_estimate": 6893,
+          "price_incl": 360900,
+          "price_excl": 313826,
+          "price_display": "R360 900",
+          "monthly_estimate": 6242,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77kW",
@@ -3292,15 +3249,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "0G5"
         },
         {
           "name": "1.5 SX auto",
           "slug": "1-5-sx-auto",
-          "price_incl": 377100,
-          "price_excl": 327913,
-          "price_display": "R377 100",
-          "monthly_estimate": 7275,
+          "price_incl": 380900,
+          "price_excl": 331217,
+          "price_display": "R380 900",
+          "monthly_estimate": 6583,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77kW",
@@ -3315,15 +3273,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "0H5"
         },
         {
           "name": "1.5 TX manual",
           "slug": "1-5-tx-manual",
-          "price_incl": 386800,
-          "price_excl": 336348,
-          "price_display": "R386 800",
-          "monthly_estimate": 7462,
+          "price_incl": 390700,
+          "price_excl": 339739,
+          "price_display": "R390 700",
+          "monthly_estimate": 6750,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77kW",
@@ -3338,15 +3297,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "0J5"
         },
         {
           "name": "1.5 TX auto",
           "slug": "1-5-tx-auto",
-          "price_incl": 407600,
-          "price_excl": 354435,
-          "price_display": "R407 600",
-          "monthly_estimate": 7863,
+          "price_incl": 411700,
+          "price_excl": 358000,
+          "price_display": "R411 700",
+          "monthly_estimate": 7108,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77kW",
@@ -3361,12 +3321,13 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "3 services / 45 000 km"
-          }
+          },
+          "mm_code": "0K5"
         }
       ],
-      "price_from": 311000,
-      "price_to": 407600,
-      "price_range": "R311 000 – R407 600",
+      "price_from": 314100,
+      "price_to": 411700,
+      "price_range": "R314 100 – R411 700",
       "body_type": "MPV",
       "fuel_type": "Petrol",
       "variant_count": 5
@@ -3419,10 +3380,10 @@
         {
           "name": "1.5 Xi",
           "slug": "1-5-xi",
-          "price_incl": 271000,
-          "price_excl": 235652,
-          "price_display": "R271 000",
-          "monthly_estimate": 5228,
+          "price_incl": 273700,
+          "price_excl": 238000,
+          "price_display": "R273 700",
+          "monthly_estimate": 4755,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77",
@@ -3437,15 +3398,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75L"
         },
         {
           "name": "1.5 XS manual",
           "slug": "1-5-xs-manual",
-          "price_incl": 278700,
-          "price_excl": 242348,
-          "price_display": "R278 700",
-          "monthly_estimate": 5376,
+          "price_incl": 281500,
+          "price_excl": 244783,
+          "price_display": "R281 500",
+          "monthly_estimate": 4888,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77",
@@ -3460,15 +3422,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75Q"
         },
         {
           "name": "1.5 XS auto",
           "slug": "1-5-xs-auto",
-          "price_incl": 300900,
-          "price_excl": 261652,
-          "price_display": "R300 900",
-          "monthly_estimate": 5805,
+          "price_incl": 303900,
+          "price_excl": 264261,
+          "price_display": "R303 900",
+          "monthly_estimate": 5270,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77",
@@ -3483,15 +3446,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75R"
         },
         {
           "name": "1.5 XR manual",
           "slug": "1-5-xr-manual",
-          "price_incl": 310700,
-          "price_excl": 270174,
-          "price_display": "R310 700",
-          "monthly_estimate": 5994,
+          "price_incl": 313800,
+          "price_excl": 272870,
+          "price_display": "R313 800",
+          "monthly_estimate": 5439,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77",
@@ -3506,15 +3470,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75U"
         },
         {
           "name": "1.5 XR auto",
           "slug": "1-5-xr-auto",
-          "price_incl": 330900,
-          "price_excl": 287739,
-          "price_display": "R330 900",
-          "monthly_estimate": 6383,
+          "price_incl": 334200,
+          "price_excl": 290609,
+          "price_display": "R334 200",
+          "monthly_estimate": 5787,
           "specs": {
             "engine_capacity": "1462cc",
             "power_kw": "77",
@@ -3529,12 +3494,13 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75V"
         }
       ],
-      "price_from": 271000,
-      "price_to": 330900,
-      "price_range": "R271 000 – R330 900",
+      "price_from": 273700,
+      "price_to": 334200,
+      "price_range": "R273 700 – R334 200",
       "body_type": "Hatchback",
       "fuel_type": "Petrol",
       "variant_count": 5
@@ -3557,10 +3523,10 @@
         {
           "name": "1.5 XS",
           "slug": "1-5-xs",
-          "price_incl": 307900,
-          "price_excl": 267739,
-          "price_display": "R307 900",
-          "monthly_estimate": 5940,
+          "price_incl": 346300,
+          "price_excl": 301130,
+          "price_display": "R346 300",
+          "monthly_estimate": 5993,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3574,15 +3540,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75T"
         },
         {
           "name": "1.5 XS Auto",
           "slug": "1-5-xs-auto",
-          "price_incl": 342900,
-          "price_excl": 298174,
-          "price_display": "R342 900",
-          "monthly_estimate": 6615,
+          "price_incl": 346300,
+          "price_excl": 301130,
+          "price_display": "R346 300",
+          "monthly_estimate": 5993,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3596,15 +3563,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75T"
         },
         {
           "name": "1.5 XR",
           "slug": "1-5-xr",
-          "price_incl": 362800,
-          "price_excl": 315478,
-          "price_display": "R362 800",
-          "monthly_estimate": 6999,
+          "price_incl": 387600,
+          "price_excl": 337043,
+          "price_display": "R387 600",
+          "monthly_estimate": 6697,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3618,15 +3586,16 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75P"
         },
         {
           "name": "1.5 XR Auto",
           "slug": "1-5-xr-auto",
-          "price_incl": 383800,
-          "price_excl": 333739,
-          "price_display": "R383 800",
-          "monthly_estimate": 7404,
+          "price_incl": 387600,
+          "price_excl": 337043,
+          "price_display": "R387 600",
+          "monthly_estimate": 6697,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3640,12 +3609,13 @@
             "airbags": "6",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 services / 60 000 km"
-          }
+          },
+          "mm_code": "75P"
         }
       ],
-      "price_from": 307900,
-      "price_to": 383800,
-      "price_range": "R307 900 – R383 800",
+      "price_from": 311000,
+      "price_to": 387600,
+      "price_range": "R311 000 – R387 600",
       "body_type": "SUV",
       "fuel_type": "Petrol",
       "variant_count": 4
@@ -3671,7 +3641,7 @@
           "price_incl": 342700,
           "price_excl": 298000,
           "price_display": "R342 700",
-          "monthly_estimate": 6611,
+          "monthly_estimate": 5932,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3684,15 +3654,16 @@
             "seats": "5",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 years / 60 000 km"
-          }
+          },
+          "mm_code": "54L"
         },
         {
           "name": "1.5 XR",
           "slug": "1-5-xr",
-          "price_incl": 360200,
-          "price_excl": 313217,
-          "price_display": "R360 200",
-          "monthly_estimate": 6949,
+          "price_incl": 373800,
+          "price_excl": 325043,
+          "price_display": "R373 800",
+          "monthly_estimate": 6462,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3705,7 +3676,8 @@
             "seats": "5",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 years / 60 000 km"
-          }
+          },
+          "mm_code": "54N"
         },
         {
           "name": "1.5 XR Auto",
@@ -3713,7 +3685,7 @@
           "price_incl": 373800,
           "price_excl": 325043,
           "price_display": "R373 800",
-          "monthly_estimate": 7211,
+          "monthly_estimate": 6462,
           "specs": {
             "engine_capacity": "1.5L",
             "power_kw": "77",
@@ -3726,7 +3698,8 @@
             "seats": "5",
             "warranty": "3 years / 100 000 km",
             "service_plan": "4 years / 60 000 km"
-          }
+          },
+          "mm_code": "54N"
         }
       ],
       "price_from": 342700,
@@ -3784,10 +3757,10 @@
         {
           "name": "1.0",
           "slug": "1-0",
-          "price_incl": 180600,
-          "price_excl": 157043,
-          "price_display": "R180 600",
-          "monthly_estimate": 3484,
+          "price_incl": 182400,
+          "price_excl": 158609,
+          "price_display": "R182 400",
+          "monthly_estimate": 3199,
           "specs": {
             "engine_capacity": "996cc",
             "power_kw": "49",
@@ -3802,15 +3775,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "2 years / 30 000 km"
-          }
+          },
+          "mm_code": "52U"
         },
         {
           "name": "1.0 XR Manual",
           "slug": "1-0-xr-manual",
-          "price_incl": 212000,
-          "price_excl": 184348,
-          "price_display": "R212 000",
-          "monthly_estimate": 4090,
+          "price_incl": 214100,
+          "price_excl": 186174,
+          "price_display": "R214 100",
+          "monthly_estimate": 3739,
           "specs": {
             "engine_capacity": "996cc",
             "power_kw": "49",
@@ -3825,15 +3799,16 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "2 years / 30 000 km"
-          }
+          },
+          "mm_code": "52V"
         },
         {
           "name": "1.0 XR Auto",
           "slug": "1-0-xr-auto",
-          "price_incl": 227100,
-          "price_excl": 197478,
-          "price_display": "R227 100",
-          "monthly_estimate": 4381,
+          "price_incl": 214100,
+          "price_excl": 186174,
+          "price_display": "R214 100",
+          "monthly_estimate": 3739,
           "specs": {
             "engine_capacity": "996cc",
             "power_kw": "49",
@@ -3848,19 +3823,20 @@
             "airbags": "2",
             "warranty": "3 years / 100 000 km",
             "service_plan": "2 years / 30 000 km"
-          }
+          },
+          "mm_code": "52V"
         }
       ],
-      "price_from": 180600,
-      "price_to": 227100,
-      "price_range": "R180 600 – R227 100",
+      "price_from": 182400,
+      "price_to": 229400,
+      "price_range": "R182 400 – R229 400",
       "body_type": "Hatchback",
       "fuel_type": "Petrol",
       "variant_count": 3
     }
   ],
-  "total_variants": 116,
-  "model_count": 28,
-  "price_from": 180600,
-  "price_to": 2225200
+  "total_variants": 113,
+  "model_count": 27,
+  "price_from": 182400,
+  "price_to": 2343800
 }
