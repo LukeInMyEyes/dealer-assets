@@ -1,1 +1,20 @@
 .DS_Store
+
+# This repo is PUBLIC and served over jsDelivr.
+# Anything committed here is world-readable immediately and stays in the
+# git history even after deletion. Keep it to vehicle imagery only.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+auth.json
+credentials*.json
+service-account*.json
+*secret*
+*.sqlite
+*.db
+*.csv
+*.xlsx
+node_modules/
