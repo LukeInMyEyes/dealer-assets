@@ -1,8 +1,590 @@
 {
   "key": "jac",
   "name": "JAC",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
+    {
+      "slug": "jacmotors_co_za_jac-t6-single-cab",
+      "name": "Jacmotors_Co_Za_Jac T6 Single Cab",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+      "source_url": "https://jacmotors.co.za/jac-t6-single-cab/",
+      "images": [
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/13-300x200.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "JAC T6 2.0 CTI Comfort",
+          "slug": "jac-t6-2-0-cti-comfort",
+          "price_incl": 309900,
+          "price_excl": 269478,
+          "price_display": "R309 900",
+          "monthly_estimate": 5978,
+          "specs": {}
+        },
+        {
+          "name": "JAC T6 2.0 CTI Comfort",
+          "slug": "jac-t6-2-0-cti-comfort",
+          "price_incl": 309900,
+          "price_excl": 269478,
+          "price_display": "R309 900",
+          "monthly_estimate": 5978,
+          "specs": {}
+        },
+        {
+          "name": "JAC T6 2.0 CTI Comfort",
+          "slug": "jac-t6-2-0-cti-comfort",
+          "price_incl": 309900,
+          "price_excl": 269478,
+          "price_display": "R309 900",
+          "monthly_estimate": 5978,
+          "specs": {}
+        },
+        {
+          "name": "JAC T6 2.0 CTI Lux",
+          "slug": "jac-t6-2-0-cti-lux",
+          "price_incl": 324900,
+          "price_excl": 282522,
+          "price_display": "R324 900",
+          "monthly_estimate": 6268,
+          "specs": {}
+        },
+        {
+          "name": "JAC T6 2.0 CTI Lux",
+          "slug": "jac-t6-2-0-cti-lux",
+          "price_incl": 324900,
+          "price_excl": 282522,
+          "price_display": "R324 900",
+          "monthly_estimate": 6268,
+          "specs": {}
+        }
+      ],
+      "price_from": 309900,
+      "price_to": 324900,
+      "price_range": "R309 900 – R324 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 5
+    },
+    {
+      "slug": "jacmotors_co_za_jac-t8-double-cab",
+      "name": "Jacmotors_Co_Za_Jac T8 Double Cab",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/08/JAC-T8-Super-Lux.png",
+      "source_url": "https://jacmotors.co.za/jac-t8-double-cab/",
+      "images": [
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/08/JAC-T8-Super-Lux.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/6-1-300x200.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "JAC T8 2.0L CTi Comfort",
+          "slug": "jac-t8-2-0l-cti-comfort",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        },
+        {
+          "name": "JAC T8 2.0L CTi Comfort",
+          "slug": "jac-t8-2-0l-cti-comfort",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        },
+        {
+          "name": "JAC T8 2.0L CTi Comfort",
+          "slug": "jac-t8-2-0l-cti-comfort",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        },
+        {
+          "name": "JAC T8 2.0L CTi Lux",
+          "slug": "jac-t8-2-0l-cti-lux",
+          "price_incl": 399900,
+          "price_excl": 347739,
+          "price_display": "R399 900",
+          "monthly_estimate": 7715,
+          "specs": {}
+        },
+        {
+          "name": "JAC T8 2.0L CTi Lux",
+          "slug": "jac-t8-2-0l-cti-lux",
+          "price_incl": 399900,
+          "price_excl": 347739,
+          "price_display": "R399 900",
+          "monthly_estimate": 7715,
+          "specs": {}
+        },
+        {
+          "name": "JAC T8 2.0L CTi Super Lux",
+          "slug": "jac-t8-2-0l-cti-super-lux",
+          "price_incl": 434900,
+          "price_excl": 378174,
+          "price_display": "R434 900",
+          "monthly_estimate": 8390,
+          "specs": {}
+        },
+        {
+          "name": "JAC T8 2.0L CTi Super Lux",
+          "slug": "jac-t8-2-0l-cti-super-lux",
+          "price_incl": 434900,
+          "price_excl": 378174,
+          "price_display": "R434 900",
+          "monthly_estimate": 8390,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 434900,
+      "price_range": "R349 900 – R434 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 7
+    },
+    {
+      "slug": "jacmotors_co_za_jac-t9-double-cab",
+      "name": "Jacmotors_Co_Za_Jac T9 Double Cab",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+      "source_url": "https://jacmotors.co.za/jac-t9-double-cab/",
+      "images": [
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-T9-Colour-Blue-1024x666.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/T9-page-3.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/JAC-T9-Double-Cab-34-300x200.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "JAC T9 2.0L CTi Lux",
+          "slug": "jac-t9-2-0l-cti-lux",
+          "price_incl": 549900,
+          "price_excl": 478174,
+          "price_display": "R549 900",
+          "monthly_estimate": 10608,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 2.0L CTi Lux",
+          "slug": "jac-t9-2-0l-cti-lux",
+          "price_incl": 549900,
+          "price_excl": 478174,
+          "price_display": "R549 900",
+          "monthly_estimate": 10608,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 2.0L CTi Lux",
+          "slug": "jac-t9-2-0l-cti-lux",
+          "price_incl": 549900,
+          "price_excl": 478174,
+          "price_display": "R549 900",
+          "monthly_estimate": 10608,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 2.0L CTi Super Lux",
+          "slug": "jac-t9-2-0l-cti-super-lux",
+          "price_incl": 599900,
+          "price_excl": 521652,
+          "price_display": "R599 900",
+          "monthly_estimate": 11573,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 2.0L CTi Super Lux",
+          "slug": "jac-t9-2-0l-cti-super-lux",
+          "price_incl": 599900,
+          "price_excl": 521652,
+          "price_display": "R599 900",
+          "monthly_estimate": 11573,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 2.0L CTi Black Edition",
+          "slug": "jac-t9-2-0l-cti-black-edition",
+          "price_incl": 629900,
+          "price_excl": 547739,
+          "price_display": "R629 900",
+          "monthly_estimate": 12151,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 2.0L CTi Black Edition",
+          "slug": "jac-t9-2-0l-cti-black-edition",
+          "price_incl": 629900,
+          "price_excl": 547739,
+          "price_display": "R629 900",
+          "monthly_estimate": 12151,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 Hunter 2.0L CTi",
+          "slug": "jac-t9-hunter-2-0l-cti",
+          "price_incl": 629900,
+          "price_excl": 547739,
+          "price_display": "R629 900",
+          "monthly_estimate": 12151,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 Hunter 2.0L CTi",
+          "slug": "jac-t9-hunter-2-0l-cti",
+          "price_incl": 629900,
+          "price_excl": 547739,
+          "price_display": "R629 900",
+          "monthly_estimate": 12151,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 Hunter 2.0L CTi Black Edition",
+          "slug": "jac-t9-hunter-2-0l-cti-black-edition",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {}
+        },
+        {
+          "name": "JAC T9 Hunter 2.0L CTi Black Edition",
+          "slug": "jac-t9-hunter-2-0l-cti-black-edition",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {}
+        }
+      ],
+      "price_from": 549900,
+      "price_to": 689900,
+      "price_range": "R549 900 – R689 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 11
+    },
+    {
+      "slug": "jacmotors_co_za_jac-x200-double-cab",
+      "name": "Jacmotors_Co_Za_Jac X200 Double Cab",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+      "source_url": "https://jacmotors.co.za/jac-x200-double-cab/",
+      "images": [
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/jac-x200-dc_5-1-300x200.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "JAC X200 2.8L TDI D/C 68 kW",
+          "slug": "jac-x200-2-8l-tdi-d-c-68-kw",
+          "price_incl": 359900,
+          "price_excl": 312957,
+          "price_display": "R359 900",
+          "monthly_estimate": 6943,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI D/C 68 kW",
+          "slug": "jac-x200-2-8l-tdi-d-c-68-kw",
+          "price_incl": 359900,
+          "price_excl": 312957,
+          "price_display": "R359 900",
+          "monthly_estimate": 6943,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI D/C 68 kW",
+          "slug": "jac-x200-2-8l-tdi-d-c-68-kw",
+          "price_incl": 359900,
+          "price_excl": 312957,
+          "price_display": "R359 900",
+          "monthly_estimate": 6943,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI D/C 80 kW",
+          "slug": "jac-x200-2-8l-tdi-d-c-80-kw",
+          "price_incl": 409900,
+          "price_excl": 356435,
+          "price_display": "R409 900",
+          "monthly_estimate": 7907,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI D/C 80 kW",
+          "slug": "jac-x200-2-8l-tdi-d-c-80-kw",
+          "price_incl": 409900,
+          "price_excl": 356435,
+          "price_display": "R409 900",
+          "monthly_estimate": 7907,
+          "specs": {}
+        }
+      ],
+      "price_from": 359900,
+      "price_to": 409900,
+      "price_range": "R359 900 – R409 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 5
+    },
+    {
+      "slug": "jacmotors_co_za_jac-x200-ev",
+      "name": "Jacmotors_Co_Za_Jac X200 Ev",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+      "source_url": "https://jacmotors.co.za/jac-x200-ev/",
+      "images": [
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/X200-S_C-300x180.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "JAC X200 EV 1.9-Tonne",
+          "slug": "jac-x200-ev-1-9-tonne",
+          "price_incl": 591218,
+          "price_excl": 514103,
+          "price_display": "R591 218",
+          "monthly_estimate": 11405,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 EV 1.9-Tonne",
+          "slug": "jac-x200-ev-1-9-tonne",
+          "price_incl": 591218,
+          "price_excl": 514103,
+          "price_display": "R591 218",
+          "monthly_estimate": 11405,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 EV 1.9-Tonne",
+          "slug": "jac-x200-ev-1-9-tonne",
+          "price_incl": 591218,
+          "price_excl": 514103,
+          "price_display": "R591 218",
+          "monthly_estimate": 11405,
+          "specs": {}
+        }
+      ],
+      "price_from": 591218,
+      "price_to": 591218,
+      "price_range": "R591 218",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 3
+    },
+    {
+      "slug": "jacmotors_co_za_jac-x200-single-cab",
+      "name": "Jacmotors_Co_Za_Jac X200 Single Cab",
+      "brand": "JAC",
+      "brand_key": "jac",
+      "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+      "source_url": "https://jacmotors.co.za/jac-x200-single-cab/",
+      "images": [
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/P4050383-300x200.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "JAC X200 2.8L TDI S/C 68 kW",
+          "slug": "jac-x200-2-8l-tdi-s-c-68-kw",
+          "price_incl": 304261,
+          "price_excl": 264575,
+          "price_display": "R304 261",
+          "monthly_estimate": 5870,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI S/C 68 kW",
+          "slug": "jac-x200-2-8l-tdi-s-c-68-kw",
+          "price_incl": 304261,
+          "price_excl": 264575,
+          "price_display": "R304 261",
+          "monthly_estimate": 5870,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI S/C 68 kW",
+          "slug": "jac-x200-2-8l-tdi-s-c-68-kw",
+          "price_incl": 304261,
+          "price_excl": 264575,
+          "price_display": "R304 261",
+          "monthly_estimate": 5870,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI S/C 80 kW",
+          "slug": "jac-x200-2-8l-tdi-s-c-80-kw",
+          "price_incl": 347739,
+          "price_excl": 302382,
+          "price_display": "R347 739",
+          "monthly_estimate": 6708,
+          "specs": {}
+        },
+        {
+          "name": "JAC X200 2.8L TDI S/C 80 kW",
+          "slug": "jac-x200-2-8l-tdi-s-c-80-kw",
+          "price_incl": 347739,
+          "price_excl": 302382,
+          "price_display": "R347 739",
+          "monthly_estimate": 6708,
+          "specs": {}
+        }
+      ],
+      "price_from": 304261,
+      "price_to": 347739,
+      "price_range": "R304 261 – R347 739",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 5
+    },
     {
       "slug": "t6",
       "name": "T6",
@@ -370,8 +952,8 @@
       "variant_count": 6
     }
   ],
-  "total_variants": 11,
-  "model_count": 3,
+  "total_variants": 47,
+  "model_count": 9,
   "price_from": 299900,
   "price_to": 689900
 }

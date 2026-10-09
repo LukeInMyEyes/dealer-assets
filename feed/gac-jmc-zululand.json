@@ -2,12 +2,12 @@
   "dealer": "gac-jmc-zululand",
   "dealer_name": "Quality Cars, GAC & JMC Zululand",
   "dealership_id": "GACJMCZULU",
-  "generated": "2026-07-30T15:50:22",
+  "generated": "2026-10-09T19:21:04",
   "brands": [
     {
       "key": "gac",
       "name": "GAC",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "emkoo",
@@ -359,17 +359,173 @@
           "body_type": "MPV",
           "fuel_type": "Petrol plug-in hybrid",
           "variant_count": 1
+        },
+        {
+          "slug": "model_emkoo",
+          "name": "Model_Emkoo",
+          "brand": "GAC",
+          "brand_key": "gac",
+          "hero_image": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/logo-footer-1721210936071-1721921621414.webp",
+          "source_url": "https://www.gacmotorza.co.za/model/emkoo",
+          "images": [
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/logo-footer-1721210936071-1721921621414.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/cor-662x490-1.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/test-drive-1722619664883.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/vect-1722619754612.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/icon.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "EMKOO EXECUTIVE COLLECTION PROMO FROM: R449 900",
+              "slug": "emkoo-executive-collection-promo-from-r449-900",
+              "price_incl": 449900,
+              "price_excl": 391217,
+              "price_display": "R449 900",
+              "monthly_estimate": 8679,
+              "specs": {}
+            }
+          ],
+          "price_from": 449900,
+          "price_to": 449900,
+          "price_range": "R449 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "model_emzoom",
+          "name": "Model_Emzoom",
+          "brand": "GAC",
+          "brand_key": "gac",
+          "hero_image": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/exterior-1440x960-4-1722868811342-1723714107645.webp",
+          "source_url": "https://www.gacmotorza.co.za/model/emzoom",
+          "images": [
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/exterior-1440x960-4-1722868811342-1723714107645.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/cor-662x490-2-1722868742224.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/logo-footer-1721210936071-1721921621414.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/test-drive-1722619664883.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/icon.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "GAC GS3 EMZOOM - FROM: R339 900",
+              "slug": "gac-gs3-emzoom-from-r339-900",
+              "price_incl": 339900,
+              "price_excl": 295565,
+              "price_display": "R339 900",
+              "monthly_estimate": 6557,
+              "specs": {}
+            }
+          ],
+          "price_from": 339900,
+          "price_to": 339900,
+          "price_range": "R339 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "model_m8",
+          "name": "Model_M8",
+          "brand": "GAC",
+          "brand_key": "gac",
+          "hero_image": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/logo-footer-1721210936071-1721921621414.webp",
+          "source_url": "https://www.gacmotorza.co.za/model/m8",
+          "images": [
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/logo-footer-1721210936071-1721921621414.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/m8-dimensions-min-1536x390-1762172792742.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/test-drive-1722619664883.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/vect-1722619754612.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://stwfccmsprodwesteurope01.blob.core.windows.net/gacza-690a321ed66655ba00680443-prod/icon.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "M8 AVAILABLE ON ORDER FROM: R1 499 900",
+              "slug": "m8-available-on-order-from-r1-499-900",
+              "price_incl": 1499900,
+              "price_excl": 1304261,
+              "price_display": "R1 499 900",
+              "monthly_estimate": 28935,
+              "specs": {}
+            }
+          ],
+          "price_from": 1499900,
+          "price_to": 1499900,
+          "price_range": "R1 499 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
         }
       ],
-      "total_variants": 9,
-      "model_count": 3,
-      "price_from": 359900,
+      "total_variants": 12,
+      "model_count": 6,
+      "price_from": 339900,
       "price_to": 1499900
     },
     {
       "key": "jmc",
       "name": "JMC",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "carrying-plus",
@@ -766,7 +922,7 @@
     {
       "key": "ashok-leyland",
       "name": "Ashok Leyland",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "dost",
@@ -987,8 +1143,8 @@
       "price_to": 389900
     }
   ],
-  "total_models": 10,
-  "total_vehicles": 22,
+  "total_models": 13,
+  "total_vehicles": 25,
   "price_from": 179900,
   "price_to": 1499900
 }

@@ -1,7 +1,7 @@
 {
   "key": "changan",
   "name": "Changan",
-  "updated_at": "2026-07-30T15:50:22",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "alsvin",
@@ -41,9 +41,9 @@
         {
           "name": "1.4 CS",
           "slug": "1-4-cs",
-          "price_incl": 249900,
-          "price_excl": 217304,
-          "price_display": "R249 900",
+          "price_incl": 238000,
+          "price_excl": 206957,
+          "price_display": "R238 000",
           "monthly_estimate": 4591,
           "specs": {
             "engine_capacity": "1400cc",
@@ -63,9 +63,9 @@
         {
           "name": "1.5 CE",
           "slug": "1-5-ce",
-          "price_incl": 289900,
-          "price_excl": 252087,
-          "price_display": "R289 900",
+          "price_incl": 271200,
+          "price_excl": 235826,
+          "price_display": "R271 200",
           "monthly_estimate": 5232,
           "specs": {
             "engine_capacity": "1500cc",
@@ -123,9 +123,9 @@
         {
           "name": "1.5T CE 5-seater",
           "slug": "1-5t-ce-5-seater",
-          "price_incl": 489900,
-          "price_excl": 426000,
-          "price_display": "R489 900",
+          "price_incl": 474900,
+          "price_excl": 412957,
+          "price_display": "R474 900",
           "monthly_estimate": 9161,
           "specs": {
             "engine_capacity": "1499cc",
@@ -167,9 +167,9 @@
         {
           "name": "1.5T CS 5-seater",
           "slug": "1-5t-cs-5-seater",
-          "price_incl": 449900,
-          "price_excl": 391217,
-          "price_display": "R449 900",
+          "price_incl": 429900,
+          "price_excl": 373826,
+          "price_display": "R429 900",
           "monthly_estimate": 8293,
           "specs": {
             "engine_capacity": "1499cc",
@@ -189,9 +189,9 @@
         {
           "name": "1.5T CS 7-seater",
           "slug": "1-5t-cs-7-seater",
-          "price_incl": 469900,
-          "price_excl": 408609,
-          "price_display": "R469 900",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
           "monthly_estimate": 8679,
           "specs": {
             "engine_capacity": "1499cc",
@@ -491,10 +491,261 @@
       "body_type": "SUV",
       "fuel_type": "Petrol",
       "variant_count": 3
+    },
+    {
+      "slug": "www_changanmotors_co_za_alsvin",
+      "name": "Www_Changanmotors_Co_Za_Alsvin",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/82978OAqpTc3jvXbSHX4K3mRaGMwnBoQYeNAV2xa18Spc-1920w.png",
+      "source_url": "https://www.changanmotors.co.za/alsvin",
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/82978OAqpTc3jvXbSHX4K3mRaGMwnBoQYeNAV2xa18Spc-1920w.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34front-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34back-1920w.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Interior-Front-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Alsvin",
+          "slug": "alsvin",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_changanmotors_co_za_cs75-pro",
+      "name": "Www_Changanmotors_Co_Za_Cs75 Pro",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/CS75-Col-White-1920w.png",
+      "source_url": "https://www.changanmotors.co.za/cs75-pro",
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/CS75-Col-White-1920w.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/oshan-feature-img-start-stop040824035046-drive-1920w.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Int-7-detail-1920w.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-2-1080x1600-ce4b18f5-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-a2373a56-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Cs75 Pro",
+          "slug": "cs75-pro",
+          "price_incl": 449900,
+          "price_excl": 391217,
+          "price_display": "R449 900",
+          "monthly_estimate": 8679,
+          "specs": {}
+        }
+      ],
+      "price_from": 449900,
+      "price_to": 449900,
+      "price_range": "R449 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_changanmotors_co_za_deepal-s07",
+      "name": "Www_Changanmotors_Co_Za_Deepal S07",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/deepal+s7+color+cyan290424071130-drive-1920w.png",
+      "source_url": "https://www.changanmotors.co.za/deepal-s07",
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/deepal+s7+color+cyan290424071130-drive-1920w.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/EXT-HERO-2-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/deepal-website-hud-1012x760-r2-1920w.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/modelpage-e1-gallery-modal-text-slide-1012x760-1-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-image-1080x1600-b127c801-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Deepal S07",
+          "slug": "deepal-s07",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_changanmotors_co_za_hunter-range",
+      "name": "Www_Changanmotors_Co_Za_Hunter Range",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/IMG_8794-1920w.PNG",
+      "source_url": "https://www.changanmotors.co.za/hunter-range",
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/IMG_8794-1920w.PNG",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-Side-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Int-detail3-1920w.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/5-Interior-Banner-1450x650-1920w.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-image-1080x1600-db2e4966-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Hunter Range",
+          "slug": "hunter-range",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_changanmotors_co_za_uni-s",
+      "name": "Www_Changanmotors_Co_Za_Uni S",
+      "brand": "Changan",
+      "brand_key": "changan",
+      "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Uni-S-Black-1920w.png",
+      "source_url": "https://www.changanmotors.co.za/uni-s",
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Uni-S-Black-1920w.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/side-1920w.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Back-Seats-Sideview-1920w.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Logo-lock-up-blue-1920w.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Driving-1920w.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Uni S",
+          "slug": "uni-s",
+          "price_incl": 389900,
+          "price_excl": 339043,
+          "price_display": "R389 900",
+          "monthly_estimate": 7522,
+          "specs": {}
+        }
+      ],
+      "price_from": 389900,
+      "price_to": 389900,
+      "price_range": "R389 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
     }
   ],
-  "total_variants": 13,
-  "model_count": 5,
+  "total_variants": 18,
+  "model_count": 10,
   "price_from": 238000,
   "price_to": 995900
 }

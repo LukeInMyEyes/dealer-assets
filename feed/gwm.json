@@ -1,0 +1,401 @@
+{
+  "key": "gwm",
+  "name": "GWM",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "ora-03",
+      "name": "Ora 03",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/404/404.png",
+      "source_url": "https://www.gwm.co.za/models/ora-03",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/404/404.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Ora 03",
+          "slug": "ora-03",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "p-500",
+      "name": "P 500",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/p-500",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/models/p-500/interior/P500_3L_INT_1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "p300",
+      "name": "P300",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/p300",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Insta-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "p300-ltd",
+      "name": "P300 Ltd",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/p300-ltd",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Insta-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "p300sx",
+      "name": "P300Sx",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/p300sx",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/models/P300sx/exterior/gwm_interior_2.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "steed-5",
+      "name": "Steed 5",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/404/404.png",
+      "source_url": "https://www.gwm.co.za/models/steed-5",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/404/404.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Steed 5",
+          "slug": "steed-5",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tank-300",
+      "name": "Tank 300",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/components-assets/common/button/download.png",
+      "source_url": "https://www.gwm.co.za/models/tank-300",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/common/button/download.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/models/tank-300/dashboard-pc.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tank-500",
+      "name": "Tank 500",
+      "brand": "GWM",
+      "brand_key": "gwm",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/tank-500",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Insta-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 8,
+  "model_count": 8
+}

@@ -1,0 +1,1335 @@
+{
+  "key": "bmw",
+  "name": "BMW",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "2-series-coupe_bmw-2-series-coupe",
+      "name": "2 Series Coupe_Bmw 2 Series Coupe",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/2-series/2-series-coupe/bmw-2-series-coupe.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g42_exterior_rear-lights:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g42_interior_m-leather-steering-wheel:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/global_tec-ani_driving-assist-active-blind-spot-detection_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW 2 Series Coupé.",
+          "slug": "the-bmw-2-series-coup",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "285 kW",
+            "torque_nm": "500 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "4-series-coupe_bmw-4-series-coupe",
+      "name": "4 Series Coupe_Bmw 4 Series Coupe",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/4-series/4-series-coupe/bmw-4-series-coupe.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g22_design_lights:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g22_design_air-outlets:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW 4 Series Coupé.",
+          "slug": "the-bmw-4-series-coup",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "288 (392) kW",
+            "torque_nm": "540 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "7-series-sedan_bmw-7-series-sedan",
+      "name": "7 Series Sedan_Bmw 7 Series Sedan",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/7-series/7-series-sedan/bmw-7-series-sedan.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g70_lci_ice_exterior_rear_view_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g70_lci_ice_interior_cockpit_welcome_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g70_lci_ice_driving_dynamics_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "THE NEW BMW 7 SERIES SEDAN",
+          "slug": "the-new-bmw-7-series-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "Length"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-1-series_bmw-1-series",
+      "name": "Bmw 1 Series_Bmw 1 Series",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/1-series/bmw-1-series/bmw-1-series.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/f70_ice_exterior_rear-design_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/f70_ice_interior-design_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/f70_ice_exterior_driving-dynamics_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW 1 Series.",
+          "slug": "the-bmw-1-series",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "115 kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-2-series-m-models_bmw-m2-coupe",
+      "name": "Bmw 2 Series M Models_Bmw M2 Coupe",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/m-series/bmw-2-series-m-models/bmw-m2-coupe.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g87_g42-m240_exterior_rear-design:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g87_interior-highlight_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/global_tec-ani_driving-assist-active-blind-spot-detection_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "BMW 2 Series Coupé M Models.",
+          "slug": "bmw-2-series-coup-m-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "353 kW",
+            "torque_nm": "600 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-3-series-m-models_bmw-m3-sedan",
+      "name": "Bmw 3 Series M Models_Bmw M3 Sedan",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/m-series/bmw-3-series-m-models/bmw-m3-sedan.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g80_g20-m340_exterior_rear-lights_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g80_g20-m340_interior_steering-wheel-design_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW 3 Series Sedan M models.",
+          "slug": "the-bmw-3-series-sedan-m-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "390 kW",
+            "torque_nm": "650 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-3-series-sedan_bmw-3-series-sedan",
+      "name": "Bmw 3 Series Sedan_Bmw 3 Series Sedan",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://bmw.scene7.com/is/image/BMW/bmw-3-series-digital-experience-phud-configuration-fb?qlt=80&wid=1024&fmt=webp",
+      "source_url": "https://www.bmw.co.za/en/all-models/3-series/bmw-3-series-sedan/bmw-3-series-sedan.html",
+      "images": [
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-3-series-digital-experience-phud-configuration-fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-3-series-exterior-rear-lights-1:4to3?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-3-series-interior-steering-wheel-1:4to3?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-3-series-driving-dynamics-driving-pleasure-fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "THE NEW BMW 3 SERIES SEDAN",
+          "slug": "the-new-bmw-3-series-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "Top speed"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-4-series-m-models_bmw-m4-coupe",
+      "name": "Bmw 4 Series M Models_Bmw M4 Coupe",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.bmw.co.za/etc.clientlibs/bmw-web/clientlibs/clientlib-site/resources/images/street-bg_1x_1_car_320.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-73317K9wt0u4fXu1otL3h8H7EpCxEaEUFPv2TQLIrEi8sP05tyVAflnqwjnWVFy8rxlc9Nv2Z7d5yKlHS91AmhrAWVxEaMqjAAGnRCrmpIUrOrJ8RrGwg6QuiVpRBTSrxl7Y7moKGZj8WnRwVk76Ql",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "THE BMW 4 SERIES COUPÉ M MODELS.",
+          "slug": "the-bmw-4-series-coup-m-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "405 kW",
+            "torque_nm": "650 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-8-series-gran-coupe-highlights",
+      "name": "Bmw 8 Series Gran Coupe Highlights",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/all-models/concept-cars/bmw-m-concept-neue-klasse/images/bmw-m-concept_modelfinder.png.asset.1782980159462.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/8-series/gran-coupe/showroom/bmw-8-series-gran-coupe-highlights.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/all-models/concept-cars/bmw-m-concept-neue-klasse/images/bmw-m-concept_modelfinder.png.asset.1782980159462.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/alpina/brand-page/2026/images/alpina_Vision_BMW_ALPINA.png.asset.1778577012306.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/youtube-default@2x.png.asset.1584959824298.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Discover all BMW models.",
+          "slug": "discover-all-bmw-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bmw-x4-highlights",
+      "name": "Bmw X4 Highlights",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/all-models/concept-cars/bmw-m-concept-neue-klasse/images/bmw-m-concept_modelfinder.png.asset.1782980159462.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/X4/showroom/bmw-X4-highlights.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/all-models/concept-cars/bmw-m-concept-neue-klasse/images/bmw-m-concept_modelfinder.png.asset.1782980159462.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/alpina/brand-page/2026/images/alpina_Vision_BMW_ALPINA.png.asset.1778577012306.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/youtube-default@2x.png.asset.1584959824298.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Discover all BMW models.",
+          "slug": "discover-all-bmw-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "gran-coupe_bmw-4-series-gran-coupe",
+      "name": "Gran Coupe_Bmw 4 Series Gran Coupe",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/4-series/gran-coupe/bmw-4-series-gran-coupe.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g26_ice_rear-lights:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g26_ice_cockpit-dashboard:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bmw 4 Series Gran Coupe.Html",
+          "slug": "bmw-4-series-gran-coupe-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "135 kW",
+            "torque_nm": "0 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "i4_bmw-i4-gran-coupe",
+      "name": "I4_Bmw I4 Gran Coupe",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/bmw-i/i4/bmw-i4-gran-coupe.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g26_bev_rear-lights_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/live-cockpit-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g26_bev_electric-driving-pleasure_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW i4 Gran Coupé.",
+          "slug": "the-bmw-i4-gran-coup",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "250 (340) kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "i5_bmw-i5-overview",
+      "name": "I5_Bmw I5 Overview",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/bmw-i/i5/bmw-i5-overview.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/Call-me-back:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/live-cockpit-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW i5. 100% electric.",
+          "slug": "the-bmw-i5-100-electric",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "i7_bmw-i7-sedan",
+      "name": "I7_Bmw I7 Sedan",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/bmw-i/i7/bmw-i7-sedan.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g70_lci_bev_exterior_rear_view_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g70_lci_bev_interior_cockpit_welcome_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g70_lci_bev_driving_dynamics_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "THE NEW BMW i7 SEDAN",
+          "slug": "the-new-bmw-i7-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "ix1_bmw-ix1",
+      "name": "Ix1_Bmw Ix1",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/bmw-i/ix1/bmw-ix1.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/u11-bev_intro:16to7?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/u11-bev_interior_curved-display_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW iX1. 100% electric.",
+          "slug": "the-bmw-ix1-100-electric",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "230 kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "ix_bmw-ix",
+      "name": "Ix_Bmw Ix",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/bmw-i/ix/bmw-ix.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/Call-me-back:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-73317K9wt0u4fXnI7wL3huKrTRJei2vL4gpnXJCpLQFjISlZQlkDp6XRaYWFOAQ5nmP%257IagOybfCunvIT91vyO2B3iE23IjedwsC2BDMztrOReqhk7ZPzMLoACe1khJHFlMILou%25KXhB6HSfWQoSX%25V1PaHIGfNEbn%25xy10s9OfC9E4riI1t3scZwBEgnrxRtesvrZ857MrxvRUgChZ835GvloRVYgp2XH5Dsv6jQ%25eEq2YDafM3Yjmqn1hdIDyLOEo2tqTJIsNR6L3uBr0A2JdSeZ4F7uzVMRc4oSkNh5xiCVA0og8YwNF4HviR30Kc%252cne4WxfjbKucP81D9WGxbUEqiPO89GspfeIUipzpvU3NHP0qMyNF1VgxNJ0%25lIAVZ8XgDF2yRCzvhTqF5GaFbEdfbYEzdpBDFsQsP05r2YIqdRMA8Td6%25OsSrDzkIVk956cxw8jwTgx8tE6BmudhSId4k9VTCrmseanOl6J9U1OoY32LKozOSnjXWPkJEF%255LYCjaHWp9mlD3R%256kRvXId4pw9CRJc0Sk%25Nl6JyVAfyq3VraezL14UDyez7w8rt4fXBIpp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "iX",
+          "slug": "ix",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "400 kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "m5-series_bmw-m5-sedan",
+      "name": "M5 Series_Bmw M5 Sedan",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/m-series/m5-series/bmw-m5-sedan.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g90_exterior_m-specific-rear-bumper-spoiler_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g90_interior_design_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g90_driving-dynamics_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "THE BMW M5 Sedan.",
+          "slug": "the-bmw-m5-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "535 (727) kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "sedan_bmw-5-series-sedan-overview",
+      "name": "Sedan_Bmw 5 Series Sedan Overview",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/bmw-5-series-overview/sedan/bmw-5-series-sedan-overview.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/Call-me-back:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/live-cockpit-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g60_ice_driving-dynamics_dsk_fb_en?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW 5 Series Sedan.",
+          "slug": "the-bmw-5-series-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "x1_bmw-x1",
+      "name": "X1_Bmw X1",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/x1/bmw-x1.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/u11-ice_exterior_rear-lights:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/u11-ice_interior_bmw-curved-display:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/230123_Driving_Assist_Pro_V001_3_zu_1_35MBIT-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "BMW X1 models.",
+          "slug": "bmw-x1-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "115 kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "x2_bmw-x2-overview",
+      "name": "X2_Bmw X2 Overview",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/x2/bmw-x2-overview.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/Call-me-back:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/u10_ice_interior-design_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW X2.",
+          "slug": "the-bmw-x2",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "115 kW",
+            "torque_nm": "0 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "x3_bmw-x3",
+      "name": "X3_Bmw X3",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/x3/bmw-x3.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/Call-me-back:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g45_ice_interior_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW X3.",
+          "slug": "the-bmw-x3",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "153 kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "x5_bmw-x5",
+      "name": "X5_Bmw X5",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/x5/bmw-x5.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g65_ice_exterior_rear_view_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g65_ice_interior_cockpit_steering_wheel_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g65_ice_driving_dynamics_dsk_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "THE NEW BMW X5",
+          "slug": "the-new-bmw-x5",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "Energy consumption, combined",
+            "power_kw": "Top speed"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "x6_bmw-x6",
+      "name": "X6_Bmw X6",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/x6/bmw-x6.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g06_exterior_m-sport-exhaust-system:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g06_interior_highlight_fb-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/bmw-driving-assistant-professional-3-1?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW X6.",
+          "slug": "the-bmw-x6",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "390 kW",
+            "torque_nm": "750 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "x7_bmw-x7",
+      "name": "X7_Bmw X7",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/x-series/x7/bmw-x7.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g07_ice_exterior_back:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g07_ice_interieur_cockpit:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g07_ice-positioning:16to7?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW X7.",
+          "slug": "the-bmw-x7",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "259 kW"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xm_bmw-xm",
+      "name": "Xm_Bmw Xm",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/m-series/xm/bmw-xm.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g09_exterior_m-double-tailpipes_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g09_interior_loop_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g09_dynamics_driving-dynamics_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The new BMW XM models.",
+          "slug": "the-new-bmw-xm-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "Acceleration 0-100 km/h (…)⁷"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "z4-roadster_bmw-z4-roadster",
+      "name": "Z4 Roadster_Bmw Z4 Roadster",
+      "brand": "BMW",
+      "brand_key": "bmw",
+      "hero_image": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+      "source_url": "https://www.bmw.co.za/en/all-models/z-series/z4-roadster/bmw-z4-roadster.html",
+      "images": [
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/facebook-default@2x.png.asset.1584959819909.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.bmw.co.za/content/dam/bmw/common/footer/social/instagram-default@2x.png.asset.1584959820390.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g29-roadster_exterior_highlight_rear-lights:3to2?fmt=webp-alpha&wid=1493&fit=constrain%2C1",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g29-roadster_interior_harman-kardon-surround-sound_fb?qlt=80&wid=1024&fmt=webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://bmw.scene7.com/is/image/BMW/g29-roadster_exterior_side-view:3to2?fmt=webp-alpha&wid=2560&fit=constrain%2C1",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The BMW Z4 Roadster.",
+          "slug": "the-bmw-z4-roadster",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "145 kW",
+            "torque_nm": "320 Nm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 26,
+  "model_count": 26
+}

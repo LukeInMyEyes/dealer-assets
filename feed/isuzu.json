@@ -1,0 +1,418 @@
+{
+  "key": "isuzu",
+  "name": "Isuzu",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "bakkies_double-cab",
+      "name": "Bakkies_Double Cab",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/dmax/double_cab_2026/double-cab-featured-gallery-1.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/leisure/bakkies/double-cab",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/double_cab_2026/double-cab-featured-gallery-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/double_cab_2026/double-cab-featured-gallery-2.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/double_cab_2026/Safety/Front%20and%20rear%20camera%20sensors.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/extended_cab_2026/INTERIOR_EC_DC.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/double_cab_2026/v_cross_double_cab_wet_road.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Double Cab Models",
+          "slug": "double-cab-models",
+          "price_incl": 574010,
+          "price_excl": 499139,
+          "price_display": "R574 010",
+          "monthly_estimate": 11073,
+          "specs": {}
+        }
+      ],
+      "price_from": 574010,
+      "price_to": 574010,
+      "price_range": "R574 010",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bakkies_extended-cab",
+      "name": "Bakkies_Extended Cab",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/%20placeholder.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/leisure/bakkies/extended-cab",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/%20placeholder.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/extendedcab_revamp/comfort_ease/img5.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/extended_cab_2026/Isuzu_D-Max_Studio-31_back_side.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/extendedcab_revamp/interior/in7.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/extended_cab_2026/extended_cab_on_road_gallery.jpg?updatedAt=1778335139289",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Extended Cab Models",
+          "slug": "extended-cab-models",
+          "price_incl": 533690,
+          "price_excl": 464078,
+          "price_display": "R533 690",
+          "monthly_estimate": 10295,
+          "specs": {}
+        }
+      ],
+      "price_from": 533690,
+      "price_to": 533690,
+      "price_range": "R533 690",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bakkies_single-cab",
+      "name": "Bakkies_Single Cab",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/dmax/single_cab_2026/single-cab-exterior-2.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/commercial/bakkies/single-cab",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/single_cab_2026/single-cab-exterior-2.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/%20placeholder.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/single_cab_2026/single-cab-interior-3.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/extended_cab_2026/Isuzu_D-Max_Lifestyle-37_ECAB.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Single Cab Models",
+          "slug": "single-cab-models",
+          "price_incl": 433860,
+          "price_excl": 377270,
+          "price_display": "R433 860",
+          "monthly_estimate": 8370,
+          "specs": {}
+        }
+      ],
+      "price_from": 433860,
+      "price_to": 433860,
+      "price_range": "R433 860",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "bakkies_x-rider",
+      "name": "Bakkies_X Rider",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/x-riders/Feature_gallery/x-rider-featured-gallery-36.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/leisure/bakkies/x-rider",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/x-riders/Feature_gallery/x-rider-featured-gallery-36.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/x-riders/Feature_gallery/x-rider-featured-gallery-47.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/x-riders/Feature_gallery/x-rider-featured-gallery-2.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/x-riders/Feature_gallery/x-rider-interior-7.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/single_cab_2026/Isuzu%20D-Max%20Off-Road-30_SCAB.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "X Rider",
+          "slug": "x-rider",
+          "price_incl": 668990,
+          "price_excl": 581730,
+          "price_display": "R668 990",
+          "monthly_estimate": 12906,
+          "specs": {}
+        }
+      ],
+      "price_from": 668990,
+      "price_to": 668990,
+      "price_range": "R668 990",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "leisure_suv",
+      "name": "Leisure_Suv",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/suv-mux-2026/Exterior/isuzu_mux_exterior_023.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/leisure/suv",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/suv-mux-2026/Exterior/isuzu_mux_exterior_023.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/suv-mux-2026/Exterior/isuzu_mux_Exterior_002.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/suv-mux-2026/Gallery/isuzu_mux_gallery_031.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/suv-mux-2026/Interior/isuzu_mux_sliders_Interior_103.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/dmax/single_cab_2026/Isuzu%20D-Max%20Off-Road-30_SCAB.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "SUV Models",
+          "slug": "suv-models",
+          "price_incl": 752300,
+          "price_excl": 654174,
+          "price_display": "R752 300",
+          "monthly_estimate": 14513,
+          "specs": {}
+        }
+      ],
+      "price_from": 752300,
+      "price_to": 752300,
+      "price_range": "R752 300",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "trucks_extra-heavy",
+      "name": "Trucks_Extra Heavy",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/commercial/trucks/extra-heavy",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/%20placeholder.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/medium/Get-behind-the-wheel.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/extra-heavy/build-for-reliability.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/extra-heavy/heavy-duty-applications.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Extra Heavy Truck Models",
+          "slug": "extra-heavy-truck-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "trucks_heavy",
+      "name": "Trucks_Heavy",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/commercial/trucks/heavy",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/%20placeholder.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/medium/Get-behind-the-wheel.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/heavy/build_for_efficiency.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/heavy/Euro5.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Heavy Truck Models",
+          "slug": "heavy-truck-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "trucks_medium",
+      "name": "Trucks_Medium",
+      "brand": "Isuzu",
+      "brand_key": "isuzu",
+      "hero_image": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+      "source_url": "https://www.isuzu.co.za/vehicles/commercial/trucks/medium",
+      "images": [
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/Single_Cab_place_holder.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/singel_cap_render_20204/%20placeholder.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/medium/Get-behind-the-wheel.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/medium/purpose/purpose.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://ik.imagekit.io/isuzu/truck-revamp/medium/technology/Euro5.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Medium Truck Models",
+          "slug": "medium-truck-models",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 8,
+  "model_count": 8,
+  "price_from": 433860,
+  "price_to": 752300
+}

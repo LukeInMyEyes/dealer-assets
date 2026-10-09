@@ -1,0 +1,331 @@
+{
+  "key": "audi",
+  "name": "Audi",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "a1",
+      "name": "A1",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a1/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "a3",
+      "name": "A3",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a3/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "a4",
+      "name": "A4",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a4/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "a5",
+      "name": "A5",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a5/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "a6",
+      "name": "A6",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a6/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "a7",
+      "name": "A7",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a7/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "a8",
+      "name": "A8",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/a8/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "audi-e-tron-gt_audi-rs-etron-gt",
+      "name": "Audi E Tron Gt_Audi Rs Etron Gt",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/audi-e-tron-gt/audi-rs-etron-gt/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "q2",
+      "name": "Q2",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/q2/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "q3",
+      "name": "Q3",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/q3/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "q5",
+      "name": "Q5",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/q5/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "q7",
+      "name": "Q7",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/q7/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "q8",
+      "name": "Q8",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/q8/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tron",
+      "name": "Tron",
+      "brand": "Audi",
+      "brand_key": "audi",
+      "hero_image": "",
+      "source_url": "https://www.audi.co.za/en/models/tron/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 14,
+  "model_count": 14
+}

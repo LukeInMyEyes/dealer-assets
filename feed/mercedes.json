@@ -1,0 +1,1261 @@
+{
+  "key": "mercedes",
+  "name": "Mercedes-Benz",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "cabriolet-roadster_cle",
+      "name": "Cabriolet Roadster_Cle",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-cabriolet-a236-pi/overview/spa-highlights/02-2025/images/mercedes-benz-cle-cabriolet-a236-spa-burmester-2400x2400-02-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/cabriolet-roadster/cle/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-cabriolet-a236-pi/overview/spa-highlights/02-2025/images/mercedes-benz-cle-cabriolet-a236-spa-burmester-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-cabriolet-a236-pi/overview/spa-highlights/02-2025/images/mercedes-benz-cle-cabriolet-a236-spa-center-console-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/27490/8/6c/1ffd2ab6961aa7c416e819b15b1edac04dd54.jpg?im=Resize,width=208",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-cabriolet-a236-pi/overview/spa-highlights/02-2025/images/mercedes-benz-cle-cabriolet-a236-spa-acoustic-soft-top-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/passengercars/models/cabriolet-roadster/cle/width=157.33333333333334",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "CLE Cabriolet",
+          "slug": "cle-cabriolet",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "6,6 s",
+            "torque_nm": "400 Nm",
+            "fuel_type": "95 octane unleaded",
+            "transmission": "Automatic",
+            "drivetrain": "All-wheel drive",
+            "seats": "4",
+            "fuel_tank_l": "66 L"
+          },
+          "dimensions": {
+            "length_mm": "4 850 mm",
+            "width_mm": "1 861 mm",
+            "height_mm": "1 424 mm",
+            "kerb_weight_kg": "2 420 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "95 octane unleaded",
+      "variant_count": 1
+    },
+    {
+      "slug": "cabriolet-roadster_sl",
+      "name": "Cabriolet Roadster_Sl",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/sl/sl-roadster-r232-pi/overview/spa/08-2025/images/mercedes-amg-sl-roadster-r232-spa-highlights-63-performance-2400x2400-08-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/cabriolet-roadster/sl/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/sl/sl-roadster-r232-pi/overview/spa/08-2025/images/mercedes-amg-sl-roadster-r232-spa-highlights-63-performance-2400x2400-08-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/27146/1/83/bd92c6fcaeb662cce7937808ecabba892e50c.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=620,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/sl/sl-roadster-r232-pi/overview/spa/08-2025/images/mercedes-amg-sl-roadster-r232-spa-highlights-63-practicality-2400x2400-08-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/sl/sl-roadster-r232-pi/overview/spa/08-2025/images/mercedes-amg-sl-roadster-r232-spa-highlights-63-interior-2400x2400-08-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/sl/sl-roadster-r232-pi/overview/spa/08-2025/images/mercedes-amg-sl-roadster-r232-spa-highlights-63-design-2400x2400-08-2025.jpg?im=Resize,width=1184",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mercedes-AMG SL Roadster",
+          "slug": "mercedes-amg-sl-roadster",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "3,6 s",
+            "torque_nm": "800 Nm",
+            "fuel_type": "95 octane unleaded",
+            "transmission": "Automatic",
+            "drivetrain": "All-wheel drive",
+            "seats": "4",
+            "fuel_tank_l": "70 L"
+          },
+          "dimensions": {
+            "length_mm": "4 705 mm",
+            "width_mm": "1 915 mm",
+            "height_mm": "1 354 mm",
+            "kerb_weight_kg": "2 320 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "95 octane unleaded",
+      "variant_count": 1
+    },
+    {
+      "slug": "coupe_amg-gt-2-door-e",
+      "name": "Coupe_Amg Gt 2 Door E",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/coupe/amg-gt-2-door-e/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/206004/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HVcUfpOyXGEuJwJ0lVYpOB2qBqbApRiyI5ux4ZQC31SrkzNBlNm7j86ZhKVisN%25vq4y9yLRgY2YaxPr9rH1yCtn8w0Q3oiZBklM4FvIPTg9LxZ6PDar6SeWHtMtsd8BQcUfiA1XGE5YrJbXqWBOIJWoObApPTRI5ugecQC3AC3kzN5z9m7jC2DhKVf0Q%25vqLvkyLRaGmYaBEUVmMDZfrE8qYOfUxXr1RjijhWh5DvaAFCDGp0wMkULc&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/177087/807_057/iris.png?q=COSY-EU-100-1713d0VXq5SFqtyO67PobzIr3eWsrrCsdRRzwQZxeRZbMw3SGtGyRtsd2sDcUfp8qXGEunSJ0l3ofOB2qM%25bApvnRI5uL5qQC3ag2kzNHmwm7jQ63hKVk0M%25vqeBDyLRsSmYaxCXprH1qM%25n8wPbIoTnylpEzwQC3vT6khQZ27m%25k2tIhKVU9QC6txDkzIfjWm7QRVdhKUA9f%25vy%25DEyLYXWlYarIG2rHnFwpn8oKEuoQAOaEVUPB3AQeI9iMiZ348L6LlGlmUrokehUbzIgVfOnw&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/254607/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZUVvZbMw3SGtxX2tsd1ZpcUfwMuXGEuGdJ0l34lOB2Ng1bApjkbI5uV6JQC3qSpkzNRmdm7jZ6qhKVFKF%25vq9UTyLRDGfYaxWoErH1dItn8wfQ2oiZEqNM4FlTrTg9HzO6PD81DSeWinjtsd5h3cUfCUuXGEzadJ0l7oVOB2KM%25bApvIRI5uLQDQC3bMpkzNIUnm7jQOfhKVkHF%25vqeU%25yLRsGfYaxUbprH1GIfn8w0hyoiZBelM4FAOMTg9LQV6PDacpSeWHw9tsd8otcUfiM0XGE4JSJ0lgOfOB2PzqbApe7yI5usKIQC3UvWkzNGoum7ju6ZhKV3SM%25vqNrkyLRic6Yax4ahrH1gIOn8wPVnoiZeIQM6oY2ul7ZkzNL6Sm%25kFpKhympch%25vqBuqyLR0OEYaxv0JrH1LCtn8waTwoiZH6IM4F8mFTg9ix36PD403SeWqmItsdRP9cUfGUNXGE0aSJ0lBHAOB2A8nbAp5PpI5uCeZQCPFi2J%25xVZkF7NA2Zz3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/232481/807/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZhkwZbMw3SGtlaWtsd2J%25cUfpMqXGEjyYJ0lVohOB2srObApUdpI5uL5qQC3bsrkzN4%25wm7j06fhKVBpN%25vqAI%25yLR5Y6YaxCrJrH1zgtn8w7P3oiZx6YM4FsQkTSMrp32KFm7jaSthym9uv%25YhuXTyLRAYDYaxBNerH1pKHn8wiVboiZ4M1M4zuA1YtEWpTuPkEcFEFIT9ZxexrlrKE847dvE5jCDtyAib&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340%2CDZO&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Our Vehicles",
+          "slug": "our-vehicles",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "coupe_cla",
+      "name": "Coupe_Cla",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cla/cla-coupe-c118-fl-pi/overview/spa/05-2025/images/mercedes-benz-cla-coupe-c118-spa-highlights-burmester-2400x2400-05-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/coupe/cla/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cla/cla-coupe-c118-fl-pi/overview/spa/05-2025/images/mercedes-benz-cla-coupe-c118-spa-highlights-burmester-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/SouthAfrica/passengercars/Campaigns/cla-night-edition/cla-main-stage-header.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.oneweb.mercedes-benz.com/plugin/owpi/assets/images/backgrounds/MB/M-B_backplate-2.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=240,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cla/cla-coupe-c118-fl-pi/overview/spa/05-2025/images/mercedes-benz-cla-coupe-c118-spa-highlights-mbux-ar-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/SouthAfrica/passengercars/Campaigns/test-drive-month/cla-1880x1880.jpg?im=Resize,width=1184",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "CLA Coupé",
+          "slug": "cla-coup",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "coupe_cle",
+      "name": "Coupe_Cle",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/overview/exterior/06-2023/images/mercedes-benz-cle-coupe-c236-exterior-paint-finishes-01-3302x1858-06-2023.jpg?im=Resize,width=1184",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/coupe/cle/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/overview/exterior/06-2023/images/mercedes-benz-cle-coupe-c236-exterior-paint-finishes-01-3302x1858-06-2023.jpg?im=Resize,width=1184",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/spa-highlights/02-2025/images/mercedes-benz-cle-coupe-c236-spa-highlights-comfort-plus-package-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/spa-highlights/02-2025/images/mercedes-benz-cle-coupe-c236-spa-highlights-rear-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/spa-highlights/02-2025/images/mercedes-benz-cle-coupe-c236-spa-highlights-front-design-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/cle/cle-coupe-c236-pi/spa-highlights/02-2025/images/mercedes-benz-cle-coupe-c236-spa-highlights-digitallight-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "CLE Coupé",
+          "slug": "cle-coup",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "6,2 s",
+            "torque_nm": "400 Nm",
+            "fuel_type": "95 octane unleaded",
+            "transmission": "Automatic",
+            "drivetrain": "All-wheel drive",
+            "seats": "4",
+            "fuel_tank_l": "66 L"
+          },
+          "dimensions": {
+            "length_mm": "4 850 mm",
+            "width_mm": "1 861 mm",
+            "height_mm": "1 424 mm",
+            "kerb_weight_kg": "2 330 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "95 octane unleaded",
+      "variant_count": 1
+    },
+    {
+      "slug": "hatchback_a-class",
+      "name": "Hatchback_A Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://dam.oneweb.mercedes-benz.com/api/public/content/hq-passengercars-cars-a-class-hatchback-w177-fl-pi-overview-spa-05-2025-images-mercedes-benz-a-class-w177-spa-burmester-2400x2400-05-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/hatchback/a-class/overview.html",
+      "images": [
+        {
+          "url": "https://dam.oneweb.mercedes-benz.com/api/public/content/hq-passengercars-cars-a-class-hatchback-w177-fl-pi-overview-spa-05-2025-images-mercedes-benz-a-class-w177-spa-burmester-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/27369/f/04/02127f521325859d438f13c2b2956f50c46f9.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=620,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://dam.oneweb.mercedes-benz.com/api/public/content/hq-passengercars-cars-a-class-hatchback-w177-fl-pi-overview-spa-05-2025-images-mercedes-benz-a-class-w177-spa-a-class-2400x2400-05-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://dam.oneweb.mercedes-benz.com/api/public/content/southafrica-passengercars-cars-a-class-buy-and-own-images-a-class-tactical-479x850.jpg?im=Resize,width=1184",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://dam.oneweb.mercedes-benz.com/api/public/content/hq-passengercars-cars-a-class-hatchback-w177-fl-pi-overview-spa-05-2025-images-mercedes-benz-a-class-w177-spa-mbux-ar-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "A-Class Hatchback",
+          "slug": "a-class-hatchback",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "8,2 s",
+            "torque_nm": "270 Nm",
+            "fuel_type": "93 octane unleaded",
+            "transmission": "Automatic",
+            "drivetrain": "Front-wheel drive",
+            "fuel_consumption_l100km": "133 - 144 g/km",
+            "seats": "5",
+            "fuel_tank_l": "43 L"
+          },
+          "dimensions": {
+            "length_mm": "4 428 mm",
+            "width_mm": "1 796 mm",
+            "height_mm": "1 440 mm",
+            "kerb_weight_kg": "1 920 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "93 octane unleaded",
+      "variant_count": 1
+    },
+    {
+      "slug": "saloon_a-class",
+      "name": "Saloon_A Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/saloon/a-class/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/206004/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HVcUfpOyXGEuJwJ0lVYpOB2qBqbApRiyI5ux4ZQC31SrkzNBlNm7j86ZhKVisN%25vq4y9yLRgY2YaxPr9rH1yCtn8w0Q3oiZBklM4FvIPTg9LxZ6PDar6SeWHtMtsd8BQcUfiA1XGE5YrJbXqWBOIJWoObApPTRI5ugecQC3AC3kzN5z9m7jC2DhKVf0Q%25vqLvkyLRaGmYaBEUVmMDZfrE8qYOfUxXr1RjijhWh5DvaAFCDGp0wMkULc&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/177087/807_057/iris.png?q=COSY-EU-100-1713d0VXq5SFqtyO67PobzIr3eWsrrCsdRRzwQZxeRZbMw3SGtGyRtsd2sDcUfp8qXGEunSJ0l3ofOB2qM%25bApvnRI5uL5qQC3ag2kzNHmwm7jQ63hKVk0M%25vqeBDyLRsSmYaxCXprH1qM%25n8wPbIoTnylpEzwQC3vT6khQZ27m%25k2tIhKVU9QC6txDkzIfjWm7QRVdhKUA9f%25vy%25DEyLYXWlYarIG2rHnFwpn8oKEuoQAOaEVUPB3AQeI9iMiZ348L6LlGlmUrokehUbzIgVfOnw&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/254607/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZUVvZbMw3SGtxX2tsd1ZpcUfwMuXGEuGdJ0l34lOB2Ng1bApjkbI5uV6JQC3qSpkzNRmdm7jZ6qhKVFKF%25vq9UTyLRDGfYaxWoErH1dItn8wfQ2oiZEqNM4FlTrTg9HzO6PD81DSeWinjtsd5h3cUfCUuXGEzadJ0l7oVOB2KM%25bApvIRI5uLQDQC3bMpkzNIUnm7jQOfhKVkHF%25vqeU%25yLRsGfYaxUbprH1GIfn8w0hyoiZBelM4FAOMTg9LQV6PDacpSeWHw9tsd8otcUfiM0XGE4JSJ0lgOfOB2PzqbApe7yI5usKIQC3UvWkzNGoum7ju6ZhKV3SM%25vqNrkyLRic6Yax4ahrH1gIOn8wPVnoiZeIQM6oY2ul7ZkzNL6Sm%25kFpKhympch%25vqBuqyLR0OEYaxv0JrH1LCtn8waTwoiZH6IM4F8mFTg9ix36PD403SeWqmItsdRP9cUfGUNXGE0aSJ0lBHAOB2A8nbAp5PpI5uCeZQCPFi2J%25xVZkF7NA2Zz3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/232481/807/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZhkwZbMw3SGtlaWtsd2J%25cUfpMqXGEjyYJ0lVohOB2srObApUdpI5uL5qQC3bsrkzN4%25wm7j06fhKVBpN%25vqAI%25yLR5Y6YaxCrJrH1zgtn8w7P3oiZx6YM4FsQkTSMrp32KFm7jaSthym9uv%25YhuXTyLRAYDYaxBNerH1pKHn8wiVboiZ4M1M4zuA1YtEWpTuPkEcFEFIT9ZxexrlrKE847dvE5jCDtyAib&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340%2CDZO&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Our Vehicles",
+          "slug": "our-vehicles",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "saloon_c-class",
+      "name": "Saloon_C Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/c-class/c-class-saloon-w206-pi/overview/spa/02-2025/images/mercedes-benz-c-class-w206-spa-digital-light-2400x2400-02-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/saloon/c-class/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/c-class/c-class-saloon-w206-pi/overview/spa/02-2025/images/mercedes-benz-c-class-w206-spa-digital-light-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/c-class/c-class-saloon-w206-pi/overview/spa/02-2025/images/mercedes-benz-c-class-w206-spa-front-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/206004/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle9tsd2HVcUfpOyXGEuJwJ0lVYpOB2qBqbApRiyI5ux4ZQC31SrkzNBlNm7j86ZhKVisN%25vq4y9yLRgY2YaxPr9rH1yCtn8w0Q3oiZBklM4FvIPTg9LxZ6PDar6SeWHtMtsd8BQcUfiA1XGE5YrJbXqWBOIJWoObApPTRI5ugecQC3AC3kzN5z9m7jC2DhKVf0Q%25vqLvkyLRaGmYaBEUVmMDZfrE8qYOfUxXr1RjijhWh5DvaAFCDGp0wMkULc&imgt=P27&bkgnd=9&pov=BE030&cp=8mhxDZy3qhkDFW2gqQWvpQ",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/c-class/c-class-saloon-w206-pi/overview/spa/02-2025/images/mercedes-benz-c-class-w206-spa-cockpit-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/c-class/c-class-saloon-w206-pi/overview/spa/02-2025/images/mercedes-benz-c-class-w206-spa-rear-axle-steering-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "C-Class Sedan",
+          "slug": "c-class-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "saloon_e-class",
+      "name": "Saloon_E Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/e-class/e-class-saloon-w214-pi/overview/spa-highlights/02-2025/images/mercedes-benz-e-class-w214-spa-driving-assistance-package-plus-2400x2400-02-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/saloon/e-class/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/e-class/e-class-saloon-w214-pi/overview/spa-highlights/02-2025/images/mercedes-benz-e-class-w214-spa-driving-assistance-package-plus-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/e-class/e-class-saloon-w214-pi/overview/spa-highlights/02-2025/images/mercedes-benz-e-class-w214-spa-mbux-superscreen-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/SouthAfrica/passengercars/cars/E-Class/E-Class_Sedan/image/e-class-tactical-1884x1884px.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/e-class/e-class-saloon-w214-pi/overview/spa-highlights/02-2025/images/mercedes-benz-e-class-w214-spa-mbux-routines-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/e-class/e-class-saloon-w214-pi/overview/spa-highlights/02-2025/images/mercedes-benz-e-class-w214-spa-digital-light-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "E-Class Sedan",
+          "slug": "e-class-sedan",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "7,6 s",
+            "torque_nm": "440 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "Automatic",
+            "drivetrain": "Rear-wheel drive",
+            "seats": "5",
+            "fuel_tank_l": "66 L"
+          },
+          "dimensions": {
+            "length_mm": "4 949 mm",
+            "width_mm": "1 904 mm",
+            "height_mm": "1 468 mm",
+            "kerb_weight_kg": "2 530 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    },
+    {
+      "slug": "saloon_mercedes-maybach-s-class",
+      "name": "Saloon_Mercedes Maybach S Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/saloon/mercedes-maybach-s-class/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/206004/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HVcUfpOyXGEuJwJ0lVYpOB2qBqbApRiyI5ux4ZQC31SrkzNBlNm7j86ZhKVisN%25vq4y9yLRgY2YaxPr9rH1yCtn8w0Q3oiZBklM4FvIPTg9LxZ6PDar6SeWHtMtsd8BQcUfiA1XGE5YrJbXqWBOIJWoObApPTRI5ugecQC3AC3kzN5z9m7jC2DhKVf0Q%25vqLvkyLRaGmYaBEUVmMDZfrE8qYOfUxXr1RjijhWh5DvaAFCDGp0wMkULc&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/177087/807_057/iris.png?q=COSY-EU-100-1713d0VXq5SFqtyO67PobzIr3eWsrrCsdRRzwQZxeRZbMw3SGtGyRtsd2sDcUfp8qXGEunSJ0l3ofOB2qM%25bApvnRI5uL5qQC3ag2kzNHmwm7jQ63hKVk0M%25vqeBDyLRsSmYaxCXprH1qM%25n8wPbIoTnylpEzwQC3vT6khQZ27m%25k2tIhKVU9QC6txDkzIfjWm7QRVdhKUA9f%25vy%25DEyLYXWlYarIG2rHnFwpn8oKEuoQAOaEVUPB3AQeI9iMiZ348L6LlGlmUrokehUbzIgVfOnw&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/254607/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZUVvZbMw3SGtxX2tsd1ZpcUfwMuXGEuGdJ0l34lOB2Ng1bApjkbI5uV6JQC3qSpkzNRmdm7jZ6qhKVFKF%25vq9UTyLRDGfYaxWoErH1dItn8wfQ2oiZEqNM4FlTrTg9HzO6PD81DSeWinjtsd5h3cUfCUuXGEzadJ0l7oVOB2KM%25bApvIRI5uLQDQC3bMpkzNIUnm7jQOfhKVkHF%25vqeU%25yLRsGfYaxUbprH1GIfn8w0hyoiZBelM4FAOMTg9LQV6PDacpSeWHw9tsd8otcUfiM0XGE4JSJ0lgOfOB2PzqbApe7yI5usKIQC3UvWkzNGoum7ju6ZhKV3SM%25vqNrkyLRic6Yax4ahrH1gIOn8wPVnoiZeIQM6oY2ul7ZkzNL6Sm%25kFpKhympch%25vqBuqyLR0OEYaxv0JrH1LCtn8waTwoiZH6IM4F8mFTg9ix36PD403SeWqmItsdRP9cUfGUNXGE0aSJ0lBHAOB2A8nbAp5PpI5uCeZQCPFi2J%25xVZkF7NA2Zz3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/232481/807/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZhkwZbMw3SGtlaWtsd2J%25cUfpMqXGEjyYJ0lVohOB2srObApUdpI5uL5qQC3bsrkzN4%25wm7j06fhKVBpN%25vqAI%25yLR5Y6YaxCrJrH1zgtn8w7P3oiZx6YM4FsQkTSMrp32KFm7jaSthym9uv%25YhuXTyLRAYDYaxBNerH1pKHn8wiVboiZ4M1M4zuA1YtEWpTuPkEcFEFIT9ZxexrlrKE847dvE5jCDtyAib&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340%2CDZO&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Our Vehicles",
+          "slug": "our-vehicles",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "saloon_s-class",
+      "name": "Saloon_S Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/saloon/s-class/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/206004/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HVcUfpOyXGEuJwJ0lVYpOB2qBqbApRiyI5ux4ZQC31SrkzNBlNm7j86ZhKVisN%25vq4y9yLRgY2YaxPr9rH1yCtn8w0Q3oiZBklM4FvIPTg9LxZ6PDar6SeWHtMtsd8BQcUfiA1XGE5YrJbXqWBOIJWoObApPTRI5ugecQC3AC3kzN5z9m7jC2DhKVf0Q%25vqLvkyLRaGmYaBEUVmMDZfrE8qYOfUxXr1RjijhWh5DvaAFCDGp0wMkULc&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/177087/807_057/iris.png?q=COSY-EU-100-1713d0VXq5SFqtyO67PobzIr3eWsrrCsdRRzwQZxeRZbMw3SGtGyRtsd2sDcUfp8qXGEunSJ0l3ofOB2qM%25bApvnRI5uL5qQC3ag2kzNHmwm7jQ63hKVk0M%25vqeBDyLRsSmYaxCXprH1qM%25n8wPbIoTnylpEzwQC3vT6khQZ27m%25k2tIhKVU9QC6txDkzIfjWm7QRVdhKUA9f%25vy%25DEyLYXWlYarIG2rHnFwpn8oKEuoQAOaEVUPB3AQeI9iMiZ348L6LlGlmUrokehUbzIgVfOnw&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/254607/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZUVvZbMw3SGtxX2tsd1ZpcUfwMuXGEuGdJ0l34lOB2Ng1bApjkbI5uV6JQC3qSpkzNRmdm7jZ6qhKVFKF%25vq9UTyLRDGfYaxWoErH1dItn8wfQ2oiZEqNM4FlTrTg9HzO6PD81DSeWinjtsd5h3cUfCUuXGEzadJ0l7oVOB2KM%25bApvIRI5uLQDQC3bMpkzNIUnm7jQOfhKVkHF%25vqeU%25yLRsGfYaxUbprH1GIfn8w0hyoiZBelM4FAOMTg9LQV6PDacpSeWHw9tsd8otcUfiM0XGE4JSJ0lgOfOB2PzqbApe7yI5usKIQC3UvWkzNGoum7ju6ZhKV3SM%25vqNrkyLRic6Yax4ahrH1gIOn8wPVnoiZeIQM6oY2ul7ZkzNL6Sm%25kFpKhympch%25vqBuqyLR0OEYaxv0JrH1LCtn8waTwoiZH6IM4F8mFTg9ix36PD403SeWqmItsdRP9cUfGUNXGE0aSJ0lBHAOB2A8nbAp5PpI5uCeZQCPFi2J%25xVZkF7NA2Zz3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/232481/807/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZhkwZbMw3SGtlaWtsd2J%25cUfpMqXGEjyYJ0lVohOB2srObApUdpI5uL5qQC3bsrkzN4%25wm7j06fhKVBpN%25vqAI%25yLR5Y6YaxCrJrH1zgtn8w7P3oiZx6YM4FsQkTSMrp32KFm7jaSthym9uv%25YhuXTyLRAYDYaxBNerH1pKHn8wiVboiZ4M1M4zuA1YtEWpTuPkEcFEFIT9ZxexrlrKE847dvE5jCDtyAib&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340%2CDZO&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Our Vehicles",
+          "slug": "our-vehicles",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_eqe",
+      "name": "Suv_Eqe",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqe/suv-x294-pi/amg/spa/02-2025/images/mercedes-amg-eqe-suv-x294-spa-highlights-01-2400x2400-02-2025.jpg?im=Resize,width=1184",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/eqe/amg.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqe/suv-x294-pi/amg/spa/02-2025/images/mercedes-amg-eqe-suv-x294-spa-highlights-01-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqe/suv-x294-pi/amg/spa/02-2025/images/mercedes-amg-eqe-suv-x294-spa-highlights-03-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/294653/807/iris.png?q=COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtlaWtsd2JQcUfpO6XGEunSJ0l3ofOB2NS1bApRA9I5ux4YQC31g3kzNwP9m7jZcohKVF%25Q%25vqCv%25yLRz3fYax7rJrH1eJdn8wsOcoiZUidM4FGSMTg90h26PDBSqSeWTK9tsd7vtcUfKLqXGEvaVJ0lL6tOB2aS1bApen9I5usmzQC3USQkzNGJum7j0OFhKVB%25Q%25vqA89yLR5i6YaxC4prH1gJin8wPQcoiZeIQM6oY2ul7ZkzNL6Sm%25kFpKhympcM%25vqBtjyLR03PYaxvoJrH1LbWn8waIsoiZHVbM4F8OITg9j0I6PDe7sSeWsXjtsdUcDcUfr%25qXGHRvW6INpqJRBOsW1fEyJlfDADSjSiNsG8u4NLwa2ITvU%25&cp=8mhxDZy3qhkDFW2gqQWvpQ&&imgt=P27&bkgnd=9&pov=BE030",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqe/suv-x294-pi/amg/spa/02-2025/images/mercedes-amg-eqe-suv-x294-spa-highlights-02-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqe/suv-x294-pi/amg/spa/02-2025/images/mercedes-amg-eqe-suv-x294-spa-highlights-04-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mercedes-AMG EQE SUV Electric",
+          "slug": "mercedes-amg-eqe-suv-electric",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_eqs",
+      "name": "Suv_Eqs",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqs/eqs-suv-x296/overview/spa/01-2025/images/mercedes-benz-eqs-suv-x296-spa-highlights-exterior-2400x2400-01-2025.jpg?im=Resize,width=1184",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/eqs/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqs/eqs-suv-x296/overview/spa/01-2025/images/mercedes-benz-eqs-suv-x296-spa-highlights-exterior-2400x2400-01-2025.jpg?im=Resize,width=1184",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqs/eqs-suv-x296/overview/spa/01-2025/images/mercedes-benz-eqs-suv-x296-spa-highlights-mbux-2400x2400-01-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&&imgt=P27&bkgnd=9&pov=BE030",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqs/eqs-suv-x296/overview/spa/01-2025/images/mercedes-benz-eqs-suv-x296-spa-highlights-rear-axle-steering-2400x2400-01-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/eqs/eqs-suv-x296/overview/spa/01-2025/images/mercedes-benz-eqs-suv-x296-spa-highlights-third-row-2400x2400-01-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "EQS SUV Electric",
+          "slug": "eqs-suv-electric",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_g-class",
+      "name": "Suv_G Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/g-class/w465-pi/overview/spa-highlights/05-2025/images/mercedes-benz-g-class-w465-spa-vintage-look-package-2400x2400-05-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/g-class/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/g-class/w465-pi/overview/spa-highlights/05-2025/images/mercedes-benz-g-class-w465-spa-vintage-look-package-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/g-class/w465-pi/overview/spa-highlights/05-2025/images/mercedes-benz-g-class-w465-spa-leather-package-2400x2400-05-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/g-class/w465-pi/overview/spa-highlights/03-2026/images/mercedes-benz-g-class-w465-spa-running-boards-2400x2400-03-2026.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/g-class/w465-pi/overview/spa-highlights/05-2025/images/mercedes-benz-g-class-w465-spa-differential-locks-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/passengercars/models/suv/g-class/width=157.33333333333334",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "G-Class",
+          "slug": "g-class",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "5,8 s",
+            "torque_nm": "750 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "Automatic",
+            "drivetrain": "All-wheel drive",
+            "seats": "5",
+            "fuel_tank_l": "100 L"
+          },
+          "dimensions": {
+            "length_mm": "4 825 mm",
+            "width_mm": "1 931 mm",
+            "height_mm": "1 973 mm",
+            "kerb_weight_kg": "3 200 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_gla",
+      "name": "Suv_Gla",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gla/gla-suv-h247-fl-pi/overview/spa-highlights/05-2025/images/mercedes-benz-gla-h247-spa-mbux-ar-2400x2400-05-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/gla/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gla/gla-suv-h247-fl-pi/overview/spa-highlights/05-2025/images/mercedes-benz-gla-h247-spa-mbux-ar-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gla/gla-suv-h247-fl-pi/overview/spa-highlights/05-2025/images/mercedes-benz-gla-h247-spa-gla-suv-2400x2400-05-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gla/gla-suv-h247-fl-pi/overview/spa-highlights/05-2025/images/mercedes-benz-gla-h247-spa-powertrain-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gla/gla-suv-h247-fl-pi/overview/spa-highlights/05-2025/images/mercedes-benz-gla-h247-spa-burmester-2400x2400-05-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/SouthAfrica/passengercars/Campaigns/test-drive-month/gla-1884x1884px.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GLA",
+          "slug": "gla",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_glb",
+      "name": "Suv_Glb",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/glb/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/296624/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtxa2tsd1JpcUfwFuXGEZT3J0l3YhOB2NB1bApjPpI5uVeZQC3qsTkzNR%25nm7jxyIhKV1Yh%25vqwJkyLRZQmYaxFkErH19gdn8wDPnoiZWeZM4FdsQTg92Qk6PDp7bSeWuKjtsd3vGcUfNrkXGEjnRJ0lVDxOB2qWFbApUAbI5uGeYQC30s7kzNBUdm7jAODhKV5%25t%25vq4t9yLRgc6YaxPXTrH1eHDn8wsz2oiZU6oM4FGmJTg90xV6PDBSbSeWAtStsd5cxcUfCykXGEzhEJ0lcYfOB2Xg%25bApHibI5u84ZQC3igwkzN4J9m7jgMIhKVBSE%25vqABDyLR53DYaxCkSrH1zm%25n8w7hnoiZK%25gM4FvywTg9L6n6PDaS6SeWHthtsd8B3cUfiAkXGE45BJ0lgCZOB2PzEbAp7TyI5uK6IQC3vSTkzNL6Sm%25kbFDZUNtsdB%25ycJtj9GXOc9rmJ0l4YfOB2i8RbAp0ApI5uB5ZQC3ACWkzN5%25dm7jCyShKVzXV%25vq7IcyLRKJ9YaxvJDrH1LPEn8wuOcoiZ4bXM4Fg4lTg9Pgn6PDePmSeWsKMtsdUvVcUfG8kXGE0bYJ08xLdSQjuROxAbJdXLlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/206004/806/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtle9tsd2HVcUfpOyXGEuJwJ0lVYpOB2qBqbApRiyI5ux4ZQC31SrkzNBlNm7j86ZhKVisN%25vq4y9yLRgY2YaxPr9rH1yCtn8w0Q3oiZBklM4FvIPTg9LxZ6PDar6SeWHtMtsd8BQcUfiA1XGE5YrJbXqWBOIJWoObApPTRI5ugecQC3AC3kzN5z9m7jC2DhKVf0Q%25vqLvkyLRaGmYaBEUVmMDZfrE8qYOfUxXr1RjijhWh5DvaAFCDGp0wMkULc&imgt=P27&bkgnd=9&pov=BE340&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/177087/807_057/iris.png?q=COSY-EU-100-1713d0VXq5SFqtyO67PobzIr3eWsrrCsdRRzwQZxeRZbMw3SGtGyRtsd2sDcUfp8qXGEunSJ0l3ofOB2qM%25bApvnRI5uL5qQC3ag2kzNHmwm7jQ63hKVk0M%25vqeBDyLRsSmYaxCXprH1qM%25n8wPbIoTnylpEzwQC3vT6khQZ27m%25k2tIhKVU9QC6txDkzIfjWm7QRVdhKUA9f%25vy%25DEyLYXWlYarIG2rHnFwpn8oKEuoQAOaEVUPB3AQeI9iMiZ348L6LlGlmUrokehUbzIgVfOnw&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/254607/807/iris.png?q=COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZUVvZbMw3SGtxX2tsd1ZpcUfwMuXGEuGdJ0l34lOB2Ng1bApjkbI5uV6JQC3qSpkzNRmdm7jZ6qhKVFKF%25vq9UTyLRDGfYaxWoErH1dItn8wfQ2oiZEqNM4FlTrTg9HzO6PD81DSeWinjtsd5h3cUfCUuXGEzadJ0l7oVOB2KM%25bApvIRI5uLQDQC3bMpkzNIUnm7jQOfhKVkHF%25vqeU%25yLRsGfYaxUbprH1GIfn8w0hyoiZBelM4FAOMTg9LQV6PDacpSeWHw9tsd8otcUfiM0XGE4JSJ0lgOfOB2PzqbApe7yI5usKIQC3UvWkzNGoum7ju6ZhKV3SM%25vqNrkyLRic6Yax4ahrH1gIOn8wPVnoiZeIQM6oY2ul7ZkzNL6Sm%25kFpKhympch%25vqBuqyLR0OEYaxv0JrH1LCtn8waTwoiZH6IM4F8mFTg9ix36PD403SeWqmItsdRP9cUfGUNXGE0aSJ0lBHAOB2A8nbAp5PpI5uCeZQCPFi2J%25xVZkF7NA2Zz3MkNulKlO1OsxACeqUx4Wgj%25Xi5o&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE000&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/232481/807/iris.png?q=COSY-EU-100-1713d0VXqrWFqtyO67PobzIr3eWsrrCsdRRzwQZhkwZbMw3SGtlaWtsd2J%25cUfpMqXGEjyYJ0lVohOB2srObApUdpI5uL5qQC3bsrkzN4%25wm7j06fhKVBpN%25vqAI%25yLR5Y6YaxCrJrH1zgtn8w7P3oiZx6YM4FsQkTSMrp32KFm7jaSthym9uv%25YhuXTyLRAYDYaxBNerH1pKHn8wiVboiZ4M1M4zuA1YtEWpTuPkEcFEFIT9ZxexrlrKE847dvE5jCDtyAib&cp=8mhxDZy3qhkDFW2gqQWvpQ&imgt=P27&bkgnd=9&pov=BE340%2CDZO&uni=m&cp=8mhxDZy3qhkDFW2gqQWvpQ&im=Resize%2Cwidth%3D420&crop=",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Our Vehicles",
+          "slug": "our-vehicles",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_glc",
+      "name": "Suv_Glc",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-suv-x254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-suv-x254-spa-highlights-exterior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/glc/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-suv-x254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-suv-x254-spa-highlights-exterior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/dynamic/europe/ZA/254651/807/iris.png?q=COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtxX2tsd1ZpcUfwMuXGEuGdJ0l34lOB2Ng1bApjkbI5uV6JQC3qSpkzNRmdm7jZ6qhKVFKF%25vq9UTyLRDGfYaxWoErH1dItn8wfQ2oiZEqNM4FlTrTg9HzO6PD81DSeWinjtsd5h3cUfCLWXGEznjJ0l7ohOB2KbqbApvI9I5uLQqQC3bMpkzNIUnm7jQOfhKVkHF%25vqeU%25yLRsGfYaxUbprH1GIfn8w0PEoiZBJYM4FvIjTg9Lt26PDa1FSeWHnStsd8oGcUfiX6XGE4JdJ0lgCVOB2Pz%25bApe7bI5usKDQC3UnpkzNpTwm7ju6ohKV3YQ%25vq8tTyLRiLmYax4bJrH1gObnMr%25E2fC1I5uKMTQmIwlzkhQlSnm7jGcZhKVU0b%25vq7vqyLRKLfYaxvoxrH1LMOn8waQwoiZHqpM4F8UpTg9jQO6PDVLbSeWseutsdUsTcUfGL6XGE0iRJ08xLdSQjuROxA2UdwjlYO2EW5WtVt4jU0i3gjaZHpQ6LGy&BKGND=9&IMGT=P27&cp=U7lLKRUtPa6KAFr8s_ubHw&uni=m&POV=BE030,PZM",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-suv-x254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-suv-x254-spa-highlights-trunk-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-suv-x254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-suv-x254-spa-highlights-cockpit-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-suv-x254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-suv-x254-spa-highlights-offroad-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GLC 220d",
+          "slug": "glc-220d",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "8 s"
+          }
+        },
+        {
+          "name": "GLC 300d",
+          "slug": "glc-300d",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "6,3 s"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 2
+    },
+    {
+      "slug": "suv_glc-coupe",
+      "name": "Suv_Glc Coupe",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-coupe-c254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-coupe-c254-spa-exterior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/glc-coupe/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-coupe-c254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-coupe-c254-spa-exterior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/27528/c/97/46e91936d1c9344669c136ed47faafac4cd86.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=620,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-coupe-c254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-coupe-c254-spa-trunk-volume-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-coupe-c254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-coupe-c254-spa-cockpit-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/glc/glc-coupe-c254-fl-pi/overview/spa-highlights/02-2025/images/mercedes-benz-glc-coupe-c254-spa-offroad-capabilities-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GLC 220d 4M",
+          "slug": "glc-220d-4m",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "8,1 s"
+          }
+        },
+        {
+          "name": "GLC 300d 4M",
+          "slug": "glc-300d-4m",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "6,4 s"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 2
+    },
+    {
+      "slug": "suv_gle",
+      "name": "Suv_Gle",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/static/v1/16176/e/26/0bc297bb571ff9b8963ddaa1d614e5fedbf23.png",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/gle/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/16176/e/26/0bc297bb571ff9b8963ddaa1d614e5fedbf23.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-suv-v167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-v167-spa-e-active-body-control-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.oneweb.mercedes-benz.com/plugin/owpi/assets/images/backgrounds/MB/M-B_backplate-2.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=240,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-suv-v167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-v167-spa-interior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-suv-v167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-v167-spa-off-road-capabilities-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GLE",
+          "slug": "gle",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_gle-coupe",
+      "name": "Suv_Gle Coupe",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-coupe-c167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-coupe-c167-spa-burmester-2400x2400-02-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/gle-coupe/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-coupe-c167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-coupe-c167-spa-burmester-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-coupe-c167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-coupe-c167-spa-e-active-body-control-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.oneweb.mercedes-benz.com/plugin/owpi/assets/images/backgrounds/MB/M-B_backplate-2.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=240,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-coupe-c167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-coupe-c167-spa-acoustic-comfort-package-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gle/gle-coupe-c167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gle-coupe-c167-spa-off-road-capabilities-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GLE Coupé",
+          "slug": "gle-coup",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_gls",
+      "name": "Suv_Gls",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/gls-suv-x167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gls-suv-x167-spa-highlights-mbux-2400x2400-02-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/gls/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/gls-suv-x167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gls-suv-x167-spa-highlights-mbux-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/gls-suv-x167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gls-suv-x167-spa-highlights-e-active-body-control-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.oneweb.mercedes-benz.com/plugin/owpi/assets/images/backgrounds/MB/M-B_backplate-2.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=240,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/gls-suv-x167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gls-suv-x167-spa-highlights-interior-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/gls-suv-x167-fl-pi/overview/spa/02-2025/images/mercedes-benz-gls-suv-x167-spa-highlights-offroad-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GLS",
+          "slug": "gls",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "suv_maybach-gls",
+      "name": "Suv_Maybach Gls",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/mercedes-maybach-gls-x167-fl-pi/overview/spa/02-2025/images/mercedes-maybach-gls-x167-spa-highlights-exterior-2400x2400-02-2025.jpg?im=Resize,width=1014",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/suv/maybach-gls/overview.html",
+      "images": [
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/mercedes-maybach-gls-x167-fl-pi/overview/spa/02-2025/images/mercedes-maybach-gls-x167-spa-highlights-exterior-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/mercedes-maybach-gls-x167-fl-pi/overview/spa/02-2025/images/mercedes-maybach-gls-x167-spa-highlights-ride-comfort-2400x2400-02-2025.jpg?im=Resize,width=1184",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.oneweb.mercedes-benz.com/plugin/owpi/assets/images/backgrounds/MAYBACH/MAYBACH_backplate-2.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=240,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/mercedes-maybach-gls-x167-fl-pi/overview/spa/02-2025/images/mercedes-maybach-gls-x167-spa-highlights-interior-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/hq/passengercars/cars/gls/mercedes-maybach-gls-x167-fl-pi/overview/spa/02-2025/images/mercedes-maybach-gls-x167-spa-highlights-elegance-entrance-2400x2400-02-2025.jpg?im=Resize,width=1014",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mercedes-Maybach GLS",
+          "slug": "mercedes-maybach-gls",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "van_v-class",
+      "name": "Van_V Class",
+      "brand": "Mercedes-Benz",
+      "brand_key": "mercedes",
+      "hero_image": "https://media.oneweb.mercedes-benz.com/images/static/v1/26451/7/b5/ce77edb80ea3abdb03e934832b3f2b965c195.jpg?im=Resize,width=208",
+      "source_url": "https://www.mercedes-benz.co.za/passengercars/models/van/v-class/overview.html",
+      "images": [
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/26451/7/b5/ce77edb80ea3abdb03e934832b3f2b965c195.jpg?im=Resize,width=208",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/26451/c/58/d5bba053497660018f95bcf52fc8a28ff2f0b.jpg?im=Resize,width=208",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.oneweb.mercedes-benz.com/plugin/owpi/assets/images/backgrounds/MB/M-B_backplate-2.jpg?im=Resize,width=3000;Crop,xPosition=614,yPosition=620,width=1772,height=3086;Resize,width=480",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mercedes-benz.co.za/content/dam/SouthAfrica/passengercars/cars/V-Class/buy-and-own/Images/gold/v-class-v300d-feature-2-640x640px.jpg?im=Resize,width=1014",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://media.oneweb.mercedes-benz.com/images/static/v1/26451/d/e0/4d661ee8262c251b4e0d6f399f6a854340287.jpg?im=Resize,width=208",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "V-Class",
+          "slug": "v-class",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "7,9 s",
+            "torque_nm": "500 Nm",
+            "fuel_type": "Diesel",
+            "transmission": "9G-TRONIC (G43)",
+            "drivetrain": "Rear-wheel drive",
+            "seats": "7",
+            "fuel_tank_l": "70 l"
+          },
+          "dimensions": {
+            "length_mm": "5 140 mm",
+            "width_mm": "1 928 mm",
+            "height_mm": "1 901 mm",
+            "kerb_weight_kg": "3 200 kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 25,
+  "model_count": 23
+}

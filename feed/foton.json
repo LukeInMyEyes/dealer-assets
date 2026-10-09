@@ -1,7 +1,7 @@
 {
   "key": "foton",
   "name": "Foton",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "asambe",
@@ -86,6 +86,338 @@
       "variant_count": 2
     },
     {
+      "slug": "new-models_asambe-taxi-16-seater",
+      "name": "New Models_Asambe Taxi 16 Seater",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+      "source_url": "https://fotonsa.co.za/new-models/asambe-taxi-16-seater/",
+      "images": [
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-Passenger-Safety.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-16-Seat-Interior-Slider-1-New.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-ABS-Brakes.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Efficient and reliable transportwith the Foton Taxi",
+          "slug": "efficient-and-reliable-transportwith-the-foton-taxi",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "2.8",
+            "power_kw": "Hydraulic",
+            "torque_nm": "280",
+            "fuel_type": "Diesel",
+            "transmission": "5MT",
+            "body_type": "High Roof, Long Wheelbase",
+            "airbags": "●",
+            "warranty": "2-Year 200 000 Km Warranty",
+            "service_plan": "Service Plans Available"
+          },
+          "dimensions": {
+            "wheelbase_mm": "3110"
+          }
+        }
+      ],
+      "price_from": 689900,
+      "price_to": 689900,
+      "price_range": "R689 900",
+      "body_type": "High Roof, Long Wheelbase",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_tunland-g7-double-cab",
+      "name": "New Models_Tunland G7 Double Cab",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+      "source_url": "https://fotonsa.co.za/new-models/tunland-g7-double-cab/",
+      "images": [
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Details.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Offroad.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Unrivaled versatility and powerwith the Tunland G7 Double Cab Bakkie",
+          "slug": "unrivaled-versatility-and-powerwith-the-tunland-g7-double-cab-bakkie",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "2.0",
+            "power_kw": "●",
+            "torque_nm": "●",
+            "fuel_type": "Diesel",
+            "transmission": "8AT",
+            "drivetrain": "4x4",
+            "airbags": "●",
+            "service_plan": "3-Year/50 000 Km Service Plan"
+          },
+          "dimensions": {
+            "wheelbase_mm": "3110",
+            "ground_clearance_mm": "210",
+            "kerb_weight_kg": "2000"
+          }
+        }
+      ],
+      "price_from": 689900,
+      "price_to": 689900,
+      "price_range": "R689 900",
+      "body_type": "",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_tunland-v7-double-cab",
+      "name": "New Models_Tunland V7 Double Cab",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+      "source_url": "https://fotonsa.co.za/new-models/tunland-v7-double-cab/",
+      "images": [
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Design-Details-1.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Double-Cab-Hero.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Raw strength and relentless durability,Tunland V7 born to perform",
+          "slug": "raw-strength-and-relentless-durability-tunland-v7-born-to-perform",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "2.0T",
+            "power_kw": "●",
+            "torque_nm": "●",
+            "fuel_type": "76L",
+            "transmission": "●",
+            "drivetrain": "4x4",
+            "airbags": "●",
+            "warranty": "5-Year Unlimited Km",
+            "service_plan": "5-Year/75 000 Km Service Plan"
+          },
+          "dimensions": {
+            "height_mm": "●",
+            "wheelbase_mm": "3355",
+            "ground_clearance_mm": "240",
+            "kerb_weight_kg": "2255"
+          }
+        }
+      ],
+      "price_from": 689900,
+      "price_to": 689900,
+      "price_range": "R689 900",
+      "body_type": "",
+      "fuel_type": "76L",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_tunland-v9-double-cab",
+      "name": "New Models_Tunland V9 Double Cab",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+      "source_url": "https://fotonsa.co.za/new-models/tunland-v9-double-cab/",
+      "images": [
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Design-Details-1.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Double-Cab-Hero.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Bold power meets sophistication,built to impress on every journey",
+          "slug": "bold-power-meets-sophistication-built-to-impress-on-every-journey",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "2.0T",
+            "power_kw": "●",
+            "torque_nm": "●",
+            "fuel_type": "76L",
+            "transmission": "●",
+            "drivetrain": "4x4",
+            "airbags": "●",
+            "warranty": "5-Year Unlimited Km",
+            "service_plan": "5-Year/75 000 Km Service Plan"
+          },
+          "dimensions": {
+            "height_mm": "●",
+            "wheelbase_mm": "3355",
+            "ground_clearance_mm": "240",
+            "kerb_weight_kg": "2305"
+          }
+        }
+      ],
+      "price_from": 689900,
+      "price_to": 689900,
+      "price_range": "R689 900",
+      "body_type": "",
+      "fuel_type": "76L",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_view-luxury-shuttlebus-15-seater",
+      "name": "New Models_View Luxury Shuttlebus 15 Seater",
+      "brand": "Foton",
+      "brand_key": "foton",
+      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+      "source_url": "https://fotonsa.co.za/new-models/view-luxury-shuttlebus-15-seater/",
+      "images": [
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Commercial-View-Shuttlebus-Minibus-Design-Details-1.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-View-Shuttlebus-Minibus-Interior-Slider-1.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Travel in stylewith the View Luxury Shuttlebus",
+          "slug": "travel-in-stylewith-the-view-luxury-shuttlebus",
+          "price_incl": 689900,
+          "price_excl": 599913,
+          "price_display": "R689 900",
+          "monthly_estimate": 13309,
+          "specs": {
+            "engine_capacity": "2.0",
+            "power_kw": "Hydraulic",
+            "torque_nm": "330",
+            "fuel_type": "Diesel",
+            "transmission": "6AT",
+            "body_type": "High Roof, Long Wheelbase",
+            "airbags": "●",
+            "warranty": "3-Year/100 000 Km Warranty",
+            "service_plan": "Service Plans Available"
+          },
+          "dimensions": {
+            "wheelbase_mm": "3110"
+          }
+        }
+      ],
+      "price_from": 689900,
+      "price_to": 689900,
+      "price_range": "R689 900",
+      "body_type": "High Roof, Long Wheelbase",
+      "fuel_type": "Diesel",
+      "variant_count": 1
+    },
+    {
       "slug": "tunland-g7",
       "name": "Tunland G7",
       "brand": "Foton",
@@ -118,9 +450,9 @@
         {
           "name": "2.0TD D/C 4x4 Limited",
           "slug": "2-0td-d-c-4x4-limited",
-          "price_incl": 599900,
-          "price_excl": 521652,
-          "price_display": "R599 900",
+          "price_incl": 584900,
+          "price_excl": 508609,
+          "price_display": "R584 900",
           "monthly_estimate": 11283,
           "specs": {
             "engine_capacity": "1996cc",
@@ -271,7 +603,7 @@
         }
       ],
       "price_from": 329900,
-      "price_to": 599900,
+      "price_to": 584900,
       "price_range": "R329 900 – R584 900",
       "body_type": "Double Cab",
       "fuel_type": "Diesel",
@@ -566,56 +898,10 @@
       "body_type": "Panel Van / Bus",
       "fuel_type": "Diesel",
       "variant_count": 4
-    },
-    {
-      "slug": "miler-lite",
-      "name": "Miler Lite",
-      "brand": "Foton",
-      "brand_key": "foton",
-      "source_url": "https://fotonsa.co.za/new-models/miler-lite/",
-      "variants": [
-        {
-          "name": "Standard",
-          "slug": "standard",
-          "price_incl": 309900,
-          "price_display": "R309 900",
-          "specs": {
-            "body_type": "Light Commercial",
-            "fuel_type": "Diesel",
-            "engine_capacity": "2.0",
-            "power_kw": "92",
-            "torque_nm": "320",
-            "transmission": "5-Speed Manual",
-            "warranty": "150 000km"
-          },
-          "dimensions": {}
-        },
-        {
-          "name": "Aircon & Dual Airbags",
-          "slug": "aircon-and-dual-airbags",
-          "price_incl": 339900,
-          "price_display": "R339 900",
-          "specs": {
-            "body_type": "Light Commercial",
-            "fuel_type": "Diesel",
-            "engine_capacity": "2.0",
-            "power_kw": "92",
-            "torque_nm": "320",
-            "transmission": "5-Speed Manual",
-            "warranty": "150 000km"
-          },
-          "dimensions": {}
-        }
-      ],
-      "price_from": 309900,
-      "price_to": 339900,
-      "body_type": "Light Commercial",
-      "fuel_type": "Diesel",
-      "hero_image": "https://fotonsa.co.za/wp-content/uploads/2026/05/Foton-SA-Miler-Lite-Commercial-LDV-Hero-Ext-Mobile-1.webp"
     }
   ],
-  "total_variants": 17,
-  "model_count": 5,
+  "total_variants": 22,
+  "model_count": 10,
   "price_from": 329900,
   "price_to": 799900
 }

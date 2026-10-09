@@ -1,0 +1,308 @@
+{
+  "key": "hyundai",
+  "name": "Hyundai",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "creta",
+      "name": "Creta",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/creta",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "elantra",
+      "name": "Elantra",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/elantra",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "grand-i10",
+      "name": "Grand I10",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/grand-i10",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "h-1",
+      "name": "H 1",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/h-1",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "i20",
+      "name": "I20",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/i20",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "i20-n",
+      "name": "I20 N",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/i20-n",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "i30-n",
+      "name": "I30 N",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/i30-n",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "mighty",
+      "name": "Mighty",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/mighty",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "palisade",
+      "name": "Palisade",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/palisade",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "santa-fe",
+      "name": "Santa Fe",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/santa-fe",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "staria",
+      "name": "Staria",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/staria",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tucson",
+      "name": "Tucson",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/tucson",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "venue",
+      "name": "Venue",
+      "brand": "Hyundai",
+      "brand_key": "hyundai",
+      "hero_image": "",
+      "source_url": "https://www.hyundai.co.za/new-vehicles/venue",
+      "images": [],
+      "variants": [
+        {
+          "name": "This page does not exist",
+          "slug": "this-page-does-not-exist",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 13,
+  "model_count": 13
+}

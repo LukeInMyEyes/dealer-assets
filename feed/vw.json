@@ -1,0 +1,235 @@
+{
+  "key": "vw",
+  "name": "Volkswagen",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "caddy-5",
+      "name": "Caddy 5",
+      "brand": "Volkswagen",
+      "brand_key": "vw",
+      "hero_image": "https://assets.volkswagen.com/is/image/volkswagenag/exterior-13?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEzMzMmaGVpPTEwMDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzliNg==",
+      "source_url": "https://www.vw.co.za/en/models/caddy-5.html",
+      "images": [
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/exterior-13?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEzMzMmaGVpPTEwMDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzliNg==",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/exterior-13?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTc1MCZoZWk9MTAwMCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY1ODRj",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/new-caddy-rear-view?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/interior-24?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTc1MCZoZWk9MTAwMCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY1ODRj",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/owners1A?Zm10PXBuZy1hbHBoYSZ3aWQ9NjY1JmJmYz1vZmYmMDQyMQ==",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Caddy 5 1.6i 81kW",
+          "slug": "caddy-5-1-6i-81kw",
+          "price_incl": 578900,
+          "price_excl": 503391,
+          "price_display": "R578 900",
+          "monthly_estimate": 11168,
+          "specs": {}
+        },
+        {
+          "name": "Caddy 5 2.0 TDI 81kW",
+          "slug": "caddy-5-2-0-tdi-81kw",
+          "price_incl": 692200,
+          "price_excl": 601913,
+          "price_display": "R692 200",
+          "monthly_estimate": 13353,
+          "specs": {}
+        },
+        {
+          "name": "Caddy 5 Maxi2.0 TDI 81kW",
+          "slug": "caddy-5-maxi2-0-tdi-81kw",
+          "price_incl": 729900,
+          "price_excl": 634696,
+          "price_display": "R729 900",
+          "monthly_estimate": 14081,
+          "specs": {}
+        }
+      ],
+      "price_from": 578900,
+      "price_to": 729900,
+      "price_range": "R578 900 – R729 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 3
+    },
+    {
+      "slug": "lifestyle",
+      "name": "Lifestyle",
+      "brand": "Volkswagen",
+      "brand_key": "vw",
+      "hero_image": "",
+      "source_url": "https://www.vw.co.za/en/models/lifestyle.html",
+      "images": [],
+      "variants": [
+        {
+          "name": "Lifestyle.Html",
+          "slug": "lifestyle-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "t-roc",
+      "name": "T Roc",
+      "brand": "Volkswagen",
+      "brand_key": "vw",
+      "hero_image": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc_highlight_inside?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTExMjAmaGVpPTg0MCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY0ZTYz",
+      "source_url": "https://www.vw.co.za/en/models/t-roc.html",
+      "images": [
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc_highlight_inside?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTExMjAmaGVpPTg0MCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY0ZTYz",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc-header1?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/Gallery-1-11?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc_highlight_inside?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTYzMCZoZWk9ODQwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjBhOWU=",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/image-23?Zm10PXBuZy1hbHBoYSZ3aWQ9NTAwJmJmYz1vZmYmNGEwMQ==",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "T-Roc Design 1.4 TSI 110 kW Tiptronic",
+          "slug": "t-roc-design-1-4-tsi-110-kw-tiptronic",
+          "price_incl": 648900,
+          "price_excl": 564261,
+          "price_display": "R648 900",
+          "monthly_estimate": 12518,
+          "specs": {}
+        },
+        {
+          "name": "T-Roc Design 4MOTION® 2.0 TSI 140 kW DSG®",
+          "slug": "t-roc-design-4motion-2-0-tsi-140-kw-dsg",
+          "price_incl": 722100,
+          "price_excl": 627913,
+          "price_display": "R722 100",
+          "monthly_estimate": 13930,
+          "specs": {}
+        },
+        {
+          "name": "T-Roc R-Line 4MOTION® 2.0 TSI 140 kW DSG®",
+          "slug": "t-roc-r-line-4motion-2-0-tsi-140-kw-dsg",
+          "price_incl": 760100,
+          "price_excl": 660957,
+          "price_display": "R760 100",
+          "monthly_estimate": 14663,
+          "specs": {}
+        }
+      ],
+      "price_from": 648900,
+      "price_to": 760100,
+      "price_range": "R648 900 – R760 100",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 3
+    },
+    {
+      "slug": "touareg",
+      "name": "Touareg",
+      "brand": "Volkswagen",
+      "brand_key": "vw",
+      "hero_image": "https://assets.volkswagen.com/is/image/volkswagenag/TG2428-touareg-exterior-all-wheel-steering?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEwODAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNmIyMQ==",
+      "source_url": "https://www.vw.co.za/en/models/touareg.html",
+      "images": [
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2428-touareg-exterior-all-wheel-steering?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEwODAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNmIyMQ==",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/exterior1?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTE1NzUmaGVpPTE1NzUmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmYjZmZA==",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2351-touareg-exterior-detail-iq-led-light?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTExNTImaGVpPTExNTImYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNTJlOQ==",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2366-touareg-interior-ambientlighting?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2345-touareg-exterior-side?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Touareg 3.0 TDI V6 Elegance 190kW",
+          "slug": "touareg-3-0-tdi-v6-elegance-190kw",
+          "price_incl": 1494300,
+          "price_excl": 1299391,
+          "price_display": "R1 494 300",
+          "monthly_estimate": 28827,
+          "specs": {}
+        },
+        {
+          "name": "Touareg 3.0 TDI V6 R-Line 190kW",
+          "slug": "touareg-3-0-tdi-v6-r-line-190kw",
+          "price_incl": 1802200,
+          "price_excl": 1567130,
+          "price_display": "R1 802 200",
+          "monthly_estimate": 34767,
+          "specs": {}
+        }
+      ],
+      "price_from": 1494300,
+      "price_to": 1802200,
+      "price_range": "R1 494 300 – R1 802 200",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 2
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 4,
+  "price_from": 578900,
+  "price_to": 1802200
+}

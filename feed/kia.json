@@ -1,0 +1,687 @@
+{
+  "key": "kia",
+  "name": "Kia",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "new-cars_carens",
+      "name": "New Cars_Carens",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/c93c348a-9abc-42a7-8d0c-3729841b9869?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/carens",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/c93c348a-9abc-42a7-8d0c-3729841b9869?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/0cdb38d9-fdd8-4017-9297-73435bf87b62?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bef0a33a-9df7-412e-b4b7-39ae316b43a5?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/c93c348a-9abc-42a7-8d0c-3729841b9869?key=new-car-model-gallery-mobile&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Kia Carens",
+          "slug": "kia-carens",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_carnival",
+      "name": "New Cars_Carnival",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/c3b3d852-eca5-462d-8e8f-345713bca54d?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/carnival",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/c3b3d852-eca5-462d-8e8f-345713bca54d?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/8f21345b-3bbf-4874-861e-ee66e42cf460?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/7759c5fa-5f04-44b8-b5b9-1bb5abe53d87?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/c3b3d852-eca5-462d-8e8f-345713bca54d?key=new-car-model-gallery-mobile&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Carnival",
+          "slug": "new-kia-carnival",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_k2500",
+      "name": "New Cars_K2500",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/277cd113-1d2b-4720-aac2-734f2ccbeb73?key=image-200-200&_requested_width=256&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/k2500",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/277cd113-1d2b-4720-aac2-734f2ccbeb73?key=image-200-200&_requested_width=256&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/6b6d3fba-bc8c-40a6-aeb3-028e8fbb7a96?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/6b6d3fba-bc8c-40a6-aeb3-028e8fbb7a96?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/9cfdc589-f5a5-438a-84e4-b5b34124fecf?key=image-430-305&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia K2500 Bakkie",
+          "slug": "new-kia-k2500-bakkie",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_k2700",
+      "name": "New Cars_K2700",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/277cd113-1d2b-4720-aac2-734f2ccbeb73?key=image-200-200&_requested_width=256&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/k2700",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/277cd113-1d2b-4720-aac2-734f2ccbeb73?key=image-200-200&_requested_width=256&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/6e684791-3af7-4356-9bd3-63bae1c62e11?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/a9ab5ec9-780a-4f4a-a203-5eb2be7cdfd1?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/a9ab5ec9-780a-4f4a-a203-5eb2be7cdfd1?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia K2700 Bakkie",
+          "slug": "new-kia-k2700-bakkie",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_pegas",
+      "name": "New Cars_Pegas",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/277cd113-1d2b-4720-aac2-734f2ccbeb73?key=image-200-200&_requested_width=256&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/pegas",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/277cd113-1d2b-4720-aac2-734f2ccbeb73?key=image-200-200&_requested_width=256&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/2b29ecca-241a-44a9-ae96-0f05b53e7b01?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/2b29ecca-241a-44a9-ae96-0f05b53e7b01?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/22108a6f-ada3-422e-8e28-61463bf37cfe?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Pegas",
+          "slug": "new-kia-pegas",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_picanto",
+      "name": "New Cars_Picanto",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/1fabf044-6027-4d33-ac03-2c63329c3405?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/picanto",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/1fabf044-6027-4d33-ac03-2c63329c3405?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/1c70c046-5e34-4d41-9f88-bb344f7b3a83?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/e596d93a-af0e-4419-a264-4939a2bf2eea?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/1fabf044-6027-4d33-ac03-2c63329c3405?key=new-car-model-gallery-mobile&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Picanto",
+          "slug": "new-kia-picanto",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_picanto-panel-van",
+      "name": "New Cars_Picanto Panel Van",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/63b1ba23-b6ba-4f21-aac4-6c9344cd67b9?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/picanto-panel-van",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/63b1ba23-b6ba-4f21-aac4-6c9344cd67b9?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/b0f33419-ed2e-41ba-ad05-1d5ebc77fd6c?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/e4e6e58f-3ca3-457e-8fcb-6c3d56fc09e4?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/63b1ba23-b6ba-4f21-aac4-6c9344cd67b9?key=new-car-model-gallery-mobile&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Picanto Panel Van",
+          "slug": "new-kia-picanto-panel-van",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_seltos",
+      "name": "New Cars_Seltos",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/4e7980a1-6542-4d1e-b9af-909e650e0e4c?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/seltos",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/4e7980a1-6542-4d1e-b9af-909e650e0e4c?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/d089e221-a549-4030-9d61-072118d4d5de?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/ff7e6390-8eaa-4496-a350-562938fa373f?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/26a16023-48a6-45cd-a0c3-98f39249ad44?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "All-New Seltos",
+          "slug": "all-new-seltos",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_sonet",
+      "name": "New Cars_Sonet",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/283ecd8e-e8aa-415e-af63-cb3f3465e2fd?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/sonet",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/283ecd8e-e8aa-415e-af63-cb3f3465e2fd?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/283ecd8e-e8aa-415e-af63-cb3f3465e2fd?key=new-car-model-gallery-mobile&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/7ccdd8b1-eb41-4c49-989e-32250a8c06d9?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/e50f226e-5958-4408-a9dc-343023b58ee9?key=image-430-430&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Sonet",
+          "slug": "new-kia-sonet",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_sonet-panel-van",
+      "name": "New Cars_Sonet Panel Van",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/6d39f244-b519-4362-9eaa-d5ff534a5d9a?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/sonet-panel-van",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/6d39f244-b519-4362-9eaa-d5ff534a5d9a?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/6d39f244-b519-4362-9eaa-d5ff534a5d9a?key=new-car-model-gallery-mobile&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/f89011ec-4e25-4550-8d80-d72d3d422fc3?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/942600ac-cbfa-482a-8551-f9e9ad27a1dc?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Sonet Panel Van",
+          "slug": "new-kia-sonet-panel-van",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_sorento",
+      "name": "New Cars_Sorento",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/7c06d73f-ffd8-444e-b35d-0522a4697345?key=image-430-220&quality=75&_requested_width=768&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/sorento",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/7c06d73f-ffd8-444e-b35d-0522a4697345?key=image-430-220&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/582861af-13e9-4234-887c-0a1c3fb147b4?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/a4ebd8ed-94b3-4cad-9eed-0d4bbafa1071?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/34ef849c-eac3-4fc3-9f58-98f0cec660de?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Sorento",
+          "slug": "new-kia-sorento",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_sportage",
+      "name": "New Cars_Sportage",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://proxy.kiaretail.co.za/assets/75a02816-8772-4f61-bf53-b4d729063482?key=image-430-220&quality=75&_requested_width=768&cache_bust=12-11-2024",
+      "source_url": "https://www.kia.co.za/new-cars/sportage",
+      "images": [
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/75a02816-8772-4f61-bf53-b4d729063482?key=image-430-220&quality=75&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/e5344bf4-1389-4488-aa1c-7618c45c6190?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/7b99db97-050a-4ede-9e4a-c4ef468a78a6?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/b30fe0a5-4e26-4134-b7c3-4b3425474533?key=image-370-254&_requested_width=384&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Kia Sportage",
+          "slug": "new-kia-sportage",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-cars_tasman",
+      "name": "New Cars_Tasman",
+      "brand": "Kia",
+      "brand_key": "kia",
+      "hero_image": "https://kiaretailsa.directus.app/assets/b451c344-0f29-4974-aa5b-89bd3a43cd55?key=image-q75-w3840&_requested_width=3840&v=12-11-2025",
+      "source_url": "https://www.kia.co.za/new-cars/tasman",
+      "images": [
+        {
+          "url": "https://kiaretailsa.directus.app/assets/b451c344-0f29-4974-aa5b-89bd3a43cd55?key=image-q75-w3840&_requested_width=3840&v=12-11-2025",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/cdc5eaac-3470-4f17-9333-7925f16751b8?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/bff5840b-6915-4a38-94a3-342aadfa6d1a?key=new-car-megamenu-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/ff991953-fec2-42e3-ac1f-0c70f77a51e1?fit=inside&key=new-car-colourpicker-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://proxy.kiaretail.co.za/assets/04f16681-98fa-4f85-97db-35c2b6d76f97?cache=30-10-2024&fit=inside&key=new-car-meetthefamily-mobile&_requested_width=768&cache_bust=12-11-2024",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The Kia Tasman",
+          "slug": "the-kia-tasman",
+          "price_incl": 389995,
+          "price_excl": 339126,
+          "price_display": "R389 995",
+          "monthly_estimate": 7523,
+          "specs": {}
+        }
+      ],
+      "price_from": 389995,
+      "price_to": 389995,
+      "price_range": "R389 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 13,
+  "model_count": 13,
+  "price_from": 389995,
+  "price_to": 389995
+}

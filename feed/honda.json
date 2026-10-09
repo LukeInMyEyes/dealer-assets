@@ -1,0 +1,271 @@
+{
+  "key": "honda",
+  "name": "Honda",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "amaze",
+      "name": "Amaze",
+      "brand": "Honda",
+      "brand_key": "honda",
+      "hero_image": "https://cdn.honda.co.za/preprod/banners/amaze/_480x173_crop_center-center_10_none/HondaAMAZE_Feb2026_banner-web.webp",
+      "source_url": "https://www.honda.co.za/cars/amaze",
+      "images": [
+        {
+          "url": "https://cdn.honda.co.za/preprod/banners/amaze/_480x173_crop_center-center_10_none/HondaAMAZE_Feb2026_banner-web.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/banners/amaze/HondaAMAZE_Feb2026_banner-web.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/amaze/thumbnail/HondaAMAZE_Feb2026_gallery_thumb09.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/amaze/thumbnail/_240x202_crop_center-center_10_none/HondaAMAZE_Feb2026_gallery_thumb09.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/amaze/thumbnail/HondaAMAZE_Feb2026_gallery_thumb02.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda Amaze",
+          "slug": "honda-amaze",
+          "price_incl": 256800,
+          "price_excl": 223304,
+          "price_display": "R256 800",
+          "monthly_estimate": 4954,
+          "specs": {}
+        }
+      ],
+      "price_from": 256800,
+      "price_to": 256800,
+      "price_range": "R256 800",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "cr-v",
+      "name": "Cr V",
+      "brand": "Honda",
+      "brand_key": "honda",
+      "hero_image": "https://cdn.honda.co.za/preprod/general/cr-v/Platinum-White-Pearl-b.png",
+      "source_url": "https://www.honda.co.za/cars/cr-v",
+      "images": [
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/cr-v/Platinum-White-Pearl-b.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/cr-v/_278x100_crop_center-center_10_none/Platinum-White-Pearl-b.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/cr-v/Lunar-Silver-Metallic-b.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/cr-v/_278x100_crop_center-center_10_none/Lunar-Silver-Metallic-b.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/cr-v/Meteoroid-Grey-Metallic-b.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda CR-V",
+          "slug": "honda-cr-v",
+          "price_incl": 1041300,
+          "price_excl": 905478,
+          "price_display": "R1 041 300",
+          "monthly_estimate": 20088,
+          "specs": {}
+        }
+      ],
+      "price_from": 1041300,
+      "price_to": 1041300,
+      "price_range": "R1 041 300",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "elevate",
+      "name": "Elevate",
+      "brand": "Honda",
+      "brand_key": "honda",
+      "hero_image": "https://cdn.honda.co.za/preprod/general/elevate/Elev8_Colours_LunarSilver-3.png",
+      "source_url": "https://www.honda.co.za/cars/elevate",
+      "images": [
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/elevate/Elev8_Colours_LunarSilver-3.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/elevate/_278x100_crop_center-center_10_none/Elev8_Colours_LunarSilver-3.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/elevate/Elev8_Colours_MeteoroidGrey-3.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/elevate/_278x100_crop_center-center_10_none/Elev8_Colours_MeteoroidGrey-3.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/elevate/Elev8_Colours_PlatinumWhite-3.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda Elevate",
+          "slug": "honda-elevate",
+          "price_incl": 373800,
+          "price_excl": 325043,
+          "price_display": "R373 800",
+          "monthly_estimate": 7211,
+          "specs": {}
+        }
+      ],
+      "price_from": 373800,
+      "price_to": 373800,
+      "price_range": "R373 800",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "fit",
+      "name": "Fit",
+      "brand": "Honda",
+      "brand_key": "honda",
+      "hero_image": "https://cdn.honda.co.za/preprod/general/fit/FITFacelift_Colours_LunarSilverv2.png",
+      "source_url": "https://www.honda.co.za/cars/fit",
+      "images": [
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/fit/FITFacelift_Colours_LunarSilverv2.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/fit/_278x100_crop_center-center_10_none/FITFacelift_Colours_LunarSilverv2.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/fit/FITFacelift_Colours_OpalWhitev2.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/fit/_278x100_crop_center-center_10_none/FITFacelift_Colours_OpalWhitev2.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/fit/FITFacelift_Colours_PlatinumWhitev2.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda FIT",
+          "slug": "honda-fit",
+          "price_incl": 383400,
+          "price_excl": 333391,
+          "price_display": "R383 400",
+          "monthly_estimate": 7396,
+          "specs": {}
+        }
+      ],
+      "price_from": 383400,
+      "price_to": 383400,
+      "price_range": "R383 400",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "hr-v",
+      "name": "Hr V",
+      "brand": "Honda",
+      "brand_key": "honda",
+      "hero_image": "https://cdn.honda.co.za/preprod/banners/hr-v/_480x158_crop_center-center_10_none/25YM_HR-V_Banners_WB_1920x630_PDP.webp",
+      "source_url": "https://www.honda.co.za/cars/hr-v",
+      "images": [
+        {
+          "url": "https://cdn.honda.co.za/preprod/banners/hr-v/_480x158_crop_center-center_10_none/25YM_HR-V_Banners_WB_1920x630_PDP.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/banners/hr-v/25YM_HR-V_Banners_WB_1920x630_PDP.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/hr-v/thumbnail/25YM_HR-V_Gallery_Thumb_1_960x806.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/hr-v/thumbnail/_240x202_crop_center-center_10_none/25YM_HR-V_Gallery_Thumb_1_960x806.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cdn.honda.co.za/preprod/general/hr-v/thumbnail/25YM_HR-V_Gallery_Thumb_2_480x403.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Honda HR-V",
+          "slug": "honda-hr-v",
+          "price_incl": 539900,
+          "price_excl": 469478,
+          "price_display": "R539 900",
+          "monthly_estimate": 10415,
+          "specs": {}
+        }
+      ],
+      "price_from": 539900,
+      "price_to": 539900,
+      "price_range": "R539 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 5,
+  "model_count": 5,
+  "price_from": 256800,
+  "price_to": 1041300
+}

@@ -1,7 +1,7 @@
 {
   "key": "jeep",
   "name": "Jeep",
-  "updated_at": "2026-06-13T05:46:21",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "gladiator",
@@ -237,6 +237,98 @@
       "variant_count": 6
     },
     {
+      "slug": "jeep-gladiator_new-jeep-gladiator",
+      "name": "Jeep Gladiator_New Jeep Gladiator",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "",
+      "source_url": "https://www.jeep.com/za/jeep-gladiator/new-jeep-gladiator.html",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "jeep-grand-cherokee",
+      "name": "Jeep Grand Cherokee",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "",
+      "source_url": "https://www.jeep.com/za/jeep-grand-cherokee/plug-in.html",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "jeep-grand-cherokee-l",
+      "name": "Jeep Grand Cherokee L",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "",
+      "source_url": "https://www.jeep.com/za/jeep-grand-cherokee-l/plug-in.html",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "jeep-wrangler",
+      "name": "Jeep Wrangler",
+      "brand": "Jeep",
+      "brand_key": "jeep",
+      "hero_image": "",
+      "source_url": "https://www.jeep.com/za/jeep-wrangler/petrol.html",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
       "slug": "wrangler",
       "name": "Wrangler",
       "brand": "Jeep",
@@ -332,8 +424,8 @@
       "variant_count": 2
     }
   ],
-  "total_variants": 9,
-  "model_count": 3,
+  "total_variants": 13,
+  "model_count": 7,
   "price_from": 1199900,
   "price_to": 1881709
 }

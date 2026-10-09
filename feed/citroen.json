@@ -1,7 +1,7 @@
 {
   "key": "citroen",
   "name": "Citroen",
-  "updated_at": "2026-06-13T05:46:21",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "c3",
@@ -227,10 +227,166 @@
       "body_type": "Panel Van",
       "fuel_type": "Petrol",
       "variant_count": 1
+    },
+    {
+      "slug": "new-c3-aircross-suv",
+      "name": "New C3 Aircross Suv",
+      "brand": "Citroen",
+      "brand_key": "citroen",
+      "hero_image": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+      "source_url": "https://www.citroen.co.za/models/new-c3-aircross-suv.html",
+      "images": [
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Basalt-model.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Aircross-model.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/master/b2c/home/logo/citroen-logo.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/showrooms/2024c3a/banner/New_c3a_m.jpg?imwidth=768",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "NEW CITROËN AIRCROSS SUV",
+          "slug": "new-citro-n-aircross-suv",
+          "price_incl": 299900,
+          "price_excl": 260783,
+          "price_display": "R299 900",
+          "monthly_estimate": 5785,
+          "specs": {}
+        }
+      ],
+      "price_from": 299900,
+      "price_to": 299900,
+      "price_range": "R299 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-c5-aircross",
+      "name": "New C5 Aircross",
+      "brand": "Citroen",
+      "brand_key": "citroen",
+      "hero_image": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+      "source_url": "https://www.citroen.co.za/models/new-c5-aircross.html",
+      "images": [
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Basalt-model.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Aircross-model.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/master/b2c/models/new-c5-aircross/s/Citroen_C5_Aircross_Motorisations_750_1680.jpg?imwidth=768",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/master/b2c/models/new-c5-aircross/s/Citroen_C5_Aircross_Style_750_1680.jpg?imwidth=768",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "NEW CITROËN C5 AIRCROSS",
+          "slug": "new-citro-n-c5-aircross",
+          "price_incl": 649900,
+          "price_excl": 565130,
+          "price_display": "R649 900",
+          "monthly_estimate": 12537,
+          "specs": {}
+        }
+      ],
+      "price_from": 649900,
+      "price_to": 649900,
+      "price_range": "R649 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-citro_c3_abn-c3",
+      "name": "New Citro_C3_Abn C3",
+      "brand": "Citroen",
+      "brand_key": "citroen",
+      "hero_image": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+      "source_url": "https://www.citroen.co.za/models/new-citro%C3%ABn-c3.html",
+      "images": [
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Basalt-model.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Aircross-model.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/showrooms/c3/C3_SA_2_750_1680.jpg?imwidth=768",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/showrooms/c3/C3_design_4_750_1680.jpg?imwidth=768",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "CITROËN C3",
+          "slug": "citro-n-c3",
+          "price_incl": 274900,
+          "price_excl": 239043,
+          "price_display": "R274 900",
+          "monthly_estimate": 5303,
+          "specs": {}
+        }
+      ],
+      "price_from": 274900,
+      "price_to": 274900,
+      "price_range": "R274 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
     }
   ],
-  "total_variants": 6,
-  "model_count": 3,
+  "total_variants": 9,
+  "model_count": 6,
   "price_from": 242500,
-  "price_to": 388900
+  "price_to": 649900
 }

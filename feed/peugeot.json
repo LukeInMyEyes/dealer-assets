@@ -1,7 +1,7 @@
 {
   "key": "peugeot",
   "name": "Peugeot",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "2008",
@@ -217,10 +217,310 @@
       "body_type": "Double Cab",
       "fuel_type": "Diesel",
       "variant_count": 5
+    },
+    {
+      "slug": "our-models_2008-suv",
+      "name": "Our Models_2008 Suv",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+      "source_url": "https://www.peugeot.co.za/our-models/2008-suv.html",
+      "images": [
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/mobile/CRO_2008_M_1_2.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/mobile/CRO_2008_M_2_3.jpg?imwidth=768",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/mobile/CRO_2008_M_5_3.jpg?imwidth=768",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "NEW 2008 THE FEISTY AND AGILE SUV",
+          "slug": "new-2008-the-feisty-and-agile-suv",
+          "price_incl": 529900,
+          "price_excl": 460783,
+          "price_display": "R529 900",
+          "monthly_estimate": 10222,
+          "specs": {}
+        }
+      ],
+      "price_from": 529900,
+      "price_to": 529900,
+      "price_range": "R529 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "our-models_208",
+      "name": "Our Models_208",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+      "source_url": "https://www.peugeot.co.za/our-models/208.html",
+      "images": [
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "208.Html",
+          "slug": "208-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "our-models_3008-suv",
+      "name": "Our Models_3008 Suv",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+      "source_url": "https://www.peugeot.co.za/our-models/3008-suv.html",
+      "images": [
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "3008 Suv.Html",
+          "slug": "3008-suv-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "our-models_5008-suv",
+      "name": "Our Models_5008 Suv",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+      "source_url": "https://www.peugeot.co.za/our-models/5008-suv.html",
+      "images": [
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "5008 Suv.Html",
+          "slug": "5008-suv-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "our-models_boxer",
+      "name": "Our Models_Boxer",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+      "source_url": "https://www.peugeot.co.za/our-models/boxer.html",
+      "images": [
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Boxer.Html",
+          "slug": "boxer-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "our-models_landtrek",
+      "name": "Our Models_Landtrek",
+      "brand": "Peugeot",
+      "brand_key": "peugeot",
+      "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+      "source_url": "https://www.peugeot.co.za/our-models/landtrek.html",
+      "images": [
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/peugeot-landtrek/2024-12-new-peugeot-landtrek-white-label/peugeot-landtrek-petrol-diesel-white-label/Peugeot_Landtrek_Carpaint_MagneticBlue.jpg?imwidth=768",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/landtrek/l-m/motors_expander/KP1_Off-Road_DC_Slider-22_1214_1020.jpg?imwidth=768",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "PEUGEOT LANDTREK | LION FORCE!",
+          "slug": "peugeot-landtrek-lion-force",
+          "price_incl": 396900,
+          "price_excl": 345130,
+          "price_display": "R396 900",
+          "monthly_estimate": 7657,
+          "specs": {}
+        }
+      ],
+      "price_from": 396900,
+      "price_to": 396900,
+      "price_range": "R396 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
     }
   ],
-  "total_variants": 7,
-  "model_count": 2,
+  "total_variants": 13,
+  "model_count": 8,
   "price_from": 388900,
   "price_to": 745500
 }

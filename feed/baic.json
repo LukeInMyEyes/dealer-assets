@@ -1,140 +1,127 @@
 {
   "key": "baic",
   "name": "BAIC",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "b30",
       "name": "B30",
       "brand": "BAIC",
       "brand_key": "baic",
-      "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+      "hero_image": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-1.d5b06dcf.png&w=3840&q=75",
       "source_url": "https://www.baic.co.za/models/b30",
       "images": [
         {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-1.d5b06dcf.png&w=3840&q=75",
           "type": "Jellybean",
           "priority": 1
         },
         {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-1.jpg",
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb30e-monthly-desktop.1574ca34.jpg&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-2.d0022440.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finterior-1.bcc7ae2e.png&w=3840&q=75",
           "type": "Interior",
           "priority": 4
         },
         {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-2.jpg",
-          "type": "Interior",
-          "priority": 4
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-1.jpg",
-          "type": "Lifestyle",
-          "priority": 5
-        },
-        {
-          "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-2.jpg",
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftech-9.f4dda73c.png&w=1920&q=75",
           "type": "Lifestyle",
           "priority": 5
         }
       ],
       "variants": [
         {
-          "name": "Elite Adventure 1.5T",
-          "slug": "elite-adventure-1-5t",
+          "name": "BAIC B30",
+          "slug": "baic-b30",
           "price_incl": 519900,
           "price_excl": 452087,
           "price_display": "R519 900",
           "monthly_estimate": 10029,
           "specs": {
-            "engine_capacity": "1500cc",
-            "power_kw": "138",
-            "torque_nm": "305",
-            "fuel_type": "Petrol",
-            "transmission": "7-speed DCT",
-            "drivetrain": "FWD",
-            "body_type": "SUV",
-            "fuel_consumption_l100km": "8.06",
-            "seats": "5",
-            "airbags": "6",
-            "warranty": "7 years / 200 000 km",
-            "service_plan": "7 years / 90 000 km"
-          },
-          "mm_code": "056-19-150"
-        },
-        {
-          "name": "Premium Adventure 1.5T",
-          "slug": "premium-adventure-1-5t",
-          "price_incl": 549900,
-          "price_excl": 478174,
-          "price_display": "R549 900",
-          "monthly_estimate": 10608,
-          "specs": {
-            "engine_capacity": "1500cc",
-            "power_kw": "138",
-            "torque_nm": "305",
-            "fuel_type": "Petrol",
-            "transmission": "7-speed DCT",
-            "drivetrain": "FWD",
-            "body_type": "SUV",
-            "fuel_consumption_l100km": "8.06",
-            "seats": "5",
-            "airbags": "6",
-            "warranty": "7 years / 200 000 km",
-            "service_plan": "7 years / 90 000 km"
-          },
-          "mm_code": "056-19-160"
-        },
-        {
-          "name": "Elite Adventure HEV",
-          "slug": "elite-adventure-hev",
-          "price_incl": 639900,
-          "price_excl": 556435,
-          "price_display": "R639 900",
-          "monthly_estimate": 12344,
-          "specs": {
-            "engine_capacity": "1500cc",
-            "power_kw": "246",
-            "torque_nm": "550",
-            "fuel_type": "Hybrid",
-            "transmission": "DHT",
-            "drivetrain": "FWD",
-            "body_type": "SUV",
-            "fuel_consumption_l100km": "5.85",
-            "seats": "5",
-            "warranty": "7 years / 200 000 km",
-            "service_plan": "7 years / 90 000 km"
-          },
-          "mm_code": "056-19-200"
-        },
-        {
-          "name": "Premium Adventure HEV AWD",
-          "slug": "premium-adventure-hev-awd",
-          "price_incl": 689900,
-          "price_excl": 599913,
-          "price_display": "R689 900",
-          "monthly_estimate": 13309,
-          "specs": {
-            "engine_capacity": "1500cc",
-            "power_kw": "301",
-            "torque_nm": "685",
-            "fuel_type": "Hybrid",
-            "transmission": "DHT",
-            "drivetrain": "AWD",
-            "body_type": "SUV",
-            "fuel_consumption_l100km": "6.45",
-            "seats": "5",
-            "warranty": "7 years / 200 000 km",
-            "service_plan": "7 years / 90 000 km"
-          },
-          "mm_code": "056-19-220"
+            "power_kw": "138kW",
+            "torque_nm": "305Nm",
+            "fuel_type": "8.06L/100km",
+            "transmission": "7DCT"
+          }
         }
       ],
       "price_from": 519900,
-      "price_to": 689900,
-      "price_range": "R519 900 – R689 900",
-      "body_type": "SUV",
-      "fuel_type": "Petrol",
-      "variant_count": 4
+      "price_to": 519900,
+      "price_range": "R519 900",
+      "body_type": "",
+      "fuel_type": "8.06L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "b40",
+      "name": "B40",
+      "brand": "BAIC",
+      "brand_key": "baic",
+      "hero_image": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-hero.b616ca38.png&w=3840&q=75",
+      "source_url": "https://www.baic.co.za/models/b40",
+      "images": [
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-hero.b616ca38.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40-deal-assist-desktop.d202d8d5.jpg&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40-deal-assist-mobile.61104608.jpg&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finterior-3.978cbc1b.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40-trade-in-assist-desktop.c2ea587e.jpg&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "BAIC B40 Plus Honor Edition",
+          "slug": "baic-b40-plus-honor-edition",
+          "price_incl": 699500,
+          "price_excl": 608261,
+          "price_display": "R699 500",
+          "monthly_estimate": 13494,
+          "specs": {
+            "power_kw": "165",
+            "torque_nm": "380",
+            "fuel_type": "75"
+          },
+          "dimensions": {
+            "length_mm": "4630",
+            "width_mm": "1925",
+            "height_mm": "1871",
+            "wheelbase_mm": "2745",
+            "ground_clearance_mm": "210"
+          }
+        }
+      ],
+      "price_from": 699500,
+      "price_to": 699500,
+      "price_range": "R699 500",
+      "body_type": "",
+      "fuel_type": "75",
+      "variant_count": 1
     },
     {
       "slug": "b40-plus",
@@ -192,6 +179,63 @@
       "price_range": "R699 500",
       "body_type": "SUV",
       "fuel_type": "Petrol",
+      "variant_count": 1
+    },
+    {
+      "slug": "x55",
+      "name": "X55",
+      "brand": "BAIC",
+      "brand_key": "baic",
+      "hero_image": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-2.91b4f214.png&w=3840&q=75",
+      "source_url": "https://www.baic.co.za/models/x55",
+      "images": [
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-2.91b4f214.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-1.27ceffcd.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-3.cc23608f.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finterior-1.e71e861d.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftechnology-1.583434b9.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "BAIC X55 Plus",
+          "slug": "baic-x55-plus",
+          "price_incl": 429900,
+          "price_excl": 373826,
+          "price_display": "R429 900",
+          "monthly_estimate": 8293,
+          "specs": {
+            "power_kw": "138kW",
+            "torque_nm": "305Nm",
+            "fuel_type": "7.7L/100km",
+            "transmission": "7DCT"
+          }
+        }
+      ],
+      "price_from": 429900,
+      "price_to": 429900,
+      "price_range": "R429 900",
+      "body_type": "",
+      "fuel_type": "7.7L/100km",
       "variant_count": 1
     },
     {
@@ -330,8 +374,8 @@
       "variant_count": 4
     }
   ],
-  "total_variants": 9,
-  "model_count": 3,
+  "total_variants": 8,
+  "model_count": 5,
   "price_from": 429900,
   "price_to": 699500
 }

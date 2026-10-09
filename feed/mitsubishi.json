@@ -1,0 +1,479 @@
+{
+  "key": "mitsubishi",
+  "name": "Mitsubishi",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "www_mitsubishi-motors_co_za_asx",
+      "name": "Www_Mitsubishi Motors_Co_Za_Asx",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/asx/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Eclipse-Cross-side.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/vehicle-blue-asx-front-1.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/Outlander-2.5-GLS-ASPIRE-CVT-1200x525-1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Asx",
+          "slug": "asx",
+          "price_incl": 419990,
+          "price_excl": 365209,
+          "price_display": "R419 990",
+          "monthly_estimate": 8102,
+          "specs": {}
+        }
+      ],
+      "price_from": 419990,
+      "price_to": 419990,
+      "price_range": "R419 990",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_eclipse-cross-suv-for-sale",
+      "name": "Www_Mitsubishi Motors_Co_Za_Eclipse Cross Suv For Sale",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/eclipse-cross-suv-for-sale/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Eclipse-Cross-side.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/04/eclipse-cross-rear-view.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/Outlander-2.5-GLS-ASPIRE-CVT-1200x525-1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Eclipse Cross Suv For Sale",
+          "slug": "eclipse-cross-suv-for-sale",
+          "price_incl": 534990,
+          "price_excl": 465209,
+          "price_display": "R534 990",
+          "monthly_estimate": 10321,
+          "specs": {}
+        }
+      ],
+      "price_from": 534990,
+      "price_to": 534990,
+      "price_range": "R534 990",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_next-gen-triton",
+      "name": "Www_Mitsubishi Motors_Co_Za_Next Gen Triton",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_01_Tail-Lamps@2x.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/next-gen-triton/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_01_Tail-Lamps@2x.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_02_Headlights@2x.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_06_Back-Step@2x.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Interior_01_Steering@2x.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Next Gen Triton",
+          "slug": "next-gen-triton",
+          "price_incl": 499990,
+          "price_excl": 434774,
+          "price_display": "R499 990",
+          "monthly_estimate": 9645,
+          "specs": {}
+        }
+      ],
+      "price_from": 499990,
+      "price_to": 499990,
+      "price_range": "R499 990",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_outlander-luxury-suv",
+      "name": "Www_Mitsubishi Motors_Co_Za_Outlander Luxury Suv",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/outlander-GLS-side-view.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/outlander-luxury-suv/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/outlander-GLS-side-view.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/outlander-back.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Eclipse-Cross-side.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Outlander Luxury Suv",
+          "slug": "outlander-luxury-suv",
+          "price_incl": 759995,
+          "price_excl": 660865,
+          "price_display": "R759 995",
+          "monthly_estimate": 14661,
+          "specs": {}
+        }
+      ],
+      "price_from": 759995,
+      "price_to": 759995,
+      "price_range": "R759 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_outlander-sport",
+      "name": "Www_Mitsubishi Motors_Co_Za_Outlander Sport",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2025/01/OS-Exterior_01_Silky-Solid.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/outlander-sport/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2025/01/OS-Exterior_01_Silky-Solid.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2025/01/OS-Exterior_02_Design.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2025/01/OS-Exterior_05_Hands-free-Power-Tailgate.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2025/01/OS-Interior_01_Cabin.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Outlander Sport",
+          "slug": "outlander-sport",
+          "price_incl": 339995,
+          "price_excl": 295648,
+          "price_display": "R339 995",
+          "monthly_estimate": 6559,
+          "specs": {}
+        }
+      ],
+      "price_from": 339995,
+      "price_to": 339995,
+      "price_range": "R339 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_pajero-sport-4x4-suv",
+      "name": "Www_Mitsubishi Motors_Co_Za_Pajero Sport 4X4 Suv",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/pajero-sport-4x4-suv/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Eclipse-Cross-side.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2025/05/vehicle-grey-back-2025.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/Outlander-2.5-GLS-ASPIRE-CVT-1200x525-1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Pajero Sport 4X4 Suv",
+          "slug": "pajero-sport-4x4-suv",
+          "price_incl": 789990,
+          "price_excl": 686948,
+          "price_display": "R789 990",
+          "monthly_estimate": 15240,
+          "specs": {}
+        }
+      ],
+      "price_from": 789990,
+      "price_to": 789990,
+      "price_range": "R789 990",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_triton-bakkies-for-sale",
+      "name": "Www_Mitsubishi Motors_Co_Za_Triton Bakkies For Sale",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_01_Tail-Lamps@2x.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/triton-bakkies-for-sale/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_01_Tail-Lamps@2x.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_02_Headlights@2x.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Exterior_06_Back-Step@2x.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2024/11/Triton-Interior_01_Steering@2x.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Triton Bakkies For Sale",
+          "slug": "triton-bakkies-for-sale",
+          "price_incl": 499990,
+          "price_excl": 434774,
+          "price_display": "R499 990",
+          "monthly_estimate": 9645,
+          "specs": {}
+        }
+      ],
+      "price_from": 499990,
+      "price_to": 499990,
+      "price_range": "R499 990",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_xpander-affordable-suv-sa",
+      "name": "Www_Mitsubishi Motors_Co_Za_Xpander Affordable Suv Sa",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/xpander-affordable-suv-sa/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Eclipse-Cross-side.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/xpander-back.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/Outlander-2.5-GLS-ASPIRE-CVT-1200x525-1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Xpander Affordable Suv Sa",
+          "slug": "xpander-affordable-suv-sa",
+          "price_incl": 365995,
+          "price_excl": 318257,
+          "price_display": "R365 995",
+          "monthly_estimate": 7060,
+          "specs": {}
+        }
+      ],
+      "price_from": 365995,
+      "price_to": 365995,
+      "price_range": "R365 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mitsubishi-motors_co_za_xpander-cross",
+      "name": "Www_Mitsubishi Motors_Co_Za_Xpander Cross",
+      "brand": "Mitsubishi",
+      "brand_key": "mitsubishi",
+      "hero_image": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+      "source_url": "https://www.mitsubishi-motors.co.za/xpander-cross/",
+      "images": [
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Xpander-side.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/01/Eclipse-Cross-side.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/Outlander-2.5-GLS-ASPIRE-CVT-1200x525-1.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/04/Pajero-Sport-Side-View.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://mitsubishi-motors.co.za/wp-content/uploads/2023/06/vehicle-icon_04-offroad.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "404",
+          "slug": "404",
+          "price_incl": 339995,
+          "price_excl": 295648,
+          "price_display": "R339 995",
+          "monthly_estimate": 6559,
+          "specs": {}
+        }
+      ],
+      "price_from": 339995,
+      "price_to": 339995,
+      "price_range": "R339 995",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 9,
+  "price_from": 339995,
+  "price_to": 789990
+}

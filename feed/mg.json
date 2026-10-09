@@ -1,0 +1,417 @@
+{
+  "key": "mg",
+  "name": "MG",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "www_mgmotor_co_za_cyberster",
+      "name": "Www_Mgmotor_Co_Za_Cyberster",
+      "brand": "MG",
+      "brand_key": "mg",
+      "hero_image": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+      "source_url": "https://www.mgmotor.co.za/cyberster.html",
+      "images": [
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217183589.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915044420.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915055512.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915123125.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Full specification",
+          "slug": "full-specification",
+          "price_incl": 289900,
+          "price_excl": 252087,
+          "price_display": "R289 900",
+          "monthly_estimate": 5593,
+          "specs": {
+            "engine_capacity": "•",
+            "power_kw": "•",
+            "torque_nm": "•",
+            "fuel_consumption_l100km": "443",
+            "airbags": "•"
+          },
+          "dimensions": {
+            "length_mm": "4535",
+            "width_mm": "1913",
+            "height_mm": "1329",
+            "wheelbase_mm": "2690"
+          }
+        }
+      ],
+      "price_from": 289900,
+      "price_to": 289900,
+      "price_range": "R289 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_mgmotor_co_za_mg-hs",
+      "name": "Www_Mgmotor_Co_Za_Mg Hs",
+      "brand": "MG",
+      "brand_key": "mg",
+      "hero_image": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+      "source_url": "https://www.mgmotor.co.za/mg-hs.html",
+      "images": [
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217183589.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915044420.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915055512.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915123125.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5T DCTCOMFORT",
+          "slug": "1-5t-dctcomfort",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "55"
+          }
+        },
+        {
+          "name": "1.5T DCTLUXURY",
+          "slug": "1-5t-dctluxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "55"
+          }
+        },
+        {
+          "name": "2.0T ATCOMFORT",
+          "slug": "2-0t-atcomfort",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "65"
+          }
+        },
+        {
+          "name": "2.0T ATLUXURY",
+          "slug": "2-0t-atluxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "65"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "55",
+      "variant_count": 4
+    },
+    {
+      "slug": "www_mgmotor_co_za_mg-zs",
+      "name": "Www_Mgmotor_Co_Za_Mg Zs",
+      "brand": "MG",
+      "brand_key": "mg",
+      "hero_image": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+      "source_url": "https://www.mgmotor.co.za/mg-zs.html",
+      "images": [
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217183589.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915044420.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915055512.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915123125.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "ZS \"1.5L 4AT COMFORT\"",
+          "slug": "zs-1-5l-4at-comfort",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "84",
+            "torque_nm": "150",
+            "fuel_type": "Petrol"
+          }
+        },
+        {
+          "name": "ZS\"1.5L 4AT LUXURY \"",
+          "slug": "zs-1-5l-4at-luxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "84",
+            "torque_nm": "150",
+            "fuel_type": "Petrol"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "Petrol",
+      "variant_count": 2
+    },
+    {
+      "slug": "www_mgmotor_co_za_mg-zs-pro",
+      "name": "Www_Mgmotor_Co_Za_Mg Zs Pro",
+      "brand": "MG",
+      "brand_key": "mg",
+      "hero_image": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+      "source_url": "https://www.mgmotor.co.za/mg-zs-pro.html",
+      "images": [
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217183589.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915044420.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mgmotor.co.za/images/models/mg-zs-pro/Innovation-Inside.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2025081915055512.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5T CVTCOMFORT",
+          "slug": "1-5t-cvtcomfort",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1496",
+            "power_kw": "125",
+            "torque_nm": "275",
+            "fuel_type": "RON 95 and above",
+            "transmission": "CVT",
+            "drivetrain": "Front Wheel Drive"
+          }
+        },
+        {
+          "name": "1.5T CVTLUXURY",
+          "slug": "1-5t-cvtluxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1496",
+            "power_kw": "125",
+            "torque_nm": "275",
+            "fuel_type": "RON 95 and above",
+            "transmission": "CVT",
+            "drivetrain": "Front Wheel Drive"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "RON 95 and above",
+      "variant_count": 2
+    },
+    {
+      "slug": "www_mgmotor_co_za_mg3",
+      "name": "Www_Mgmotor_Co_Za_Mg3",
+      "brand": "MG",
+      "brand_key": "mg",
+      "hero_image": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+      "source_url": "https://www.mgmotor.co.za/mg3.html",
+      "images": [
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217182376.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mgmotor.co.za/ufile/nav/2024120217183589.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mgmotor.co.za/images/models/mg3/A-N-B-I-H-S.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mgmotor.co.za/images/models/mg3/ITMAS.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mgmotor.co.za/images/models/mg3/A-Fun-Driving-Experience.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5L MTCOMFORT",
+          "slug": "1-5l-mtcomfort",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1495",
+            "power_kw": "•",
+            "torque_nm": "142/4500",
+            "fuel_type": "Multipoint Injection",
+            "transmission": "Manual Transmission",
+            "drivetrain": "Front Wheel Drive"
+          }
+        },
+        {
+          "name": "1.5L CVTCOMFORT",
+          "slug": "1-5l-cvtcomfort",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1495",
+            "power_kw": "•",
+            "torque_nm": "142/4500",
+            "fuel_type": "Multipoint Injection",
+            "transmission": "CVT",
+            "drivetrain": "Front Wheel Drive"
+          }
+        },
+        {
+          "name": "1.5L CVTLUXURY",
+          "slug": "1-5l-cvtluxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1495",
+            "power_kw": "•",
+            "torque_nm": "142/4500",
+            "fuel_type": "Multipoint Injection",
+            "transmission": "CVT",
+            "drivetrain": "Front Wheel Drive"
+          }
+        },
+        {
+          "name": "1.5L CVTLUXURY+",
+          "slug": "1-5l-cvtluxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1495",
+            "power_kw": "•",
+            "torque_nm": "142/4500",
+            "fuel_type": "Multipoint Injection",
+            "transmission": "CVT",
+            "drivetrain": "Front Wheel Drive"
+          }
+        },
+        {
+          "name": "1.5L HEV LUXURY",
+          "slug": "1-5l-hev-luxury",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1498",
+            "power_kw": "•",
+            "torque_nm": "425",
+            "fuel_type": "Multipoint Injection",
+            "transmission": "Hybrid Transmission",
+            "drivetrain": "Front Wheel Drive"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "Multipoint Injection",
+      "variant_count": 5
+    }
+  ],
+  "total_variants": 14,
+  "model_count": 5,
+  "price_from": 289900,
+  "price_to": 289900
+}

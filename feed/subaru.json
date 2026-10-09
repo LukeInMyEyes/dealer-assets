@@ -1,0 +1,264 @@
+{
+  "key": "subaru",
+  "name": "Subaru",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "crosstrek",
+      "name": "Crosstrek",
+      "brand": "Subaru",
+      "brand_key": "subaru",
+      "hero_image": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+      "source_url": "https://www.subaru.co.za/showroom/crosstrek/",
+      "images": [
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/04/Triangle-1.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/360-images/360.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/360-images/Arrow2.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/360-images/Arrow1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Crosstrek 2.0-i L ES",
+          "slug": "crosstrek-2-0-i-l-es",
+          "price_incl": 609000,
+          "price_excl": 529565,
+          "price_display": "R609 000",
+          "monthly_estimate": 11748,
+          "specs": {}
+        },
+        {
+          "name": "Crosstrek 2.0-i S ES",
+          "slug": "crosstrek-2-0-i-s-es",
+          "price_incl": 699000,
+          "price_excl": 607826,
+          "price_display": "R699 000",
+          "monthly_estimate": 13485,
+          "specs": {}
+        }
+      ],
+      "price_from": 609000,
+      "price_to": 699000,
+      "price_range": "R609 000 – R699 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 2
+    },
+    {
+      "slug": "forester",
+      "name": "Forester",
+      "brand": "Subaru",
+      "brand_key": "subaru",
+      "hero_image": "https://www.subaru.co.za/wp-content/uploads/2024/04/wrx-showroom-img.png",
+      "source_url": "https://www.subaru.co.za/showroom/forester/",
+      "images": [
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/04/wrx-showroom-img.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/04/cosstrek-showroom-image.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/04/outback-showroom-image.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/04/Triangle-1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Field",
+          "slug": "field",
+          "price_incl": 699000,
+          "price_excl": 607826,
+          "price_display": "R699 000",
+          "monthly_estimate": 13485,
+          "specs": {}
+        },
+        {
+          "name": "Touring",
+          "slug": "touring",
+          "price_incl": 740000,
+          "price_excl": 643478,
+          "price_display": "R740 000",
+          "monthly_estimate": 14275,
+          "specs": {}
+        },
+        {
+          "name": "Sport",
+          "slug": "sport",
+          "price_incl": 790000,
+          "price_excl": 686957,
+          "price_display": "R790 000",
+          "monthly_estimate": 15240,
+          "specs": {}
+        },
+        {
+          "name": "Premuim",
+          "slug": "premuim",
+          "price_incl": 830000,
+          "price_excl": 721739,
+          "price_display": "R830 000",
+          "monthly_estimate": 16012,
+          "specs": {}
+        }
+      ],
+      "price_from": 699000,
+      "price_to": 830000,
+      "price_range": "R699 000 – R830 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 4
+    },
+    {
+      "slug": "outback",
+      "name": "Outback",
+      "brand": "Subaru",
+      "brand_key": "subaru",
+      "hero_image": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+      "source_url": "https://www.subaru.co.za/showroom/outback/",
+      "images": [
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2026/09/Group-90-scaled.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2026/09/Group-155.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2026/09/Image-5.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2026/09/Image-13.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Outback",
+          "slug": "outback",
+          "price_incl": 609000,
+          "price_excl": 529565,
+          "price_display": "R609 000",
+          "monthly_estimate": 11748,
+          "specs": {}
+        }
+      ],
+      "price_from": 609000,
+      "price_to": 609000,
+      "price_range": "R609 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "wrx",
+      "name": "Wrx",
+      "brand": "Subaru",
+      "brand_key": "subaru",
+      "hero_image": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+      "source_url": "https://www.subaru.co.za/showroom/wrx/",
+      "images": [
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/03/wrx-models-img.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/2024/04/Triangle-1.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/360-images/360.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/360-images/Arrow2.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.subaru.co.za/wp-content/uploads/360-images/Arrow1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "WRX 2.4DIT Manual",
+          "slug": "wrx-2-4dit-manual",
+          "price_incl": 839000,
+          "price_excl": 729565,
+          "price_display": "R839 000",
+          "monthly_estimate": 16185,
+          "specs": {}
+        },
+        {
+          "name": "WRX 2.4DIT tS ES CVT",
+          "slug": "wrx-2-4dit-ts-es-cvt",
+          "price_incl": 920000,
+          "price_excl": 800000,
+          "price_display": "R920 000",
+          "monthly_estimate": 17748,
+          "specs": {}
+        }
+      ],
+      "price_from": 839000,
+      "price_to": 920000,
+      "price_range": "R839 000 – R920 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 2
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 4,
+  "price_from": 609000,
+  "price_to": 920000
+}

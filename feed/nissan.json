@@ -1,0 +1,375 @@
+{
+  "key": "nissan",
+  "name": "Nissan",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "new-models_magnite-kuro",
+      "name": "New Models_Magnite Kuro",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/magnite-kuro/",
+      "images": [
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/Magnite-model.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-kuro/Magnite Kuro.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Nissan magnite-kuro",
+          "slug": "new-nissan-magnite-kuro",
+          "price_incl": 340300,
+          "price_excl": 295913,
+          "price_display": "R340 300",
+          "monthly_estimate": 6565,
+          "specs": {}
+        }
+      ],
+      "price_from": 340300,
+      "price_to": 340300,
+      "price_range": "R340 300",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_magnite-move",
+      "name": "New Models_Magnite Move",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/magnite-move/",
+      "images": [
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/Magnite-model.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-kuro/Magnite Kuro.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Nissan magnite-move",
+          "slug": "new-nissan-magnite-move",
+          "price_incl": 229900,
+          "price_excl": 199913,
+          "price_display": "R229 900",
+          "monthly_estimate": 4435,
+          "specs": {}
+        }
+      ],
+      "price_from": 229900,
+      "price_to": 229900,
+      "price_range": "R229 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_navara-double-cab",
+      "name": "New Models_Navara Double Cab",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://www.carshophub.co.za/XMLFeedOutput/VehicleImages/0/NissNava2Fd28/NissNava2Fd28-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/navara-double-cab/",
+      "images": [
+        {
+          "url": "https://www.carshophub.co.za/XMLFeedOutput/VehicleImages/0/NissNava2Fd28/NissNava2Fd28-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/navara-double-cab/Exterior.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Nissan navara-double-cab",
+          "slug": "new-nissan-navara-double-cab",
+          "price_incl": 493600,
+          "price_excl": 429217,
+          "price_display": "R493 600",
+          "monthly_estimate": 9522,
+          "specs": {}
+        }
+      ],
+      "price_from": 493600,
+      "price_to": 493600,
+      "price_range": "R493 600",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_navara-single-cab",
+      "name": "New Models_Navara Single Cab",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/navara-single-cab/",
+      "images": [
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/Magnite-model.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-kuro/Magnite Kuro.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Nissan navara-single-cab",
+          "slug": "new-nissan-navara-single-cab",
+          "price_incl": 433500,
+          "price_excl": 376957,
+          "price_display": "R433 500",
+          "monthly_estimate": 8363,
+          "specs": {}
+        }
+      ],
+      "price_from": 433500,
+      "price_to": 433500,
+      "price_range": "R433 500",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_new-magnite",
+      "name": "New Models_New Magnite",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/new-magnite/",
+      "images": [
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/exterior.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/Magnite-model.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Nissan new-magnite",
+          "slug": "new-nissan-new-magnite",
+          "price_incl": 252200,
+          "price_excl": 219304,
+          "price_display": "R252 200",
+          "monthly_estimate": 4865,
+          "specs": {}
+        }
+      ],
+      "price_from": 252200,
+      "price_to": 252200,
+      "price_range": "R252 200",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_patrol",
+      "name": "New Models_Patrol",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/patrol/",
+      "images": [
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/Magnite-model.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-kuro/Magnite Kuro.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Patrol",
+          "slug": "patrol",
+          "price_incl": 229900,
+          "price_excl": 199913,
+          "price_display": "R229 900",
+          "monthly_estimate": 4435,
+          "specs": {}
+        }
+      ],
+      "price_from": 229900,
+      "price_to": 229900,
+      "price_range": "R229 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "new-models_x-trail",
+      "name": "New Models_X Trail",
+      "brand": "Nissan",
+      "brand_key": "nissan",
+      "hero_image": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+      "source_url": "https://cmhnissan.co.za/new-models/x-trail/",
+      "images": [
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/02/CMH_Group_White-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/x-trail/Exterior.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/2024/01/cropped-CMH_Group.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/magnite-move/nissan-panel-van-magnite.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cmhnissan.co.za/wp-content/uploads/site/newvehicles/new-magnite/Magnite-model.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "New Nissan x-trail",
+          "slug": "new-nissan-x-trail",
+          "price_incl": 599000,
+          "price_excl": 520870,
+          "price_display": "R599 000",
+          "monthly_estimate": 11555,
+          "specs": {}
+        }
+      ],
+      "price_from": 599000,
+      "price_to": 599000,
+      "price_range": "R599 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 7,
+  "model_count": 7,
+  "price_from": 229900,
+  "price_to": 599000
+}

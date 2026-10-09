@@ -1,0 +1,458 @@
+{
+  "key": "renault",
+  "name": "Renault",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "vehicle_captur",
+      "name": "Vehicle_Captur",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/captur",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-12/Captur%20Header.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-12/Captur-black-banner-2.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-12/renault-captur.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "the perfect match",
+          "slug": "the-perfect-match",
+          "price_incl": 515999,
+          "price_excl": 448695,
+          "price_display": "R515 999",
+          "monthly_estimate": 9954,
+          "specs": {}
+        }
+      ],
+      "price_from": 515999,
+      "price_to": 515999,
+      "price_range": "R515 999",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_clio",
+      "name": "Vehicle_Clio",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/clio",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-08/DusterMY26-Side_0.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-03/kwid-le-header.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-09/kwid.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "All vehicles",
+          "slug": "all-vehicles",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_duster",
+      "name": "Vehicle_Duster",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/duster",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/2026-08/slide-3.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-08/DusterMY26-Side_0.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-07/duster-home.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "NEW RENAULT",
+          "slug": "new-renault",
+          "price_incl": 339999,
+          "price_excl": 295651,
+          "price_display": "R339 999",
+          "monthly_estimate": 6559,
+          "specs": {}
+        }
+      ],
+      "price_from": 339999,
+      "price_to": 339999,
+      "price_range": "R339 999",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_kiger",
+      "name": "Vehicle_Kiger",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-11/image002.png",
+      "source_url": "https://www.renault.co.za/vehicle/kiger",
+      "images": [
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-11/image002.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-11/image003%20%281%29.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-11/image004.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-04/kiger-interior.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-11/image001%20%281%29.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "rethink performance",
+          "slug": "rethink-performance",
+          "price_incl": 219999,
+          "price_excl": 191303,
+          "price_display": "R219 999",
+          "monthly_estimate": 4244,
+          "specs": {}
+        }
+      ],
+      "price_from": 219999,
+      "price_to": 219999,
+      "price_range": "R219 999",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_koleos",
+      "name": "Vehicle_Koleos",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/koleos",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        }
+      ],
+      "variants": [
+        {
+          "name": "404",
+          "slug": "404",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_kwid",
+      "name": "Vehicle_Kwid",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/kwid",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-10/renault-kwid-ice-bba-overview-010.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/2026-08/Kwid-gallery-1.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-10/renault-kwid-ice-bba-overview-007_1.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "you’ll know you’ve arrived",
+          "slug": "you-ll-know-you-ve-arrived",
+          "price_incl": 178799,
+          "price_excl": 155477,
+          "price_display": "R178 799",
+          "monthly_estimate": 3449,
+          "specs": {}
+        }
+      ],
+      "price_from": 178799,
+      "price_to": 178799,
+      "price_range": "R178 799",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_trafic-van",
+      "name": "Vehicle_Trafic Van",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/trafic-van",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2024-06/Trafic%20Van-2160x732px.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/2025-02/Renault_Trafic_MY23-Dash_Interior-SA-RHD%20%281%29.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-02/Renault_Trafic_Panel_Van-MY23-SideRHS.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "ready to work",
+          "slug": "ready-to-work",
+          "price_incl": 635999,
+          "price_excl": 553043,
+          "price_display": "R635 999",
+          "monthly_estimate": 12269,
+          "specs": {}
+        }
+      ],
+      "price_from": 635999,
+      "price_to": 635999,
+      "price_range": "R635 999",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_triber",
+      "name": "Vehicle_Triber",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/triber",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-10/Triber-Header.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-10/Triber-Interior.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2025-10/renault-triber.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "rethink space",
+          "slug": "rethink-space",
+          "price_incl": 218999,
+          "price_excl": 190434,
+          "price_display": "R218 999",
+          "monthly_estimate": 4225,
+          "specs": {}
+        }
+      ],
+      "price_from": 218999,
+      "price_to": 218999,
+      "price_range": "R218 999",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "vehicle_triber-express",
+      "name": "Vehicle_Triber Express",
+      "brand": "Renault",
+      "brand_key": "renault",
+      "hero_image": "https://www.renault.co.za/we-are-motus.png",
+      "source_url": "https://www.renault.co.za/vehicle/triber-express",
+      "images": [
+        {
+          "url": "https://www.renault.co.za/we-are-motus.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.renault.co.za/moving-forward.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-08/triber-express-back.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/2026-08/Gallery-Image-3.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://cms.renault.co.za/sites/default/files/styles/640w/public/2026-08/triber-express-side.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "cargo space for everything",
+          "slug": "cargo-space-for-everything",
+          "price_incl": 244999,
+          "price_excl": 213043,
+          "price_display": "R244 999",
+          "monthly_estimate": 4726,
+          "specs": {}
+        }
+      ],
+      "price_from": 244999,
+      "price_to": 244999,
+      "price_range": "R244 999",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 9,
+  "price_from": 178799,
+  "price_to": 635999
+}

@@ -1,7 +1,7 @@
 {
   "key": "fiat",
   "name": "Fiat",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "500",
@@ -101,10 +101,176 @@
       "body_type": "Hatchback",
       "fuel_type": "Petrol",
       "variant_count": 3
+    },
+    {
+      "slug": "campaigns_tipo-hatch",
+      "name": "Campaigns_Tipo Hatch",
+      "brand": "Fiat",
+      "brand_key": "fiat",
+      "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+      "source_url": "https://www.fiat.co.za/campaigns/tipo-hatch",
+      "images": [
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/master/Logo-100x76.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg/jcr:content/renditions/desktop.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        }
+      ],
+      "variants": [
+        {
+          "name": "Oops",
+          "slug": "oops",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "campaigns_tipo-sedan",
+      "name": "Campaigns_Tipo Sedan",
+      "brand": "Fiat",
+      "brand_key": "fiat",
+      "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+      "source_url": "https://www.fiat.co.za/campaigns/tipo-sedan",
+      "images": [
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/master/Logo-100x76.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg/jcr:content/renditions/desktop.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        }
+      ],
+      "variants": [
+        {
+          "name": "Oops",
+          "slug": "oops",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "fiat-500",
+      "name": "Fiat 500",
+      "brand": "Fiat",
+      "brand_key": "fiat",
+      "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/no-more-grey-cover/mobile.jpg",
+      "source_url": "https://www.fiat.co.za/models/fiat-500",
+      "images": [
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/no-more-grey-cover/mobile.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/za/aftersales-campaigns/Fiat-aftersales-d.jpg",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/the-fastest-way-to-get-your-fiat/stock/mobile.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/the-fastest-way-to-get-your-fiat/dealership/mobile.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/the-fastest-way-to-get-your-fiat/spoticar/mobile.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Fiat 500",
+          "slug": "fiat-500",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "fiat-500x_fiat-500x",
+      "name": "Fiat 500X_Fiat 500X",
+      "brand": "Fiat",
+      "brand_key": "fiat",
+      "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+      "source_url": "https://www.fiat.co.za/fiat-500x/fiat-500x",
+      "images": [
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/master/Logo-100x76.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg/jcr:content/renditions/desktop.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        }
+      ],
+      "variants": [
+        {
+          "name": "Oops",
+          "slug": "oops",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
     }
   ],
-  "total_variants": 3,
-  "model_count": 1,
+  "total_variants": 7,
+  "model_count": 5,
   "price_from": 308900,
   "price_to": 351900
 }

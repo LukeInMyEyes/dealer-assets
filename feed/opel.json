@@ -1,7 +1,7 @@
 {
   "key": "opel",
   "name": "Opel",
-  "updated_at": "2026-06-13T05:25:54",
+  "updated_at": "2026-10-09T19:21:04",
   "models": [
     {
       "slug": "corsa",
@@ -99,6 +99,104 @@
       "variant_count": 3
     },
     {
+      "slug": "corsa-models",
+      "name": "Corsa Models",
+      "brand": "Opel",
+      "brand_key": "opel",
+      "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/corsa-f/16x9/opel_corsa_exterior_family_16x9_co20_e02_001.jpg?imwidth=768",
+      "source_url": "https://www.opel.co.za/cars/corsa-models.html",
+      "images": [
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/corsa-f/16x9/opel_corsa_exterior_family_16x9_co20_e02_001.jpg?imwidth=768",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/16x9/za-opel-new-6th-generation-corsa-edition-red-2720x1530.jpg?imwidth=768",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/21x9/za-opel-new-6th-generation-corsa-edition-red-2880x1235.jpg?imwidth=1920",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/21x9/za-opel-new-6th-generation-corsa-edition-red-2880x1235.jpg?imwidth=1182",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/21x9/za-opel-new-6th-generation-corsa-edition-red-2880x1235.jpg?imwidth=991",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Opel Corsa",
+          "slug": "opel-corsa",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "crossland",
+      "name": "Crossland",
+      "brand": "Opel",
+      "brand_key": "opel",
+      "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=1920",
+      "source_url": "https://www.opel.co.za/cars/crossland.html",
+      "images": [
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=1920",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/16x9/opel_crossland_exterior_16x9_cr21_e01_001.jpg?imwidth=768",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=1182",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=991",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/footer/textlogo.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Crossland.Html",
+          "slug": "crossland-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
       "slug": "grandland",
       "name": "Grandland",
       "brand": "Opel",
@@ -181,6 +279,134 @@
       "variant_count": 2
     },
     {
+      "slug": "grandland-models",
+      "name": "Grandland Models",
+      "brand": "Opel",
+      "brand_key": "opel",
+      "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=1920",
+      "source_url": "https://www.opel.co.za/cars/grandland-models.html",
+      "images": [
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=1920",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/4x3/opel_grandland_exterior_4x3_gr22_e01_037.jpg?imwidth=768",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=1182",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=991",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/4x3/opel_grandland_exterior_4x3_gr22_e01_037.jpg?imwidth=1920",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Opel Grandland",
+          "slug": "opel-grandland",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "life_model-overview",
+      "name": "Life_Model Overview",
+      "brand": "Opel",
+      "brand_key": "opel",
+      "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/combo-life/bbc/576x322/combo-life-n1_elegance-plus_side_576x324.png",
+      "source_url": "https://www.opel.co.za/cars/combo/life/model-overview.html",
+      "images": [
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/combo-life/bbc/576x322/combo-life-n1_elegance-plus_side_576x324.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/combo/bbc/opel-za-combo-cargo-bbc.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/combo-life/4x3/opel_combo_life_rear_split_seats_4x3_cml18_i01_016.jpg?imwidth=768",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/news/za-opel-combo-life-best-buy-car-of-europe-2019-1920x1080.png?imwidth=768",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/combo/21x9/opel-za-combo-life-lifestyle-2880x1235.jpg?imwidth=768",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Opel Combo Life Enjoy 1.6TD M/T",
+          "slug": "opel-combo-life-enjoy-1-6td-m-t",
+          "price_incl": 474900,
+          "price_excl": 412957,
+          "price_display": "R474 900",
+          "monthly_estimate": 9161,
+          "specs": {}
+        },
+        {
+          "name": "Opel Combo Life Enjoy 1.6TD M/T",
+          "slug": "opel-combo-life-enjoy-1-6td-m-t",
+          "price_incl": 474900,
+          "price_excl": 412957,
+          "price_display": "R474 900",
+          "monthly_estimate": 9161,
+          "specs": {}
+        },
+        {
+          "name": "Opel Combo Life Enjoy 1.6TD M/T",
+          "slug": "opel-combo-life-enjoy-1-6td-m-t",
+          "price_incl": 474900,
+          "price_excl": 412957,
+          "price_display": "R474 900",
+          "monthly_estimate": 9161,
+          "specs": {}
+        },
+        {
+          "name": "Opel Combo Life Enjoy 1.6TD M/T",
+          "slug": "opel-combo-life-enjoy-1-6td-m-t",
+          "price_incl": 474900,
+          "price_excl": 412957,
+          "price_display": "R474 900",
+          "monthly_estimate": 9161,
+          "specs": {}
+        }
+      ],
+      "price_from": 474900,
+      "price_to": 474900,
+      "price_range": "R474 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 4
+    },
+    {
       "slug": "mokka",
       "name": "Mokka",
       "brand": "Opel",
@@ -251,10 +477,88 @@
       "body_type": "SUV",
       "fuel_type": "Petrol",
       "variant_count": 2
+    },
+    {
+      "slug": "mokka-models",
+      "name": "Mokka Models",
+      "brand": "Opel",
+      "brand_key": "opel",
+      "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=1920",
+      "source_url": "https://www.opel.co.za/cars/mokka-models.html",
+      "images": [
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=1920",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/16x9/opel_mokka_exterior_16x9_mok21_e01_039.jpg?imwidth=768",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=1182",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=991",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/16x9/opel_mokka_exterior_16x9_mok21_e01_039.jpg?imwidth=1920",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mokka Models.Html",
+          "slug": "mokka-models-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "zafira-life",
+      "name": "Zafira Life",
+      "brand": "Opel",
+      "brand_key": "opel",
+      "hero_image": "https://www.opel.co.za/content/dam/opel/master/footer/textlogo.png",
+      "source_url": "https://www.opel.co.za/cars/zafira-life.html",
+      "images": [
+        {
+          "url": "https://www.opel.co.za/content/dam/opel/master/footer/textlogo.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        }
+      ],
+      "variants": [
+        {
+          "name": "Zafira Life.Html",
+          "slug": "zafira-life-html",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
     }
   ],
-  "total_variants": 7,
-  "model_count": 3,
+  "total_variants": 16,
+  "model_count": 9,
   "price_from": 379500,
   "price_to": 789900
 }

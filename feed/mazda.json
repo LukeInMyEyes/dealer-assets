@@ -1,0 +1,445 @@
+{
+  "key": "mazda",
+  "name": "Mazda",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "c01_mazda-assured",
+      "name": "C01_Mazda Assured",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-active_560x294-v2.png",
+      "source_url": "https://www.mazda.co.za/c01/mazda-assured",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-active_560x294-v2.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-dynamic_560x294-v2.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-individual_560x294-v2.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/Grade%20Walk/cx-30-grade-active_560x294-v2.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/Grade%20Walk/cx-30-grade-dynamic_560x294-v2.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mazda Assured",
+          "slug": "mazda-assured",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "c01_mazda-secured",
+      "name": "C01_Mazda Secured",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-active_560x294-v2.png",
+      "source_url": "https://www.mazda.co.za/c01/mazda-secured",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-active_560x294-v2.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-dynamic_560x294-v2.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-individual_560x294-v2.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/Grade%20Walk/cx-30-grade-active_560x294-v2.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/Grade%20Walk/cx-30-grade-dynamic_560x294-v2.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mazda Secured",
+          "slug": "mazda-secured",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "cx-3",
+      "name": "Cx 3",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/cx-3/360/main/DNJCRAA_52C_D4R_AERO-GREY/CX-3_DNJCRAA_52C_D4R_EXT_360_24_TransparentPNG_0001.webp",
+      "source_url": "https://www.mazda.co.za/cars/cx-3",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-3/360/main/DNJCRAA_52C_D4R_AERO-GREY/CX-3_DNJCRAA_52C_D4R_EXT_360_24_TransparentPNG_0001.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-3/grades/EDITION/01_cx-3_active_950x440px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-3/grades/EDITION/02_cx-3_dynamic_950x440px.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-3/grades/EDITION/04_cx-3_individual_950x440px.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-3/grades/EDITION/03_cx-3_carbon_950x440px.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Cx 3",
+          "slug": "cx-3",
+          "price_incl": 551600,
+          "price_excl": 479652,
+          "price_display": "R551 600",
+          "monthly_estimate": 10641,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "price_from": 551600,
+      "price_to": 551600,
+      "price_range": "R551 600",
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "cx-30",
+      "name": "Cx 30",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/cx-30/showroom/01_cx-30_showroom_header_mobile_500x768pxv.png",
+      "source_url": "https://www.mazda.co.za/cars/cx-30",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/showroom/01_cx-30_showroom_header_mobile_500x768pxv.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/showroom/GALLERY/01_cx-30_gallery_1920x851px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/360/main/a4d_arctic_white/CX-30_DSAWRAK_A4D_D5P_EXT_360_24_TransparentPNG_0001.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/showroom/GRADES/01_cx-30_active_950x440px.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-30/showroom/GRADES/02_cx-30_dynamic_950x440px.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Cx 30",
+          "slug": "cx-30",
+          "price_incl": 539800,
+          "price_excl": 469391,
+          "price_display": "R539 800",
+          "monthly_estimate": 10413,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "price_from": 539800,
+      "price_to": 539800,
+      "price_range": "R539 800",
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "cx-5",
+      "name": "Cx 5",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/cx-5/car_config/external/2026/HomuraNavy-Blue-Mica/CX-5_KLDHRA8_52M_26-07_EXT_360_36_TransparentPNG_0001.jpg",
+      "source_url": "https://www.mazda.co.za/cars/cx-5",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/car_config/external/2026/HomuraNavy-Blue-Mica/CX-5_KLDHRA8_52M_26-07_EXT_360_36_TransparentPNG_0001.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/01_cx-5%20showroom_header_mobile_500x768pxv.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/2026/Landing/MAZDA-CX-5_the-drive-01_1536x1000.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://141078898.fs1.hubspotusercontent-eu1.net/hubfs/141078898/Web/Home/Hero%20bg/02_cx-5_home_header_1920x851px.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/Web/campaigns/CX-5%20Video%20Content%20Series/Ep3-Confidence-on-the-Road_1368x770.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Cx 5",
+          "slug": "cx-5",
+          "price_incl": 578250,
+          "price_excl": 502826,
+          "price_display": "R578 250",
+          "monthly_estimate": 11155,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "price_from": 578250,
+      "price_to": 578250,
+      "price_range": "R578 250",
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "mazda-cx-60",
+      "name": "Mazda Cx 60",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/cx-60/car_config/external/Takumi-AT/Jet-Black/CX-60_KPE9BAE_41W_10-24_EXT_360_36_TransparentPNG_0001.jpg",
+      "source_url": "https://www.mazda.co.za/cars/mazda-cx-60",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-60/car_config/external/Takumi-AT/Jet-Black/CX-60_KPE9BAE_41W_10-24_EXT_360_36_TransparentPNG_0001.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-60/showroom/01_cx-60%20showroom_header_mobile_500x768pxv.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-60/showroom/GALLERY/01_cx-60_gallery_1920x851px.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/01_cx-60_dynamic_950x440px.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/02_cx-60_individual_950x440px.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mazda Cx 60",
+          "slug": "mazda-cx-60",
+          "price_incl": 790200,
+          "price_excl": 687130,
+          "price_display": "R790 200",
+          "monthly_estimate": 15244,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "price_from": 790200,
+      "price_to": 790200,
+      "price_range": "R790 200",
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "mazda2",
+      "name": "Mazda2",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/Mazda2/car_config/external/Individual-ATAero-Grey/Mazda2_DNFJRAB_52C_10-24_EXT_360_36_TransparentPNG_0001.jpg",
+      "source_url": "https://www.mazda.co.za/cars/mazda2",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/Mazda2/car_config/external/Individual-ATAero-Grey/Mazda2_DNFJRAB_52C_10-24_EXT_360_36_TransparentPNG_0001.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/Mazda2/grades/01_mazda2_active%20edition_950x440px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/Mazda2/grades/02_mazda2_dynamic%20edition_950x440px.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/Mazda2/grades/03_mazda2_individual%20edition_950x440px.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/Mazda2/Showroom/01_showroom_header_mobile_768x500px-2.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mazda2",
+          "slug": "mazda2",
+          "price_incl": 289900,
+          "price_excl": 252087,
+          "price_display": "R289 900",
+          "monthly_estimate": 5593,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "price_from": 289900,
+      "price_to": 289900,
+      "price_range": "R289 900",
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    },
+    {
+      "slug": "mazda3",
+      "name": "Mazda3",
+      "brand": "Mazda",
+      "brand_key": "mazda",
+      "hero_image": "https://www.mazda.co.za/hubfs/cars/Mazda3/car_config/external/Astina-AT/Arctic-White/Mazda3_BJDCRAQ_A4D_02-02_EXT_360_36_TransparentPNG_0001.jpg",
+      "source_url": "https://www.mazda.co.za/cars/mazda3",
+      "images": [
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/Mazda3/car_config/external/Astina-AT/Arctic-White/Mazda3_BJDCRAQ_A4D_02-02_EXT_360_36_TransparentPNG_0001.jpg",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/02_mazda3_dynamic%20edition_950x440px.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/01_mazda3_astina_950x440px.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-active_560x294-v2.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.mazda.co.za/hubfs/cars/cx-5/Grade%20Walk/cx-5-grade-dynamic_560x294-v2.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mazda3",
+          "slug": "mazda3",
+          "price_incl": 498300,
+          "price_excl": 433304,
+          "price_display": "R498 300",
+          "monthly_estimate": 9613,
+          "specs": {
+            "power_kw": "141 kW",
+            "fuel_type": "7.3 L/100km"
+          }
+        }
+      ],
+      "price_from": 498300,
+      "price_to": 498300,
+      "price_range": "R498 300",
+      "body_type": "",
+      "fuel_type": "7.3 L/100km",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 8,
+  "model_count": 8,
+  "price_from": 289900,
+  "price_to": 790200
+}

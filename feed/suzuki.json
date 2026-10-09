@@ -1,0 +1,919 @@
+{
+  "key": "suzuki",
+  "name": "Suzuki",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "across",
+      "name": "Across",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/Splendid%20Silver.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/across",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Splendid%20Silver.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hs-fs/hubfs/Across%202.png?width=1020&height=428&name=Across%202.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/SHVS%20Mild%20Hybrid%20Technology%20Smart%20Powered%20Tailgate%20(GL%20%26%20GLX)%208-way%20power%20adjustable%20driver%E2%80%99s%20seat%20(GLX)%20(8).png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hs-fs/hubfs/Spacious%2c%20Refined%20Cabin-1.jpg?width=1080&height=719&name=Spacious%2c%20Refined%20Cabin-1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Across",
+          "slug": "across",
+          "price_incl": 4899,
+          "price_excl": 4260,
+          "price_display": "R4 899",
+          "monthly_estimate": 95,
+          "specs": {}
+        }
+      ],
+      "price_from": 4899,
+      "price_to": 4899,
+      "price_range": "R4 899",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "baleno",
+      "name": "Baleno",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Baleno/Colours/SASA-ArcticWhitePearl.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/baleno",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Baleno/Colours/SASA-ArcticWhitePearl.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Baleno/Colours/SASA-Baleno-SplendidSilverPearlMetallic.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Baleno/Colours/SASA-Baleno-GrandeurGreyPearlMetallic.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Baleno/Colours/SASA-Baleno-OpulentRedPearlMetallic.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Affordable, comfortable, and classy Suzuki Baleno",
+          "slug": "affordable-comfortable-and-classy-suzuki-baleno",
+          "price_incl": 269900,
+          "price_excl": 234696,
+          "price_display": "R269 900",
+          "monthly_estimate": 5207,
+          "specs": {}
+        }
+      ],
+      "price_from": 269900,
+      "price_to": 269900,
+      "price_range": "R269 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "celerio",
+      "name": "Celerio",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/celerio/Colours/SASA-Celerio-firered.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/celerio",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/celerio/Colours/SASA-Celerio-firered.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/celerio/Colours/SASA-Celerio-speedybluemetallic.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/celerio/Colours/SASA-Celerio-arcticwhitepearl.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/celerio/Colours/SASA-Celerio-silkysilvermetallic.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Discover the Suzuki Celerio the perfect hatchback",
+          "slug": "discover-the-suzuki-celerio-the-perfect-hatchback",
+          "price_incl": 188900,
+          "price_excl": 164261,
+          "price_display": "R188 900",
+          "monthly_estimate": 3644,
+          "specs": {}
+        }
+      ],
+      "price_from": 188900,
+      "price_to": 188900,
+      "price_range": "R188 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "dzire",
+      "name": "Dzire",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Dzire/Colours/Dzire%20-%20Alluring%20Blue%20Pearl%20Metallic.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/dzire",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Dzire/Colours/Dzire%20-%20Alluring%20Blue%20Pearl%20Metallic.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Dzire/Colours/Dzire%20-%20Gallant%20Red%20Pearl%20Metallic.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Dzire%20-%20Nutmeg%20Brown%20Pearl%20Metallic%20I3.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Dzire%20-%20Arctic%20White%20Pearl.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "GA 5MT",
+          "slug": "ga-5mt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "37ℓ"
+          },
+          "dimensions": {
+            "length_mm": "3995mm",
+            "width_mm": "1735mm",
+            "height_mm": "1525mm",
+            "ground_clearance_mm": "145mm"
+          }
+        },
+        {
+          "name": "GL+ 5MT",
+          "slug": "gl-5mt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "37ℓ"
+          },
+          "dimensions": {
+            "length_mm": "3995mm",
+            "width_mm": "1735mm",
+            "height_mm": "1525mm",
+            "ground_clearance_mm": "145mm"
+          }
+        },
+        {
+          "name": "GL+ CVT",
+          "slug": "gl-cvt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "37ℓ"
+          },
+          "dimensions": {
+            "length_mm": "3995mm",
+            "width_mm": "1735mm",
+            "height_mm": "1525mm",
+            "ground_clearance_mm": "145mm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "37ℓ",
+      "variant_count": 3
+    },
+    {
+      "slug": "eeco",
+      "name": "Eeco",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/Eeco%20Thumbs-1.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/eeco",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Eeco%20Thumbs-1.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Global%20Assets/home-icon.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Global-Carousel-Super-Carry-Square.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Compact%20Car%20Commuting%20Costs%20in%20South%20Africa%20Desktop%20(3).jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Suzuki Eeco Features and Specs",
+          "slug": "suzuki-eeco-features-and-specs",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "engine_capacity": "1.2ℓ",
+            "power_kw": "59Kw @ 6000 r/min",
+            "torque_nm": "104Nm @ 3,000 r/min",
+            "fuel_type": "From 5.4ℓ/100KM",
+            "transmission": "2WD",
+            "airbags": "Yes"
+          },
+          "dimensions": {
+            "length_mm": "3 675mm",
+            "width_mm": "1 475mm",
+            "height_mm": "1 825mm",
+            "ground_clearance_mm": "160mm",
+            "kerb_weight_kg": "925-935kg"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "From 5.4ℓ/100KM",
+      "variant_count": 1
+    },
+    {
+      "slug": "ertiga",
+      "name": "Ertiga",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/Ertiga%20Thumbs3.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/ertiga",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Ertiga%20Thumbs3.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Global%20Assets/home-icon.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Global-Carousel-XL6-Square.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Global-Carousel-Dzire-Square.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Go All-In with the Suzuki Ertiga",
+          "slug": "go-all-in-with-the-suzuki-ertiga",
+          "price_incl": 307900,
+          "price_excl": 267739,
+          "price_display": "R307 900",
+          "monthly_estimate": 5940,
+          "specs": {}
+        }
+      ],
+      "price_from": 307900,
+      "price_to": 307900,
+      "price_range": "R307 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "fronx",
+      "name": "Fronx",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Fronx/Colours/SASA-Fronx-SplendidSilverPearlMetallic.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/fronx",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Fronx/Colours/SASA-Fronx-SplendidSilverPearlMetallic.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Fronx/Colours/SASA-Fronx-LucentOrangePearlMetallic.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Fronx/Colours/SASA-Fronx-CelestialBluePearlMetallic.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Fronx/Colours/SASA-Fronx-ArcticWhitePearl.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Across-driving-shot-2%201.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "The Suzuki Fronx the next frontier of SUVs",
+          "slug": "the-suzuki-fronx-the-next-frontier-of-suvs",
+          "price_incl": 303900,
+          "price_excl": 264261,
+          "price_display": "R303 900",
+          "monthly_estimate": 5863,
+          "specs": {}
+        }
+      ],
+      "price_from": 303900,
+      "price_to": 303900,
+      "price_range": "R303 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "grand-vitara",
+      "name": "Grand Vitara",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Grand%20Vitara/Colours/SASA-GV-Arctic-White-Pearl-GV2026.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/grand-vitara",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Grand%20Vitara/Colours/SASA-GV-Arctic-White-Pearl-GV2026.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Grand%20Vitara/Colours/SASA-GV-Cave-Black-Pearl-Metallic-GV2026.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Grand%20Vitara/Colours/SASA-GV-Celestial-Blue-Pearl-Metallic-GV2026.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Grand%20Vitara/Colours/SASA-GV-Grandeur-Grey-Pearl-Metallic-GV2026.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Across-driving-shot-2%201.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.5 GL 5MT",
+          "slug": "1-5-gl-5mt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "45ℓ"
+          },
+          "dimensions": {
+            "length_mm": "4 345mm",
+            "width_mm": "1 795mm",
+            "height_mm": "1 645mm",
+            "ground_clearance_mm": "210mm"
+          }
+        },
+        {
+          "name": "1.5 GL 4AT",
+          "slug": "1-5-gl-4at",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "45ℓ"
+          },
+          "dimensions": {
+            "length_mm": "4 345mm",
+            "width_mm": "1 795mm",
+            "height_mm": "1 645mm",
+            "ground_clearance_mm": "210mm"
+          }
+        },
+        {
+          "name": "1.5 GLX 4AT",
+          "slug": "1-5-glx-4at",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "45ℓ"
+          },
+          "dimensions": {
+            "length_mm": "4 345mm",
+            "width_mm": "1 795mm",
+            "height_mm": "1 645mm",
+            "ground_clearance_mm": "210mm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "45ℓ",
+      "variant_count": 3
+    },
+    {
+      "slug": "ignis",
+      "name": "Ignis",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Ignis/Colours/SASA-Ignis-GlisteningGreyMetallic.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/ignis",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Ignis/Colours/SASA-Ignis-GlisteningGreyMetallic.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Ignis/Colours/SASA-Ignis-ArcticWhitePearl.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Ignis/Colours/SASA-Ignis-SilkySilverMetallic.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Ignis/Colours/SASA-Ignis-MidnightBlackPearlLimited.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "1.2 GL MT",
+          "slug": "1-2-gl-mt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "32ℓ"
+          },
+          "dimensions": {
+            "length_mm": "3700mm",
+            "width_mm": "1,660mm",
+            "height_mm": "1595mm",
+            "ground_clearance_mm": "180mm"
+          }
+        },
+        {
+          "name": "1.2 GLX MT",
+          "slug": "1-2-glx-mt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "32ℓ"
+          },
+          "dimensions": {
+            "length_mm": "3700mm",
+            "width_mm": "1,690mm",
+            "height_mm": "1595mm",
+            "ground_clearance_mm": "180mm"
+          }
+        },
+        {
+          "name": "1.2 GLX AMT",
+          "slug": "1-2-glx-amt",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {
+            "fuel_type": "32ℓ"
+          },
+          "dimensions": {
+            "length_mm": "3700mm",
+            "width_mm": "1,690mm",
+            "height_mm": "1595mm",
+            "ground_clearance_mm": "180mm"
+          }
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "32ℓ",
+      "variant_count": 3
+    },
+    {
+      "slug": "jimny",
+      "name": "Jimny",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/Jimny%203Dr.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/jimny",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Jimny%203Dr.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Jimny%20Junior-2.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Global%20Assets/home-icon.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/Jimny/Colours/Kinetic%20Yellow%20%2B%20Bluish%20Black%20Pearl.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Across-driving-shot-2%201.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Suzuki Jimny: Conquer Any Adventure",
+          "slug": "suzuki-jimny-conquer-any-adventure",
+          "price_incl": 444900,
+          "price_excl": 386870,
+          "price_display": "R444 900",
+          "monthly_estimate": 8583,
+          "specs": {}
+        }
+      ],
+      "price_from": 444900,
+      "price_to": 444900,
+      "price_range": "R444 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "jimny-5-door",
+      "name": "Jimny 5 Door",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/jimny-5-door/Colours/SASA-Jimny-5-Door-Celestial-Blue-Pearl-Metallic.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/jimny-5-door",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/jimny-5-door/Colours/SASA-Jimny-5-Door-Celestial-Blue-Pearl-Metallic.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/jimny-5-door/Colours/Jimny%205-Door%20-%20Arctic%20White%20Pearl.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/jimny-5-door/Colours/SASA-Jimny-5-Door-Silky-Silver-Metallic.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/jimny-5-door/info/SASA-Jimny-5-door-interior.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Across-driving-shot-2%201.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Suzuki Jimny 5 Door, embrace adventure and style",
+          "slug": "suzuki-jimny-5-door-embrace-adventure-and-style",
+          "price_incl": 439900,
+          "price_excl": 382522,
+          "price_display": "R439 900",
+          "monthly_estimate": 8486,
+          "specs": {}
+        }
+      ],
+      "price_from": 439900,
+      "price_to": 439900,
+      "price_range": "R439 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "s-presso",
+      "name": "S Presso",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/s-presso/Colours/SASA-SPresso-SizzleOrange.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/s-presso",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/s-presso/Colours/SASA-SPresso-SizzleOrange.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/s-presso/Colours/SASA-SPresso-StarryBluePearl.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/s-presso/Colours/SASA-SPresso-FireRed.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/s-presso/Colours/SASA-SPresso-GraniteGreyMetallic.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "S Presso",
+          "slug": "s-presso",
+          "price_incl": 178900,
+          "price_excl": 155565,
+          "price_display": "R178 900",
+          "monthly_estimate": 3451,
+          "specs": {}
+        }
+      ],
+      "price_from": 178900,
+      "price_to": 178900,
+      "price_range": "R178 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "super-carry",
+      "name": "Super Carry",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/super-cary/Vehicle%20Info/SASA-SC-Super-Carry%20Thumbs3.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/super-carry",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/super-cary/Vehicle%20Info/SASA-SC-Super-Carry%20Thumbs3.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Global%20Assets/home-icon.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Global-Carousel-Eeco-Square.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Compact%20Car%20Commuting%20Costs%20in%20South%20Africa%20Desktop%20(3).jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "How the Suzuki super carry can help your business thrive",
+          "slug": "how-the-suzuki-super-carry-can-help-your-business-thrive",
+          "price_incl": 197900,
+          "price_excl": 172087,
+          "price_display": "R197 900",
+          "monthly_estimate": 3818,
+          "specs": {}
+        }
+      ],
+      "price_from": 197900,
+      "price_to": 197900,
+      "price_range": "R197 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "swift",
+      "name": "Swift",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/swift/Colours/Swift%20-%20Luster%20Blue%20Pearl.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/swift",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/swift/Colours/Swift%20-%20Luster%20Blue%20Pearl.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/swift/Colours/Swift%20-%20Novel%20Orange%20Pearl.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/swift/Colours/Swift%20-%20Midnight%20Black%20Pearl.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/swift/Colours/Swift%20-%20Arctic%20White%20Pearl.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "FEEL ICONIC",
+          "slug": "feel-iconic",
+          "price_incl": 228900,
+          "price_excl": 199043,
+          "price_display": "R228 900",
+          "monthly_estimate": 4416,
+          "specs": {}
+        }
+      ],
+      "price_from": 228900,
+      "price_to": 228900,
+      "price_range": "R228 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xl6",
+      "name": "Xl6",
+      "brand": "Suzuki",
+      "brand_key": "suzuki",
+      "hero_image": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/XL6/Colours/XL6%20-%20Arctic%20White%20Pearl.png",
+      "source_url": "https://www.suzukiauto.co.za/cars/xl6",
+      "images": [
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/XL6/Colours/XL6%20-%20Arctic%20White%20Pearl.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/XL6/Colours/XL6%20-%20Splendid%20Silver%20Pearl%20Metallic%20I3.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/XL6/Colours/XL6%20-%20Celestial%20Blue%20Pearl%20Metallic.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/.1A%20-%20Site%20Assets%20CMS/Vehicles/XL6/Colours/XL6%20-%20Grandeur%20Grey%20Pearl%20Metallic.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.suzukiauto.co.za/hubfs/Suzuki%20takes%20fuel%20efficiency%20out%20of%20the%20lab%20and%20onto%20the%20road%20with%20the%202026%20Suzuki%20Fuel%20Economy%20Challenge%20Desktop.jpg",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Discover limitless potential with the Suzuki XL6",
+          "slug": "discover-limitless-potential-with-the-suzuki-xl6",
+          "price_incl": 361900,
+          "price_excl": 314696,
+          "price_display": "R361 900",
+          "monthly_estimate": 6981,
+          "specs": {}
+        }
+      ],
+      "price_from": 361900,
+      "price_to": 361900,
+      "price_range": "R361 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 21,
+  "model_count": 15,
+  "price_from": 4899,
+  "price_to": 444900
+}

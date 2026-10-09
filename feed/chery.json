@@ -1,0 +1,791 @@
+{
+  "key": "chery",
+  "name": "Chery",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "chery-q",
+      "name": "Chery Q",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/range/chery-q",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "MODELS",
+          "slug": "models",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "enquire_test-drive",
+      "name": "Enquire_Test Drive",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/enquire/test-drive",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Book a Test Drive",
+          "slug": "book-a-test-drive",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-4",
+      "name": "Tiggo 4",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/range/tiggo-4",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "MODELS",
+          "slug": "models",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-7",
+      "name": "Tiggo 7",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/range/tiggo-7",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "MODELS",
+          "slug": "models",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-7-phev",
+      "name": "Tiggo 7 Phev",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-7-phev",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 7 PHEV - Hybrid Electric SUV with Extended Range",
+          "slug": "tiggo-7-phev-hybrid-electric-suv-with-extended-range",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-8",
+      "name": "Tiggo 8",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/range/tiggo-8",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "MODELS",
+          "slug": "models",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-8-apex",
+      "name": "Tiggo 8 Apex",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-8-apex",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 8 Apex",
+          "slug": "tiggo-8-apex",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-8-phev",
+      "name": "Tiggo 8 Phev",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-8-phev",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 8 PHEV - Super Hybrid SUV with Advanced Technology",
+          "slug": "tiggo-8-phev-super-hybrid-suv-with-advanced-technology",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-8-pro-ls",
+      "name": "Tiggo 8 Pro Ls",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-8-pro-ls",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftail-lights.2416631d.webp&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdesktop.52a6531d.webp&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 8 Pro LS - Everyday Elegance. Comfort, Perfected.",
+          "slug": "tiggo-8-pro-ls-everyday-elegance-comfort-perfected",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-8-pro-max",
+      "name": "Tiggo 8 Pro Max",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-8-pro-max",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdesktop.a22be355.jpg&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fslide3.97b111f0.jpg&w=2048&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 8 Pro Max - Masterpiece of Refined Luxury",
+          "slug": "tiggo-8-pro-max-masterpiece-of-refined-luxury",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-9",
+      "name": "Tiggo 9",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/range/tiggo-9",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "MODELS",
+          "slug": "models",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-9-phev",
+      "name": "Tiggo 9 Phev",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-9-phev",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fluggage.1ceffba9.jpg&w=1920&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 9 PHEV - Super Hybrid System with Visionary Innovation",
+          "slug": "tiggo-9-phev-super-hybrid-system-with-visionary-innovation",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-cross",
+      "name": "Tiggo Cross",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-cross",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 4 Cross - SUV with Memorable Design Beyond Ordinary",
+          "slug": "tiggo-4-cross-suv-with-memorable-design-beyond-ordinary",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "tiggo-cross-hev",
+      "name": "Tiggo Cross Hev",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/models/tiggo-cross-hev",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmodes.f9d89056.jpg&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Tiggo 4 Cross HEV - Hybrid Electric SUV with Memorable Design",
+          "slug": "tiggo-4-cross-hev-hybrid-electric-suv-with-memorable-design",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "www_chery_co_za_range",
+      "name": "Www_Chery_Co_Za_Range",
+      "brand": "Chery",
+      "brand_key": "chery",
+      "hero_image": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+      "source_url": "https://www.chery.co.za/range",
+      "images": [
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-8-apex.915e3934.png&w=3840&q=75",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchery-q.a446e8aa.png&w=3840&q=75",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-v.61abbd9a.png&w=3840&q=75",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnew-pickup.63f008eb.png&w=3840&q=75",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.chery.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftiggo-cross.2a4423fe.png&w=3840&q=75",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "MODELS",
+          "slug": "models",
+          "price_incl": 349900,
+          "price_excl": 304261,
+          "price_display": "R349 900",
+          "monthly_estimate": 6750,
+          "specs": {}
+        }
+      ],
+      "price_from": 349900,
+      "price_to": 349900,
+      "price_range": "R349 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 15,
+  "model_count": 15,
+  "price_from": 349900,
+  "price_to": 349900
+}

@@ -1,0 +1,216 @@
+{
+  "key": "volvo",
+  "name": "Volvo",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "ec40-electric",
+      "name": "Ec40 Electric",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/ec40-electric/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "ex30-electric",
+      "name": "Ex30 Electric",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/ex30-electric/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "ex90-electric",
+      "name": "Ex90 Electric",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/ex90-electric/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xc40",
+      "name": "Xc40",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/xc40/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xc40-electric",
+      "name": "Xc40 Electric",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/xc40-electric/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xc60",
+      "name": "Xc60",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/xc60/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xc60-hybrid",
+      "name": "Xc60 Hybrid",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/xc60-hybrid/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xc90",
+      "name": "Xc90",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/xc90/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "xc90-hybrid",
+      "name": "Xc90 Hybrid",
+      "brand": "Volvo",
+      "brand_key": "volvo",
+      "hero_image": "",
+      "source_url": "https://www.volvocars.com/za/cars/xc90-hybrid/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Access Denied",
+          "slug": "access-denied",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 9,
+  "model_count": 9
+}

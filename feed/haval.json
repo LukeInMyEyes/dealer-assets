@@ -1,0 +1,308 @@
+{
+  "key": "haval",
+  "name": "Haval",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "haval-h6",
+      "name": "Haval H6",
+      "brand": "Haval",
+      "brand_key": "haval",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/haval-h6",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/models/haval-h6/bento-2/interior1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "haval-h6-gt",
+      "name": "Haval H6 Gt",
+      "brand": "Haval",
+      "brand_key": "haval",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/haval-h6-gt",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Insta-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "haval-h6-gt-phev",
+      "name": "Haval H6 Gt Phev",
+      "brand": "Haval",
+      "brand_key": "haval",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/haval-h6-gt-phev",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/models/haval-h6-gt-phev/interior1.jpg",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "haval-h7",
+      "name": "Haval H7",
+      "brand": "Haval",
+      "brand_key": "haval",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/haval-h7",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Insta-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Haval H7",
+          "slug": "haval-h7",
+          "price_incl": 624900,
+          "price_excl": 543391,
+          "price_display": "R624 900",
+          "monthly_estimate": 12055,
+          "specs": {}
+        }
+      ],
+      "price_from": 624900,
+      "price_to": 624900,
+      "price_range": "R624 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "jolion",
+      "name": "Jolion",
+      "brand": "Haval",
+      "brand_key": "haval",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+      "source_url": "https://www.gwm.co.za/models/jolion",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Youtube-2X1.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/footer_socail_media/Insta-2X1.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "jolion-pro",
+      "name": "Jolion Pro",
+      "brand": "Haval",
+      "brand_key": "haval",
+      "hero_image": "https://www.gwm.co.za/content/dam/gwm/components-assets/common/button/download.png",
+      "source_url": "https://www.gwm.co.za/models/jolion-pro",
+      "images": [
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/components-assets/common/button/download.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/11.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/za/en/models/jolion-pro/screen02-bento1/gwm_jolion_pro_backlight.jpg",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/21.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.gwm.co.za/content/dam/gwm/pages/language-masters/es/homepage/footer/31.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Specifications",
+          "slug": "specifications",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 6,
+  "model_count": 6,
+  "price_from": 624900,
+  "price_to": 624900
+}

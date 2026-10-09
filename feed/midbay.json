@@ -2,12 +2,578 @@
   "dealer": "midbay",
   "dealer_name": "Midbay Motors Group",
   "dealership_id": "MIDBAY",
-  "generated": "2026-07-30T15:50:22",
+  "generated": "2026-10-09T19:21:04",
   "brands": [
+    {
+      "key": "vw",
+      "name": "Volkswagen",
+      "updated_at": "2026-10-09T19:21:04",
+      "models": [
+        {
+          "slug": "caddy-5",
+          "name": "Caddy 5",
+          "brand": "Volkswagen",
+          "brand_key": "vw",
+          "hero_image": "https://assets.volkswagen.com/is/image/volkswagenag/exterior-13?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEzMzMmaGVpPTEwMDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzliNg==",
+          "source_url": "https://www.vw.co.za/en/models/caddy-5.html",
+          "images": [
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/exterior-13?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEzMzMmaGVpPTEwMDAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmMzliNg==",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/exterior-13?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTc1MCZoZWk9MTAwMCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY1ODRj",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/new-caddy-rear-view?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/interior-24?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTc1MCZoZWk9MTAwMCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY1ODRj",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/owners1A?Zm10PXBuZy1hbHBoYSZ3aWQ9NjY1JmJmYz1vZmYmMDQyMQ==",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Caddy 5 1.6i 81kW",
+              "slug": "caddy-5-1-6i-81kw",
+              "price_incl": 578900,
+              "price_excl": 503391,
+              "price_display": "R578 900",
+              "monthly_estimate": 11168,
+              "specs": {}
+            },
+            {
+              "name": "Caddy 5 2.0 TDI 81kW",
+              "slug": "caddy-5-2-0-tdi-81kw",
+              "price_incl": 692200,
+              "price_excl": 601913,
+              "price_display": "R692 200",
+              "monthly_estimate": 13353,
+              "specs": {}
+            },
+            {
+              "name": "Caddy 5 Maxi2.0 TDI 81kW",
+              "slug": "caddy-5-maxi2-0-tdi-81kw",
+              "price_incl": 729900,
+              "price_excl": 634696,
+              "price_display": "R729 900",
+              "monthly_estimate": 14081,
+              "specs": {}
+            }
+          ],
+          "price_from": 578900,
+          "price_to": 729900,
+          "price_range": "R578 900 – R729 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 3
+        },
+        {
+          "slug": "lifestyle",
+          "name": "Lifestyle",
+          "brand": "Volkswagen",
+          "brand_key": "vw",
+          "hero_image": "",
+          "source_url": "https://www.vw.co.za/en/models/lifestyle.html",
+          "images": [],
+          "variants": [
+            {
+              "name": "Lifestyle.Html",
+              "slug": "lifestyle-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "t-roc",
+          "name": "T Roc",
+          "brand": "Volkswagen",
+          "brand_key": "vw",
+          "hero_image": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc_highlight_inside?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTExMjAmaGVpPTg0MCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY0ZTYz",
+          "source_url": "https://www.vw.co.za/en/models/t-roc.html",
+          "images": [
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc_highlight_inside?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTExMjAmaGVpPTg0MCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiY0ZTYz",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc-header1?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/Gallery-1-11?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/t-roc_highlight_inside?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTYzMCZoZWk9ODQwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJjBhOWU=",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/image-23?Zm10PXBuZy1hbHBoYSZ3aWQ9NTAwJmJmYz1vZmYmNGEwMQ==",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "T-Roc Design 1.4 TSI 110 kW Tiptronic",
+              "slug": "t-roc-design-1-4-tsi-110-kw-tiptronic",
+              "price_incl": 648900,
+              "price_excl": 564261,
+              "price_display": "R648 900",
+              "monthly_estimate": 12518,
+              "specs": {}
+            },
+            {
+              "name": "T-Roc Design 4MOTION® 2.0 TSI 140 kW DSG®",
+              "slug": "t-roc-design-4motion-2-0-tsi-140-kw-dsg",
+              "price_incl": 722100,
+              "price_excl": 627913,
+              "price_display": "R722 100",
+              "monthly_estimate": 13930,
+              "specs": {}
+            },
+            {
+              "name": "T-Roc R-Line 4MOTION® 2.0 TSI 140 kW DSG®",
+              "slug": "t-roc-r-line-4motion-2-0-tsi-140-kw-dsg",
+              "price_incl": 760100,
+              "price_excl": 660957,
+              "price_display": "R760 100",
+              "monthly_estimate": 14663,
+              "specs": {}
+            }
+          ],
+          "price_from": 648900,
+          "price_to": 760100,
+          "price_range": "R648 900 – R760 100",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 3
+        },
+        {
+          "slug": "touareg",
+          "name": "Touareg",
+          "brand": "Volkswagen",
+          "brand_key": "vw",
+          "hero_image": "https://assets.volkswagen.com/is/image/volkswagenag/TG2428-touareg-exterior-all-wheel-steering?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEwODAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNmIyMQ==",
+          "source_url": "https://www.vw.co.za/en/models/touareg.html",
+          "images": [
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2428-touareg-exterior-all-wheel-steering?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTEwODAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNmIyMQ==",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/exterior1?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTE1NzUmaGVpPTE1NzUmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmYjZmZA==",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2351-touareg-exterior-detail-iq-led-light?Zml0PWNyb3AsMSZmbXQ9d2VicC1hbHBoYSZxbHQ9Nzkmd2lkPTExNTImaGVpPTExNTImYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNTJlOQ==",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2366-touareg-interior-ambientlighting?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://assets.volkswagen.com/is/image/volkswagenag/TG2345-touareg-exterior-side?Zm10PXBuZy1hbHBoYSZ3aWQ9ODAwJmJmYz1vZmYmMGFmYw==",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Touareg 3.0 TDI V6 Elegance 190kW",
+              "slug": "touareg-3-0-tdi-v6-elegance-190kw",
+              "price_incl": 1494300,
+              "price_excl": 1299391,
+              "price_display": "R1 494 300",
+              "monthly_estimate": 28827,
+              "specs": {}
+            },
+            {
+              "name": "Touareg 3.0 TDI V6 R-Line 190kW",
+              "slug": "touareg-3-0-tdi-v6-r-line-190kw",
+              "price_incl": 1802200,
+              "price_excl": 1567130,
+              "price_display": "R1 802 200",
+              "monthly_estimate": 34767,
+              "specs": {}
+            }
+          ],
+          "price_from": 1494300,
+          "price_to": 1802200,
+          "price_range": "R1 494 300 – R1 802 200",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 2
+        }
+      ],
+      "total_variants": 9,
+      "model_count": 4,
+      "price_from": 578900,
+      "price_to": 1802200
+    },
+    {
+      "key": "audi",
+      "name": "Audi",
+      "updated_at": "2026-10-09T19:21:04",
+      "models": [
+        {
+          "slug": "a1",
+          "name": "A1",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a1/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "a3",
+          "name": "A3",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a3/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "a4",
+          "name": "A4",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a4/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "a5",
+          "name": "A5",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a5/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "a6",
+          "name": "A6",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a6/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "a7",
+          "name": "A7",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a7/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "a8",
+          "name": "A8",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/a8/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "audi-e-tron-gt_audi-rs-etron-gt",
+          "name": "Audi E Tron Gt_Audi Rs Etron Gt",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/audi-e-tron-gt/audi-rs-etron-gt/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "q2",
+          "name": "Q2",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/q2/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "q3",
+          "name": "Q3",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/q3/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "q5",
+          "name": "Q5",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/q5/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "q7",
+          "name": "Q7",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/q7/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "q8",
+          "name": "Q8",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/q8/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "tron",
+          "name": "Tron",
+          "brand": "Audi",
+          "brand_key": "audi",
+          "hero_image": "",
+          "source_url": "https://www.audi.co.za/en/models/tron/",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        }
+      ],
+      "total_variants": 14,
+      "model_count": 14
+    },
     {
       "key": "peugeot",
       "name": "Peugeot",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "2008",
@@ -223,17 +789,317 @@
           "body_type": "Double Cab",
           "fuel_type": "Diesel",
           "variant_count": 5
+        },
+        {
+          "slug": "our-models_2008-suv",
+          "name": "Our Models_2008 Suv",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "source_url": "https://www.peugeot.co.za/our-models/2008-suv.html",
+          "images": [
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/mobile/CRO_2008_M_1_2.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/mobile/CRO_2008_M_2_3.jpg?imwidth=768",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/new-2008/mobile/CRO_2008_M_5_3.jpg?imwidth=768",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "NEW 2008 THE FEISTY AND AGILE SUV",
+              "slug": "new-2008-the-feisty-and-agile-suv",
+              "price_incl": 529900,
+              "price_excl": 460783,
+              "price_display": "R529 900",
+              "monthly_estimate": 10222,
+              "specs": {}
+            }
+          ],
+          "price_from": 529900,
+          "price_to": 529900,
+          "price_range": "R529 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "our-models_208",
+          "name": "Our Models_208",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "source_url": "https://www.peugeot.co.za/our-models/208.html",
+          "images": [
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "208.Html",
+              "slug": "208-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "our-models_3008-suv",
+          "name": "Our Models_3008 Suv",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "source_url": "https://www.peugeot.co.za/our-models/3008-suv.html",
+          "images": [
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "3008 Suv.Html",
+              "slug": "3008-suv-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "our-models_5008-suv",
+          "name": "Our Models_5008 Suv",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "source_url": "https://www.peugeot.co.za/our-models/5008-suv.html",
+          "images": [
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "5008 Suv.Html",
+              "slug": "5008-suv-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "our-models_boxer",
+          "name": "Our Models_Boxer",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "source_url": "https://www.peugeot.co.za/our-models/boxer.html",
+          "images": [
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1920",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=1182",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Boxer.Html",
+              "slug": "boxer-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "our-models_landtrek",
+          "name": "Our Models_Landtrek",
+          "brand": "Peugeot",
+          "brand_key": "peugeot",
+          "hero_image": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+          "source_url": "https://www.peugeot.co.za/our-models/landtrek.html",
+          "images": [
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/SOL_Outline.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/south_africa/top-header-picto/0865_OnMap_Outline49px.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/service-maintenance/flyout/Flyout_Entretien_et_Services_426x501.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/showroom/peugeot-landtrek/2024-12-new-peugeot-landtrek-white-label/peugeot-landtrek-petrol-diesel-white-label/Peugeot_Landtrek_Carpaint_MagneticBlue.jpg?imwidth=768",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.peugeot.co.za/content/dam/peugeot/master/b2c/our-range/landtrek/l-m/motors_expander/KP1_Off-Road_DC_Slider-22_1214_1020.jpg?imwidth=768",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "PEUGEOT LANDTREK | LION FORCE!",
+              "slug": "peugeot-landtrek-lion-force",
+              "price_incl": 396900,
+              "price_excl": 345130,
+              "price_display": "R396 900",
+              "monthly_estimate": 7657,
+              "specs": {}
+            }
+          ],
+          "price_from": 396900,
+          "price_to": 396900,
+          "price_range": "R396 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
         }
       ],
-      "total_variants": 7,
-      "model_count": 2,
+      "total_variants": 13,
+      "model_count": 8,
       "price_from": 388900,
       "price_to": 745500
     },
     {
       "key": "jeep",
       "name": "Jeep",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "gladiator",
@@ -469,6 +1335,98 @@
           "variant_count": 6
         },
         {
+          "slug": "jeep-gladiator_new-jeep-gladiator",
+          "name": "Jeep Gladiator_New Jeep Gladiator",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "",
+          "source_url": "https://www.jeep.com/za/jeep-gladiator/new-jeep-gladiator.html",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "jeep-grand-cherokee",
+          "name": "Jeep Grand Cherokee",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "",
+          "source_url": "https://www.jeep.com/za/jeep-grand-cherokee/plug-in.html",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "jeep-grand-cherokee-l",
+          "name": "Jeep Grand Cherokee L",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "",
+          "source_url": "https://www.jeep.com/za/jeep-grand-cherokee-l/plug-in.html",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "jeep-wrangler",
+          "name": "Jeep Wrangler",
+          "brand": "Jeep",
+          "brand_key": "jeep",
+          "hero_image": "",
+          "source_url": "https://www.jeep.com/za/jeep-wrangler/petrol.html",
+          "images": [],
+          "variants": [
+            {
+              "name": "Access Denied",
+              "slug": "access-denied",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
           "slug": "wrangler",
           "name": "Wrangler",
           "brand": "Jeep",
@@ -564,15 +1522,15 @@
           "variant_count": 2
         }
       ],
-      "total_variants": 9,
-      "model_count": 3,
+      "total_variants": 13,
+      "model_count": 7,
       "price_from": 1199900,
       "price_to": 1881709
     },
     {
       "key": "citroen",
       "name": "Citroen",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "c3",
@@ -798,17 +1756,173 @@
           "body_type": "Panel Van",
           "fuel_type": "Petrol",
           "variant_count": 1
+        },
+        {
+          "slug": "new-c3-aircross-suv",
+          "name": "New C3 Aircross Suv",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+          "source_url": "https://www.citroen.co.za/models/new-c3-aircross-suv.html",
+          "images": [
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Basalt-model.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Aircross-model.png",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/master/b2c/home/logo/citroen-logo.png",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/showrooms/2024c3a/banner/New_c3a_m.jpg?imwidth=768",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "NEW CITROËN AIRCROSS SUV",
+              "slug": "new-citro-n-aircross-suv",
+              "price_incl": 299900,
+              "price_excl": 260783,
+              "price_display": "R299 900",
+              "monthly_estimate": 5785,
+              "specs": {}
+            }
+          ],
+          "price_from": 299900,
+          "price_to": 299900,
+          "price_range": "R299 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "new-c5-aircross",
+          "name": "New C5 Aircross",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+          "source_url": "https://www.citroen.co.za/models/new-c5-aircross.html",
+          "images": [
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Basalt-model.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Aircross-model.png",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/master/b2c/models/new-c5-aircross/s/Citroen_C5_Aircross_Motorisations_750_1680.jpg?imwidth=768",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/master/b2c/models/new-c5-aircross/s/Citroen_C5_Aircross_Style_750_1680.jpg?imwidth=768",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "NEW CITROËN C5 AIRCROSS",
+              "slug": "new-citro-n-c5-aircross",
+              "price_incl": 649900,
+              "price_excl": 565130,
+              "price_display": "R649 900",
+              "monthly_estimate": 12537,
+              "specs": {}
+            }
+          ],
+          "price_from": 649900,
+          "price_to": 649900,
+          "price_range": "R649 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "new-citro_c3_abn-c3",
+          "name": "New Citro_C3_Abn C3",
+          "brand": "Citroen",
+          "brand_key": "citroen",
+          "hero_image": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+          "source_url": "https://www.citroen.co.za/models/new-citro%C3%ABn-c3.html",
+          "images": [
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/C3-model.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Basalt-model.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/models/Aircross-model.png",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/showrooms/c3/C3_SA_2_750_1680.jpg?imwidth=768",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.citroen.co.za/content/dam/citroen/south_africa/showrooms/c3/C3_design_4_750_1680.jpg?imwidth=768",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "CITROËN C3",
+              "slug": "citro-n-c3",
+              "price_incl": 274900,
+              "price_excl": 239043,
+              "price_display": "R274 900",
+              "monthly_estimate": 5303,
+              "specs": {}
+            }
+          ],
+          "price_from": 274900,
+          "price_to": 274900,
+          "price_range": "R274 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
         }
       ],
-      "total_variants": 6,
-      "model_count": 3,
+      "total_variants": 9,
+      "model_count": 6,
       "price_from": 242500,
-      "price_to": 388900
+      "price_to": 649900
     },
     {
       "key": "opel",
       "name": "Opel",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "corsa",
@@ -906,6 +2020,104 @@
           "variant_count": 3
         },
         {
+          "slug": "corsa-models",
+          "name": "Corsa Models",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/corsa-f/16x9/opel_corsa_exterior_family_16x9_co20_e02_001.jpg?imwidth=768",
+          "source_url": "https://www.opel.co.za/cars/corsa-models.html",
+          "images": [
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/corsa-f/16x9/opel_corsa_exterior_family_16x9_co20_e02_001.jpg?imwidth=768",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/16x9/za-opel-new-6th-generation-corsa-edition-red-2720x1530.jpg?imwidth=768",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/21x9/za-opel-new-6th-generation-corsa-edition-red-2880x1235.jpg?imwidth=1920",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/21x9/za-opel-new-6th-generation-corsa-edition-red-2880x1235.jpg?imwidth=1182",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/corsa/21x9/za-opel-new-6th-generation-corsa-edition-red-2880x1235.jpg?imwidth=991",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Opel Corsa",
+              "slug": "opel-corsa",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "crossland",
+          "name": "Crossland",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=1920",
+          "source_url": "https://www.opel.co.za/cars/crossland.html",
+          "images": [
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=1920",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/16x9/opel_crossland_exterior_16x9_cr21_e01_001.jpg?imwidth=768",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=1182",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/crossland/21x9/opel_crossland_exterior_21x9_cr21_e01_001.jpg?imwidth=991",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/footer/textlogo.png",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Crossland.Html",
+              "slug": "crossland-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
           "slug": "grandland",
           "name": "Grandland",
           "brand": "Opel",
@@ -988,6 +2200,134 @@
           "variant_count": 2
         },
         {
+          "slug": "grandland-models",
+          "name": "Grandland Models",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=1920",
+          "source_url": "https://www.opel.co.za/cars/grandland-models.html",
+          "images": [
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=1920",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/4x3/opel_grandland_exterior_4x3_gr22_e01_037.jpg?imwidth=768",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=1182",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/21x9/opel_grandland_range_2880x815_gr22_e01_042.jpg?imwidth=991",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/grandland-2021/4x3/opel_grandland_exterior_4x3_gr22_e01_037.jpg?imwidth=1920",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Opel Grandland",
+              "slug": "opel-grandland",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "life_model-overview",
+          "name": "Life_Model Overview",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/combo-life/bbc/576x322/combo-life-n1_elegance-plus_side_576x324.png",
+          "source_url": "https://www.opel.co.za/cars/combo/life/model-overview.html",
+          "images": [
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/combo-life/bbc/576x322/combo-life-n1_elegance-plus_side_576x324.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/combo/bbc/opel-za-combo-cargo-bbc.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/combo-life/4x3/opel_combo_life_rear_split_seats_4x3_cml18_i01_016.jpg?imwidth=768",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/news/za-opel-combo-life-best-buy-car-of-europe-2019-1920x1080.png?imwidth=768",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/south_africa/vehicles/combo/21x9/opel-za-combo-life-lifestyle-2880x1235.jpg?imwidth=768",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Opel Combo Life Enjoy 1.6TD M/T",
+              "slug": "opel-combo-life-enjoy-1-6td-m-t",
+              "price_incl": 474900,
+              "price_excl": 412957,
+              "price_display": "R474 900",
+              "monthly_estimate": 9161,
+              "specs": {}
+            },
+            {
+              "name": "Opel Combo Life Enjoy 1.6TD M/T",
+              "slug": "opel-combo-life-enjoy-1-6td-m-t",
+              "price_incl": 474900,
+              "price_excl": 412957,
+              "price_display": "R474 900",
+              "monthly_estimate": 9161,
+              "specs": {}
+            },
+            {
+              "name": "Opel Combo Life Enjoy 1.6TD M/T",
+              "slug": "opel-combo-life-enjoy-1-6td-m-t",
+              "price_incl": 474900,
+              "price_excl": 412957,
+              "price_display": "R474 900",
+              "monthly_estimate": 9161,
+              "specs": {}
+            },
+            {
+              "name": "Opel Combo Life Enjoy 1.6TD M/T",
+              "slug": "opel-combo-life-enjoy-1-6td-m-t",
+              "price_incl": 474900,
+              "price_excl": 412957,
+              "price_display": "R474 900",
+              "monthly_estimate": 9161,
+              "specs": {}
+            }
+          ],
+          "price_from": 474900,
+          "price_to": 474900,
+          "price_range": "R474 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 4
+        },
+        {
           "slug": "mokka",
           "name": "Mokka",
           "brand": "Opel",
@@ -1058,17 +2398,95 @@
           "body_type": "SUV",
           "fuel_type": "Petrol",
           "variant_count": 2
+        },
+        {
+          "slug": "mokka-models",
+          "name": "Mokka Models",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=1920",
+          "source_url": "https://www.opel.co.za/cars/mokka-models.html",
+          "images": [
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=1920",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/16x9/opel_mokka_exterior_16x9_mok21_e01_039.jpg?imwidth=768",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=1182",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/21x9/opel_mokka_family_2880x815_mok21_e01_051.jpg?imwidth=991",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/vehicles/mokka/16x9/opel_mokka_exterior_16x9_mok21_e01_039.jpg?imwidth=1920",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Mokka Models.Html",
+              "slug": "mokka-models-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "zafira-life",
+          "name": "Zafira Life",
+          "brand": "Opel",
+          "brand_key": "opel",
+          "hero_image": "https://www.opel.co.za/content/dam/opel/master/footer/textlogo.png",
+          "source_url": "https://www.opel.co.za/cars/zafira-life.html",
+          "images": [
+            {
+              "url": "https://www.opel.co.za/content/dam/opel/master/footer/textlogo.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            }
+          ],
+          "variants": [
+            {
+              "name": "Zafira Life.Html",
+              "slug": "zafira-life-html",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
         }
       ],
-      "total_variants": 7,
-      "model_count": 3,
+      "total_variants": 16,
+      "model_count": 9,
       "price_from": 379500,
       "price_to": 789900
     },
     {
       "key": "fiat",
       "name": "Fiat",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "500",
@@ -1168,150 +2586,303 @@
           "body_type": "Hatchback",
           "fuel_type": "Petrol",
           "variant_count": 3
-        }
-      ],
-      "total_variants": 3,
-      "model_count": 1,
-      "price_from": 308900,
-      "price_to": 351900
-    },
-    {
-      "key": "baic",
-      "name": "BAIC",
-      "updated_at": "2026-07-30T15:50:22",
-      "models": [
+        },
         {
-          "slug": "b30",
-          "name": "B30",
-          "brand": "BAIC",
-          "brand_key": "baic",
-          "hero_image": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
-          "source_url": "https://www.baic.co.za/models/b30",
+          "slug": "campaigns_tipo-hatch",
+          "name": "Campaigns_Tipo Hatch",
+          "brand": "Fiat",
+          "brand_key": "fiat",
+          "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+          "source_url": "https://www.fiat.co.za/campaigns/tipo-hatch",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/hero.jpg",
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
               "type": "Jellybean",
               "priority": 1
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-1.jpg",
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/master/Logo-100x76.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg/jcr:content/renditions/desktop.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            }
+          ],
+          "variants": [
+            {
+              "name": "Oops",
+              "slug": "oops",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "campaigns_tipo-sedan",
+          "name": "Campaigns_Tipo Sedan",
+          "brand": "Fiat",
+          "brand_key": "fiat",
+          "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+          "source_url": "https://www.fiat.co.za/campaigns/tipo-sedan",
+          "images": [
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/master/Logo-100x76.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg/jcr:content/renditions/desktop.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            }
+          ],
+          "variants": [
+            {
+              "name": "Oops",
+              "slug": "oops",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "fiat-500",
+          "name": "Fiat 500",
+          "brand": "Fiat",
+          "brand_key": "fiat",
+          "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/no-more-grey-cover/mobile.jpg",
+          "source_url": "https://www.fiat.co.za/models/fiat-500",
+          "images": [
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/no-more-grey-cover/mobile.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/za/aftersales-campaigns/Fiat-aftersales-d.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/the-fastest-way-to-get-your-fiat/stock/mobile.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/the-fastest-way-to-get-your-fiat/dealership/mobile.jpg",
               "type": "Interior",
               "priority": 4
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/interior-2.jpg",
-              "type": "Interior",
-              "priority": 4
-            },
-            {
-              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-1.jpg",
-              "type": "Lifestyle",
-              "priority": 5
-            },
-            {
-              "url": "https://cdn.jsdelivr.net/gh/LukeInMyEyes/dealer-assets@main/baic/b30/detail-2.jpg",
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/homepage/the-fastest-way-to-get-your-fiat/spoticar/mobile.jpg",
               "type": "Lifestyle",
               "priority": 5
             }
           ],
           "variants": [
             {
-              "name": "Elite Adventure 1.5T",
-              "slug": "elite-adventure-1-5t",
+              "name": "Fiat 500",
+              "slug": "fiat-500",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "fiat-500x_fiat-500x",
+          "name": "Fiat 500X_Fiat 500X",
+          "brand": "Fiat",
+          "brand_key": "fiat",
+          "hero_image": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+          "source_url": "https://www.fiat.co.za/fiat-500x/fiat-500x",
+          "images": [
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/master/Logo-100x76.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.fiat.co.za/content/dam/fiat2023/cross/404/mobile.jpg/jcr:content/renditions/desktop.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            }
+          ],
+          "variants": [
+            {
+              "name": "Oops",
+              "slug": "oops",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        }
+      ],
+      "total_variants": 7,
+      "model_count": 5,
+      "price_from": 308900,
+      "price_to": 351900
+    },
+    {
+      "key": "baic",
+      "name": "BAIC",
+      "updated_at": "2026-10-09T19:21:04",
+      "models": [
+        {
+          "slug": "b30",
+          "name": "B30",
+          "brand": "BAIC",
+          "brand_key": "baic",
+          "hero_image": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-1.d5b06dcf.png&w=3840&q=75",
+          "source_url": "https://www.baic.co.za/models/b30",
+          "images": [
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-1.d5b06dcf.png&w=3840&q=75",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb30e-monthly-desktop.1574ca34.jpg&w=3840&q=75",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-2.d0022440.png&w=3840&q=75",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finterior-1.bcc7ae2e.png&w=3840&q=75",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftech-9.f4dda73c.png&w=1920&q=75",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "BAIC B30",
+              "slug": "baic-b30",
               "price_incl": 519900,
               "price_excl": 452087,
               "price_display": "R519 900",
               "monthly_estimate": 10029,
               "specs": {
-                "engine_capacity": "1500cc",
-                "power_kw": "138",
-                "torque_nm": "305",
-                "fuel_type": "Petrol",
-                "transmission": "7-speed DCT",
-                "drivetrain": "FWD",
-                "body_type": "SUV",
-                "fuel_consumption_l100km": "8.06",
-                "seats": "5",
-                "airbags": "6",
-                "warranty": "7 years / 200 000 km",
-                "service_plan": "7 years / 90 000 km"
-              },
-              "mm_code": "056-19-150"
-            },
-            {
-              "name": "Premium Adventure 1.5T",
-              "slug": "premium-adventure-1-5t",
-              "price_incl": 549900,
-              "price_excl": 478174,
-              "price_display": "R549 900",
-              "monthly_estimate": 10608,
-              "specs": {
-                "engine_capacity": "1500cc",
-                "power_kw": "138",
-                "torque_nm": "305",
-                "fuel_type": "Petrol",
-                "transmission": "7-speed DCT",
-                "drivetrain": "FWD",
-                "body_type": "SUV",
-                "fuel_consumption_l100km": "8.06",
-                "seats": "5",
-                "airbags": "6",
-                "warranty": "7 years / 200 000 km",
-                "service_plan": "7 years / 90 000 km"
-              },
-              "mm_code": "056-19-160"
-            },
-            {
-              "name": "Elite Adventure HEV",
-              "slug": "elite-adventure-hev",
-              "price_incl": 639900,
-              "price_excl": 556435,
-              "price_display": "R639 900",
-              "monthly_estimate": 12344,
-              "specs": {
-                "engine_capacity": "1500cc",
-                "power_kw": "246",
-                "torque_nm": "550",
-                "fuel_type": "Hybrid",
-                "transmission": "DHT",
-                "drivetrain": "FWD",
-                "body_type": "SUV",
-                "fuel_consumption_l100km": "5.85",
-                "seats": "5",
-                "warranty": "7 years / 200 000 km",
-                "service_plan": "7 years / 90 000 km"
-              },
-              "mm_code": "056-19-200"
-            },
-            {
-              "name": "Premium Adventure HEV AWD",
-              "slug": "premium-adventure-hev-awd",
-              "price_incl": 689900,
-              "price_excl": 599913,
-              "price_display": "R689 900",
-              "monthly_estimate": 13309,
-              "specs": {
-                "engine_capacity": "1500cc",
-                "power_kw": "301",
-                "torque_nm": "685",
-                "fuel_type": "Hybrid",
-                "transmission": "DHT",
-                "drivetrain": "AWD",
-                "body_type": "SUV",
-                "fuel_consumption_l100km": "6.45",
-                "seats": "5",
-                "warranty": "7 years / 200 000 km",
-                "service_plan": "7 years / 90 000 km"
-              },
-              "mm_code": "056-19-220"
+                "power_kw": "138kW",
+                "torque_nm": "305Nm",
+                "fuel_type": "8.06L/100km",
+                "transmission": "7DCT"
+              }
             }
           ],
           "price_from": 519900,
-          "price_to": 689900,
-          "price_range": "R519 900 – R689 900",
-          "body_type": "SUV",
-          "fuel_type": "Petrol",
-          "variant_count": 4
+          "price_to": 519900,
+          "price_range": "R519 900",
+          "body_type": "",
+          "fuel_type": "8.06L/100km",
+          "variant_count": 1
+        },
+        {
+          "slug": "b40",
+          "name": "B40",
+          "brand": "BAIC",
+          "brand_key": "baic",
+          "hero_image": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-hero.b616ca38.png&w=3840&q=75",
+          "source_url": "https://www.baic.co.za/models/b40",
+          "images": [
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-hero.b616ca38.png&w=3840&q=75",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40-deal-assist-desktop.d202d8d5.jpg&w=3840&q=75",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40-deal-assist-mobile.61104608.jpg&w=3840&q=75",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finterior-3.978cbc1b.png&w=3840&q=75",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40-trade-in-assist-desktop.c2ea587e.jpg&w=3840&q=75",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "BAIC B40 Plus Honor Edition",
+              "slug": "baic-b40-plus-honor-edition",
+              "price_incl": 699500,
+              "price_excl": 608261,
+              "price_display": "R699 500",
+              "monthly_estimate": 13494,
+              "specs": {
+                "power_kw": "165",
+                "torque_nm": "380",
+                "fuel_type": "75"
+              },
+              "dimensions": {
+                "length_mm": "4630",
+                "width_mm": "1925",
+                "height_mm": "1871",
+                "wheelbase_mm": "2745",
+                "ground_clearance_mm": "210"
+              }
+            }
+          ],
+          "price_from": 699500,
+          "price_to": 699500,
+          "price_range": "R699 500",
+          "body_type": "",
+          "fuel_type": "75",
+          "variant_count": 1
         },
         {
           "slug": "b40-plus",
@@ -1369,6 +2940,63 @@
           "price_range": "R699 500",
           "body_type": "SUV",
           "fuel_type": "Petrol",
+          "variant_count": 1
+        },
+        {
+          "slug": "x55",
+          "name": "X55",
+          "brand": "BAIC",
+          "brand_key": "baic",
+          "hero_image": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-2.91b4f214.png&w=3840&q=75",
+          "source_url": "https://www.baic.co.za/models/x55",
+          "images": [
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-2.91b4f214.png&w=3840&q=75",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-1.27ceffcd.png&w=3840&q=75",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexterior-3.cc23608f.png&w=3840&q=75",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finterior-1.e71e861d.png&w=3840&q=75",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://www.baic.co.za/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftechnology-1.583434b9.png&w=3840&q=75",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "BAIC X55 Plus",
+              "slug": "baic-x55-plus",
+              "price_incl": 429900,
+              "price_excl": 373826,
+              "price_display": "R429 900",
+              "monthly_estimate": 8293,
+              "specs": {
+                "power_kw": "138kW",
+                "torque_nm": "305Nm",
+                "fuel_type": "7.7L/100km",
+                "transmission": "7DCT"
+              }
+            }
+          ],
+          "price_from": 429900,
+          "price_to": 429900,
+          "price_range": "R429 900",
+          "body_type": "",
+          "fuel_type": "7.7L/100km",
           "variant_count": 1
         },
         {
@@ -1507,15 +3135,15 @@
           "variant_count": 4
         }
       ],
-      "total_variants": 9,
-      "model_count": 3,
+      "total_variants": 8,
+      "model_count": 5,
       "price_from": 429900,
       "price_to": 699500
     },
     {
       "key": "changan",
       "name": "Changan",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "alsvin",
@@ -2005,18 +3633,851 @@
           "body_type": "SUV",
           "fuel_type": "Petrol",
           "variant_count": 3
+        },
+        {
+          "slug": "www_changanmotors_co_za_alsvin",
+          "name": "Www_Changanmotors_Co_Za_Alsvin",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/82978OAqpTc3jvXbSHX4K3mRaGMwnBoQYeNAV2xa18Spc-1920w.png",
+          "source_url": "https://www.changanmotors.co.za/alsvin",
+          "images": [
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/82978OAqpTc3jvXbSHX4K3mRaGMwnBoQYeNAV2xa18Spc-1920w.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34front-1920w.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-34back-1920w.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Interior-Front-1920w.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-1920w.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Alsvin",
+              "slug": "alsvin",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "www_changanmotors_co_za_cs75-pro",
+          "name": "Www_Changanmotors_Co_Za_Cs75 Pro",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/CS75-Col-White-1920w.png",
+          "source_url": "https://www.changanmotors.co.za/cs75-pro",
+          "images": [
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/CS75-Col-White-1920w.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/oshan-feature-img-start-stop040824035046-drive-1920w.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Int-7-detail-1920w.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-2-1080x1600-ce4b18f5-1920w.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-Image-1-1450x650-a2373a56-1920w.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Cs75 Pro",
+              "slug": "cs75-pro",
+              "price_incl": 449900,
+              "price_excl": 391217,
+              "price_display": "R449 900",
+              "monthly_estimate": 8679,
+              "specs": {}
+            }
+          ],
+          "price_from": 449900,
+          "price_to": 449900,
+          "price_range": "R449 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "www_changanmotors_co_za_deepal-s07",
+          "name": "Www_Changanmotors_Co_Za_Deepal S07",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/deepal+s7+color+cyan290424071130-drive-1920w.png",
+          "source_url": "https://www.changanmotors.co.za/deepal-s07",
+          "images": [
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/deepal+s7+color+cyan290424071130-drive-1920w.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/EXT-HERO-2-1920w.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/deepal-website-hud-1012x760-r2-1920w.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/modelpage-e1-gallery-modal-text-slide-1012x760-1-1920w.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-image-1080x1600-b127c801-1920w.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Deepal S07",
+              "slug": "deepal-s07",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "www_changanmotors_co_za_hunter-range",
+          "name": "Www_Changanmotors_Co_Za_Hunter Range",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/IMG_8794-1920w.PNG",
+          "source_url": "https://www.changanmotors.co.za/hunter-range",
+          "images": [
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/IMG_8794-1920w.PNG",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Ext-Side-1920w.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Int-detail3-1920w.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/5-Interior-Banner-1450x650-1920w.jpg",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/2-Lifestyle-image-1080x1600-db2e4966-1920w.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Hunter Range",
+              "slug": "hunter-range",
+              "price_incl": null,
+              "price_excl": null,
+              "price_display": "",
+              "monthly_estimate": null,
+              "specs": {}
+            }
+          ],
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
+        },
+        {
+          "slug": "www_changanmotors_co_za_uni-s",
+          "name": "Www_Changanmotors_Co_Za_Uni S",
+          "brand": "Changan",
+          "brand_key": "changan",
+          "hero_image": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Uni-S-Black-1920w.png",
+          "source_url": "https://www.changanmotors.co.za/uni-s",
+          "images": [
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Uni-S-Black-1920w.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/side-1920w.jpg",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Back-Seats-Sideview-1920w.jpg",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Logo-lock-up-blue-1920w.png",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://irp.cdn-website.com/4e7d5020/dms3rep/multi/opt/Driving-1920w.jpg",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Uni S",
+              "slug": "uni-s",
+              "price_incl": 389900,
+              "price_excl": 339043,
+              "price_display": "R389 900",
+              "monthly_estimate": 7522,
+              "specs": {}
+            }
+          ],
+          "price_from": 389900,
+          "price_to": 389900,
+          "price_range": "R389 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 1
         }
       ],
-      "total_variants": 13,
-      "model_count": 5,
+      "total_variants": 18,
+      "model_count": 10,
       "price_from": 238000,
       "price_to": 995900
     },
     {
       "key": "jac",
       "name": "JAC",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
+        {
+          "slug": "jacmotors_co_za_jac-t6-single-cab",
+          "name": "Jacmotors_Co_Za_Jac T6 Single Cab",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "source_url": "https://jacmotors.co.za/jac-t6-single-cab/",
+          "images": [
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/13-300x200.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "JAC T6 2.0 CTI Comfort",
+              "slug": "jac-t6-2-0-cti-comfort",
+              "price_incl": 309900,
+              "price_excl": 269478,
+              "price_display": "R309 900",
+              "monthly_estimate": 5978,
+              "specs": {}
+            },
+            {
+              "name": "JAC T6 2.0 CTI Comfort",
+              "slug": "jac-t6-2-0-cti-comfort",
+              "price_incl": 309900,
+              "price_excl": 269478,
+              "price_display": "R309 900",
+              "monthly_estimate": 5978,
+              "specs": {}
+            },
+            {
+              "name": "JAC T6 2.0 CTI Comfort",
+              "slug": "jac-t6-2-0-cti-comfort",
+              "price_incl": 309900,
+              "price_excl": 269478,
+              "price_display": "R309 900",
+              "monthly_estimate": 5978,
+              "specs": {}
+            },
+            {
+              "name": "JAC T6 2.0 CTI Lux",
+              "slug": "jac-t6-2-0-cti-lux",
+              "price_incl": 324900,
+              "price_excl": 282522,
+              "price_display": "R324 900",
+              "monthly_estimate": 6268,
+              "specs": {}
+            },
+            {
+              "name": "JAC T6 2.0 CTI Lux",
+              "slug": "jac-t6-2-0-cti-lux",
+              "price_incl": 324900,
+              "price_excl": 282522,
+              "price_display": "R324 900",
+              "monthly_estimate": 6268,
+              "specs": {}
+            }
+          ],
+          "price_from": 309900,
+          "price_to": 324900,
+          "price_range": "R309 900 – R324 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 5
+        },
+        {
+          "slug": "jacmotors_co_za_jac-t8-double-cab",
+          "name": "Jacmotors_Co_Za_Jac T8 Double Cab",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/08/JAC-T8-Super-Lux.png",
+          "source_url": "https://jacmotors.co.za/jac-t8-double-cab/",
+          "images": [
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/08/JAC-T8-Super-Lux.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/6-1-300x200.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "JAC T8 2.0L CTi Comfort",
+              "slug": "jac-t8-2-0l-cti-comfort",
+              "price_incl": 349900,
+              "price_excl": 304261,
+              "price_display": "R349 900",
+              "monthly_estimate": 6750,
+              "specs": {}
+            },
+            {
+              "name": "JAC T8 2.0L CTi Comfort",
+              "slug": "jac-t8-2-0l-cti-comfort",
+              "price_incl": 349900,
+              "price_excl": 304261,
+              "price_display": "R349 900",
+              "monthly_estimate": 6750,
+              "specs": {}
+            },
+            {
+              "name": "JAC T8 2.0L CTi Comfort",
+              "slug": "jac-t8-2-0l-cti-comfort",
+              "price_incl": 349900,
+              "price_excl": 304261,
+              "price_display": "R349 900",
+              "monthly_estimate": 6750,
+              "specs": {}
+            },
+            {
+              "name": "JAC T8 2.0L CTi Lux",
+              "slug": "jac-t8-2-0l-cti-lux",
+              "price_incl": 399900,
+              "price_excl": 347739,
+              "price_display": "R399 900",
+              "monthly_estimate": 7715,
+              "specs": {}
+            },
+            {
+              "name": "JAC T8 2.0L CTi Lux",
+              "slug": "jac-t8-2-0l-cti-lux",
+              "price_incl": 399900,
+              "price_excl": 347739,
+              "price_display": "R399 900",
+              "monthly_estimate": 7715,
+              "specs": {}
+            },
+            {
+              "name": "JAC T8 2.0L CTi Super Lux",
+              "slug": "jac-t8-2-0l-cti-super-lux",
+              "price_incl": 434900,
+              "price_excl": 378174,
+              "price_display": "R434 900",
+              "monthly_estimate": 8390,
+              "specs": {}
+            },
+            {
+              "name": "JAC T8 2.0L CTi Super Lux",
+              "slug": "jac-t8-2-0l-cti-super-lux",
+              "price_incl": 434900,
+              "price_excl": 378174,
+              "price_display": "R434 900",
+              "monthly_estimate": 8390,
+              "specs": {}
+            }
+          ],
+          "price_from": 349900,
+          "price_to": 434900,
+          "price_range": "R349 900 – R434 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 7
+        },
+        {
+          "slug": "jacmotors_co_za_jac-t9-double-cab",
+          "name": "Jacmotors_Co_Za_Jac T9 Double Cab",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+          "source_url": "https://jacmotors.co.za/jac-t9-double-cab/",
+          "images": [
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-T9-Colour-Blue-1024x666.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/T9-page-3.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/JAC-T9-Double-Cab-34-300x200.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "JAC T9 2.0L CTi Lux",
+              "slug": "jac-t9-2-0l-cti-lux",
+              "price_incl": 549900,
+              "price_excl": 478174,
+              "price_display": "R549 900",
+              "monthly_estimate": 10608,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 2.0L CTi Lux",
+              "slug": "jac-t9-2-0l-cti-lux",
+              "price_incl": 549900,
+              "price_excl": 478174,
+              "price_display": "R549 900",
+              "monthly_estimate": 10608,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 2.0L CTi Lux",
+              "slug": "jac-t9-2-0l-cti-lux",
+              "price_incl": 549900,
+              "price_excl": 478174,
+              "price_display": "R549 900",
+              "monthly_estimate": 10608,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 2.0L CTi Super Lux",
+              "slug": "jac-t9-2-0l-cti-super-lux",
+              "price_incl": 599900,
+              "price_excl": 521652,
+              "price_display": "R599 900",
+              "monthly_estimate": 11573,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 2.0L CTi Super Lux",
+              "slug": "jac-t9-2-0l-cti-super-lux",
+              "price_incl": 599900,
+              "price_excl": 521652,
+              "price_display": "R599 900",
+              "monthly_estimate": 11573,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 2.0L CTi Black Edition",
+              "slug": "jac-t9-2-0l-cti-black-edition",
+              "price_incl": 629900,
+              "price_excl": 547739,
+              "price_display": "R629 900",
+              "monthly_estimate": 12151,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 2.0L CTi Black Edition",
+              "slug": "jac-t9-2-0l-cti-black-edition",
+              "price_incl": 629900,
+              "price_excl": 547739,
+              "price_display": "R629 900",
+              "monthly_estimate": 12151,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 Hunter 2.0L CTi",
+              "slug": "jac-t9-hunter-2-0l-cti",
+              "price_incl": 629900,
+              "price_excl": 547739,
+              "price_display": "R629 900",
+              "monthly_estimate": 12151,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 Hunter 2.0L CTi",
+              "slug": "jac-t9-hunter-2-0l-cti",
+              "price_incl": 629900,
+              "price_excl": 547739,
+              "price_display": "R629 900",
+              "monthly_estimate": 12151,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 Hunter 2.0L CTi Black Edition",
+              "slug": "jac-t9-hunter-2-0l-cti-black-edition",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {}
+            },
+            {
+              "name": "JAC T9 Hunter 2.0L CTi Black Edition",
+              "slug": "jac-t9-hunter-2-0l-cti-black-edition",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {}
+            }
+          ],
+          "price_from": 549900,
+          "price_to": 689900,
+          "price_range": "R549 900 – R689 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 11
+        },
+        {
+          "slug": "jacmotors_co_za_jac-x200-double-cab",
+          "name": "Jacmotors_Co_Za_Jac X200 Double Cab",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "source_url": "https://jacmotors.co.za/jac-x200-double-cab/",
+          "images": [
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/jac-x200-dc_5-1-300x200.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "JAC X200 2.8L TDI D/C 68 kW",
+              "slug": "jac-x200-2-8l-tdi-d-c-68-kw",
+              "price_incl": 359900,
+              "price_excl": 312957,
+              "price_display": "R359 900",
+              "monthly_estimate": 6943,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI D/C 68 kW",
+              "slug": "jac-x200-2-8l-tdi-d-c-68-kw",
+              "price_incl": 359900,
+              "price_excl": 312957,
+              "price_display": "R359 900",
+              "monthly_estimate": 6943,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI D/C 68 kW",
+              "slug": "jac-x200-2-8l-tdi-d-c-68-kw",
+              "price_incl": 359900,
+              "price_excl": 312957,
+              "price_display": "R359 900",
+              "monthly_estimate": 6943,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI D/C 80 kW",
+              "slug": "jac-x200-2-8l-tdi-d-c-80-kw",
+              "price_incl": 409900,
+              "price_excl": 356435,
+              "price_display": "R409 900",
+              "monthly_estimate": 7907,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI D/C 80 kW",
+              "slug": "jac-x200-2-8l-tdi-d-c-80-kw",
+              "price_incl": 409900,
+              "price_excl": 356435,
+              "price_display": "R409 900",
+              "monthly_estimate": 7907,
+              "specs": {}
+            }
+          ],
+          "price_from": 359900,
+          "price_to": 409900,
+          "price_range": "R359 900 – R409 900",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 5
+        },
+        {
+          "slug": "jacmotors_co_za_jac-x200-ev",
+          "name": "Jacmotors_Co_Za_Jac X200 Ev",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "source_url": "https://jacmotors.co.za/jac-x200-ev/",
+          "images": [
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/X200-S_C-300x180.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "JAC X200 EV 1.9-Tonne",
+              "slug": "jac-x200-ev-1-9-tonne",
+              "price_incl": 591218,
+              "price_excl": 514103,
+              "price_display": "R591 218",
+              "monthly_estimate": 11405,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 EV 1.9-Tonne",
+              "slug": "jac-x200-ev-1-9-tonne",
+              "price_incl": 591218,
+              "price_excl": 514103,
+              "price_display": "R591 218",
+              "monthly_estimate": 11405,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 EV 1.9-Tonne",
+              "slug": "jac-x200-ev-1-9-tonne",
+              "price_incl": 591218,
+              "price_excl": 514103,
+              "price_display": "R591 218",
+              "monthly_estimate": 11405,
+              "specs": {}
+            }
+          ],
+          "price_from": 591218,
+          "price_to": 591218,
+          "price_range": "R591 218",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 3
+        },
+        {
+          "slug": "jacmotors_co_za_jac-x200-single-cab",
+          "name": "Jacmotors_Co_Za_Jac X200 Single Cab",
+          "brand": "JAC",
+          "brand_key": "jac",
+          "hero_image": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+          "source_url": "https://jacmotors.co.za/jac-x200-single-cab/",
+          "images": [
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T6-300x180.webp",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/06/JAC-Motors-Logo_white.webp",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T8-300x180.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/P4050383-300x200.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://jacmotors.co.za/wp-content/uploads/2026/07/T9-300x180.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "JAC X200 2.8L TDI S/C 68 kW",
+              "slug": "jac-x200-2-8l-tdi-s-c-68-kw",
+              "price_incl": 304261,
+              "price_excl": 264575,
+              "price_display": "R304 261",
+              "monthly_estimate": 5870,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI S/C 68 kW",
+              "slug": "jac-x200-2-8l-tdi-s-c-68-kw",
+              "price_incl": 304261,
+              "price_excl": 264575,
+              "price_display": "R304 261",
+              "monthly_estimate": 5870,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI S/C 68 kW",
+              "slug": "jac-x200-2-8l-tdi-s-c-68-kw",
+              "price_incl": 304261,
+              "price_excl": 264575,
+              "price_display": "R304 261",
+              "monthly_estimate": 5870,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI S/C 80 kW",
+              "slug": "jac-x200-2-8l-tdi-s-c-80-kw",
+              "price_incl": 347739,
+              "price_excl": 302382,
+              "price_display": "R347 739",
+              "monthly_estimate": 6708,
+              "specs": {}
+            },
+            {
+              "name": "JAC X200 2.8L TDI S/C 80 kW",
+              "slug": "jac-x200-2-8l-tdi-s-c-80-kw",
+              "price_incl": 347739,
+              "price_excl": 302382,
+              "price_display": "R347 739",
+              "monthly_estimate": 6708,
+              "specs": {}
+            }
+          ],
+          "price_from": 304261,
+          "price_to": 347739,
+          "price_range": "R304 261 – R347 739",
+          "body_type": "",
+          "fuel_type": "",
+          "variant_count": 5
+        },
         {
           "slug": "t6",
           "name": "T6",
@@ -2384,15 +4845,15 @@
           "variant_count": 6
         }
       ],
-      "total_variants": 11,
-      "model_count": 3,
+      "total_variants": 47,
+      "model_count": 9,
       "price_from": 299900,
       "price_to": 689900
     },
     {
       "key": "foton",
       "name": "Foton",
-      "updated_at": "2026-07-30T15:50:22",
+      "updated_at": "2026-10-09T19:21:04",
       "models": [
         {
           "slug": "asambe",
@@ -2475,6 +4936,338 @@
           "body_type": "Minibus",
           "fuel_type": "Petrol",
           "variant_count": 2
+        },
+        {
+          "slug": "new-models_asambe-taxi-16-seater",
+          "name": "New Models_Asambe Taxi 16 Seater",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+          "source_url": "https://fotonsa.co.za/new-models/asambe-taxi-16-seater/",
+          "images": [
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-Passenger-Safety.png",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-16-Seat-Interior-Slider-1-New.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Asambe-Taxi-ABS-Brakes.png",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Efficient and reliable transportwith the Foton Taxi",
+              "slug": "efficient-and-reliable-transportwith-the-foton-taxi",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "2.8",
+                "power_kw": "Hydraulic",
+                "torque_nm": "280",
+                "fuel_type": "Diesel",
+                "transmission": "5MT",
+                "body_type": "High Roof, Long Wheelbase",
+                "airbags": "●",
+                "warranty": "2-Year 200 000 Km Warranty",
+                "service_plan": "Service Plans Available"
+              },
+              "dimensions": {
+                "wheelbase_mm": "3110"
+              }
+            }
+          ],
+          "price_from": 689900,
+          "price_to": 689900,
+          "price_range": "R689 900",
+          "body_type": "High Roof, Long Wheelbase",
+          "fuel_type": "Diesel",
+          "variant_count": 1
+        },
+        {
+          "slug": "new-models_tunland-g7-double-cab",
+          "name": "New Models_Tunland G7 Double Cab",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "source_url": "https://fotonsa.co.za/new-models/tunland-g7-double-cab/",
+          "images": [
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Details.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Foton-South-Africa-Tunland-G7-Design-Offroad.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Unrivaled versatility and powerwith the Tunland G7 Double Cab Bakkie",
+              "slug": "unrivaled-versatility-and-powerwith-the-tunland-g7-double-cab-bakkie",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "2.0",
+                "power_kw": "●",
+                "torque_nm": "●",
+                "fuel_type": "Diesel",
+                "transmission": "8AT",
+                "drivetrain": "4x4",
+                "airbags": "●",
+                "service_plan": "3-Year/50 000 Km Service Plan"
+              },
+              "dimensions": {
+                "wheelbase_mm": "3110",
+                "ground_clearance_mm": "210",
+                "kerb_weight_kg": "2000"
+              }
+            }
+          ],
+          "price_from": 689900,
+          "price_to": 689900,
+          "price_range": "R689 900",
+          "body_type": "",
+          "fuel_type": "Diesel",
+          "variant_count": 1
+        },
+        {
+          "slug": "new-models_tunland-v7-double-cab",
+          "name": "New Models_Tunland V7 Double Cab",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "source_url": "https://fotonsa.co.za/new-models/tunland-v7-double-cab/",
+          "images": [
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Design-Details-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V7-Double-Cab-Hero.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Raw strength and relentless durability,Tunland V7 born to perform",
+              "slug": "raw-strength-and-relentless-durability-tunland-v7-born-to-perform",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "2.0T",
+                "power_kw": "●",
+                "torque_nm": "●",
+                "fuel_type": "76L",
+                "transmission": "●",
+                "drivetrain": "4x4",
+                "airbags": "●",
+                "warranty": "5-Year Unlimited Km",
+                "service_plan": "5-Year/75 000 Km Service Plan"
+              },
+              "dimensions": {
+                "height_mm": "●",
+                "wheelbase_mm": "3355",
+                "ground_clearance_mm": "240",
+                "kerb_weight_kg": "2255"
+              }
+            }
+          ],
+          "price_from": 689900,
+          "price_to": 689900,
+          "price_range": "R689 900",
+          "body_type": "",
+          "fuel_type": "76L",
+          "variant_count": 1
+        },
+        {
+          "slug": "new-models_tunland-v9-double-cab",
+          "name": "New Models_Tunland V9 Double Cab",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "source_url": "https://fotonsa.co.za/new-models/tunland-v9-double-cab/",
+          "images": [
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Design-Details-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2025/11/Foton-South-Africa-Tunland-V-Series-V9-Double-Cab-Hero.webp",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Bold power meets sophistication,built to impress on every journey",
+              "slug": "bold-power-meets-sophistication-built-to-impress-on-every-journey",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "2.0T",
+                "power_kw": "●",
+                "torque_nm": "●",
+                "fuel_type": "76L",
+                "transmission": "●",
+                "drivetrain": "4x4",
+                "airbags": "●",
+                "warranty": "5-Year Unlimited Km",
+                "service_plan": "5-Year/75 000 Km Service Plan"
+              },
+              "dimensions": {
+                "height_mm": "●",
+                "wheelbase_mm": "3355",
+                "ground_clearance_mm": "240",
+                "kerb_weight_kg": "2305"
+              }
+            }
+          ],
+          "price_from": 689900,
+          "price_to": 689900,
+          "price_range": "R689 900",
+          "body_type": "",
+          "fuel_type": "76L",
+          "variant_count": 1
+        },
+        {
+          "slug": "new-models_view-luxury-shuttlebus-15-seater",
+          "name": "New Models_View Luxury Shuttlebus 15 Seater",
+          "brand": "Foton",
+          "brand_key": "foton",
+          "hero_image": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+          "source_url": "https://fotonsa.co.za/new-models/view-luxury-shuttlebus-15-seater/",
+          "images": [
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Roadside-Assistance.png",
+              "type": "Jellybean",
+              "priority": 1
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Warranty.png",
+              "type": "ExteriorFront",
+              "priority": 2
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-Commercial-View-Shuttlebus-Minibus-Design-Details-1.webp",
+              "type": "ExteriorRear",
+              "priority": 3
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/06/Foton-SA-View-Shuttlebus-Minibus-Interior-Slider-1.webp",
+              "type": "Interior",
+              "priority": 4
+            },
+            {
+              "url": "https://fotonsa.co.za/wp-content/uploads/2024/05/Service.png",
+              "type": "Lifestyle",
+              "priority": 5
+            }
+          ],
+          "variants": [
+            {
+              "name": "Travel in stylewith the View Luxury Shuttlebus",
+              "slug": "travel-in-stylewith-the-view-luxury-shuttlebus",
+              "price_incl": 689900,
+              "price_excl": 599913,
+              "price_display": "R689 900",
+              "monthly_estimate": 13309,
+              "specs": {
+                "engine_capacity": "2.0",
+                "power_kw": "Hydraulic",
+                "torque_nm": "330",
+                "fuel_type": "Diesel",
+                "transmission": "6AT",
+                "body_type": "High Roof, Long Wheelbase",
+                "airbags": "●",
+                "warranty": "3-Year/100 000 Km Warranty",
+                "service_plan": "Service Plans Available"
+              },
+              "dimensions": {
+                "wheelbase_mm": "3110"
+              }
+            }
+          ],
+          "price_from": 689900,
+          "price_to": 689900,
+          "price_range": "R689 900",
+          "body_type": "High Roof, Long Wheelbase",
+          "fuel_type": "Diesel",
+          "variant_count": 1
         },
         {
           "slug": "tunland-g7",
@@ -2959,14 +5752,14 @@
           "variant_count": 4
         }
       ],
-      "total_variants": 17,
-      "model_count": 5,
+      "total_variants": 22,
+      "model_count": 10,
       "price_from": 329900,
       "price_to": 799900
     }
   ],
-  "total_models": 28,
-  "total_vehicles": 82,
+  "total_models": 87,
+  "total_vehicles": 176,
   "price_from": 238000,
   "price_to": 1881709
 }

@@ -1,0 +1,438 @@
+{
+  "key": "ford",
+  "name": "Ford",
+  "updated_at": "2026-10-09T19:21:04",
+  "models": [
+    {
+      "slug": "future-vehicle_ecosport",
+      "name": "Future Vehicle_Ecosport",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/ecosport/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Ecosport",
+          "slug": "ecosport",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_escape",
+      "name": "Future Vehicle_Escape",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/escape/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Escape",
+          "slug": "escape",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_everest",
+      "name": "Future Vehicle_Everest",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/everest/2026/overview/exterior/ford-overview-za-teaser-1400x600-wildtrak-exterior-view-desktop.webp",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/everest/",
+      "images": [
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/everest/2026/overview/exterior/ford-overview-za-teaser-1400x600-wildtrak-exterior-view-desktop.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/everest/2026/overview/gallery-overlay/ford-nameplate-za-gallery-overlay-5-1920x841-ford-everest-lakeside-exterior-view-desktop.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/everest/2026/overview/design-xf/ford-xf-za-design-teaser-1920x1080-led-taillights-desktop.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/everest/2026/overview/capability-xf/ford-za-xf-teaser-1920x1080-steering-wheel-drive-like-a-captain-desktop.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/everest/2026/overview/rsf-gallery/ford-overview-za-teaser-996x498-blue-ford-everest-suv-driving-on-a-dusty-off-road-track-desktop.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Lose Yourself, Find Yourself",
+          "slug": "lose-yourself-find-yourself",
+          "price_incl": 1350000,
+          "price_excl": 1173913,
+          "price_display": "R1 350 000",
+          "monthly_estimate": 26043,
+          "specs": {}
+        }
+      ],
+      "price_from": 1350000,
+      "price_to": 1350000,
+      "price_range": "R1 350 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_figo",
+      "name": "Future Vehicle_Figo",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/figo/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Figo",
+          "slug": "figo",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_mustang",
+      "name": "Future Vehicle_Mustang",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "https://www.ford.co.za/content/dam/Ford/za/nameplate/mustang/overview/billboard/mustang-overview-billboard-mobile-new.webp",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/mustang/",
+      "images": [
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/mustang/overview/billboard/mustang-overview-billboard-mobile-new.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/mustang/overview/billboard/mustang-overview-billboard-desk-new.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/mustang/overview/model-walk/vapor-blue-mustang.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/mustang/overview/model-walk/mustang-dh-blue-ember.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/mustang/overview/billboard/mustang-gallery-01-desktop.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Mustang",
+          "slug": "mustang",
+          "price_incl": 1350000,
+          "price_excl": 1173913,
+          "price_display": "R1 350 000",
+          "monthly_estimate": 26043,
+          "specs": {}
+        }
+      ],
+      "price_from": 1350000,
+      "price_to": 1350000,
+      "price_range": "R1 350 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_puma",
+      "name": "Future Vehicle_Puma",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/puma/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Puma",
+          "slug": "puma",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_ranger",
+      "name": "Future Vehicle_Ranger",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-xlt-red-front-angle.png",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/ranger/",
+      "images": [
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-xlt-red-front-angle.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-sport-front-angle.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/gallery/ford-overview-za-mosaic-768x768-back-of-the-red-ranger-4-desktop-new.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/gallery/ford-overview-za-mosaic-996x498-inside-your-ranger-2-desktop.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/gallery/ford-overview-za-mosaic-996x996-moving-red-ranger-1-desktop.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Super Duty",
+          "slug": "super-duty",
+          "price_incl": 1350000,
+          "price_excl": 1173913,
+          "price_display": "R1 350 000",
+          "monthly_estimate": 26043,
+          "specs": {}
+        }
+      ],
+      "price_from": 1350000,
+      "price_to": 1350000,
+      "price_range": "R1 350 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_territory",
+      "name": "Future Vehicle_Territory",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "https://www.ford.co.za/content/dam/Ford/za/nameplate/territory/overview/billboard/territory-exterior-gallery-mobile.webp",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/territory/",
+      "images": [
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/territory/overview/billboard/territory-exterior-gallery-mobile.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/territory/overview/billboard/territory-exterior-gallery-desktop.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/territory/overview/column-splitter/striking-exterior-and-cutting-edge-features.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/territory/overview/column-splitter/spacious-interior.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/Ford/za/nameplate/territory/overview/billboard/territory-billboard-desktop.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Build Your Territory",
+          "slug": "build-your-territory",
+          "price_incl": 534900,
+          "price_excl": 465130,
+          "price_display": "R534 900",
+          "monthly_estimate": 10319,
+          "specs": {}
+        }
+      ],
+      "price_from": 534900,
+      "price_to": 534900,
+      "price_range": "R534 900",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_tourneo-connect",
+      "name": "Future Vehicle_Tourneo Connect",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/tourneo-connect/",
+      "images": [],
+      "variants": [
+        {
+          "name": "Tourneo Connect",
+          "slug": "tourneo-connect",
+          "price_incl": null,
+          "price_excl": null,
+          "price_display": "",
+          "monthly_estimate": null,
+          "specs": {}
+        }
+      ],
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "future-vehicle_transit-van",
+      "name": "Future Vehicle_Transit Van",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/transit-van/2027/overview/billboard/ford-overview-za-billboard-1920x1080-white-transit-van-side-view-desktop.webp",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/transit-van/",
+      "images": [
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/transit-van/2027/overview/billboard/ford-overview-za-billboard-1920x1080-white-transit-van-side-view-desktop.webp",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/transit-van/2027/overview/performance/ford-overview-za-teaser-657x438-white-ford-transit-van-with-open-side-door-outside-parts-center.webp",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/transit-van/2027/overview/rsf-gallery/ford-overview-za-gallery-996x996-white-ford-transit-van-with-open-rear-cargo-doors-desktop.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/transit-van/2027/overview/performance-xf/ford-xf-za-performance-teaser-657x438-transit-van-interior.webp",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/transit-van/2027/overview/performance-xf/ford-xf-za-performance-teaser-657x438-transit-van-side-view.webp",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Ford Transit Van",
+          "slug": "ford-transit-van",
+          "price_incl": 1350000,
+          "price_excl": 1173913,
+          "price_display": "R1 350 000",
+          "monthly_estimate": 26043,
+          "specs": {}
+        }
+      ],
+      "price_from": 1350000,
+      "price_to": 1350000,
+      "price_range": "R1 350 000",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    },
+    {
+      "slug": "ranger_raptor",
+      "name": "Ranger_Raptor",
+      "brand": "Ford",
+      "brand_key": "ford",
+      "hero_image": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-xlt-red-front-angle.png",
+      "source_url": "https://www.ford.co.za/showroom/future-vehicle/ranger/raptor/",
+      "images": [
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-xlt-red-front-angle.png",
+          "type": "Jellybean",
+          "priority": 1
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-sport-front-angle.png",
+          "type": "ExteriorFront",
+          "priority": 2
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/model-walk-background-img.webp",
+          "type": "ExteriorRear",
+          "priority": 3
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-wildtrak-front-angle.png",
+          "type": "Interior",
+          "priority": 4
+        },
+        {
+          "url": "https://www.ford.co.za/content/dam/na/ford/en_za/nameplate/ranger/2026/overview/model-walk/ford-nameplate-za-modelwalk-1431x805-ford-ranger-tremor-front-angle-new.png",
+          "type": "Lifestyle",
+          "priority": 5
+        }
+      ],
+      "variants": [
+        {
+          "name": "Summary",
+          "slug": "summary",
+          "price_incl": 1307300,
+          "price_excl": 1136783,
+          "price_display": "R1 307 300",
+          "monthly_estimate": 25219,
+          "specs": {}
+        }
+      ],
+      "price_from": 1307300,
+      "price_to": 1307300,
+      "price_range": "R1 307 300",
+      "body_type": "",
+      "fuel_type": "",
+      "variant_count": 1
+    }
+  ],
+  "total_variants": 11,
+  "model_count": 11,
+  "price_from": 534900,
+  "price_to": 1350000
+}
